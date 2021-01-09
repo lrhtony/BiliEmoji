@@ -1837,7 +1837,8 @@
 "2233电子喵-爱了爱了":"https://i0.hdslb.com/bfs/emote/423e204a48a391d5b74d4ceb801ad886c58e6f29.png",
 "2233电子喵-吹爆老婆":"https://i0.hdslb.com/bfs/emote/288b0f6e5546a4952fb8ba6e07a7dcd756ccb3e3.png",
 "2233电子喵-从不中奖":"https://i0.hdslb.com/bfs/emote/b8bb14443e681dd2989ed87456274d44f696b592.png",
-"2233电子喵-恭喜这个...","url":"http://i0.hdslb.com/bfs/emote/73556485c5a423476d635bdba16e35eccfb49fe7.png","mtime":1610013771,"type":3,"attr":0,"meta":{"size":2,"suggest":[""],"alias":"恭喜这个..."},"flags":{}},{"id":3091,"package-id":167,"text":"[2233电子喵-没钱了":"https://i0.hdslb.com/bfs/emote/4701da2cad42a0a86a51226350b04716a8cabb8e.png",
+"2233电子喵-恭喜这个...":"https://i0.hdslb.com/bfs/emote/73556485c5a423476d635bdba16e35eccfb49fe7.png",
+"2233电子喵-没钱了":"https://i0.hdslb.com/bfs/emote/4701da2cad42a0a86a51226350b04716a8cabb8e.png",
 "2233电子喵-就这":"https://i0.hdslb.com/bfs/emote/892a80064b705a770f6772c129a66eecbad20b07.png",
 "2233电子喵-恰柠檬":"https://i0.hdslb.com/bfs/emote/6bcaa53c53c49a0b4d1de1a999ed01e7ae9bb2fd.png",
-"2233电子喵-想桃子":"https://i0.hdslb.com/bfs/emote/1b571a11e8652bdf01ba2045775f897080ffc832.png",
+"2233电子喵-想桃子":"https://i0.hdslb.com/bfs/emote/1b571a11e8652bdf01ba2045775f897080ffc832.png"
