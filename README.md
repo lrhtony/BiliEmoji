@@ -17,4 +17,8 @@
 `https://i0.hdslb.com/bfs/emote/02ea49543a3ac52feee185c156ab08fb2bfdd89e.png@162w_162h.webp`
 `https://i0.hdslb.com/bfs/emote/c32d39db2737f89b904ca32700d140a9241b0767.png@96w_96h.png`
 
+温馨提示：如遇到表情名称与链接对不上的情况，请找阿B算账
+
 > 收集不易，如果觉得不错就点个star吧！ヾ(≧▽≦*)o
+
+> 微吐槽：不会吧，就连草都要改成笑(#_<-))
