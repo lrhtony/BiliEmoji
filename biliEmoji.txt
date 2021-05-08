@@ -133,6 +133,7 @@
 "粽子":"https://i0.hdslb.com/bfs/emote/177999fb7d70d891fbf63b161f26b272e08dc1de.png",
 "画风突变":"https://i0.hdslb.com/bfs/emote/ba4de7a3f97644038b15195bdc9f82a8fd118e77.png",
 "福":"https://i0.hdslb.com/bfs/emote/802429a301ac5b35a0480d9526a070ce67cd8097.png",
+"热词系列-两面包夹芝士":"https://i0.hdslb.com/bfs/emote/9903fefe88018d62fecad299f6af4eb2d588bbdc.png",
 "热词系列-知识增加":"https://i0.hdslb.com/bfs/emote/142409b595982b8210b2958f3d340f3b47942645.png",
 "热词系列-知识增加-圣诞":"https://i0.hdslb.com/bfs/emote/d0cc76a75405413771f0a55453af3a12062cb64c.png",
 "热词系列-知识增加-春节":"https://i0.hdslb.com/bfs/emote/7496ff01fbac5304aa807732f1531d5986a0dfc3.png",
