@@ -3,25 +3,18 @@
  
 如有部分表情遗漏，欢迎提交[issues](https://github.com/lrhtony/biliEmoji/issues)，附上表情名称和链接
 
-
-
 本项目随缘更新
 
 ## 收集方法
-登录B站账号，访问<https://api.bilibili.com/x/emote/setting/panel?business=reply>，即可获取可添加（购买）全部表情的链接。正则表达式提取，最后再修正一下奇怪的表情名称（少字、奇怪的空格等），就提取出了这份总链接。部分限时表情在平时刷B站时收集。
+访问api<https://api.bilibili.com/x/emote/setting/panel?business=reply>，即可获取大部分表情的链接。另外还有节日限定这一类的表情会在刷B站时收集。
 
 鉴于从现在起B站开始不将部分表情放入列表之中，如“小会员限定”和“赏樱大会欧皇”，可能会导致收集不全，还请各位多多贡献[issues](https://github.com/lrhtony/biliEmoji/issues)
 
+从2021年5月起，B站全新推出了大航海装扮，给指定主播上舰即可获得 ~~（新的骗舰方法）~~ 。因这一类表情获取方式的特殊性，不一定能完全收集。
+
+以后可能不会再收录与上舰有关或者活动限定的表情， ~~主要还是没钱陪叔叔玩啊（哭~~
 ## 链接使用
-直接使用或者在链接后加入`@[int]w_[int]h.webp`或`@[int]w_[int]h.png`来获取相应像素大小的表情，`[int]`中填入所需表情的像素大小，以最小的数字为准。表情图片最大只能获取到该图片的原像素大小，如在一般情况下，“小黄脸”、“tv”为`96x96`，其余为`162x162`
-
-例子:
-`https://i0.hdslb.com/bfs/emote/02ea49543a3ac52feee185c156ab08fb2bfdd89e.png@162w_162h.webp`
-`https://i0.hdslb.com/bfs/emote/c32d39db2737f89b904ca32700d140a9241b0767.png@96w_96h.png`
-
-具体可参考：<https://github.com/SocialSisterYi/bilibili-API-collect/blob/master/other/picture.md>
-
-温馨提示：如遇到表情名称与链接对不上的情况，请找阿B算账
+图片格式化 ，具体可参考：<https://github.com/SocialSisterYi/bilibili-API-collect/blob/master/other/picture.md>
 
 ## 计划
 1. 将表情按系列分成各个文件，更加方便调用
