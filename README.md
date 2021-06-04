@@ -9,9 +9,9 @@
 ## 收集方法
 访问api<https://api.bilibili.com/x/emote/setting/panel?business=reply>，即可获取大部分表情的链接。另外还有节日限定这一类的表情会在刷B站时收集。
 
-~~ 鉴于从现在起B站开始不将部分表情放入列表之中，如“小会员限定”和“赏樱大会欧皇”，可能会导致收集不全，还请各位多多贡献[issues](https://github.com/lrhtony/biliEmoji/issues) ~~
+~~鉴于从现在起B站开始不将部分表情放入列表之中，如“小会员限定”和“赏樱大会欧皇”，可能会导致收集不全，还请各位多多贡献[issues](https://github.com/lrhtony/biliEmoji/issues)~~
 
-目前已解决部分表情不放入该列表的问题
+目前已解决部分表情不放入表情列表的问题
 
 
 ## 链接使用
