@@ -7,12 +7,7 @@
 
 
 ## 收集方法
-访问api<https://api.bilibili.com/x/emote/setting/panel?business=reply>，即可获取大部分表情的链接。另外还有节日限定这一类的表情会在刷B站时收集。
-
-~~鉴于从现在起B站开始不将部分表情放入列表之中，如“小会员限定”和“赏樱大会欧皇”，可能会导致收集不全，还请各位多多贡献[issues](https://github.com/lrhtony/biliEmoji/issues)~~
-
-目前已解决部分表情不放入表情列表的问题
-
+通过爬取<https://api.bilibili.com/x/emote/package>进行收集
 
 ## 链接使用
 图片格式化 ，具体可参考：<https://github.com/SocialSisterYi/bilibili-API-collect/blob/master/other/picture.md>
@@ -22,8 +17,6 @@
 1. 将表情按系列分成各个文件，更加方便调用
 2. 还未想好...
 
-
-> 收集不易，如果觉得不错就点个star吧！ヾ(≧▽≦*)o
-
-> 微吐槽：不会吧，就连草都要改成笑(#_<-))
-> 哲学♂的再一次打击：多年以来洛天依系列的打尻改成了打call 2021.2.4
+## 注意
+- 请根据实际使用情况自行更改数据形式，勿将本项目直接应用于生产环境
+- 如原表情链接被新表情链接取代，则原链接的名称将改为 `[原表情名]-旧` 的形式
