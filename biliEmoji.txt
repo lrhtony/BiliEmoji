@@ -1,3 +1,4 @@
+"12周年":"https://i0.hdslb.com/bfs/emote/8a80589462a38e04716ebcbc6c4764d9d25b1dd0.png",
 "藏狐":"https://i0.hdslb.com/bfs/emote/ba0937ef6f3ccca85e2e0047e6263f3b4da37201.png",
 "doge":"https://i0.hdslb.com/bfs/emote/3087d273a78ccaff4bb1e9972e2ba2a7583c9f11.png",
 "doge-春节":"https://i0.hdslb.com/bfs/emote/feb9abf68df628803ff69a244e744470c2b7e136.png",
