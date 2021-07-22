@@ -629,6 +629,7 @@
 "热词系列-打卡":"https://i0.hdslb.com/bfs/emote/a9cf77c78e1b9b40aa3ed4862402fba008ee2f51.png",
 "热词系列-DNA":"https://i0.hdslb.com/bfs/emote/f6eb74f8230588f61a298af89061a7d75c5762e5.png",
 "热词系列-这次一定":"https://i0.hdslb.com/bfs/emote/a01ca28923daa7cc896c42f27deb4914e20dd572.png",
+"热词系列-下次一定":"https://i0.hdslb.com/bfs/emote/77e87b9317cf9d1cdcc6ec0b0b88cd3e78b02c2c.png",
 "热词系列-AWSL":"https://i0.hdslb.com/bfs/emote/c37f88cf799f9badf9d84b7671dc3dd98c0fc0c2.png",
 "热词系列-递话筒":"https://i0.hdslb.com/bfs/emote/98e6950e39fbb4dd1c576042063ca632074070ba.png",
 "热词系列-你细品":"https://i0.hdslb.com/bfs/emote/535e00658e7e47966f154d3a167fa2365ebc4321.png",
