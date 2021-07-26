@@ -14,10 +14,16 @@
 ## 评论支持
 链接：
 ```
-https://cdn.jsdelivr.net/gh/lrhtony/BiliEmoji@latest/表情
+https://cdn.jsdelivr.net/gh/lrhtony/BiliEmoji@latest/src/表情
+```
+或者unpkg及其知乎镜像
+```
+https://unpkg.com/bili_emoji@latest/src/表情
+https://unpkg.zhimg.com/bili_emoji@latest/src/表情
 ```
 目前已支持[Waline](https://waline.js.org)自定义表情，详细链接请查看`src`下各表情目录
-建议使用时指定版本，以免文件发生更改后失效
+建议使用时指定版本，以免文件发生更改后失效·
+[github release](https://github.com/lrhtony/BiliEmoji/releases)与[npmjs](https://www.npmjs.com/package/bili_emoji)的版本号相同
 
 ## 注意
 - 请根据实际使用情况自行更改数据形式，勿将本项目直接应用于生产环境
