@@ -1,0 +1,11 @@
+
+# BiliEmoji
+---
+## 表情
+琉绮Ruki
+## CDN链接
+```
+https://cdn.jsdelivr.net/gh/lrhtony/BiliEmoji@latest/src/琉绮Ruki
+```
+## 说明
+Bilibili 表情的版权归原作者所有
