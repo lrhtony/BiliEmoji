@@ -1,6 +1,6 @@
 {
   "name": "bili_emoji",
-  "version": "2021.07.26.2",
+  "version": "1.0.0-20210726",
   "description": "bilibili表情",
   "main": "index.js",
   "scripts": {
