@@ -6,7 +6,11 @@ EveOneCat
 ```
 https://cdn.jsdelivr.net/gh/lrhtony/BiliEmoji@latest/src/EveOneCat
 ```
-或者使用npm
+或者使用Cloudflare
+```
+https://vup.pages.dev/src/EveOneCat
+```
+或者使用unpkg
 ```
 https://unpkg.com/bili_emoji@latest/src/EveOneCat
 https://unpkg.zhimg.com/bili_emoji@latest/src/EveOneCat

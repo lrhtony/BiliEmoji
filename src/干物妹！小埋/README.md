@@ -6,7 +6,11 @@
 ```
 https://cdn.jsdelivr.net/gh/lrhtony/BiliEmoji@latest/src/干物妹！小埋
 ```
-或者使用npm
+或者使用Cloudflare
+```
+https://vup.pages.dev/src/干物妹！小埋
+```
+或者使用unpkg
 ```
 https://unpkg.com/bili_emoji@latest/src/干物妹！小埋
 https://unpkg.zhimg.com/bili_emoji@latest/src/干物妹！小埋

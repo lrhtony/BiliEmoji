@@ -6,7 +6,11 @@
 ```
 https://cdn.jsdelivr.net/gh/lrhtony/BiliEmoji@latest/src/约战·狂三
 ```
-或者使用npm
+或者使用Cloudflare
+```
+https://vup.pages.dev/src/约战·狂三
+```
+或者使用unpkg
 ```
 https://unpkg.com/bili_emoji@latest/src/约战·狂三
 https://unpkg.zhimg.com/bili_emoji@latest/src/约战·狂三

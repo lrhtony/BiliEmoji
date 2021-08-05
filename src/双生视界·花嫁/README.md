@@ -6,7 +6,11 @@
 ```
 https://cdn.jsdelivr.net/gh/lrhtony/BiliEmoji@latest/src/双生视界·花嫁
 ```
-或者使用npm
+或者使用Cloudflare
+```
+https://vup.pages.dev/src/双生视界·花嫁
+```
+或者使用unpkg
 ```
 https://unpkg.com/bili_emoji@latest/src/双生视界·花嫁
 https://unpkg.zhimg.com/bili_emoji@latest/src/双生视界·花嫁

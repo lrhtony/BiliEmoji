@@ -6,7 +6,11 @@
 ```
 https://cdn.jsdelivr.net/gh/lrhtony/BiliEmoji@latest/src/黑潮之上
 ```
-或者使用npm
+或者使用Cloudflare
+```
+https://vup.pages.dev/src/黑潮之上
+```
+或者使用unpkg
 ```
 https://unpkg.com/bili_emoji@latest/src/黑潮之上
 https://unpkg.zhimg.com/bili_emoji@latest/src/黑潮之上

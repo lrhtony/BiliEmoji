@@ -16,6 +16,10 @@
 ```
 https://cdn.jsdelivr.net/gh/lrhtony/BiliEmoji@latest/src/表情
 ```
+或者使用Cloudflare
+```
+https://vup.pages.dev/src/表情
+```
 或者unpkg及其知乎镜像
 ```
 https://unpkg.com/bili_emoji@latest/src/表情

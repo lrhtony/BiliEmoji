@@ -6,7 +6,11 @@ BML云live
 ```
 https://cdn.jsdelivr.net/gh/lrhtony/BiliEmoji@latest/src/BML云live
 ```
-或者使用npm
+或者使用Cloudflare
+```
+https://vup.pages.dev/src/BML云live
+```
+或者使用unpkg
 ```
 https://unpkg.com/bili_emoji@latest/src/BML云live
 https://unpkg.zhimg.com/bili_emoji@latest/src/BML云live

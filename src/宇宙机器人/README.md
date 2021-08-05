@@ -6,7 +6,11 @@
 ```
 https://cdn.jsdelivr.net/gh/lrhtony/BiliEmoji@latest/src/宇宙机器人
 ```
-或者使用npm
+或者使用Cloudflare
+```
+https://vup.pages.dev/src/宇宙机器人
+```
+或者使用unpkg
 ```
 https://unpkg.com/bili_emoji@latest/src/宇宙机器人
 https://unpkg.zhimg.com/bili_emoji@latest/src/宇宙机器人
