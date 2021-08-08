@@ -18,9 +18,9 @@
 ```
 https://cdn.jsdelivr.net/gh/lrhtony/BiliEmoji@latest/src/表情
 ```
-或者使用Cloudflare
+或者使用Cloudflare（测试）
 ```
-https://vup.pages.dev/src/表情
+https://emoji.lrhtony.cn/src/表情
 ```
 ~~或者unpkg及其知乎镜像~~(速度不理想停止使用)
 ```
