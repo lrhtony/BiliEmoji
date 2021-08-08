@@ -10,10 +10,5 @@ https://cdn.jsdelivr.net/gh/lrhtony/BiliEmoji@latest/src/百妖谱
 ```
 https://vup.pages.dev/src/百妖谱
 ```
-或者使用unpkg
-```
-https://unpkg.com/bili_emoji@latest/src/百妖谱
-https://unpkg.zhimg.com/bili_emoji@latest/src/百妖谱
-```
 ## 说明
 Bilibili 表情的版权归原作者所有

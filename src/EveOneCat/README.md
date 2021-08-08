@@ -10,10 +10,5 @@ https://cdn.jsdelivr.net/gh/lrhtony/BiliEmoji@latest/src/EveOneCat
 ```
 https://vup.pages.dev/src/EveOneCat
 ```
-或者使用unpkg
-```
-https://unpkg.com/bili_emoji@latest/src/EveOneCat
-https://unpkg.zhimg.com/bili_emoji@latest/src/EveOneCat
-```
 ## 说明
 Bilibili 表情的版权归原作者所有

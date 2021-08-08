@@ -10,10 +10,5 @@ https://cdn.jsdelivr.net/gh/lrhtony/BiliEmoji@latest/src/洛天依8th生日纪�
 ```
 https://vup.pages.dev/src/洛天依8th生日纪念
 ```
-或者使用unpkg
-```
-https://unpkg.com/bili_emoji@latest/src/洛天依8th生日纪念
-https://unpkg.zhimg.com/bili_emoji@latest/src/洛天依8th生日纪念
-```
 ## 说明
 Bilibili 表情的版权归原作者所有

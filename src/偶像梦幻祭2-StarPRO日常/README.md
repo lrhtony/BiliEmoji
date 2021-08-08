@@ -10,10 +10,5 @@ https://cdn.jsdelivr.net/gh/lrhtony/BiliEmoji@latest/src/偶像梦幻祭2-StarPR
 ```
 https://vup.pages.dev/src/偶像梦幻祭2-StarPRO日常
 ```
-或者使用unpkg
-```
-https://unpkg.com/bili_emoji@latest/src/偶像梦幻祭2-StarPRO日常
-https://unpkg.zhimg.com/bili_emoji@latest/src/偶像梦幻祭2-StarPRO日常
-```
 ## 说明
 Bilibili 表情的版权归原作者所有

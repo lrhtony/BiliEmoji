@@ -10,10 +10,5 @@ https://cdn.jsdelivr.net/gh/lrhtony/BiliEmoji@latest/src/进击的冰糖
 ```
 https://vup.pages.dev/src/进击的冰糖
 ```
-或者使用unpkg
-```
-https://unpkg.com/bili_emoji@latest/src/进击的冰糖
-https://unpkg.zhimg.com/bili_emoji@latest/src/进击的冰糖
-```
 ## 说明
 Bilibili 表情的版权归原作者所有

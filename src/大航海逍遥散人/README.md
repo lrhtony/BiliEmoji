@@ -10,10 +10,5 @@ https://cdn.jsdelivr.net/gh/lrhtony/BiliEmoji@latest/src/大航海逍遥散人
 ```
 https://vup.pages.dev/src/大航海逍遥散人
 ```
-或者使用unpkg
-```
-https://unpkg.com/bili_emoji@latest/src/大航海逍遥散人
-https://unpkg.zhimg.com/bili_emoji@latest/src/大航海逍遥散人
-```
 ## 说明
 Bilibili 表情的版权归原作者所有

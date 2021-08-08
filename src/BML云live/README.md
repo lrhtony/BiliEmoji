@@ -10,10 +10,5 @@ https://cdn.jsdelivr.net/gh/lrhtony/BiliEmoji@latest/src/BML云live
 ```
 https://vup.pages.dev/src/BML云live
 ```
-或者使用unpkg
-```
-https://unpkg.com/bili_emoji@latest/src/BML云live
-https://unpkg.zhimg.com/bili_emoji@latest/src/BML云live
-```
 ## 说明
 Bilibili 表情的版权归原作者所有
