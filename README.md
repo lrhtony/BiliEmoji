@@ -25,7 +25,8 @@ https://emoji.lrhtony.cn/src/表情
 请直接复制`biliEmoji.txt`文件所需内容进行替换修改
 
 ### [MiniValine](https://minivaline.js.org)
-正在适配中...
+链接同Waline
+> 注意：此项未经测试，请自行试验后再使用，如有bug请提交[issues](https://github.com/lrhtony/BiliEmoji/issues/new)
 
 
 ## 注意
