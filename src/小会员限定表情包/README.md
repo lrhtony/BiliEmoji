@@ -9,7 +9,7 @@ https://cdn.jsdelivr.net/gh/lrhtony/BiliEmoji@latest/src/小会员限定表情�
 ```
 或者使用Cloudflare(可能会因更新导致图片无法显示)
 ```
-https://emoji.lrhtony.cn/src/小会员限定表情包
+https://emoji.lrhtony.cn/bili/src/小会员限定表情包
 ```
 ## 说明
 Bilibili 表情的版权归原作者所有

@@ -19,7 +19,7 @@ https://cdn.jsdelivr.net/gh/lrhtony/BiliEmoji@latest/src/表情
 ```
 Cloudflare:(可能会因更新导致图片无法显示)
 ```
-https://emoji.lrhtony.cn/src/表情
+https://emoji.lrhtony.cn/bili/src/表情
 ```
 ### [Valine](https://valine.js.org)
 请直接复制`biliEmoji.txt`文件所需内容进行替换修改

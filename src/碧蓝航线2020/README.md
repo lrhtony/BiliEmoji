@@ -9,7 +9,7 @@ https://cdn.jsdelivr.net/gh/lrhtony/BiliEmoji@latest/src/碧蓝航线2020
 ```
 或者使用Cloudflare(可能会因更新导致图片无法显示)
 ```
-https://emoji.lrhtony.cn/src/碧蓝航线2020
+https://emoji.lrhtony.cn/bili/src/碧蓝航线2020
 ```
 ## 说明
 Bilibili 表情的版权归原作者所有

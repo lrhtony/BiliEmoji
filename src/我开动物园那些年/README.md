@@ -9,7 +9,7 @@ https://cdn.jsdelivr.net/gh/lrhtony/BiliEmoji@latest/src/我开动物园那些�
 ```
 或者使用Cloudflare(可能会因更新导致图片无法显示)
 ```
-https://emoji.lrhtony.cn/src/我开动物园那些年
+https://emoji.lrhtony.cn/bili/src/我开动物园那些年
 ```
 ## 说明
 Bilibili 表情的版权归原作者所有

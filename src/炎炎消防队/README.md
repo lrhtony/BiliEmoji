@@ -9,7 +9,7 @@ https://cdn.jsdelivr.net/gh/lrhtony/BiliEmoji@latest/src/炎炎消防队
 ```
 或者使用Cloudflare(可能会因更新导致图片无法显示)
 ```
-https://emoji.lrhtony.cn/src/炎炎消防队
+https://emoji.lrhtony.cn/bili/src/炎炎消防队
 ```
 ## 说明
 Bilibili 表情的版权归原作者所有
