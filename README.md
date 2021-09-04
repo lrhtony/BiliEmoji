@@ -26,7 +26,7 @@ https://emoji.lrhtony.cn/bili/src/表情
 
 ### [MiniValine](https://minivaline.js.org)
 链接同Waline
-> 注意：此项未经测试，请自行试验后再使用，如有bug请提交[issues](https://github.com/lrhtony/BiliEmoji/issues/new)
+
 
 
 ## 注意
