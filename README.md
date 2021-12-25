@@ -18,14 +18,15 @@
 
 ## 评论支持
 ### [Waline](https://waline.js.org)
-jsdelivr:(推荐，为防止更新导致图片失效，请将latest替换为准确的版本号)
+jsdelivr:
 ```
-https://cdn.jsdelivr.net/gh/lrhtony/BiliEmoji@latest/src/表情
+https://cdn.jsdelivr.net/gh/lrhtony/BiliEmoji@master/src/表情
 ```
-Cloudflare:(可能会因更新导致图片无法显示)
+Cloudflare:
 ```
 https://emoji.lrhtony.cn/bili/src/表情
 ```
+由于jsdelivr当前无法在中国大陆部署服务器，因此请自行衡量利弊
 ### [Valine](https://valine.js.org)
 请直接复制`biliEmoji.txt`文件所需内容进行替换修改
 
