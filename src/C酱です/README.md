@@ -3,13 +3,15 @@
 ## 表情
 C酱です
 ## 链接
-jsdelivr(推荐，为防止更新导致图片失效，请将latest替换为准确的版本号)
+jsdelivr
 ```
-https://cdn.jsdelivr.net/gh/lrhtony/BiliEmoji@latest/src/C酱です
+https://cdn.jsdelivr.net/gh/lrhtony/BiliEmoji@master/src/C酱です
+https://fastly.jsdelivr.net/gh/lrhtony/BiliEmoji@master/src/C酱です
+https://gcore.jsdelivr.net/gh/lrhtony/BiliEmoji@master/src/C酱です
 ```
-或者使用Cloudflare(可能会因更新导致图片无法显示)
+或者使用Cloudflare
 ```
-https://emoji.lrhtony.cn/bili/src/C酱です
+https://emoji.shojo.cn/bili/src/C酱です
 ```
 ## 说明
 Bilibili 表情的版权归原作者所有

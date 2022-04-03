@@ -3,13 +3,15 @@
 ## 表情
 乐正龙牙三周年
 ## 链接
-jsdelivr(推荐，为防止更新导致图片失效，请将latest替换为准确的版本号)
+jsdelivr
 ```
-https://cdn.jsdelivr.net/gh/lrhtony/BiliEmoji@latest/src/乐正龙牙三周年
+https://cdn.jsdelivr.net/gh/lrhtony/BiliEmoji@master/src/乐正龙牙三周年
+https://fastly.jsdelivr.net/gh/lrhtony/BiliEmoji@master/src/乐正龙牙三周年
+https://gcore.jsdelivr.net/gh/lrhtony/BiliEmoji@master/src/乐正龙牙三周年
 ```
-或者使用Cloudflare(可能会因更新导致图片无法显示)
+或者使用Cloudflare
 ```
-https://emoji.lrhtony.cn/bili/src/乐正龙牙三周年
+https://emoji.shojo.cn/bili/src/乐正龙牙三周年
 ```
 ## 说明
 Bilibili 表情的版权归原作者所有
