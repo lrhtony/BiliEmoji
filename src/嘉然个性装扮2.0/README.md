@@ -2,6 +2,7 @@
 ---
 ## 表情
 嘉然个性装扮2.0
+大图<https://github.com/lrhtony/BiliEmoji/tree/8c3386ae0e07128aa79bf38ae119af03e3665172/src/嘉然个性装扮2.0>
 ## 链接
 jsdelivr
 ```
