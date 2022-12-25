@@ -3,13 +3,7 @@
 ## 表情
 白神遥Haruka
 ## 链接
-jsdelivr
-```
-https://cdn.jsdelivr.net/gh/lrhtony/BiliEmoji@master/src/白神遥Haruka
-https://fastly.jsdelivr.net/gh/lrhtony/BiliEmoji@master/src/白神遥Haruka
-https://gcore.jsdelivr.net/gh/lrhtony/BiliEmoji@master/src/白神遥Haruka
-```
-或者使用Cloudflare
+使用Cloudflare
 ```
 https://emoji.shojo.cn/bili/src/白神遥Haruka
 ```

@@ -3,13 +3,7 @@
 ## 表情
 向晚2.0
 ## 链接
-jsdelivr
-```
-https://cdn.jsdelivr.net/gh/lrhtony/BiliEmoji@master/src/向晚2.0
-https://fastly.jsdelivr.net/gh/lrhtony/BiliEmoji@master/src/向晚2.0
-https://gcore.jsdelivr.net/gh/lrhtony/BiliEmoji@master/src/向晚2.0
-```
-或者使用Cloudflare
+使用Cloudflare
 ```
 https://emoji.shojo.cn/bili/src/向晚2.0
 ```

@@ -3,13 +3,7 @@
 ## 表情
 七海Nana7mi
 ## 链接
-jsdelivr
-```
-https://cdn.jsdelivr.net/gh/lrhtony/BiliEmoji@master/src/七海Nana7mi
-https://fastly.jsdelivr.net/gh/lrhtony/BiliEmoji@master/src/七海Nana7mi
-https://gcore.jsdelivr.net/gh/lrhtony/BiliEmoji@master/src/七海Nana7mi
-```
-或者使用Cloudflare
+使用Cloudflare
 ```
 https://emoji.shojo.cn/bili/src/七海Nana7mi
 ```

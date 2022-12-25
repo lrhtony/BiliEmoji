@@ -3,13 +3,7 @@
 ## 表情
 PinoQ
 ## 链接
-jsdelivr
-```
-https://cdn.jsdelivr.net/gh/lrhtony/BiliEmoji@master/src/PinoQ
-https://fastly.jsdelivr.net/gh/lrhtony/BiliEmoji@master/src/PinoQ
-https://gcore.jsdelivr.net/gh/lrhtony/BiliEmoji@master/src/PinoQ
-```
-或者使用Cloudflare
+使用Cloudflare
 ```
 https://emoji.shojo.cn/bili/src/PinoQ
 ```

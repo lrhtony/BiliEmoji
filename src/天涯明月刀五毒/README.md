@@ -3,13 +3,7 @@
 ## 表情
 天涯明月刀五毒
 ## 链接
-jsdelivr
-```
-https://cdn.jsdelivr.net/gh/lrhtony/BiliEmoji@master/src/天涯明月刀五毒
-https://fastly.jsdelivr.net/gh/lrhtony/BiliEmoji@master/src/天涯明月刀五毒
-https://gcore.jsdelivr.net/gh/lrhtony/BiliEmoji@master/src/天涯明月刀五毒
-```
-或者使用Cloudflare
+使用Cloudflare
 ```
 https://emoji.shojo.cn/bili/src/天涯明月刀五毒
 ```

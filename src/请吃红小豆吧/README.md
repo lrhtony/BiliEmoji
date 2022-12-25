@@ -3,13 +3,7 @@
 ## 表情
 请吃红小豆吧
 ## 链接
-jsdelivr
-```
-https://cdn.jsdelivr.net/gh/lrhtony/BiliEmoji@master/src/请吃红小豆吧
-https://fastly.jsdelivr.net/gh/lrhtony/BiliEmoji@master/src/请吃红小豆吧
-https://gcore.jsdelivr.net/gh/lrhtony/BiliEmoji@master/src/请吃红小豆吧
-```
-或者使用Cloudflare
+使用Cloudflare
 ```
 https://emoji.shojo.cn/bili/src/请吃红小豆吧
 ```

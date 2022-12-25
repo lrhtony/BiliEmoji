@@ -3,13 +3,7 @@
 ## 表情
 奥利猫
 ## 链接
-jsdelivr
-```
-https://cdn.jsdelivr.net/gh/lrhtony/BiliEmoji@master/src/奥利猫
-https://fastly.jsdelivr.net/gh/lrhtony/BiliEmoji@master/src/奥利猫
-https://gcore.jsdelivr.net/gh/lrhtony/BiliEmoji@master/src/奥利猫
-```
-或者使用Cloudflare
+使用Cloudflare
 ```
 https://emoji.shojo.cn/bili/src/奥利猫
 ```

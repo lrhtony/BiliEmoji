@@ -3,13 +3,7 @@
 ## 表情
 小A和小B
 ## 链接
-jsdelivr
-```
-https://cdn.jsdelivr.net/gh/lrhtony/BiliEmoji@master/src/小A和小B
-https://fastly.jsdelivr.net/gh/lrhtony/BiliEmoji@master/src/小A和小B
-https://gcore.jsdelivr.net/gh/lrhtony/BiliEmoji@master/src/小A和小B
-```
-或者使用Cloudflare
+使用Cloudflare
 ```
 https://emoji.shojo.cn/bili/src/小A和小B
 ```

@@ -3,13 +3,7 @@
 ## 表情
 茉吱Mojuko
 ## 链接
-jsdelivr
-```
-https://cdn.jsdelivr.net/gh/lrhtony/BiliEmoji@master/src/茉吱Mojuko
-https://fastly.jsdelivr.net/gh/lrhtony/BiliEmoji@master/src/茉吱Mojuko
-https://gcore.jsdelivr.net/gh/lrhtony/BiliEmoji@master/src/茉吱Mojuko
-```
-或者使用Cloudflare
+使用Cloudflare
 ```
 https://emoji.shojo.cn/bili/src/茉吱Mojuko
 ```

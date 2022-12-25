@@ -3,13 +3,7 @@
 ## 表情
 Vox Akuma
 ## 链接
-jsdelivr
-```
-https://cdn.jsdelivr.net/gh/lrhtony/BiliEmoji@master/src/Vox Akuma
-https://fastly.jsdelivr.net/gh/lrhtony/BiliEmoji@master/src/Vox Akuma
-https://gcore.jsdelivr.net/gh/lrhtony/BiliEmoji@master/src/Vox Akuma
-```
-或者使用Cloudflare
+使用Cloudflare
 ```
 https://emoji.shojo.cn/bili/src/Vox Akuma
 ```

@@ -3,13 +3,7 @@
 ## 表情
 hello咕咕
 ## 链接
-jsdelivr
-```
-https://cdn.jsdelivr.net/gh/lrhtony/BiliEmoji@master/src/hello咕咕
-https://fastly.jsdelivr.net/gh/lrhtony/BiliEmoji@master/src/hello咕咕
-https://gcore.jsdelivr.net/gh/lrhtony/BiliEmoji@master/src/hello咕咕
-```
-或者使用Cloudflare
+使用Cloudflare
 ```
 https://emoji.shojo.cn/bili/src/hello咕咕
 ```

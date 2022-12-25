@@ -3,13 +3,7 @@
 ## 表情
 青蛇劫起
 ## 链接
-jsdelivr
-```
-https://cdn.jsdelivr.net/gh/lrhtony/BiliEmoji@master/src/青蛇劫起
-https://fastly.jsdelivr.net/gh/lrhtony/BiliEmoji@master/src/青蛇劫起
-https://gcore.jsdelivr.net/gh/lrhtony/BiliEmoji@master/src/青蛇劫起
-```
-或者使用Cloudflare
+使用Cloudflare
 ```
 https://emoji.shojo.cn/bili/src/青蛇劫起
 ```

@@ -3,13 +3,7 @@
 ## 表情
 2233娘
 ## 链接
-jsdelivr
-```
-https://cdn.jsdelivr.net/gh/lrhtony/BiliEmoji@master/src/2233娘
-https://fastly.jsdelivr.net/gh/lrhtony/BiliEmoji@master/src/2233娘
-https://gcore.jsdelivr.net/gh/lrhtony/BiliEmoji@master/src/2233娘
-```
-或者使用Cloudflare
+使用Cloudflare
 ```
 https://emoji.shojo.cn/bili/src/2233娘
 ```

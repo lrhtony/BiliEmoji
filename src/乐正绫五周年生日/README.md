@@ -3,13 +3,7 @@
 ## 表情
 乐正绫五周年生日
 ## 链接
-jsdelivr
-```
-https://cdn.jsdelivr.net/gh/lrhtony/BiliEmoji@master/src/乐正绫五周年生日
-https://fastly.jsdelivr.net/gh/lrhtony/BiliEmoji@master/src/乐正绫五周年生日
-https://gcore.jsdelivr.net/gh/lrhtony/BiliEmoji@master/src/乐正绫五周年生日
-```
-或者使用Cloudflare
+使用Cloudflare
 ```
 https://emoji.shojo.cn/bili/src/乐正绫五周年生日
 ```

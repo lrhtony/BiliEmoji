@@ -18,16 +18,17 @@
 
 ## 评论支持
 ### [Waline](https://waline.js.org)
-jsdelivr（支持版本控制）:
+Cloudflare（自测最快）:
+```
+https://emoji.shojo.cn/bili/src/表情
+```
+jsdelivr（支持版本控制）（当前文件数量多不推荐）:
 ```
 https://cdn.jsdelivr.net/gh/lrhtony/BiliEmoji@master/src/表情
 https://fastly.jsdelivr.net/gh/lrhtony/BiliEmoji@master/src/表情
 https://gcore.jsdelivr.net/gh/lrhtony/BiliEmoji@master/src/表情
 ```
-Cloudflare（自测最快）:
-```
-https://emoji.shojo.cn/bili/src/表情
-```
+
 
 ### [Valine](https://valine.js.org)
 请直接复制`biliEmoji.txt`文件所需内容进行替换修改

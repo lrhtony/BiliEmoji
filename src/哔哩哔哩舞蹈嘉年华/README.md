@@ -3,13 +3,7 @@
 ## 表情
 哔哩哔哩舞蹈嘉年华
 ## 链接
-jsdelivr
-```
-https://cdn.jsdelivr.net/gh/lrhtony/BiliEmoji@master/src/哔哩哔哩舞蹈嘉年华
-https://fastly.jsdelivr.net/gh/lrhtony/BiliEmoji@master/src/哔哩哔哩舞蹈嘉年华
-https://gcore.jsdelivr.net/gh/lrhtony/BiliEmoji@master/src/哔哩哔哩舞蹈嘉年华
-```
-或者使用Cloudflare
+使用Cloudflare
 ```
 https://emoji.shojo.cn/bili/src/哔哩哔哩舞蹈嘉年华
 ```

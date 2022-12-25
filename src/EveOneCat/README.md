@@ -3,13 +3,7 @@
 ## 表情
 EveOneCat
 ## 链接
-jsdelivr
-```
-https://cdn.jsdelivr.net/gh/lrhtony/BiliEmoji@master/src/EveOneCat
-https://fastly.jsdelivr.net/gh/lrhtony/BiliEmoji@master/src/EveOneCat
-https://gcore.jsdelivr.net/gh/lrhtony/BiliEmoji@master/src/EveOneCat
-```
-或者使用Cloudflare
+使用Cloudflare
 ```
 https://emoji.shojo.cn/bili/src/EveOneCat
 ```

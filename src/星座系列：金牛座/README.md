@@ -3,13 +3,7 @@
 ## 表情
 星座系列：金牛座
 ## 链接
-jsdelivr
-```
-https://cdn.jsdelivr.net/gh/lrhtony/BiliEmoji@master/src/星座系列：金牛座
-https://fastly.jsdelivr.net/gh/lrhtony/BiliEmoji@master/src/星座系列：金牛座
-https://gcore.jsdelivr.net/gh/lrhtony/BiliEmoji@master/src/星座系列：金牛座
-```
-或者使用Cloudflare
+使用Cloudflare
 ```
 https://emoji.shojo.cn/bili/src/星座系列：金牛座
 ```

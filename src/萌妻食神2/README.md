@@ -3,13 +3,7 @@
 ## 表情
 萌妻食神2
 ## 链接
-jsdelivr
-```
-https://cdn.jsdelivr.net/gh/lrhtony/BiliEmoji@master/src/萌妻食神2
-https://fastly.jsdelivr.net/gh/lrhtony/BiliEmoji@master/src/萌妻食神2
-https://gcore.jsdelivr.net/gh/lrhtony/BiliEmoji@master/src/萌妻食神2
-```
-或者使用Cloudflare
+使用Cloudflare
 ```
 https://emoji.shojo.cn/bili/src/萌妻食神2
 ```

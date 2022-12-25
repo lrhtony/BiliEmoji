@@ -3,13 +3,7 @@
 ## 表情
 KAITO
 ## 链接
-jsdelivr
-```
-https://cdn.jsdelivr.net/gh/lrhtony/BiliEmoji@master/src/KAITO
-https://fastly.jsdelivr.net/gh/lrhtony/BiliEmoji@master/src/KAITO
-https://gcore.jsdelivr.net/gh/lrhtony/BiliEmoji@master/src/KAITO
-```
-或者使用Cloudflare
+使用Cloudflare
 ```
 https://emoji.shojo.cn/bili/src/KAITO
 ```
