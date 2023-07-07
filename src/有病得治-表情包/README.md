@@ -1,0 +1,23 @@
+# 有病得治-表情包
+![icon](https://emoji.shojo.cn/bili/src/有病得治-表情包/icon.png)
+## 链接
+Cloudflare:
+```
+https://emoji.shojo.cn/bili/src/有病得治-表情包
+```
+## 展示
+![有病得治-表情包-喝茶](https://emoji.shojo.cn/bili/src/有病得治-表情包/有病得治-表情包-喝茶.png)
+![有病得治-表情包-好无聊](https://emoji.shojo.cn/bili/src/有病得治-表情包/有病得治-表情包-好无聊.png)
+![有病得治-表情包-蹲蹲](https://emoji.shojo.cn/bili/src/有病得治-表情包/有病得治-表情包-蹲蹲.png)
+![有病得治-表情包-扭捏](https://emoji.shojo.cn/bili/src/有病得治-表情包/有病得治-表情包-扭捏.png)
+![有病得治-表情包-爱你哦](https://emoji.shojo.cn/bili/src/有病得治-表情包/有病得治-表情包-爱你哦.png)
+![有病得治-表情包-盯](https://emoji.shojo.cn/bili/src/有病得治-表情包/有病得治-表情包-盯.png)
+![有病得治-表情包-噫！](https://emoji.shojo.cn/bili/src/有病得治-表情包/有病得治-表情包-噫！.png)
+![有病得治-表情包-打招呼](https://emoji.shojo.cn/bili/src/有病得治-表情包/有病得治-表情包-打招呼.png)
+![有病得治-表情包-摊手](https://emoji.shojo.cn/bili/src/有病得治-表情包/有病得治-表情包-摊手.png)
+![有病得治-表情包-拜托拜托](https://emoji.shojo.cn/bili/src/有病得治-表情包/有病得治-表情包-拜托拜托.png)
+![有病得治-表情包-听话啦](https://emoji.shojo.cn/bili/src/有病得治-表情包/有病得治-表情包-听话啦.png)
+![有病得治-表情包-嘿嘿](https://emoji.shojo.cn/bili/src/有病得治-表情包/有病得治-表情包-嘿嘿.png)
+![有病得治-表情包-点赞](https://emoji.shojo.cn/bili/src/有病得治-表情包/有病得治-表情包-点赞.png)
+![有病得治-表情包-疑惑](https://emoji.shojo.cn/bili/src/有病得治-表情包/有病得治-表情包-疑惑.png)
+![有病得治-表情包-震惊](https://emoji.shojo.cn/bili/src/有病得治-表情包/有病得治-表情包-震惊.png)

@@ -3676,7 +3676,7 @@
 "EDG-喜欢":"https://i0.hdslb.com/bfs/emote/5ac9b280c9021ee07116e4a5ce370a494f92263f.png",
 "EDG-有了":"https://i0.hdslb.com/bfs/emote/bd35f8440fe0a35321a6744468b2b196dd17016e.png",
 "EDG-EDG":"https://i0.hdslb.com/bfs/emote/f5301e974bb4fefc309a3bc1de2b4d4eae0feeb3.png",
-"EDG-3:2":"https://i0.hdslb.com/bfs/emote/f7a7bd2103e9ae1da8a6c61f071a17012ad8cd98.png",
+"EDG-3：2":"https://i0.hdslb.com/bfs/emote/f7a7bd2103e9ae1da8a6c61f071a17012ad8cd98.png",
 "EDG-冠军777":"https://i0.hdslb.com/bfs/emote/cdcbd4b2698fde05e244a92b5c4297c79a80d43f.png",
 "EDG-我们是冠军":"https://i0.hdslb.com/bfs/emote/109551857f7da95c7dd89b8492752ecc68a5c865.png",
 "EDG-王者归来":"https://i0.hdslb.com/bfs/emote/dcf941456389644070606f4040932a2cf7d90f78.png",

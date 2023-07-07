@@ -1,0 +1,24 @@
+# 老实憨厚的笑笑
+![icon](https://emoji.shojo.cn/bili/src/老实憨厚的笑笑/icon.png)
+## 链接
+Cloudflare:
+```
+https://emoji.shojo.cn/bili/src/老实憨厚的笑笑
+```
+## 展示
+![老实憨厚的笑笑-你是？](https://emoji.shojo.cn/bili/src/老实憨厚的笑笑/老实憨厚的笑笑-你是？.png)
+![老实憨厚的笑笑-懂你意思](https://emoji.shojo.cn/bili/src/老实憨厚的笑笑/老实憨厚的笑笑-懂你意思.png)
+![老实憨厚的笑笑-研发开始](https://emoji.shojo.cn/bili/src/老实憨厚的笑笑/老实憨厚的笑笑-研发开始.png)
+![老实憨厚的笑笑-啊](https://emoji.shojo.cn/bili/src/老实憨厚的笑笑/老实憨厚的笑笑-啊.png)
+![老实憨厚的笑笑-喂喂喂](https://emoji.shojo.cn/bili/src/老实憨厚的笑笑/老实憨厚的笑笑-喂喂喂.png)
+![老实憨厚的笑笑-立大功](https://emoji.shojo.cn/bili/src/老实憨厚的笑笑/老实憨厚的笑笑-立大功.png)
+![老实憨厚的笑笑-寄](https://emoji.shojo.cn/bili/src/老实憨厚的笑笑/老实憨厚的笑笑-寄.png)
+![老实憨厚的笑笑-笑](https://emoji.shojo.cn/bili/src/老实憨厚的笑笑/老实憨厚的笑笑-笑.png)
+![老实憨厚的笑笑-别急](https://emoji.shojo.cn/bili/src/老实憨厚的笑笑/老实憨厚的笑笑-别急.png)
+![老实憨厚的笑笑-你等着](https://emoji.shojo.cn/bili/src/老实憨厚的笑笑/老实憨厚的笑笑-你等着.png)
+![老实憨厚的笑笑-亏贼](https://emoji.shojo.cn/bili/src/老实憨厚的笑笑/老实憨厚的笑笑-亏贼.png)
+![老实憨厚的笑笑-尴尬](https://emoji.shojo.cn/bili/src/老实憨厚的笑笑/老实憨厚的笑笑-尴尬.png)
+![老实憨厚的笑笑-突突突](https://emoji.shojo.cn/bili/src/老实憨厚的笑笑/老实憨厚的笑笑-突突突.png)
+![老实憨厚的笑笑-瑞斯拜](https://emoji.shojo.cn/bili/src/老实憨厚的笑笑/老实憨厚的笑笑-瑞斯拜.png)
+![老实憨厚的笑笑-天克](https://emoji.shojo.cn/bili/src/老实憨厚的笑笑/老实憨厚的笑笑-天克.png)
+![老实憨厚的笑笑-太涩啦](https://emoji.shojo.cn/bili/src/老实憨厚的笑笑/老实憨厚的笑笑-太涩啦.png)

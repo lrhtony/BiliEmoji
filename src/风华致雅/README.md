@@ -1,0 +1,23 @@
+# 风华致雅
+![icon](https://emoji.shojo.cn/bili/src/风华致雅/icon.png)
+## 链接
+Cloudflare:
+```
+https://emoji.shojo.cn/bili/src/风华致雅
+```
+## 展示
+![风华致雅-起飞](https://emoji.shojo.cn/bili/src/风华致雅/风华致雅-起飞.png)
+![风华致雅-溜了](https://emoji.shojo.cn/bili/src/风华致雅/风华致雅-溜了.png)
+![风华致雅-在鹿上了](https://emoji.shojo.cn/bili/src/风华致雅/风华致雅-在鹿上了.png)
+![风华致雅-微笑面对](https://emoji.shojo.cn/bili/src/风华致雅/风华致雅-微笑面对.png)
+![风华致雅-瞄准你心](https://emoji.shojo.cn/bili/src/风华致雅/风华致雅-瞄准你心.png)
+![风华致雅-我罩你](https://emoji.shojo.cn/bili/src/风华致雅/风华致雅-我罩你.png)
+![风华致雅-锦鲤护体](https://emoji.shojo.cn/bili/src/风华致雅/风华致雅-锦鲤护体.png)
+![风华致雅-我想开了](https://emoji.shojo.cn/bili/src/风华致雅/风华致雅-我想开了.png)
+![风华致雅-请喝茶](https://emoji.shojo.cn/bili/src/风华致雅/风华致雅-请喝茶.png)
+![风华致雅-到点啦](https://emoji.shojo.cn/bili/src/风华致雅/风华致雅-到点啦.png)
+![风华致雅-投币](https://emoji.shojo.cn/bili/src/风华致雅/风华致雅-投币.png)
+![风华致雅-绣啊](https://emoji.shojo.cn/bili/src/风华致雅/风华致雅-绣啊.png)
+![风华致雅-鼎你](https://emoji.shojo.cn/bili/src/风华致雅/风华致雅-鼎你.png)
+![风华致雅-醉了](https://emoji.shojo.cn/bili/src/风华致雅/风华致雅-醉了.png)
+![风华致雅-降降火](https://emoji.shojo.cn/bili/src/风华致雅/风华致雅-降降火.png)

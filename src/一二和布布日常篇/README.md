@@ -1,0 +1,23 @@
+# 一二和布布日常篇
+![icon](https://emoji.shojo.cn/bili/src/一二和布布日常篇/icon.png)
+## 链接
+Cloudflare:
+```
+https://emoji.shojo.cn/bili/src/一二和布布日常篇
+```
+## 展示
+![一二和布布日常篇-你算老几](https://emoji.shojo.cn/bili/src/一二和布布日常篇/一二和布布日常篇-你算老几.png)
+![一二和布布日常篇-pickme](https://emoji.shojo.cn/bili/src/一二和布布日常篇/一二和布布日常篇-pickme.png)
+![一二和布布日常篇-你很奇怪耶](https://emoji.shojo.cn/bili/src/一二和布布日常篇/一二和布布日常篇-你很奇怪耶.png)
+![一二和布布日常篇-哒咩](https://emoji.shojo.cn/bili/src/一二和布布日常篇/一二和布布日常篇-哒咩.png)
+![一二和布布日常篇-困](https://emoji.shojo.cn/bili/src/一二和布布日常篇/一二和布布日常篇-困.png)
+![一二和布布日常篇-吃瓜群众](https://emoji.shojo.cn/bili/src/一二和布布日常篇/一二和布布日常篇-吃瓜群众.png)
+![一二和布布日常篇-我倒要看看](https://emoji.shojo.cn/bili/src/一二和布布日常篇/一二和布布日常篇-我倒要看看.png)
+![一二和布布日常篇-说sorry](https://emoji.shojo.cn/bili/src/一二和布布日常篇/一二和布布日常篇-说sorry.png)
+![一二和布布日常篇-谢谢老板](https://emoji.shojo.cn/bili/src/一二和布布日常篇/一二和布布日常篇-谢谢老板.png)
+![一二和布布日常篇-看看你的](https://emoji.shojo.cn/bili/src/一二和布布日常篇/一二和布布日常篇-看看你的.png)
+![一二和布布日常篇-馋了](https://emoji.shojo.cn/bili/src/一二和布布日常篇/一二和布布日常篇-馋了.png)
+![一二和布布日常篇-让人生气](https://emoji.shojo.cn/bili/src/一二和布布日常篇/一二和布布日常篇-让人生气.png)
+![一二和布布日常篇-给你两拳](https://emoji.shojo.cn/bili/src/一二和布布日常篇/一二和布布日常篇-给你两拳.png)
+![一二和布布日常篇-转身离开](https://emoji.shojo.cn/bili/src/一二和布布日常篇/一二和布布日常篇-转身离开.png)
+![一二和布布日常篇-巴适的很](https://emoji.shojo.cn/bili/src/一二和布布日常篇/一二和布布日常篇-巴适的很.png)

@@ -1,0 +1,28 @@
+# Ame表情包
+![icon](https://emoji.shojo.cn/bili/src/Ame表情包/icon.png)
+## 链接
+Cloudflare:
+```
+https://emoji.shojo.cn/bili/src/Ame表情包
+```
+## 展示
+![Ame表情包-我觉得行](https://emoji.shojo.cn/bili/src/Ame表情包/Ame表情包-我觉得行.png)
+![Ame表情包-笑](https://emoji.shojo.cn/bili/src/Ame表情包/Ame表情包-笑.png)
+![Ame表情包-问号](https://emoji.shojo.cn/bili/src/Ame表情包/Ame表情包-问号.png)
+![Ame表情包-晚安](https://emoji.shojo.cn/bili/src/Ame表情包/Ame表情包-晚安.png)
+![Ame表情包-负分](https://emoji.shojo.cn/bili/src/Ame表情包/Ame表情包-负分.png)
+![Ame表情包-正分](https://emoji.shojo.cn/bili/src/Ame表情包/Ame表情包-正分.png)
+![Ame表情包-收收味](https://emoji.shojo.cn/bili/src/Ame表情包/Ame表情包-收收味.png)
+![Ame表情包-唱歌](https://emoji.shojo.cn/bili/src/Ame表情包/Ame表情包-唱歌.png)
+![Ame表情包-酷](https://emoji.shojo.cn/bili/src/Ame表情包/Ame表情包-酷.png)
+![Ame表情包-吃海苔](https://emoji.shojo.cn/bili/src/Ame表情包/Ame表情包-吃海苔.png)
+![Ame表情包-和解](https://emoji.shojo.cn/bili/src/Ame表情包/Ame表情包-和解.png)
+![Ame表情包-汗](https://emoji.shojo.cn/bili/src/Ame表情包/Ame表情包-汗.png)
+![Ame表情包-研究](https://emoji.shojo.cn/bili/src/Ame表情包/Ame表情包-研究.png)
+![Ame表情包-唐](https://emoji.shojo.cn/bili/src/Ame表情包/Ame表情包-唐.png)
+![Ame表情包-尴尬](https://emoji.shojo.cn/bili/src/Ame表情包/Ame表情包-尴尬.png)
+![Ame表情包-认同](https://emoji.shojo.cn/bili/src/Ame表情包/Ame表情包-认同.png)
+![Ame表情包-钓鱼](https://emoji.shojo.cn/bili/src/Ame表情包/Ame表情包-钓鱼.png)
+![Ame表情包-盯](https://emoji.shojo.cn/bili/src/Ame表情包/Ame表情包-盯.png)
+![Ame表情包-亲亲](https://emoji.shojo.cn/bili/src/Ame表情包/Ame表情包-亲亲.png)
+![Ame表情包-打招呼](https://emoji.shojo.cn/bili/src/Ame表情包/Ame表情包-打招呼.png)

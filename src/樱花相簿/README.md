@@ -1,0 +1,23 @@
+# 樱花相簿
+![icon](https://emoji.shojo.cn/bili/src/樱花相簿/icon.png)
+## 链接
+Cloudflare:
+```
+https://emoji.shojo.cn/bili/src/樱花相簿
+```
+## 展示
+![樱花相簿-交出来](https://emoji.shojo.cn/bili/src/樱花相簿/樱花相簿-交出来.png)
+![樱花相簿-加油](https://emoji.shojo.cn/bili/src/樱花相簿/樱花相簿-加油.png)
+![樱花相簿-大哭](https://emoji.shojo.cn/bili/src/樱花相簿/樱花相簿-大哭.png)
+![樱花相簿-打call](https://emoji.shojo.cn/bili/src/樱花相簿/樱花相簿-打call.png)
+![樱花相簿-懵逼](https://emoji.shojo.cn/bili/src/樱花相簿/樱花相簿-懵逼.png)
+![樱花相簿-失落](https://emoji.shojo.cn/bili/src/樱花相簿/樱花相簿-失落.png)
+![樱花相簿-可怜](https://emoji.shojo.cn/bili/src/樱花相簿/樱花相簿-可怜.png)
+![樱花相簿-你币有了](https://emoji.shojo.cn/bili/src/樱花相簿/樱花相簿-你币有了.png)
+![樱花相簿-生气](https://emoji.shojo.cn/bili/src/樱花相簿/樱花相簿-生气.png)
+![樱花相簿-进食中](https://emoji.shojo.cn/bili/src/樱花相簿/樱花相簿-进食中.png)
+![樱花相簿-喜欢](https://emoji.shojo.cn/bili/src/樱花相簿/樱花相簿-喜欢.png)
+![樱花相簿-拒绝](https://emoji.shojo.cn/bili/src/樱花相簿/樱花相簿-拒绝.png)
+![樱花相簿-乖巧](https://emoji.shojo.cn/bili/src/樱花相簿/樱花相簿-乖巧.png)
+![樱花相簿-摔倒](https://emoji.shojo.cn/bili/src/樱花相簿/樱花相簿-摔倒.png)
+![樱花相簿-迟到了](https://emoji.shojo.cn/bili/src/樱花相簿/樱花相簿-迟到了.png)

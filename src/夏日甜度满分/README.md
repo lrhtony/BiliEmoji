@@ -1,0 +1,23 @@
+# 夏日甜度满分
+![icon](https://emoji.shojo.cn/bili/src/夏日甜度满分/icon.png)
+## 链接
+Cloudflare:
+```
+https://emoji.shojo.cn/bili/src/夏日甜度满分
+```
+## 展示
+![夏日甜度满分-收到](https://emoji.shojo.cn/bili/src/夏日甜度满分/夏日甜度满分-收到.png)
+![夏日甜度满分-来杯美式](https://emoji.shojo.cn/bili/src/夏日甜度满分/夏日甜度满分-来杯美式.png)
+![夏日甜度满分-来杯拿铁](https://emoji.shojo.cn/bili/src/夏日甜度满分/夏日甜度满分-来杯拿铁.png)
+![夏日甜度满分-奶茶续命](https://emoji.shojo.cn/bili/src/夏日甜度满分/夏日甜度满分-奶茶续命.png)
+![夏日甜度满分-友谊干杯](https://emoji.shojo.cn/bili/src/夏日甜度满分/夏日甜度满分-友谊干杯.png)
+![夏日甜度满分-摸鱼](https://emoji.shojo.cn/bili/src/夏日甜度满分/夏日甜度满分-摸鱼.png)
+![夏日甜度满分-OK](https://emoji.shojo.cn/bili/src/夏日甜度满分/夏日甜度满分-OK.png)
+![夏日甜度满分-加冰](https://emoji.shojo.cn/bili/src/夏日甜度满分/夏日甜度满分-加冰.png)
+![夏日甜度满分-全糖](https://emoji.shojo.cn/bili/src/夏日甜度满分/夏日甜度满分-全糖.png)
+![夏日甜度满分-去冰](https://emoji.shojo.cn/bili/src/夏日甜度满分/夏日甜度满分-去冰.png)
+![夏日甜度满分-去糖](https://emoji.shojo.cn/bili/src/夏日甜度满分/夏日甜度满分-去糖.png)
+![夏日甜度满分-我喝两杯](https://emoji.shojo.cn/bili/src/夏日甜度满分/夏日甜度满分-我喝两杯.png)
+![夏日甜度满分-CHU](https://emoji.shojo.cn/bili/src/夏日甜度满分/夏日甜度满分-CHU.png)
+![夏日甜度满分-早安](https://emoji.shojo.cn/bili/src/夏日甜度满分/夏日甜度满分-早安.png)
+![夏日甜度满分-晚安](https://emoji.shojo.cn/bili/src/夏日甜度满分/夏日甜度满分-晚安.png)

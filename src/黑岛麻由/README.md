@@ -1,0 +1,23 @@
+# 黑岛麻由
+![icon](https://emoji.shojo.cn/bili/src/黑岛麻由/icon.png)
+## 链接
+Cloudflare:
+```
+https://emoji.shojo.cn/bili/src/黑岛麻由
+```
+## 展示
+![黑岛麻由-委屈](https://emoji.shojo.cn/bili/src/黑岛麻由/黑岛麻由-委屈.png)
+![黑岛麻由-高兴](https://emoji.shojo.cn/bili/src/黑岛麻由/黑岛麻由-高兴.png)
+![黑岛麻由-讨厌](https://emoji.shojo.cn/bili/src/黑岛麻由/黑岛麻由-讨厌.png)
+![黑岛麻由-打拳](https://emoji.shojo.cn/bili/src/黑岛麻由/黑岛麻由-打拳.png)
+![黑岛麻由-惊讶](https://emoji.shojo.cn/bili/src/黑岛麻由/黑岛麻由-惊讶.png)
+![黑岛麻由-嘲笑](https://emoji.shojo.cn/bili/src/黑岛麻由/黑岛麻由-嘲笑.png)
+![黑岛麻由-鄙视](https://emoji.shojo.cn/bili/src/黑岛麻由/黑岛麻由-鄙视.png)
+![黑岛麻由-害羞](https://emoji.shojo.cn/bili/src/黑岛麻由/黑岛麻由-害羞.png)
+![黑岛麻由-大笑](https://emoji.shojo.cn/bili/src/黑岛麻由/黑岛麻由-大笑.png)
+![黑岛麻由-大哭](https://emoji.shojo.cn/bili/src/黑岛麻由/黑岛麻由-大哭.png)
+![黑岛麻由-舔](https://emoji.shojo.cn/bili/src/黑岛麻由/黑岛麻由-舔.png)
+![黑岛麻由-叹气](https://emoji.shojo.cn/bili/src/黑岛麻由/黑岛麻由-叹气.png)
+![黑岛麻由-尴尬](https://emoji.shojo.cn/bili/src/黑岛麻由/黑岛麻由-尴尬.png)
+![黑岛麻由-拇指](https://emoji.shojo.cn/bili/src/黑岛麻由/黑岛麻由-拇指.png)
+![黑岛麻由-爱心](https://emoji.shojo.cn/bili/src/黑岛麻由/黑岛麻由-爱心.png)

@@ -16,7 +16,7 @@ https://emoji.shojo.cn/bili/src/EDG战队
 ![EDG-喜欢](https://emoji.shojo.cn/bili/src/EDG战队/EDG-喜欢.png)
 ![EDG-有了](https://emoji.shojo.cn/bili/src/EDG战队/EDG-有了.png)
 ![EDG-EDG](https://emoji.shojo.cn/bili/src/EDG战队/EDG-EDG.png)
-![EDG-3:2](https://emoji.shojo.cn/bili/src/EDG战队/EDG-3:2.png)
+![EDG-3：2](https://emoji.shojo.cn/bili/src/EDG战队/EDG-3：2.png)
 ![EDG-冠军777](https://emoji.shojo.cn/bili/src/EDG战队/EDG-冠军777.png)
 ![EDG-我们是冠军](https://emoji.shojo.cn/bili/src/EDG战队/EDG-我们是冠军.png)
 ![EDG-王者归来](https://emoji.shojo.cn/bili/src/EDG战队/EDG-王者归来.png)
