@@ -1,11 +1,33 @@
-# BiliEmoji
----
-## 表情
-小鸟芋圆
+# 小鸟芋圆
+![icon](https://emoji.shojo.cn/bili/src/小鸟芋圆/icon.png)
 ## 链接
-使用Cloudflare
+Cloudflare:
 ```
 https://emoji.shojo.cn/bili/src/小鸟芋圆
 ```
-## 说明
-Bilibili 表情的版权归原作者所有
+## 展示
+![小鸟芋圆-v我](https://emoji.shojo.cn/bili/src/小鸟芋圆/小鸟芋圆-v我.png)
+![小鸟芋圆-俺无语](https://emoji.shojo.cn/bili/src/小鸟芋圆/小鸟芋圆-俺无语.png)
+![小鸟芋圆-吃瓜](https://emoji.shojo.cn/bili/src/小鸟芋圆/小鸟芋圆-吃瓜.png)
+![小鸟芋圆-打嗝](https://emoji.shojo.cn/bili/src/小鸟芋圆/小鸟芋圆-打嗝.png)
+![小鸟芋圆-饿饿饭饭](https://emoji.shojo.cn/bili/src/小鸟芋圆/小鸟芋圆-饿饿饭饭.png)
+![小鸟芋圆-好活](https://emoji.shojo.cn/bili/src/小鸟芋圆/小鸟芋圆-好活.png)
+![小鸟芋圆-激动](https://emoji.shojo.cn/bili/src/小鸟芋圆/小鸟芋圆-激动.png)
+![小鸟芋圆-教教我](https://emoji.shojo.cn/bili/src/小鸟芋圆/小鸟芋圆-教教我.png)
+![小鸟芋圆-惊呆鸟](https://emoji.shojo.cn/bili/src/小鸟芋圆/小鸟芋圆-惊呆鸟.png)
+![小鸟芋圆-母单鹦鹉](https://emoji.shojo.cn/bili/src/小鸟芋圆/小鸟芋圆-母单鹦鹉.png)
+![小鸟芋圆-你理猫吗](https://emoji.shojo.cn/bili/src/小鸟芋圆/小鸟芋圆-你理猫吗.png)
+![小鸟芋圆-鸟不起](https://emoji.shojo.cn/bili/src/小鸟芋圆/小鸟芋圆-鸟不起.png)
+![小鸟芋圆-鸟解](https://emoji.shojo.cn/bili/src/小鸟芋圆/小鸟芋圆-鸟解.png)
+![小鸟芋圆-蒜鸟](https://emoji.shojo.cn/bili/src/小鸟芋圆/小鸟芋圆-蒜鸟.png)
+![小鸟芋圆-太感谢鸟](https://emoji.shojo.cn/bili/src/小鸟芋圆/小鸟芋圆-太感谢鸟.png)
+![小鸟芋圆-太好磕鸟](https://emoji.shojo.cn/bili/src/小鸟芋圆/小鸟芋圆-太好磕鸟.png)
+![小鸟芋圆-吐鸟](https://emoji.shojo.cn/bili/src/小鸟芋圆/小鸟芋圆-吐鸟.png)
+![小鸟芋圆-完蛋](https://emoji.shojo.cn/bili/src/小鸟芋圆/小鸟芋圆-完蛋.png)
+![小鸟芋圆-晚安鸟](https://emoji.shojo.cn/bili/src/小鸟芋圆/小鸟芋圆-晚安鸟.png)
+![小鸟芋圆-小鸟依鸟](https://emoji.shojo.cn/bili/src/小鸟芋圆/小鸟芋圆-小鸟依鸟.png)
+![小鸟芋圆-笑出鸟叫](https://emoji.shojo.cn/bili/src/小鸟芋圆/小鸟芋圆-笑出鸟叫.png)
+![小鸟芋圆-鹦该的](https://emoji.shojo.cn/bili/src/小鸟芋圆/小鸟芋圆-鹦该的.png)
+![小鸟芋圆-有禽提示](https://emoji.shojo.cn/bili/src/小鸟芋圆/小鸟芋圆-有禽提示.png)
+![小鸟芋圆-再见鸟](https://emoji.shojo.cn/bili/src/小鸟芋圆/小鸟芋圆-再见鸟.png)
+![小鸟芋圆-这很滑鸡](https://emoji.shojo.cn/bili/src/小鸟芋圆/小鸟芋圆-这很滑鸡.png)

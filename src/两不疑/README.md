@@ -1,11 +1,18 @@
-# BiliEmoji
----
-## 表情
-两不疑
+# 两不疑
+![icon](https://emoji.shojo.cn/bili/src/两不疑/icon.png)
 ## 链接
-使用Cloudflare
+Cloudflare:
 ```
 https://emoji.shojo.cn/bili/src/两不疑
 ```
-## 说明
-Bilibili 表情的版权归原作者所有
+## 展示
+![两不疑-无语](https://emoji.shojo.cn/bili/src/两不疑/两不疑-无语.png)
+![两不疑-得意](https://emoji.shojo.cn/bili/src/两不疑/两不疑-得意.png)
+![两不疑-疑惑](https://emoji.shojo.cn/bili/src/两不疑/两不疑-疑惑.png)
+![两不疑-拒绝](https://emoji.shojo.cn/bili/src/两不疑/两不疑-拒绝.png)
+![两不疑-开心](https://emoji.shojo.cn/bili/src/两不疑/两不疑-开心.png)
+![两不疑-委屈](https://emoji.shojo.cn/bili/src/两不疑/两不疑-委屈.png)
+![两不疑-痛啊](https://emoji.shojo.cn/bili/src/两不疑/两不疑-痛啊.png)
+![两不疑-颤抖](https://emoji.shojo.cn/bili/src/两不疑/两不疑-颤抖.png)
+![两不疑-苦恼](https://emoji.shojo.cn/bili/src/两不疑/两不疑-苦恼.png)
+![两不疑-嗑拉了](https://emoji.shojo.cn/bili/src/两不疑/两不疑-嗑拉了.png)

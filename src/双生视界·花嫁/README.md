@@ -1,11 +1,22 @@
-# BiliEmoji
----
-## 表情
-双生视界·花嫁
+# 双生视界·花嫁
+![icon](https://emoji.shojo.cn/bili/src/双生视界·花嫁/icon.png)
 ## 链接
-使用Cloudflare
+Cloudflare:
 ```
 https://emoji.shojo.cn/bili/src/双生视界·花嫁
 ```
-## 说明
-Bilibili 表情的版权归原作者所有
+## 展示
+![双生视界-星星眼](https://emoji.shojo.cn/bili/src/双生视界·花嫁/双生视界-星星眼.png)
+![双生视界-二胡爱豆](https://emoji.shojo.cn/bili/src/双生视界·花嫁/双生视界-二胡爱豆.png)
+![双生视界-惊讶](https://emoji.shojo.cn/bili/src/双生视界·花嫁/双生视界-惊讶.png)
+![双生视界-问号](https://emoji.shojo.cn/bili/src/双生视界·花嫁/双生视界-问号.png)
+![双生视界-为友谊干杯](https://emoji.shojo.cn/bili/src/双生视界·花嫁/双生视界-为友谊干杯.png)
+![双生视界-无所谓](https://emoji.shojo.cn/bili/src/双生视界·花嫁/双生视界-无所谓.png)
+![双生视界-傲娇脸](https://emoji.shojo.cn/bili/src/双生视界·花嫁/双生视界-傲娇脸.png)
+![双生视界-叹气](https://emoji.shojo.cn/bili/src/双生视界·花嫁/双生视界-叹气.png)
+![双生视界-暗中观察](https://emoji.shojo.cn/bili/src/双生视界·花嫁/双生视界-暗中观察.png)
+![双生视界-推眼镜](https://emoji.shojo.cn/bili/src/双生视界·花嫁/双生视界-推眼镜.png)
+![双生视界-祈祷](https://emoji.shojo.cn/bili/src/双生视界·花嫁/双生视界-祈祷.png)
+![双生视界-加油](https://emoji.shojo.cn/bili/src/双生视界·花嫁/双生视界-加油.png)
+![双生视界-摸头](https://emoji.shojo.cn/bili/src/双生视界·花嫁/双生视界-摸头.png)
+![双生视界-比心](https://emoji.shojo.cn/bili/src/双生视界·花嫁/双生视界-比心.png)

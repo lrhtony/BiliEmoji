@@ -1,11 +1,33 @@
-# BiliEmoji
----
-## 表情
-贝拉个性装扮2.0
+# 贝拉个性装扮2.0
+![icon](https://emoji.shojo.cn/bili/src/贝拉个性装扮2.0/icon.png)
 ## 链接
-使用Cloudflare
+Cloudflare:
 ```
 https://emoji.shojo.cn/bili/src/贝拉个性装扮2.0
 ```
-## 说明
-Bilibili 表情的版权归原作者所有
+## 展示
+![贝拉个性装扮2.0-NONONO](https://emoji.shojo.cn/bili/src/贝拉个性装扮2.0/贝拉个性装扮2.0-NONONO.png)
+![贝拉个性装扮2.0-拜拜](https://emoji.shojo.cn/bili/src/贝拉个性装扮2.0/贝拉个性装扮2.0-拜拜.png)
+![贝拉个性装扮2.0-贝极星](https://emoji.shojo.cn/bili/src/贝拉个性装扮2.0/贝拉个性装扮2.0-贝极星.png)
+![贝拉个性装扮2.0-小笨蛋](https://emoji.shojo.cn/bili/src/贝拉个性装扮2.0/贝拉个性装扮2.0-小笨蛋.png)
+![贝拉个性装扮2.0-贝拉碎月](https://emoji.shojo.cn/bili/src/贝拉个性装扮2.0/贝拉个性装扮2.0-贝拉碎月.png)
+![贝拉个性装扮2.0-唱歌](https://emoji.shojo.cn/bili/src/贝拉个性装扮2.0/贝拉个性装扮2.0-唱歌.png)
+![贝拉个性装扮2.0-吃牛肉干](https://emoji.shojo.cn/bili/src/贝拉个性装扮2.0/贝拉个性装扮2.0-吃牛肉干.png)
+![贝拉个性装扮2.0-大聪明](https://emoji.shojo.cn/bili/src/贝拉个性装扮2.0/贝拉个性装扮2.0-大聪明.png)
+![贝拉个性装扮2.0-过载](https://emoji.shojo.cn/bili/src/贝拉个性装扮2.0/贝拉个性装扮2.0-过载.png)
+![贝拉个性装扮2.0-哈哈哈哈哈](https://emoji.shojo.cn/bili/src/贝拉个性装扮2.0/贝拉个性装扮2.0-哈哈哈哈哈.png)
+![贝拉个性装扮2.0-哈喽](https://emoji.shojo.cn/bili/src/贝拉个性装扮2.0/贝拉个性装扮2.0-哈喽.png)
+![贝拉个性装扮2.0-晃悠悠](https://emoji.shojo.cn/bili/src/贝拉个性装扮2.0/贝拉个性装扮2.0-晃悠悠.png)
+![贝拉个性装扮2.0-剑来](https://emoji.shojo.cn/bili/src/贝拉个性装扮2.0/贝拉个性装扮2.0-剑来.png)
+![贝拉个性装扮2.0-健身](https://emoji.shojo.cn/bili/src/贝拉个性装扮2.0/贝拉个性装扮2.0-健身.png)
+![贝拉个性装扮2.0-拉伸](https://emoji.shojo.cn/bili/src/贝拉个性装扮2.0/贝拉个性装扮2.0-拉伸.png)
+![贝拉个性装扮2.0-拉手摧花](https://emoji.shojo.cn/bili/src/贝拉个性装扮2.0/贝拉个性装扮2.0-拉手摧花.png)
+![贝拉个性装扮2.0-你再想想](https://emoji.shojo.cn/bili/src/贝拉个性装扮2.0/贝拉个性装扮2.0-你再想想.png)
+![贝拉个性装扮2.0-起床啦](https://emoji.shojo.cn/bili/src/贝拉个性装扮2.0/贝拉个性装扮2.0-起床啦.png)
+![贝拉个性装扮2.0-日程表](https://emoji.shojo.cn/bili/src/贝拉个性装扮2.0/贝拉个性装扮2.0-日程表.png)
+![贝拉个性装扮2.0-天鹅小贝拉](https://emoji.shojo.cn/bili/src/贝拉个性装扮2.0/贝拉个性装扮2.0-天鹅小贝拉.png)
+![贝拉个性装扮2.0-兔兔拳](https://emoji.shojo.cn/bili/src/贝拉个性装扮2.0/贝拉个性装扮2.0-兔兔拳.png)
+![贝拉个性装扮2.0-委屈小贝拉](https://emoji.shojo.cn/bili/src/贝拉个性装扮2.0/贝拉个性装扮2.0-委屈小贝拉.png)
+![贝拉个性装扮2.0-我们是](https://emoji.shojo.cn/bili/src/贝拉个性装扮2.0/贝拉个性装扮2.0-我们是.png)
+![贝拉个性装扮2.0-小胡子](https://emoji.shojo.cn/bili/src/贝拉个性装扮2.0/贝拉个性装扮2.0-小胡子.png)
+![贝拉个性装扮2.0-要相信光](https://emoji.shojo.cn/bili/src/贝拉个性装扮2.0/贝拉个性装扮2.0-要相信光.png)

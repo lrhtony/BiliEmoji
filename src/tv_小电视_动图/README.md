@@ -1,11 +1,52 @@
-# BiliEmoji
----
-## 表情
-tv_小电视_动图
+# tv_小电视_动图
+![icon](https://emoji.shojo.cn/bili/src/tv_小电视_动图/icon.gif)
 ## 链接
-使用Cloudflare
+Cloudflare:
 ```
 https://emoji.shojo.cn/bili/src/tv_小电视_动图
 ```
-## 说明
-Bilibili 表情的版权归原作者所有
+## 展示
+![tvgif-白眼](https://emoji.shojo.cn/bili/src/tv_小电视_动图/tvgif-白眼.gif)
+![tvgif-doge](https://emoji.shojo.cn/bili/src/tv_小电视_动图/tvgif-doge.gif)
+![tvgif-坏笑](https://emoji.shojo.cn/bili/src/tv_小电视_动图/tvgif-坏笑.gif)
+![tvgif-难过](https://emoji.shojo.cn/bili/src/tv_小电视_动图/tvgif-难过.gif)
+![tvgif-生气](https://emoji.shojo.cn/bili/src/tv_小电视_动图/tvgif-生气.gif)
+![tvgif-委屈](https://emoji.shojo.cn/bili/src/tv_小电视_动图/tvgif-委屈.gif)
+![tvgif-斜眼笑](https://emoji.shojo.cn/bili/src/tv_小电视_动图/tvgif-斜眼笑.gif)
+![tvgif-呆](https://emoji.shojo.cn/bili/src/tv_小电视_动图/tvgif-呆.gif)
+![tvgif-发怒](https://emoji.shojo.cn/bili/src/tv_小电视_动图/tvgif-发怒.gif)
+![tvgif-惊吓](https://emoji.shojo.cn/bili/src/tv_小电视_动图/tvgif-惊吓.gif)
+![tvgif-呕吐](https://emoji.shojo.cn/bili/src/tv_小电视_动图/tvgif-呕吐.gif)
+![tvgif-思考](https://emoji.shojo.cn/bili/src/tv_小电视_动图/tvgif-思考.gif)
+![tvgif-微笑](https://emoji.shojo.cn/bili/src/tv_小电视_动图/tvgif-微笑.gif)
+![tvgif-疑问](https://emoji.shojo.cn/bili/src/tv_小电视_动图/tvgif-疑问.gif)
+![tvgif-大哭](https://emoji.shojo.cn/bili/src/tv_小电视_动图/tvgif-大哭.gif)
+![tvgif-鼓掌](https://emoji.shojo.cn/bili/src/tv_小电视_动图/tvgif-鼓掌.gif)
+![tvgif-抠鼻](https://emoji.shojo.cn/bili/src/tv_小电视_动图/tvgif-抠鼻.gif)
+![tvgif-亲亲](https://emoji.shojo.cn/bili/src/tv_小电视_动图/tvgif-亲亲.gif)
+![tvgif-调皮](https://emoji.shojo.cn/bili/src/tv_小电视_动图/tvgif-调皮.gif)
+![tvgif-笑哭](https://emoji.shojo.cn/bili/src/tv_小电视_动图/tvgif-笑哭.gif)
+![tvgif-晕](https://emoji.shojo.cn/bili/src/tv_小电视_动图/tvgif-晕.gif)
+![tvgif-点赞](https://emoji.shojo.cn/bili/src/tv_小电视_动图/tvgif-点赞.gif)
+![tvgif-害羞](https://emoji.shojo.cn/bili/src/tv_小电视_动图/tvgif-害羞.gif)
+![tvgif-睡着](https://emoji.shojo.cn/bili/src/tv_小电视_动图/tvgif-睡着.gif)
+![tvgif-色](https://emoji.shojo.cn/bili/src/tv_小电视_动图/tvgif-色.gif)
+![tvgif-吐血](https://emoji.shojo.cn/bili/src/tv_小电视_动图/tvgif-吐血.gif)
+![tvgif-无奈](https://emoji.shojo.cn/bili/src/tv_小电视_动图/tvgif-无奈.gif)
+![tvgif-再见](https://emoji.shojo.cn/bili/src/tv_小电视_动图/tvgif-再见.gif)
+![tvgif-流汗](https://emoji.shojo.cn/bili/src/tv_小电视_动图/tvgif-流汗.gif)
+![tvgif-偷笑](https://emoji.shojo.cn/bili/src/tv_小电视_动图/tvgif-偷笑.gif)
+![tvgif-抓狂](https://emoji.shojo.cn/bili/src/tv_小电视_动图/tvgif-抓狂.gif)
+![tvgif-黑人问号](https://emoji.shojo.cn/bili/src/tv_小电视_动图/tvgif-黑人问号.gif)
+![tvgif-困](https://emoji.shojo.cn/bili/src/tv_小电视_动图/tvgif-困.gif)
+![tvgif-打脸](https://emoji.shojo.cn/bili/src/tv_小电视_动图/tvgif-打脸.gif)
+![tvgif-闭嘴](https://emoji.shojo.cn/bili/src/tv_小电视_动图/tvgif-闭嘴.gif)
+![tvgif-鄙视](https://emoji.shojo.cn/bili/src/tv_小电视_动图/tvgif-鄙视.gif)
+![tvgif-腼腆](https://emoji.shojo.cn/bili/src/tv_小电视_动图/tvgif-腼腆.gif)
+![tvgif-馋](https://emoji.shojo.cn/bili/src/tv_小电视_动图/tvgif-馋.gif)
+![tvgif-可爱](https://emoji.shojo.cn/bili/src/tv_小电视_动图/tvgif-可爱.gif)
+![tvgif-发财](https://emoji.shojo.cn/bili/src/tv_小电视_动图/tvgif-发财.gif)
+![tvgif-生病](https://emoji.shojo.cn/bili/src/tv_小电视_动图/tvgif-生病.gif)
+![tvgif-流鼻血](https://emoji.shojo.cn/bili/src/tv_小电视_动图/tvgif-流鼻血.gif)
+![tvgif-尴尬](https://emoji.shojo.cn/bili/src/tv_小电视_动图/tvgif-尴尬.gif)
+![tvgif-大佬](https://emoji.shojo.cn/bili/src/tv_小电视_动图/tvgif-大佬.gif)

@@ -1,11 +1,23 @@
-# BiliEmoji
----
-## 表情
-罗伊Roi
+# 罗伊Roi
+![icon](https://emoji.shojo.cn/bili/src/罗伊Roi/icon.png)
 ## 链接
-使用Cloudflare
+Cloudflare:
 ```
 https://emoji.shojo.cn/bili/src/罗伊Roi
 ```
-## 说明
-Bilibili 表情的版权归原作者所有
+## 展示
+![罗伊Roi-Hi~](https://emoji.shojo.cn/bili/src/罗伊Roi/罗伊Roi-Hi~.png)
+![罗伊Roi-suki](https://emoji.shojo.cn/bili/src/罗伊Roi/罗伊Roi-suki.png)
+![罗伊Roi-ww](https://emoji.shojo.cn/bili/src/罗伊Roi/罗伊Roi-ww.png)
+![罗伊Roi-爱你](https://emoji.shojo.cn/bili/src/罗伊Roi/罗伊Roi-爱你.png)
+![罗伊Roi-吃桃](https://emoji.shojo.cn/bili/src/罗伊Roi/罗伊Roi-吃桃.png)
+![罗伊Roi-点赞](https://emoji.shojo.cn/bili/src/罗伊Roi/罗伊Roi-点赞.png)
+![罗伊Roi-干杯](https://emoji.shojo.cn/bili/src/罗伊Roi/罗伊Roi-干杯.png)
+![罗伊Roi-好耶](https://emoji.shojo.cn/bili/src/罗伊Roi/罗伊Roi-好耶.png)
+![罗伊Roi-击剑](https://emoji.shojo.cn/bili/src/罗伊Roi/罗伊Roi-击剑.png)
+![罗伊Roi-惊讶](https://emoji.shojo.cn/bili/src/罗伊Roi/罗伊Roi-惊讶.png)
+![罗伊Roi-哭哭](https://emoji.shojo.cn/bili/src/罗伊Roi/罗伊Roi-哭哭.png)
+![罗伊Roi-希望人没事](https://emoji.shojo.cn/bili/src/罗伊Roi/罗伊Roi-希望人没事.png)
+![罗伊Roi-嫌弃](https://emoji.shojo.cn/bili/src/罗伊Roi/罗伊Roi-嫌弃.png)
+![罗伊Roi-小丑](https://emoji.shojo.cn/bili/src/罗伊Roi/罗伊Roi-小丑.png)
+![罗伊Roi-疑惑](https://emoji.shojo.cn/bili/src/罗伊Roi/罗伊Roi-疑惑.png)

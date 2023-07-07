@@ -1,11 +1,33 @@
-# BiliEmoji
----
-## 表情
-Akie秋绘
+# Akie秋绘
+![icon](https://emoji.shojo.cn/bili/src/Akie秋绘/icon.png)
 ## 链接
-使用Cloudflare
+Cloudflare:
 ```
 https://emoji.shojo.cn/bili/src/Akie秋绘
 ```
-## 说明
-Bilibili 表情的版权归原作者所有
+## 展示
+![Akie秋绘-AWSL](https://emoji.shojo.cn/bili/src/Akie秋绘/Akie秋绘-AWSL.png)
+![Akie秋绘-ZZZ](https://emoji.shojo.cn/bili/src/Akie秋绘/Akie秋绘-ZZZ.png)
+![Akie秋绘-暗中观察](https://emoji.shojo.cn/bili/src/Akie秋绘/Akie秋绘-暗中观察.png)
+![Akie秋绘-傲娇](https://emoji.shojo.cn/bili/src/Akie秋绘/Akie秋绘-傲娇.png)
+![Akie秋绘-比心](https://emoji.shojo.cn/bili/src/Akie秋绘/Akie秋绘-比心.png)
+![Akie秋绘-不是浣熊](https://emoji.shojo.cn/bili/src/Akie秋绘/Akie秋绘-不是浣熊.png)
+![Akie秋绘-唱歌](https://emoji.shojo.cn/bili/src/Akie秋绘/Akie秋绘-唱歌.png)
+![Akie秋绘-打call](https://emoji.shojo.cn/bili/src/Akie秋绘/Akie秋绘-打call.png)
+![Akie秋绘-得意](https://emoji.shojo.cn/bili/src/Akie秋绘/Akie秋绘-得意.png)
+![Akie秋绘-都可以氪](https://emoji.shojo.cn/bili/src/Akie秋绘/Akie秋绘-都可以氪.png)
+![Akie秋绘-憨憨](https://emoji.shojo.cn/bili/src/Akie秋绘/Akie秋绘-憨憨.png)
+![Akie秋绘-绘公传](https://emoji.shojo.cn/bili/src/Akie秋绘/Akie秋绘-绘公传.png)
+![Akie秋绘-绘熊](https://emoji.shojo.cn/bili/src/Akie秋绘/Akie秋绘-绘熊.png)
+![Akie秋绘-可爱](https://emoji.shojo.cn/bili/src/Akie秋绘/Akie秋绘-可爱.png)
+![Akie秋绘-哭哭](https://emoji.shojo.cn/bili/src/Akie秋绘/Akie秋绘-哭哭.png)
+![Akie秋绘-让我缓缓](https://emoji.shojo.cn/bili/src/Akie秋绘/Akie秋绘-让我缓缓.png)
+![Akie秋绘-让我康康](https://emoji.shojo.cn/bili/src/Akie秋绘/Akie秋绘-让我康康.png)
+![Akie秋绘-生气](https://emoji.shojo.cn/bili/src/Akie秋绘/Akie秋绘-生气.png)
+![Akie秋绘-涮了涮了](https://emoji.shojo.cn/bili/src/Akie秋绘/Akie秋绘-涮了涮了.png)
+![Akie秋绘-无情嘲笑](https://emoji.shojo.cn/bili/src/Akie秋绘/Akie秋绘-无情嘲笑.png)
+![Akie秋绘-想peach](https://emoji.shojo.cn/bili/src/Akie秋绘/Akie秋绘-想peach.png)
+![Akie秋绘-谢谢](https://emoji.shojo.cn/bili/src/Akie秋绘/Akie秋绘-谢谢.png)
+![Akie秋绘-疑惑](https://emoji.shojo.cn/bili/src/Akie秋绘/Akie秋绘-疑惑.png)
+![Akie秋绘-震惊](https://emoji.shojo.cn/bili/src/Akie秋绘/Akie秋绘-震惊.png)
+![Akie秋绘-智能](https://emoji.shojo.cn/bili/src/Akie秋绘/Akie秋绘-智能.png)

@@ -1,11 +1,18 @@
-# BiliEmoji
----
-## 表情
-碧蓝航线2020
+# 碧蓝航线2020
+![icon](https://emoji.shojo.cn/bili/src/碧蓝航线2020/icon.png)
 ## 链接
-使用Cloudflare
+Cloudflare:
 ```
 https://emoji.shojo.cn/bili/src/碧蓝航线2020
 ```
-## 说明
-Bilibili 表情的版权归原作者所有
+## 展示
+![碧蓝航线2020-在干嘛](https://emoji.shojo.cn/bili/src/碧蓝航线2020/碧蓝航线2020-在干嘛.png)
+![碧蓝航线2020-肚子饿](https://emoji.shojo.cn/bili/src/碧蓝航线2020/碧蓝航线2020-肚子饿.png)
+![碧蓝航线2020-心动](https://emoji.shojo.cn/bili/src/碧蓝航线2020/碧蓝航线2020-心动.png)
+![碧蓝航线2020-hentai](https://emoji.shojo.cn/bili/src/碧蓝航线2020/碧蓝航线2020-hentai.png)
+![碧蓝航线2020-？！](https://emoji.shojo.cn/bili/src/碧蓝航线2020/碧蓝航线2020-？！.png)
+![碧蓝航线2020-睡着了](https://emoji.shojo.cn/bili/src/碧蓝航线2020/碧蓝航线2020-睡着了.png)
+![碧蓝航线2020-对不起](https://emoji.shojo.cn/bili/src/碧蓝航线2020/碧蓝航线2020-对不起.png)
+![碧蓝航线2020-加油](https://emoji.shojo.cn/bili/src/碧蓝航线2020/碧蓝航线2020-加油.png)
+![碧蓝航线2020-委屈](https://emoji.shojo.cn/bili/src/碧蓝航线2020/碧蓝航线2020-委屈.png)
+![碧蓝航线2020-晕](https://emoji.shojo.cn/bili/src/碧蓝航线2020/碧蓝航线2020-晕.png)

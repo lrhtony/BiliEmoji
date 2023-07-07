@@ -1,11 +1,18 @@
-# BiliEmoji
----
-## 表情
-钉宫妮妮Ninico（充电）
+# 钉宫妮妮Ninico（充电）
+![icon](https://emoji.shojo.cn/bili/src/钉宫妮妮Ninico（充电）/icon.png)
 ## 链接
-使用Cloudflare
+Cloudflare:
 ```
 https://emoji.shojo.cn/bili/src/钉宫妮妮Ninico（充电）
 ```
-## 说明
-Bilibili 表情的版权归原作者所有
+## 展示
+![UPOWER-8881297-6](https://emoji.shojo.cn/bili/src/钉宫妮妮Ninico（充电）/UPOWER-8881297-6.png)
+![UPOWER-8881297-kira](https://emoji.shojo.cn/bili/src/钉宫妮妮Ninico（充电）/UPOWER-8881297-kira.png)
+![UPOWER-8881297-欸嘿](https://emoji.shojo.cn/bili/src/钉宫妮妮Ninico（充电）/UPOWER-8881297-欸嘿.png)
+![UPOWER-8881297-抱抱妮](https://emoji.shojo.cn/bili/src/钉宫妮妮Ninico（充电）/UPOWER-8881297-抱抱妮.png)
+![UPOWER-8881297-哒咩](https://emoji.shojo.cn/bili/src/钉宫妮妮Ninico（充电）/UPOWER-8881297-哒咩.png)
+![UPOWER-8881297-放电妮](https://emoji.shojo.cn/bili/src/钉宫妮妮Ninico（充电）/UPOWER-8881297-放电妮.png)
+![UPOWER-8881297-摊摊妮](https://emoji.shojo.cn/bili/src/钉宫妮妮Ninico（充电）/UPOWER-8881297-摊摊妮.png)
+![UPOWER-8881297-ICU](https://emoji.shojo.cn/bili/src/钉宫妮妮Ninico（充电）/UPOWER-8881297-ICU.png)
+![UPOWER-8881297-贴贴](https://emoji.shojo.cn/bili/src/钉宫妮妮Ninico（充电）/UPOWER-8881297-贴贴.png)
+![UPOWER-8881297-果咩](https://emoji.shojo.cn/bili/src/钉宫妮妮Ninico（充电）/UPOWER-8881297-果咩.png)

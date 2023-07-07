@@ -1,11 +1,39 @@
-# BiliEmoji
----
-## 表情
-巴萨俱乐部
+# 巴萨俱乐部
+![icon](https://emoji.shojo.cn/bili/src/巴萨俱乐部/icon.png)
 ## 链接
-使用Cloudflare
+Cloudflare:
 ```
 https://emoji.shojo.cn/bili/src/巴萨俱乐部
 ```
-## 说明
-Bilibili 表情的版权归原作者所有
+## 展示
+![巴萨俱乐部-很慌](https://emoji.shojo.cn/bili/src/巴萨俱乐部/巴萨俱乐部-很慌.png)
+![巴萨俱乐部-无语](https://emoji.shojo.cn/bili/src/巴萨俱乐部/巴萨俱乐部-无语.png)
+![巴萨俱乐部-帽子戏法](https://emoji.shojo.cn/bili/src/巴萨俱乐部/巴萨俱乐部-帽子戏法.png)
+![巴萨俱乐部-加油](https://emoji.shojo.cn/bili/src/巴萨俱乐部/巴萨俱乐部-加油.png)
+![巴萨俱乐部-生气](https://emoji.shojo.cn/bili/src/巴萨俱乐部/巴萨俱乐部-生气.png)
+![巴萨俱乐部-黄牌警告](https://emoji.shojo.cn/bili/src/巴萨俱乐部/巴萨俱乐部-黄牌警告.png)
+![巴萨俱乐部-为什么](https://emoji.shojo.cn/bili/src/巴萨俱乐部/巴萨俱乐部-为什么.png)
+![巴萨俱乐部-击掌](https://emoji.shojo.cn/bili/src/巴萨俱乐部/巴萨俱乐部-击掌.png)
+![巴萨俱乐部-绝杀](https://emoji.shojo.cn/bili/src/巴萨俱乐部/巴萨俱乐部-绝杀.png)
+![巴萨俱乐部-安慰](https://emoji.shojo.cn/bili/src/巴萨俱乐部/巴萨俱乐部-安慰.png)
+![巴萨俱乐部-必胜](https://emoji.shojo.cn/bili/src/巴萨俱乐部/巴萨俱乐部-必胜.png)
+![巴萨俱乐部-怒](https://emoji.shojo.cn/bili/src/巴萨俱乐部/巴萨俱乐部-怒.png)
+![巴萨俱乐部-红牌罚下](https://emoji.shojo.cn/bili/src/巴萨俱乐部/巴萨俱乐部-红牌罚下.png)
+![巴萨俱乐部-沮丧](https://emoji.shojo.cn/bili/src/巴萨俱乐部/巴萨俱乐部-沮丧.png)
+![巴萨俱乐部-不甘心](https://emoji.shojo.cn/bili/src/巴萨俱乐部/巴萨俱乐部-不甘心.png)
+![巴萨俱乐部-滑跪](https://emoji.shojo.cn/bili/src/巴萨俱乐部/巴萨俱乐部-滑跪.png)
+![巴萨俱乐部-死守](https://emoji.shojo.cn/bili/src/巴萨俱乐部/巴萨俱乐部-死守.png)
+![巴萨俱乐部-熬夜](https://emoji.shojo.cn/bili/src/巴萨俱乐部/巴萨俱乐部-熬夜.png)
+![巴萨俱乐部-冠军](https://emoji.shojo.cn/bili/src/巴萨俱乐部/巴萨俱乐部-冠军.png)
+![巴萨俱乐部-好球](https://emoji.shojo.cn/bili/src/巴萨俱乐部/巴萨俱乐部-好球.png)
+![巴萨俱乐部-点球](https://emoji.shojo.cn/bili/src/巴萨俱乐部/巴萨俱乐部-点球.png)
+![巴萨俱乐部-打脸](https://emoji.shojo.cn/bili/src/巴萨俱乐部/巴萨俱乐部-打脸.png)
+![巴萨俱乐部-射门](https://emoji.shojo.cn/bili/src/巴萨俱乐部/巴萨俱乐部-射门.png)
+![巴萨俱乐部-球进啦！](https://emoji.shojo.cn/bili/src/巴萨俱乐部/巴萨俱乐部-球进啦！.png)
+![巴萨俱乐部-顶你](https://emoji.shojo.cn/bili/src/巴萨俱乐部/巴萨俱乐部-顶你.png)
+![巴萨俱乐部-干杯](https://emoji.shojo.cn/bili/src/巴萨俱乐部/巴萨俱乐部-干杯.png)
+![巴萨俱乐部-颠球](https://emoji.shojo.cn/bili/src/巴萨俱乐部/巴萨俱乐部-颠球.png)
+![巴萨俱乐部-不忍直视](https://emoji.shojo.cn/bili/src/巴萨俱乐部/巴萨俱乐部-不忍直视.png)
+![巴萨俱乐部-撞胸](https://emoji.shojo.cn/bili/src/巴萨俱乐部/巴萨俱乐部-撞胸.png)
+![巴萨俱乐部-扑球](https://emoji.shojo.cn/bili/src/巴萨俱乐部/巴萨俱乐部-扑球.png)
+![巴萨俱乐部-红蓝巴萨](https://emoji.shojo.cn/bili/src/巴萨俱乐部/巴萨俱乐部-红蓝巴萨.png)

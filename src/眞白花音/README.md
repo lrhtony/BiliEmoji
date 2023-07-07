@@ -1,11 +1,33 @@
-# BiliEmoji
----
-## 表情
-眞白花音
+# 眞白花音
+![icon](https://emoji.shojo.cn/bili/src/眞白花音/icon.png)
 ## 链接
-使用Cloudflare
+Cloudflare:
 ```
 https://emoji.shojo.cn/bili/src/眞白花音
 ```
-## 说明
-Bilibili 表情的版权归原作者所有
+## 展示
+![眞白花音-菜](https://emoji.shojo.cn/bili/src/眞白花音/眞白花音-菜.png)
+![眞白花音-打call](https://emoji.shojo.cn/bili/src/眞白花音/眞白花音-打call.png)
+![眞白花音-大头](https://emoji.shojo.cn/bili/src/眞白花音/眞白花音-大头.png)
+![眞白花音-对不起](https://emoji.shojo.cn/bili/src/眞白花音/眞白花音-对不起.png)
+![眞白花音-对对对](https://emoji.shojo.cn/bili/src/眞白花音/眞白花音-对对对.png)
+![眞白花音-干杯](https://emoji.shojo.cn/bili/src/眞白花音/眞白花音-干杯.png)
+![眞白花音-恭喜](https://emoji.shojo.cn/bili/src/眞白花音/眞白花音-恭喜.png)
+![眞白花音-好吃](https://emoji.shojo.cn/bili/src/眞白花音/眞白花音-好吃.png)
+![眞白花音-好耶](https://emoji.shojo.cn/bili/src/眞白花音/眞白花音-好耶.png)
+![眞白花音-加油](https://emoji.shojo.cn/bili/src/眞白花音/眞白花音-加油.png)
+![眞白花音-举拳攻击](https://emoji.shojo.cn/bili/src/眞白花音/眞白花音-举拳攻击.png)
+![眞白花音-哭哭](https://emoji.shojo.cn/bili/src/眞白花音/眞白花音-哭哭.png)
+![眞白花音-拿着白菜](https://emoji.shojo.cn/bili/src/眞白花音/眞白花音-拿着白菜.png)
+![眞白花音-你好](https://emoji.shojo.cn/bili/src/眞白花音/眞白花音-你好.png)
+![眞白花音-亲](https://emoji.shojo.cn/bili/src/眞白花音/眞白花音-亲.png)
+![眞白花音-认真学习中](https://emoji.shojo.cn/bili/src/眞白花音/眞白花音-认真学习中.png)
+![眞白花音-生气](https://emoji.shojo.cn/bili/src/眞白花音/眞白花音-生气.png)
+![眞白花音-晚安](https://emoji.shojo.cn/bili/src/眞白花音/眞白花音-晚安.png)
+![眞白花音-我是天才吧](https://emoji.shojo.cn/bili/src/眞白花音/眞白花音-我是天才吧.png)
+![眞白花音-下次还敢](https://emoji.shojo.cn/bili/src/眞白花音/眞白花音-下次还敢.png)
+![眞白花音-现在是什么感觉啊](https://emoji.shojo.cn/bili/src/眞白花音/眞白花音-现在是什么感觉啊.png)
+![眞白花音-笑脸](https://emoji.shojo.cn/bili/src/眞白花音/眞白花音-笑脸.png)
+![眞白花音-谢谢](https://emoji.shojo.cn/bili/src/眞白花音/眞白花音-谢谢.png)
+![眞白花音-星星眼](https://emoji.shojo.cn/bili/src/眞白花音/眞白花音-星星眼.png)
+![眞白花音-疑问](https://emoji.shojo.cn/bili/src/眞白花音/眞白花音-疑问.png)

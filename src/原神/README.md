@@ -1,11 +1,44 @@
-# BiliEmoji
----
-## 表情
-原神
+# 原神
+![icon](https://emoji.shojo.cn/bili/src/原神/icon.png)
 ## 链接
-使用Cloudflare
+Cloudflare:
 ```
 https://emoji.shojo.cn/bili/src/原神
 ```
-## 说明
-Bilibili 表情的版权归原作者所有
+## 展示
+![原神-小事一桩](https://emoji.shojo.cn/bili/src/原神/原神-小事一桩.png)
+![原神-唔](https://emoji.shojo.cn/bili/src/原神/原神-唔.png)
+![原神-躺平](https://emoji.shojo.cn/bili/src/原神/原神-躺平.png)
+![原神-哦](https://emoji.shojo.cn/bili/src/原神/原神-哦.png)
+![原神-哭哭](https://emoji.shojo.cn/bili/src/原神/原神-哭哭.png)
+![原神-救救我](https://emoji.shojo.cn/bili/src/原神/原神-救救我.png)
+![原神-警觉](https://emoji.shojo.cn/bili/src/原神/原神-警觉.png)
+![原神-交给我吧](https://emoji.shojo.cn/bili/src/原神/原神-交给我吧.png)
+![原神-哼哼](https://emoji.shojo.cn/bili/src/原神/原神-哼哼.png)
+![原神-给我走开](https://emoji.shojo.cn/bili/src/原神/原神-给我走开.png)
+![原神-鸽子](https://emoji.shojo.cn/bili/src/原神/原神-鸽子.png)
+![原神-干杯](https://emoji.shojo.cn/bili/src/原神/原神-干杯.png)
+![原神-该吃饭了](https://emoji.shojo.cn/bili/src/原神/原神-该吃饭了.png)
+![原神-出货吧](https://emoji.shojo.cn/bili/src/原神/原神-出货吧.png)
+![原神-吃惊](https://emoji.shojo.cn/bili/src/原神/原神-吃惊.png)
+![原神-不要啊](https://emoji.shojo.cn/bili/src/原神/原神-不要啊.png)
+![原神-拜托](https://emoji.shojo.cn/bili/src/原神/原神-拜托.png)
+![原神-zzZZ](https://emoji.shojo.cn/bili/src/原神/原神-zzZZ.png)
+![原神-good job](https://emoji.shojo.cn/bili/src/原神/原神-good job.png)
+![原神-1摩拉](https://emoji.shojo.cn/bili/src/原神/原神-1摩拉.png)
+![原神-OK](https://emoji.shojo.cn/bili/src/原神/原神-OK.png)
+![原神-暗中观察](https://emoji.shojo.cn/bili/src/原神/原神-暗中观察.png)
+![原神-比心](https://emoji.shojo.cn/bili/src/原神/原神-比心.png)
+![原神-震撼](https://emoji.shojo.cn/bili/src/原神/原神-震撼.png)
+![原神-倒](https://emoji.shojo.cn/bili/src/原神/原神-倒.png)
+![原神-点赞](https://emoji.shojo.cn/bili/src/原神/原神-点赞.png)
+![原神-鼓掌](https://emoji.shojo.cn/bili/src/原神/原神-鼓掌.png)
+![原神-乖巧](https://emoji.shojo.cn/bili/src/原神/原神-乖巧.png)
+![原神-得意](https://emoji.shojo.cn/bili/src/原神/原神-得意.png)
+![原神-冷漠](https://emoji.shojo.cn/bili/src/原神/原神-冷漠.png)
+![原神-期待](https://emoji.shojo.cn/bili/src/原神/原神-期待.png)
+![原神-撒花](https://emoji.shojo.cn/bili/src/原神/原神-撒花.png)
+![原神-晚安](https://emoji.shojo.cn/bili/src/原神/原神-晚安.png)
+![原神-委屈](https://emoji.shojo.cn/bili/src/原神/原神-委屈.png)
+![原神-疑问](https://emoji.shojo.cn/bili/src/原神/原神-疑问.png)
+![原神-有主意了](https://emoji.shojo.cn/bili/src/原神/原神-有主意了.png)

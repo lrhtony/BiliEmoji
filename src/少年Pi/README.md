@@ -1,11 +1,33 @@
-# BiliEmoji
----
-## 表情
-少年Pi
+# 少年Pi
+![icon](https://emoji.shojo.cn/bili/src/少年Pi/icon.png)
 ## 链接
-使用Cloudflare
+Cloudflare:
 ```
 https://emoji.shojo.cn/bili/src/少年Pi
 ```
-## 说明
-Bilibili 表情的版权归原作者所有
+## 展示
+![少年Pi-Big胆](https://emoji.shojo.cn/bili/src/少年Pi/少年Pi-Big胆.png)
+![少年Pi-邦邦两拳](https://emoji.shojo.cn/bili/src/少年Pi/少年Pi-邦邦两拳.png)
+![少年Pi-不乐](https://emoji.shojo.cn/bili/src/少年Pi/少年Pi-不乐.png)
+![少年Pi-和解](https://emoji.shojo.cn/bili/src/少年Pi/少年Pi-和解.png)
+![少年Pi-看破](https://emoji.shojo.cn/bili/src/少年Pi/少年Pi-看破.png)
+![少年Pi-酷哥](https://emoji.shojo.cn/bili/src/少年Pi/少年Pi-酷哥.png)
+![少年Pi-喇叭](https://emoji.shojo.cn/bili/src/少年Pi/少年Pi-喇叭.png)
+![少年Pi-老鼠汤](https://emoji.shojo.cn/bili/src/少年Pi/少年Pi-老鼠汤.png)
+![少年Pi-乐](https://emoji.shojo.cn/bili/src/少年Pi/少年Pi-乐.png)
+![少年Pi-两眼一黑](https://emoji.shojo.cn/bili/src/少年Pi/少年Pi-两眼一黑.png)
+![少年Pi-两眼一亮](https://emoji.shojo.cn/bili/src/少年Pi/少年Pi-两眼一亮.png)
+![少年Pi-有蟑螂！](https://emoji.shojo.cn/bili/src/少年Pi/少年Pi-有蟑螂！.png)
+![少年Pi-眠](https://emoji.shojo.cn/bili/src/少年Pi/少年Pi-眠.png)
+![少年Pi-挠头](https://emoji.shojo.cn/bili/src/少年Pi/少年Pi-挠头.png)
+![少年Pi-你先别急](https://emoji.shojo.cn/bili/src/少年Pi/少年Pi-你先别急.png)
+![少年Pi-女仆绝学](https://emoji.shojo.cn/bili/src/少年Pi/少年Pi-女仆绝学.png)
+![少年Pi-呕](https://emoji.shojo.cn/bili/src/少年Pi/少年Pi-呕.png)
+![少年Pi-恰外卖](https://emoji.shojo.cn/bili/src/少年Pi/少年Pi-恰外卖.png)
+![少年Pi-嗦面](https://emoji.shojo.cn/bili/src/少年Pi/少年Pi-嗦面.png)
+![少年Pi-下播](https://emoji.shojo.cn/bili/src/少年Pi/少年Pi-下播.png)
+![少年Pi-想逃？](https://emoji.shojo.cn/bili/src/少年Pi/少年Pi-想逃？.png)
+![少年Pi-阳间](https://emoji.shojo.cn/bili/src/少年Pi/少年Pi-阳间.png)
+![少年Pi-吔？](https://emoji.shojo.cn/bili/src/少年Pi/少年Pi-吔？.png)
+![少年Pi-呦西](https://emoji.shojo.cn/bili/src/少年Pi/少年Pi-呦西.png)
+![少年Pi-这个好](https://emoji.shojo.cn/bili/src/少年Pi/少年Pi-这个好.png)

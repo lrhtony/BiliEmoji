@@ -1,11 +1,18 @@
-# BiliEmoji
----
-## 表情
-百妖谱2
+# 百妖谱2
+![icon](https://emoji.shojo.cn/bili/src/百妖谱2/icon.png)
 ## 链接
-使用Cloudflare
+Cloudflare:
 ```
 https://emoji.shojo.cn/bili/src/百妖谱2
 ```
-## 说明
-Bilibili 表情的版权归原作者所有
+## 展示
+![百妖谱2-爱了爱了](https://emoji.shojo.cn/bili/src/百妖谱2/百妖谱2-爱了爱了.png)
+![百妖谱2-拜托拜托](https://emoji.shojo.cn/bili/src/百妖谱2/百妖谱2-拜托拜托.png)
+![百妖谱2-不安好心](https://emoji.shojo.cn/bili/src/百妖谱2/百妖谱2-不安好心.png)
+![百妖谱2-放饭了](https://emoji.shojo.cn/bili/src/百妖谱2/百妖谱2-放饭了.png)
+![百妖谱2-干饭人](https://emoji.shojo.cn/bili/src/百妖谱2/百妖谱2-干饭人.png)
+![百妖谱2-记仇](https://emoji.shojo.cn/bili/src/百妖谱2/百妖谱2-记仇.png)
+![百妖谱2-流泪](https://emoji.shojo.cn/bili/src/百妖谱2/百妖谱2-流泪.png)
+![百妖谱2-贴贴](https://emoji.shojo.cn/bili/src/百妖谱2/百妖谱2-贴贴.png)
+![百妖谱2-星星眼](https://emoji.shojo.cn/bili/src/百妖谱2/百妖谱2-星星眼.png)
+![百妖谱2-自闭](https://emoji.shojo.cn/bili/src/百妖谱2/百妖谱2-自闭.png)

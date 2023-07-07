@@ -1,11 +1,43 @@
-# BiliEmoji
----
-## 表情
-一二和布布
+# 一二和布布
+![icon](https://emoji.shojo.cn/bili/src/一二和布布/icon.png)
 ## 链接
-使用Cloudflare
+Cloudflare:
 ```
 https://emoji.shojo.cn/bili/src/一二和布布
 ```
-## 说明
-Bilibili 表情的版权归原作者所有
+## 展示
+![一二和布布-还挺牛](https://emoji.shojo.cn/bili/src/一二和布布/一二和布布-还挺牛.png)
+![一二和布布-爱你哦](https://emoji.shojo.cn/bili/src/一二和布布/一二和布布-爱你哦.png)
+![一二和布布-酷](https://emoji.shojo.cn/bili/src/一二和布布/一二和布布-酷.png)
+![一二和布布-警告](https://emoji.shojo.cn/bili/src/一二和布布/一二和布布-警告.png)
+![一二和布布-好哒](https://emoji.shojo.cn/bili/src/一二和布布/一二和布布-好哒.png)
+![一二和布布-额](https://emoji.shojo.cn/bili/src/一二和布布/一二和布布-额.png)
+![一二和布布-达咩](https://emoji.shojo.cn/bili/src/一二和布布/一二和布布-达咩.png)
+![一二和布布-比心](https://emoji.shojo.cn/bili/src/一二和布布/一二和布布-比心.png)
+![一二和布布-走了](https://emoji.shojo.cn/bili/src/一二和布布/一二和布布-走了.png)
+![一二和布布-让我看看](https://emoji.shojo.cn/bili/src/一二和布布/一二和布布-让我看看.png)
+![一二和布布-哇哦](https://emoji.shojo.cn/bili/src/一二和布布/一二和布布-哇哦.png)
+![一二和布布-拳头](https://emoji.shojo.cn/bili/src/一二和布布/一二和布布-拳头.png)
+![一二和布布-不想理你](https://emoji.shojo.cn/bili/src/一二和布布/一二和布布-不想理你.png)
+![一二和布布-晕](https://emoji.shojo.cn/bili/src/一二和布布/一二和布布-晕.png)
+![一二和布布-偷看](https://emoji.shojo.cn/bili/src/一二和布布/一二和布布-偷看.png)
+![一二和布布-ok](https://emoji.shojo.cn/bili/src/一二和布布/一二和布布-ok.png)
+![一二和布布-勾引](https://emoji.shojo.cn/bili/src/一二和布布/一二和布布-勾引.png)
+![一二和布布-可爱](https://emoji.shojo.cn/bili/src/一二和布布/一二和布布-可爱.png)
+![一二和布布-拉手手](https://emoji.shojo.cn/bili/src/一二和布布/一二和布布-拉手手.png)
+![一二和布布-敬礼](https://emoji.shojo.cn/bili/src/一二和布布/一二和布布-敬礼.png)
+![一二和布布-开心](https://emoji.shojo.cn/bili/src/一二和布布/一二和布布-开心.png)
+![一二和布布-摸头](https://emoji.shojo.cn/bili/src/一二和布布/一二和布布-摸头.png)
+![一二和布布-哦](https://emoji.shojo.cn/bili/src/一二和布布/一二和布布-哦.png)
+![一二和布布-贴贴](https://emoji.shojo.cn/bili/src/一二和布布/一二和布布-贴贴.png)
+![一二和布布-悲伤](https://emoji.shojo.cn/bili/src/一二和布布/一二和布布-悲伤.png)
+![一二和布布-脑阔疼](https://emoji.shojo.cn/bili/src/一二和布布/一二和布布-脑阔疼.png)
+![一二和布布-耶](https://emoji.shojo.cn/bili/src/一二和布布/一二和布布-耶.png)
+![一二和布布-等你](https://emoji.shojo.cn/bili/src/一二和布布/一二和布布-等你.png)
+![一二和布布-卖萌](https://emoji.shojo.cn/bili/src/一二和布布/一二和布布-卖萌.png)
+![一二和布布-嗨起来](https://emoji.shojo.cn/bili/src/一二和布布/一二和布布-嗨起来.png)
+![一二和布布-大佬坐姿](https://emoji.shojo.cn/bili/src/一二和布布/一二和布布-大佬坐姿.png)
+![一二和布布-站岗](https://emoji.shojo.cn/bili/src/一二和布布/一二和布布-站岗.png)
+![一二和布布-大冤种](https://emoji.shojo.cn/bili/src/一二和布布/一二和布布-大冤种.png)
+![一二和布布-欺负布布](https://emoji.shojo.cn/bili/src/一二和布布/一二和布布-欺负布布.png)
+![一二和布布-抽我](https://emoji.shojo.cn/bili/src/一二和布布/一二和布布-抽我.png)
