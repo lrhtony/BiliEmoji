@@ -1,38 +1,44 @@
 # 长草颜团子
-![icon](https://emoji.shojo.cn/bili/src/长草颜团子/icon.png)
+<img src="https://emoji.shojo.cn/bili/src/长草颜团子/icon.png" width="50" height="50" alt="icon">
+
 ## 链接
 Cloudflare:
 ```
 https://emoji.shojo.cn/bili/src/长草颜团子
+https://emoji.shojo.cn/bili/webp/长草颜团子
 ```
 ## 展示
-![长草颜团子-？？？](https://emoji.shojo.cn/bili/src/长草颜团子/长草颜团子-？？？.png)
-![长草颜团子-886](https://emoji.shojo.cn/bili/src/长草颜团子/长草颜团子-886.png)
-![长草颜团子-OK](https://emoji.shojo.cn/bili/src/长草颜团子/长草颜团子-OK.png)
-![长草颜团子-Power](https://emoji.shojo.cn/bili/src/长草颜团子/长草颜团子-Power.png)
-![长草颜团子-SOS](https://emoji.shojo.cn/bili/src/长草颜团子/长草颜团子-SOS.png)
-![长草颜团子-ZZZ](https://emoji.shojo.cn/bili/src/长草颜团子/长草颜团子-ZZZ.png)
-![长草颜团子-爱你](https://emoji.shojo.cn/bili/src/长草颜团子/长草颜团子-爱你.png)
-![长草颜团子-棒](https://emoji.shojo.cn/bili/src/长草颜团子/长草颜团子-棒.png)
-![长草颜团子-吃瓜](https://emoji.shojo.cn/bili/src/长草颜团子/长草颜团子-吃瓜.png)
-![长草颜团子-吹爆](https://emoji.shojo.cn/bili/src/长草颜团子/长草颜团子-吹爆.png)
-![长草颜团子-达咩](https://emoji.shojo.cn/bili/src/长草颜团子/长草颜团子-达咩.png)
-![长草颜团子-打](https://emoji.shojo.cn/bili/src/长草颜团子/长草颜团子-打.png)
-![长草颜团子-打卡](https://emoji.shojo.cn/bili/src/长草颜团子/长草颜团子-打卡.png)
-![长草颜团子-等](https://emoji.shojo.cn/bili/src/长草颜团子/长草颜团子-等.png)
-![长草颜团子-非酋](https://emoji.shojo.cn/bili/src/长草颜团子/长草颜团子-非酋.png)
-![长草颜团子-佛](https://emoji.shojo.cn/bili/src/长草颜团子/长草颜团子-佛.png)
-![长草颜团子-干杯](https://emoji.shojo.cn/bili/src/长草颜团子/长草颜团子-干杯.png)
-![长草颜团子-给我火](https://emoji.shojo.cn/bili/src/长草颜团子/长草颜团子-给我火.png)
-![长草颜团子-害怕](https://emoji.shojo.cn/bili/src/长草颜团子/长草颜团子-害怕.png)
-![长草颜团子-看看](https://emoji.shojo.cn/bili/src/长草颜团子/长草颜团子-看看.png)
-![长草颜团子-哭了](https://emoji.shojo.cn/bili/src/长草颜团子/长草颜团子-哭了.png)
-![长草颜团子-摸鱼](https://emoji.shojo.cn/bili/src/长草颜团子/长草颜团子-摸鱼.png)
-![长草颜团子-你好](https://emoji.shojo.cn/bili/src/长草颜团子/长草颜团子-你好.png)
-![长草颜团子-潜水](https://emoji.shojo.cn/bili/src/长草颜团子/长草颜团子-潜水.png)
-![长草颜团子-三连](https://emoji.shojo.cn/bili/src/长草颜团子/长草颜团子-三连.png)
-![长草颜团子-私信](https://emoji.shojo.cn/bili/src/长草颜团子/长草颜团子-私信.png)
-![长草颜团子-完结撒花](https://emoji.shojo.cn/bili/src/长草颜团子/长草颜团子-完结撒花.png)
-![长草颜团子-无语](https://emoji.shojo.cn/bili/src/长草颜团子/长草颜团子-无语.png)
-![长草颜团子-在吗](https://emoji.shojo.cn/bili/src/长草颜团子/长草颜团子-在吗.png)
-![长草颜团子-震惊](https://emoji.shojo.cn/bili/src/长草颜团子/长草颜团子-震惊.png)
+<img src="https://emoji.shojo.cn/bili/src/长草颜团子/长草颜团子-？？？.png" width="50" height="50" alt="长草颜团子-？？？">
+<img src="https://emoji.shojo.cn/bili/src/长草颜团子/长草颜团子-886.png" width="50" height="50" alt="长草颜团子-886">
+<img src="https://emoji.shojo.cn/bili/src/长草颜团子/长草颜团子-OK.png" width="50" height="50" alt="长草颜团子-OK">
+<img src="https://emoji.shojo.cn/bili/src/长草颜团子/长草颜团子-Power.png" width="50" height="50" alt="长草颜团子-Power">
+<img src="https://emoji.shojo.cn/bili/src/长草颜团子/长草颜团子-SOS.png" width="50" height="50" alt="长草颜团子-SOS">
+<img src="https://emoji.shojo.cn/bili/src/长草颜团子/长草颜团子-ZZZ.png" width="50" height="50" alt="长草颜团子-ZZZ">
+<img src="https://emoji.shojo.cn/bili/src/长草颜团子/长草颜团子-爱你.png" width="50" height="50" alt="长草颜团子-爱你">
+<img src="https://emoji.shojo.cn/bili/src/长草颜团子/长草颜团子-棒.png" width="50" height="50" alt="长草颜团子-棒">
+<img src="https://emoji.shojo.cn/bili/src/长草颜团子/长草颜团子-吃瓜.png" width="50" height="50" alt="长草颜团子-吃瓜">
+<img src="https://emoji.shojo.cn/bili/src/长草颜团子/长草颜团子-吹爆.png" width="50" height="50" alt="长草颜团子-吹爆">
+<img src="https://emoji.shojo.cn/bili/src/长草颜团子/长草颜团子-达咩.png" width="50" height="50" alt="长草颜团子-达咩">
+<img src="https://emoji.shojo.cn/bili/src/长草颜团子/长草颜团子-打.png" width="50" height="50" alt="长草颜团子-打">
+<img src="https://emoji.shojo.cn/bili/src/长草颜团子/长草颜团子-打卡.png" width="50" height="50" alt="长草颜团子-打卡">
+<img src="https://emoji.shojo.cn/bili/src/长草颜团子/长草颜团子-等.png" width="50" height="50" alt="长草颜团子-等">
+<img src="https://emoji.shojo.cn/bili/src/长草颜团子/长草颜团子-非酋.png" width="50" height="50" alt="长草颜团子-非酋">
+<img src="https://emoji.shojo.cn/bili/src/长草颜团子/长草颜团子-佛.png" width="50" height="50" alt="长草颜团子-佛">
+<img src="https://emoji.shojo.cn/bili/src/长草颜团子/长草颜团子-干杯.png" width="50" height="50" alt="长草颜团子-干杯">
+<img src="https://emoji.shojo.cn/bili/src/长草颜团子/长草颜团子-给我火.png" width="50" height="50" alt="长草颜团子-给我火">
+<img src="https://emoji.shojo.cn/bili/src/长草颜团子/长草颜团子-害怕.png" width="50" height="50" alt="长草颜团子-害怕">
+<img src="https://emoji.shojo.cn/bili/src/长草颜团子/长草颜团子-看看.png" width="50" height="50" alt="长草颜团子-看看">
+<img src="https://emoji.shojo.cn/bili/src/长草颜团子/长草颜团子-哭了.png" width="50" height="50" alt="长草颜团子-哭了">
+<img src="https://emoji.shojo.cn/bili/src/长草颜团子/长草颜团子-摸鱼.png" width="50" height="50" alt="长草颜团子-摸鱼">
+<img src="https://emoji.shojo.cn/bili/src/长草颜团子/长草颜团子-你好.png" width="50" height="50" alt="长草颜团子-你好">
+<img src="https://emoji.shojo.cn/bili/src/长草颜团子/长草颜团子-潜水.png" width="50" height="50" alt="长草颜团子-潜水">
+<img src="https://emoji.shojo.cn/bili/src/长草颜团子/长草颜团子-三连.png" width="50" height="50" alt="长草颜团子-三连">
+<img src="https://emoji.shojo.cn/bili/src/长草颜团子/长草颜团子-私信.png" width="50" height="50" alt="长草颜团子-私信">
+<img src="https://emoji.shojo.cn/bili/src/长草颜团子/长草颜团子-完结撒花.png" width="50" height="50" alt="长草颜团子-完结撒花">
+<img src="https://emoji.shojo.cn/bili/src/长草颜团子/长草颜团子-无语.png" width="50" height="50" alt="长草颜团子-无语">
+<img src="https://emoji.shojo.cn/bili/src/长草颜团子/长草颜团子-在吗.png" width="50" height="50" alt="长草颜团子-在吗">
+<img src="https://emoji.shojo.cn/bili/src/长草颜团子/长草颜团子-震惊.png" width="50" height="50" alt="长草颜团子-震惊">
+
+## 下载地址
+
+https://shamiko-my.sharepoint.com/:u:/g/personal/img_yuru_pro/EY3NYI1IsGVKpP7SUBarmV8BBGBk9b_YAwULc2nJEqCz4w

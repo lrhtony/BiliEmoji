@@ -1,18 +1,24 @@
 # 轻视频羊咩咩
-![icon](https://emoji.shojo.cn/bili/src/轻视频羊咩咩/icon.png)
+<img src="https://emoji.shojo.cn/bili/src/轻视频羊咩咩/icon.png" width="50" height="50" alt="icon">
+
 ## 链接
 Cloudflare:
 ```
 https://emoji.shojo.cn/bili/src/轻视频羊咩咩
+https://emoji.shojo.cn/bili/webp/轻视频羊咩咩
 ```
 ## 展示
-![轻视频-呆滞](https://emoji.shojo.cn/bili/src/轻视频羊咩咩/轻视频-呆滞.png)
-![轻视频-点赞](https://emoji.shojo.cn/bili/src/轻视频羊咩咩/轻视频-点赞.png)
-![轻视频-干杯](https://emoji.shojo.cn/bili/src/轻视频羊咩咩/轻视频-干杯.png)
-![轻视频-哭哭](https://emoji.shojo.cn/bili/src/轻视频羊咩咩/轻视频-哭哭.png)
-![轻视频-妙啊](https://emoji.shojo.cn/bili/src/轻视频羊咩咩/轻视频-妙啊.png)
-![轻视频-酸了](https://emoji.shojo.cn/bili/src/轻视频羊咩咩/轻视频-酸了.png)
-![轻视频-躺枪](https://emoji.shojo.cn/bili/src/轻视频羊咩咩/轻视频-躺枪.png)
-![轻视频-无语](https://emoji.shojo.cn/bili/src/轻视频羊咩咩/轻视频-无语.png)
-![轻视频-想桃子](https://emoji.shojo.cn/bili/src/轻视频羊咩咩/轻视频-想桃子.png)
-![轻视频-中奖绝缘](https://emoji.shojo.cn/bili/src/轻视频羊咩咩/轻视频-中奖绝缘.png)
+<img src="https://emoji.shojo.cn/bili/src/轻视频羊咩咩/轻视频-呆滞.png" width="50" height="50" alt="轻视频-呆滞">
+<img src="https://emoji.shojo.cn/bili/src/轻视频羊咩咩/轻视频-点赞.png" width="50" height="50" alt="轻视频-点赞">
+<img src="https://emoji.shojo.cn/bili/src/轻视频羊咩咩/轻视频-干杯.png" width="50" height="50" alt="轻视频-干杯">
+<img src="https://emoji.shojo.cn/bili/src/轻视频羊咩咩/轻视频-哭哭.png" width="50" height="50" alt="轻视频-哭哭">
+<img src="https://emoji.shojo.cn/bili/src/轻视频羊咩咩/轻视频-妙啊.png" width="50" height="50" alt="轻视频-妙啊">
+<img src="https://emoji.shojo.cn/bili/src/轻视频羊咩咩/轻视频-酸了.png" width="50" height="50" alt="轻视频-酸了">
+<img src="https://emoji.shojo.cn/bili/src/轻视频羊咩咩/轻视频-躺枪.png" width="50" height="50" alt="轻视频-躺枪">
+<img src="https://emoji.shojo.cn/bili/src/轻视频羊咩咩/轻视频-无语.png" width="50" height="50" alt="轻视频-无语">
+<img src="https://emoji.shojo.cn/bili/src/轻视频羊咩咩/轻视频-想桃子.png" width="50" height="50" alt="轻视频-想桃子">
+<img src="https://emoji.shojo.cn/bili/src/轻视频羊咩咩/轻视频-中奖绝缘.png" width="50" height="50" alt="轻视频-中奖绝缘">
+
+## 下载地址
+
+https://shamiko-my.sharepoint.com/:u:/g/personal/img_yuru_pro/EZb0hEiItllDgogvAImKF5EBcTtTC9iH_huJxya8A6P3Jg

@@ -1,28 +1,34 @@
 # 冷兔
-![icon](https://emoji.shojo.cn/bili/src/冷兔/icon.png)
+<img src="https://emoji.shojo.cn/bili/src/冷兔/icon.png" width="50" height="50" alt="icon">
+
 ## 链接
 Cloudflare:
 ```
 https://emoji.shojo.cn/bili/src/冷兔
+https://emoji.shojo.cn/bili/webp/冷兔
 ```
 ## 展示
-![冷兔-吃瓜](https://emoji.shojo.cn/bili/src/冷兔/冷兔-吃瓜.png)
-![冷兔-233](https://emoji.shojo.cn/bili/src/冷兔/冷兔-233.png)
-![冷兔-这不科学](https://emoji.shojo.cn/bili/src/冷兔/冷兔-这不科学.png)
-![冷兔-？？？](https://emoji.shojo.cn/bili/src/冷兔/冷兔-？？？.png)
-![冷兔-等更](https://emoji.shojo.cn/bili/src/冷兔/冷兔-等更.png)
-![冷兔-丢你雷姆](https://emoji.shojo.cn/bili/src/冷兔/冷兔-丢你雷姆.png)
-![冷兔-耶](https://emoji.shojo.cn/bili/src/冷兔/冷兔-耶.png)
-![冷兔-无语](https://emoji.shojo.cn/bili/src/冷兔/冷兔-无语.png)
-![冷兔-额](https://emoji.shojo.cn/bili/src/冷兔/冷兔-额.png)
-![冷兔-呵呵](https://emoji.shojo.cn/bili/src/冷兔/冷兔-呵呵.png)
-![冷兔-一无所知](https://emoji.shojo.cn/bili/src/冷兔/冷兔-一无所知.png)
-![冷兔-体前屈](https://emoji.shojo.cn/bili/src/冷兔/冷兔-体前屈.png)
-![冷兔-喜欢](https://emoji.shojo.cn/bili/src/冷兔/冷兔-喜欢.png)
-![冷兔-哭](https://emoji.shojo.cn/bili/src/冷兔/冷兔-哭.png)
-![冷兔-赞](https://emoji.shojo.cn/bili/src/冷兔/冷兔-赞.png)
-![冷兔-低头](https://emoji.shojo.cn/bili/src/冷兔/冷兔-低头.png)
-![冷兔-卖萌](https://emoji.shojo.cn/bili/src/冷兔/冷兔-卖萌.png)
-![冷兔-扶额](https://emoji.shojo.cn/bili/src/冷兔/冷兔-扶额.png)
-![冷兔-掀桌](https://emoji.shojo.cn/bili/src/冷兔/冷兔-掀桌.png)
-![冷兔-吸欧气](https://emoji.shojo.cn/bili/src/冷兔/冷兔-吸欧气.png)
+<img src="https://emoji.shojo.cn/bili/src/冷兔/冷兔-吃瓜.png" width="50" height="50" alt="冷兔-吃瓜">
+<img src="https://emoji.shojo.cn/bili/src/冷兔/冷兔-233.png" width="50" height="50" alt="冷兔-233">
+<img src="https://emoji.shojo.cn/bili/src/冷兔/冷兔-这不科学.png" width="50" height="50" alt="冷兔-这不科学">
+<img src="https://emoji.shojo.cn/bili/src/冷兔/冷兔-？？？.png" width="50" height="50" alt="冷兔-？？？">
+<img src="https://emoji.shojo.cn/bili/src/冷兔/冷兔-等更.png" width="50" height="50" alt="冷兔-等更">
+<img src="https://emoji.shojo.cn/bili/src/冷兔/冷兔-丢你雷姆.png" width="50" height="50" alt="冷兔-丢你雷姆">
+<img src="https://emoji.shojo.cn/bili/src/冷兔/冷兔-耶.png" width="50" height="50" alt="冷兔-耶">
+<img src="https://emoji.shojo.cn/bili/src/冷兔/冷兔-无语.png" width="50" height="50" alt="冷兔-无语">
+<img src="https://emoji.shojo.cn/bili/src/冷兔/冷兔-额.png" width="50" height="50" alt="冷兔-额">
+<img src="https://emoji.shojo.cn/bili/src/冷兔/冷兔-呵呵.png" width="50" height="50" alt="冷兔-呵呵">
+<img src="https://emoji.shojo.cn/bili/src/冷兔/冷兔-一无所知.png" width="50" height="50" alt="冷兔-一无所知">
+<img src="https://emoji.shojo.cn/bili/src/冷兔/冷兔-体前屈.png" width="50" height="50" alt="冷兔-体前屈">
+<img src="https://emoji.shojo.cn/bili/src/冷兔/冷兔-喜欢.png" width="50" height="50" alt="冷兔-喜欢">
+<img src="https://emoji.shojo.cn/bili/src/冷兔/冷兔-哭.png" width="50" height="50" alt="冷兔-哭">
+<img src="https://emoji.shojo.cn/bili/src/冷兔/冷兔-赞.png" width="50" height="50" alt="冷兔-赞">
+<img src="https://emoji.shojo.cn/bili/src/冷兔/冷兔-低头.png" width="50" height="50" alt="冷兔-低头">
+<img src="https://emoji.shojo.cn/bili/src/冷兔/冷兔-卖萌.png" width="50" height="50" alt="冷兔-卖萌">
+<img src="https://emoji.shojo.cn/bili/src/冷兔/冷兔-扶额.png" width="50" height="50" alt="冷兔-扶额">
+<img src="https://emoji.shojo.cn/bili/src/冷兔/冷兔-掀桌.png" width="50" height="50" alt="冷兔-掀桌">
+<img src="https://emoji.shojo.cn/bili/src/冷兔/冷兔-吸欧气.png" width="50" height="50" alt="冷兔-吸欧气">
+
+## 下载地址
+
+https://shamiko-my.sharepoint.com/:u:/g/personal/img_yuru_pro/EfgE7G-tfJhOnYm3GYVA334BTYTk9iY0jVKlMV0t-Is1wA

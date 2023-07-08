@@ -1,23 +1,29 @@
 # OK鸭 非常OK
-![icon](https://emoji.shojo.cn/bili/src/OK鸭 非常OK/icon.png)
+<img src="https://emoji.shojo.cn/bili/src/OK鸭 非常OK/icon.png" width="50" height="50" alt="icon">
+
 ## 链接
 Cloudflare:
 ```
 https://emoji.shojo.cn/bili/src/OK鸭 非常OK
+https://emoji.shojo.cn/bili/webp/OK鸭 非常OK
 ```
 ## 展示
-![OK鸭 非常OK-你没事吧](https://emoji.shojo.cn/bili/src/OK鸭 非常OK/OK鸭 非常OK-你没事吧.png)
-![OK鸭 非常OK-怎么不算呢](https://emoji.shojo.cn/bili/src/OK鸭 非常OK/OK鸭 非常OK-怎么不算呢.png)
-![OK鸭 非常OK-这是你的吗](https://emoji.shojo.cn/bili/src/OK鸭 非常OK/OK鸭 非常OK-这是你的吗.png)
-![OK鸭 非常OK-不要问我](https://emoji.shojo.cn/bili/src/OK鸭 非常OK/OK鸭 非常OK-不要问我.png)
-![OK鸭 非常OK-我不清楚](https://emoji.shojo.cn/bili/src/OK鸭 非常OK/OK鸭 非常OK-我不清楚.png)
-![OK鸭 非常OK-你好](https://emoji.shojo.cn/bili/src/OK鸭 非常OK/OK鸭 非常OK-你好.png)
-![OK鸭 非常OK-烧鸭](https://emoji.shojo.cn/bili/src/OK鸭 非常OK/OK鸭 非常OK-烧鸭.png)
-![OK鸭 非常OK-退退退](https://emoji.shojo.cn/bili/src/OK鸭 非常OK/OK鸭 非常OK-退退退.png)
-![OK鸭 非常OK-OK鸭](https://emoji.shojo.cn/bili/src/OK鸭 非常OK/OK鸭 非常OK-OK鸭.png)
-![OK鸭 非常OK-NO](https://emoji.shojo.cn/bili/src/OK鸭 非常OK/OK鸭 非常OK-NO.png)
-![OK鸭 非常OK-很有感觉](https://emoji.shojo.cn/bili/src/OK鸭 非常OK/OK鸭 非常OK-很有感觉.png)
-![OK鸭 非常OK-开始幻想](https://emoji.shojo.cn/bili/src/OK鸭 非常OK/OK鸭 非常OK-开始幻想.png)
-![OK鸭 非常OK-清心寡欲](https://emoji.shojo.cn/bili/src/OK鸭 非常OK/OK鸭 非常OK-清心寡欲.png)
-![OK鸭 非常OK-探头](https://emoji.shojo.cn/bili/src/OK鸭 非常OK/OK鸭 非常OK-探头.png)
-![OK鸭 非常OK-哭哭鸭](https://emoji.shojo.cn/bili/src/OK鸭 非常OK/OK鸭 非常OK-哭哭鸭.png)
+<img src="https://emoji.shojo.cn/bili/src/OK鸭 非常OK/OK鸭 非常OK-你没事吧.png" width="50" height="50" alt="OK鸭 非常OK-你没事吧">
+<img src="https://emoji.shojo.cn/bili/src/OK鸭 非常OK/OK鸭 非常OK-怎么不算呢.png" width="50" height="50" alt="OK鸭 非常OK-怎么不算呢">
+<img src="https://emoji.shojo.cn/bili/src/OK鸭 非常OK/OK鸭 非常OK-这是你的吗.png" width="50" height="50" alt="OK鸭 非常OK-这是你的吗">
+<img src="https://emoji.shojo.cn/bili/src/OK鸭 非常OK/OK鸭 非常OK-不要问我.png" width="50" height="50" alt="OK鸭 非常OK-不要问我">
+<img src="https://emoji.shojo.cn/bili/src/OK鸭 非常OK/OK鸭 非常OK-我不清楚.png" width="50" height="50" alt="OK鸭 非常OK-我不清楚">
+<img src="https://emoji.shojo.cn/bili/src/OK鸭 非常OK/OK鸭 非常OK-你好.png" width="50" height="50" alt="OK鸭 非常OK-你好">
+<img src="https://emoji.shojo.cn/bili/src/OK鸭 非常OK/OK鸭 非常OK-烧鸭.png" width="50" height="50" alt="OK鸭 非常OK-烧鸭">
+<img src="https://emoji.shojo.cn/bili/src/OK鸭 非常OK/OK鸭 非常OK-退退退.png" width="50" height="50" alt="OK鸭 非常OK-退退退">
+<img src="https://emoji.shojo.cn/bili/src/OK鸭 非常OK/OK鸭 非常OK-OK鸭.png" width="50" height="50" alt="OK鸭 非常OK-OK鸭">
+<img src="https://emoji.shojo.cn/bili/src/OK鸭 非常OK/OK鸭 非常OK-NO.png" width="50" height="50" alt="OK鸭 非常OK-NO">
+<img src="https://emoji.shojo.cn/bili/src/OK鸭 非常OK/OK鸭 非常OK-很有感觉.png" width="50" height="50" alt="OK鸭 非常OK-很有感觉">
+<img src="https://emoji.shojo.cn/bili/src/OK鸭 非常OK/OK鸭 非常OK-开始幻想.png" width="50" height="50" alt="OK鸭 非常OK-开始幻想">
+<img src="https://emoji.shojo.cn/bili/src/OK鸭 非常OK/OK鸭 非常OK-清心寡欲.png" width="50" height="50" alt="OK鸭 非常OK-清心寡欲">
+<img src="https://emoji.shojo.cn/bili/src/OK鸭 非常OK/OK鸭 非常OK-探头.png" width="50" height="50" alt="OK鸭 非常OK-探头">
+<img src="https://emoji.shojo.cn/bili/src/OK鸭 非常OK/OK鸭 非常OK-哭哭鸭.png" width="50" height="50" alt="OK鸭 非常OK-哭哭鸭">
+
+## 下载地址
+
+https://shamiko-my.sharepoint.com/:u:/g/personal/img_yuru_pro/EQKAiNoC5PtMmDeJinMyQ40BqC84fpYnM-R3W3TA1EuBTQ

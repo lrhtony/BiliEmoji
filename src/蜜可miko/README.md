@@ -1,23 +1,29 @@
 # 蜜可miko
-![icon](https://emoji.shojo.cn/bili/src/蜜可miko/icon.png)
+<img src="https://emoji.shojo.cn/bili/src/蜜可miko/icon.png" width="50" height="50" alt="icon">
+
 ## 链接
 Cloudflare:
 ```
 https://emoji.shojo.cn/bili/src/蜜可miko
+https://emoji.shojo.cn/bili/webp/蜜可miko
 ```
 ## 展示
-![蜜可miko-无奈](https://emoji.shojo.cn/bili/src/蜜可miko/蜜可miko-无奈.png)
-![蜜可miko-哭哭](https://emoji.shojo.cn/bili/src/蜜可miko/蜜可miko-哭哭.png)
-![蜜可miko-血压升高](https://emoji.shojo.cn/bili/src/蜜可miko/蜜可miko-血压升高.png)
-![蜜可miko-诶~](https://emoji.shojo.cn/bili/src/蜜可miko/蜜可miko-诶~.png)
-![蜜可miko-噗](https://emoji.shojo.cn/bili/src/蜜可miko/蜜可miko-噗.png)
-![蜜可miko-点赞](https://emoji.shojo.cn/bili/src/蜜可miko/蜜可miko-点赞.png)
-![蜜可miko-升天](https://emoji.shojo.cn/bili/src/蜜可miko/蜜可miko-升天.png)
-![蜜可miko-亲亲](https://emoji.shojo.cn/bili/src/蜜可miko/蜜可miko-亲亲.png)
-![蜜可miko-？？？](https://emoji.shojo.cn/bili/src/蜜可miko/蜜可miko-？？？.png)
-![蜜可miko-打call](https://emoji.shojo.cn/bili/src/蜜可miko/蜜可miko-打call.png)
-![蜜可miko-羡慕](https://emoji.shojo.cn/bili/src/蜜可miko/蜜可miko-羡慕.png)
-![蜜可miko-晚安](https://emoji.shojo.cn/bili/src/蜜可miko/蜜可miko-晚安.png)
-![蜜可miko-摸了](https://emoji.shojo.cn/bili/src/蜜可miko/蜜可miko-摸了.png)
-![蜜可miko-啊？](https://emoji.shojo.cn/bili/src/蜜可miko/蜜可miko-啊？.png)
-![蜜可miko-知识增加](https://emoji.shojo.cn/bili/src/蜜可miko/蜜可miko-知识增加.png)
+<img src="https://emoji.shojo.cn/bili/src/蜜可miko/蜜可miko-无奈.png" width="50" height="50" alt="蜜可miko-无奈">
+<img src="https://emoji.shojo.cn/bili/src/蜜可miko/蜜可miko-哭哭.png" width="50" height="50" alt="蜜可miko-哭哭">
+<img src="https://emoji.shojo.cn/bili/src/蜜可miko/蜜可miko-血压升高.png" width="50" height="50" alt="蜜可miko-血压升高">
+<img src="https://emoji.shojo.cn/bili/src/蜜可miko/蜜可miko-诶~.png" width="50" height="50" alt="蜜可miko-诶~">
+<img src="https://emoji.shojo.cn/bili/src/蜜可miko/蜜可miko-噗.png" width="50" height="50" alt="蜜可miko-噗">
+<img src="https://emoji.shojo.cn/bili/src/蜜可miko/蜜可miko-点赞.png" width="50" height="50" alt="蜜可miko-点赞">
+<img src="https://emoji.shojo.cn/bili/src/蜜可miko/蜜可miko-升天.png" width="50" height="50" alt="蜜可miko-升天">
+<img src="https://emoji.shojo.cn/bili/src/蜜可miko/蜜可miko-亲亲.png" width="50" height="50" alt="蜜可miko-亲亲">
+<img src="https://emoji.shojo.cn/bili/src/蜜可miko/蜜可miko-？？？.png" width="50" height="50" alt="蜜可miko-？？？">
+<img src="https://emoji.shojo.cn/bili/src/蜜可miko/蜜可miko-打call.png" width="50" height="50" alt="蜜可miko-打call">
+<img src="https://emoji.shojo.cn/bili/src/蜜可miko/蜜可miko-羡慕.png" width="50" height="50" alt="蜜可miko-羡慕">
+<img src="https://emoji.shojo.cn/bili/src/蜜可miko/蜜可miko-晚安.png" width="50" height="50" alt="蜜可miko-晚安">
+<img src="https://emoji.shojo.cn/bili/src/蜜可miko/蜜可miko-摸了.png" width="50" height="50" alt="蜜可miko-摸了">
+<img src="https://emoji.shojo.cn/bili/src/蜜可miko/蜜可miko-啊？.png" width="50" height="50" alt="蜜可miko-啊？">
+<img src="https://emoji.shojo.cn/bili/src/蜜可miko/蜜可miko-知识增加.png" width="50" height="50" alt="蜜可miko-知识增加">
+
+## 下载地址
+
+https://shamiko-my.sharepoint.com/:u:/g/personal/img_yuru_pro/ETW_RmNF8PhGg-fZwnCkaucB29EsxhPaumivr5KE_OM9-w

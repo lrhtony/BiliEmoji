@@ -1,33 +1,39 @@
 # 小小约yoo
-![icon](https://emoji.shojo.cn/bili/src/小小约yoo/icon.png)
+<img src="https://emoji.shojo.cn/bili/src/小小约yoo/icon.png" width="50" height="50" alt="icon">
+
 ## 链接
 Cloudflare:
 ```
 https://emoji.shojo.cn/bili/src/小小约yoo
+https://emoji.shojo.cn/bili/webp/小小约yoo
 ```
 ## 展示
-![小小约yoo-BYD](https://emoji.shojo.cn/bili/src/小小约yoo/小小约yoo-BYD.png)
-![小小约yoo-别啊](https://emoji.shojo.cn/bili/src/小小约yoo/小小约yoo-别啊.png)
-![小小约yoo-别发颤](https://emoji.shojo.cn/bili/src/小小约yoo/小小约yoo-别发颤.png)
-![小小约yoo-不过如此](https://emoji.shojo.cn/bili/src/小小约yoo/小小约yoo-不过如此.png)
-![小小约yoo-不是吧](https://emoji.shojo.cn/bili/src/小小约yoo/小小约yoo-不是吧.png)
-![小小约yoo-低情商](https://emoji.shojo.cn/bili/src/小小约yoo/小小约yoo-低情商.png)
-![小小约yoo-高情商](https://emoji.shojo.cn/bili/src/小小约yoo/小小约yoo-高情商.png)
-![小小约yoo-火](https://emoji.shojo.cn/bili/src/小小约yoo/小小约yoo-火.png)
-![小小约yoo-急了](https://emoji.shojo.cn/bili/src/小小约yoo/小小约yoo-急了.png)
-![小小约yoo-就好这口](https://emoji.shojo.cn/bili/src/小小约yoo/小小约yoo-就好这口.png)
-![小小约yoo-跨个批脸](https://emoji.shojo.cn/bili/src/小小约yoo/小小约yoo-跨个批脸.png)
-![小小约yoo-泪目](https://emoji.shojo.cn/bili/src/小小约yoo/小小约yoo-泪目.png)
-![小小约yoo-流汗](https://emoji.shojo.cn/bili/src/小小约yoo/小小约yoo-流汗.png)
-![小小约yoo-爆大米](https://emoji.shojo.cn/bili/src/小小约yoo/小小约yoo-爆大米.png)
-![小小约yoo-摸头](https://emoji.shojo.cn/bili/src/小小约yoo/小小约yoo-摸头.png)
-![小小约yoo-拿捏](https://emoji.shojo.cn/bili/src/小小约yoo/小小约yoo-拿捏.png)
-![小小约yoo-祈祷](https://emoji.shojo.cn/bili/src/小小约yoo/小小约yoo-祈祷.png)
-![小小约yoo-切割](https://emoji.shojo.cn/bili/src/小小约yoo/小小约yoo-切割.png)
-![小小约yoo-让我看看](https://emoji.shojo.cn/bili/src/小小约yoo/小小约yoo-让我看看.png)
-![小小约yoo-啥](https://emoji.shojo.cn/bili/src/小小约yoo/小小约yoo-啥.png)
-![小小约yoo-舔](https://emoji.shojo.cn/bili/src/小小约yoo/小小约yoo-舔.png)
-![小小约yoo-投降](https://emoji.shojo.cn/bili/src/小小约yoo/小小约yoo-投降.png)
-![小小约yoo-小丑](https://emoji.shojo.cn/bili/src/小小约yoo/小小约yoo-小丑.png)
-![小小约yoo-中肯](https://emoji.shojo.cn/bili/src/小小约yoo/小小约yoo-中肯.png)
-![小小约yoo-惊呆了](https://emoji.shojo.cn/bili/src/小小约yoo/小小约yoo-惊呆了.png)
+<img src="https://emoji.shojo.cn/bili/src/小小约yoo/小小约yoo-BYD.png" width="50" height="50" alt="小小约yoo-BYD">
+<img src="https://emoji.shojo.cn/bili/src/小小约yoo/小小约yoo-别啊.png" width="50" height="50" alt="小小约yoo-别啊">
+<img src="https://emoji.shojo.cn/bili/src/小小约yoo/小小约yoo-别发颤.png" width="50" height="50" alt="小小约yoo-别发颤">
+<img src="https://emoji.shojo.cn/bili/src/小小约yoo/小小约yoo-不过如此.png" width="50" height="50" alt="小小约yoo-不过如此">
+<img src="https://emoji.shojo.cn/bili/src/小小约yoo/小小约yoo-不是吧.png" width="50" height="50" alt="小小约yoo-不是吧">
+<img src="https://emoji.shojo.cn/bili/src/小小约yoo/小小约yoo-低情商.png" width="50" height="50" alt="小小约yoo-低情商">
+<img src="https://emoji.shojo.cn/bili/src/小小约yoo/小小约yoo-高情商.png" width="50" height="50" alt="小小约yoo-高情商">
+<img src="https://emoji.shojo.cn/bili/src/小小约yoo/小小约yoo-火.png" width="50" height="50" alt="小小约yoo-火">
+<img src="https://emoji.shojo.cn/bili/src/小小约yoo/小小约yoo-急了.png" width="50" height="50" alt="小小约yoo-急了">
+<img src="https://emoji.shojo.cn/bili/src/小小约yoo/小小约yoo-就好这口.png" width="50" height="50" alt="小小约yoo-就好这口">
+<img src="https://emoji.shojo.cn/bili/src/小小约yoo/小小约yoo-跨个批脸.png" width="50" height="50" alt="小小约yoo-跨个批脸">
+<img src="https://emoji.shojo.cn/bili/src/小小约yoo/小小约yoo-泪目.png" width="50" height="50" alt="小小约yoo-泪目">
+<img src="https://emoji.shojo.cn/bili/src/小小约yoo/小小约yoo-流汗.png" width="50" height="50" alt="小小约yoo-流汗">
+<img src="https://emoji.shojo.cn/bili/src/小小约yoo/小小约yoo-爆大米.png" width="50" height="50" alt="小小约yoo-爆大米">
+<img src="https://emoji.shojo.cn/bili/src/小小约yoo/小小约yoo-摸头.png" width="50" height="50" alt="小小约yoo-摸头">
+<img src="https://emoji.shojo.cn/bili/src/小小约yoo/小小约yoo-拿捏.png" width="50" height="50" alt="小小约yoo-拿捏">
+<img src="https://emoji.shojo.cn/bili/src/小小约yoo/小小约yoo-祈祷.png" width="50" height="50" alt="小小约yoo-祈祷">
+<img src="https://emoji.shojo.cn/bili/src/小小约yoo/小小约yoo-切割.png" width="50" height="50" alt="小小约yoo-切割">
+<img src="https://emoji.shojo.cn/bili/src/小小约yoo/小小约yoo-让我看看.png" width="50" height="50" alt="小小约yoo-让我看看">
+<img src="https://emoji.shojo.cn/bili/src/小小约yoo/小小约yoo-啥.png" width="50" height="50" alt="小小约yoo-啥">
+<img src="https://emoji.shojo.cn/bili/src/小小约yoo/小小约yoo-舔.png" width="50" height="50" alt="小小约yoo-舔">
+<img src="https://emoji.shojo.cn/bili/src/小小约yoo/小小约yoo-投降.png" width="50" height="50" alt="小小约yoo-投降">
+<img src="https://emoji.shojo.cn/bili/src/小小约yoo/小小约yoo-小丑.png" width="50" height="50" alt="小小约yoo-小丑">
+<img src="https://emoji.shojo.cn/bili/src/小小约yoo/小小约yoo-中肯.png" width="50" height="50" alt="小小约yoo-中肯">
+<img src="https://emoji.shojo.cn/bili/src/小小约yoo/小小约yoo-惊呆了.png" width="50" height="50" alt="小小约yoo-惊呆了">
+
+## 下载地址
+
+https://shamiko-my.sharepoint.com/:u:/g/personal/img_yuru_pro/EaFsQjVLKspFtGUE6XgvTbwBYeZv5nZSkAcul5laEmW6rw

@@ -1,23 +1,29 @@
 # 李林克的小馆儿· 一日三餐
-![icon](https://emoji.shojo.cn/bili/src/李林克的小馆儿· 一日三餐/icon.png)
+<img src="https://emoji.shojo.cn/bili/src/李林克的小馆儿· 一日三餐/icon.png" width="50" height="50" alt="icon">
+
 ## 链接
 Cloudflare:
 ```
 https://emoji.shojo.cn/bili/src/李林克的小馆儿· 一日三餐
+https://emoji.shojo.cn/bili/webp/李林克的小馆儿· 一日三餐
 ```
 ## 展示
-![李林克的小馆儿· 一日三餐-厨艺自信](https://emoji.shojo.cn/bili/src/李林克的小馆儿· 一日三餐/李林克的小馆儿· 一日三餐-厨艺自信.png)
-![李林克的小馆儿· 一日三餐-赊账](https://emoji.shojo.cn/bili/src/李林克的小馆儿· 一日三餐/李林克的小馆儿· 一日三餐-赊账.png)
-![李林克的小馆儿· 一日三餐-饿了吗](https://emoji.shojo.cn/bili/src/李林克的小馆儿· 一日三餐/李林克的小馆儿· 一日三餐-饿了吗.png)
-![李林克的小馆儿· 一日三餐-吃瓜](https://emoji.shojo.cn/bili/src/李林克的小馆儿· 一日三餐/李林克的小馆儿· 一日三餐-吃瓜.png)
-![李林克的小馆儿· 一日三餐-一键三连](https://emoji.shojo.cn/bili/src/李林克的小馆儿· 一日三餐/李林克的小馆儿· 一日三餐-一键三连.png)
-![李林克的小馆儿· 一日三餐-比心](https://emoji.shojo.cn/bili/src/李林克的小馆儿· 一日三餐/李林克的小馆儿· 一日三餐-比心.png)
-![李林克的小馆儿· 一日三餐-元气满满](https://emoji.shojo.cn/bili/src/李林克的小馆儿· 一日三餐/李林克的小馆儿· 一日三餐-元气满满.png)
-![李林克的小馆儿· 一日三餐-厨房还好么](https://emoji.shojo.cn/bili/src/李林克的小馆儿· 一日三餐/李林克的小馆儿· 一日三餐-厨房还好么.png)
-![李林克的小馆儿· 一日三餐-泪目](https://emoji.shojo.cn/bili/src/李林克的小馆儿· 一日三餐/李林克的小馆儿· 一日三餐-泪目.png)
-![李林克的小馆儿· 一日三餐-冒头](https://emoji.shojo.cn/bili/src/李林克的小馆儿· 一日三餐/李林克的小馆儿· 一日三餐-冒头.png)
-![李林克的小馆儿· 一日三餐-就这](https://emoji.shojo.cn/bili/src/李林克的小馆儿· 一日三餐/李林克的小馆儿· 一日三餐-就这.png)
-![李林克的小馆儿· 一日三餐-黑暗料理](https://emoji.shojo.cn/bili/src/李林克的小馆儿· 一日三餐/李林克的小馆儿· 一日三餐-黑暗料理.png)
-![李林克的小馆儿· 一日三餐-神秘老板](https://emoji.shojo.cn/bili/src/李林克的小馆儿· 一日三餐/李林克的小馆儿· 一日三餐-神秘老板.png)
-![李林克的小馆儿· 一日三餐-开饭啦](https://emoji.shojo.cn/bili/src/李林克的小馆儿· 一日三餐/李林克的小馆儿· 一日三餐-开饭啦.png)
-![李林克的小馆儿· 一日三餐-放饭啦](https://emoji.shojo.cn/bili/src/李林克的小馆儿· 一日三餐/李林克的小馆儿· 一日三餐-放饭啦.png)
+<img src="https://emoji.shojo.cn/bili/src/李林克的小馆儿· 一日三餐/李林克的小馆儿· 一日三餐-厨艺自信.png" width="50" height="50" alt="李林克的小馆儿· 一日三餐-厨艺自信">
+<img src="https://emoji.shojo.cn/bili/src/李林克的小馆儿· 一日三餐/李林克的小馆儿· 一日三餐-赊账.png" width="50" height="50" alt="李林克的小馆儿· 一日三餐-赊账">
+<img src="https://emoji.shojo.cn/bili/src/李林克的小馆儿· 一日三餐/李林克的小馆儿· 一日三餐-饿了吗.png" width="50" height="50" alt="李林克的小馆儿· 一日三餐-饿了吗">
+<img src="https://emoji.shojo.cn/bili/src/李林克的小馆儿· 一日三餐/李林克的小馆儿· 一日三餐-吃瓜.png" width="50" height="50" alt="李林克的小馆儿· 一日三餐-吃瓜">
+<img src="https://emoji.shojo.cn/bili/src/李林克的小馆儿· 一日三餐/李林克的小馆儿· 一日三餐-一键三连.png" width="50" height="50" alt="李林克的小馆儿· 一日三餐-一键三连">
+<img src="https://emoji.shojo.cn/bili/src/李林克的小馆儿· 一日三餐/李林克的小馆儿· 一日三餐-比心.png" width="50" height="50" alt="李林克的小馆儿· 一日三餐-比心">
+<img src="https://emoji.shojo.cn/bili/src/李林克的小馆儿· 一日三餐/李林克的小馆儿· 一日三餐-元气满满.png" width="50" height="50" alt="李林克的小馆儿· 一日三餐-元气满满">
+<img src="https://emoji.shojo.cn/bili/src/李林克的小馆儿· 一日三餐/李林克的小馆儿· 一日三餐-厨房还好么.png" width="50" height="50" alt="李林克的小馆儿· 一日三餐-厨房还好么">
+<img src="https://emoji.shojo.cn/bili/src/李林克的小馆儿· 一日三餐/李林克的小馆儿· 一日三餐-泪目.png" width="50" height="50" alt="李林克的小馆儿· 一日三餐-泪目">
+<img src="https://emoji.shojo.cn/bili/src/李林克的小馆儿· 一日三餐/李林克的小馆儿· 一日三餐-冒头.png" width="50" height="50" alt="李林克的小馆儿· 一日三餐-冒头">
+<img src="https://emoji.shojo.cn/bili/src/李林克的小馆儿· 一日三餐/李林克的小馆儿· 一日三餐-就这.png" width="50" height="50" alt="李林克的小馆儿· 一日三餐-就这">
+<img src="https://emoji.shojo.cn/bili/src/李林克的小馆儿· 一日三餐/李林克的小馆儿· 一日三餐-黑暗料理.png" width="50" height="50" alt="李林克的小馆儿· 一日三餐-黑暗料理">
+<img src="https://emoji.shojo.cn/bili/src/李林克的小馆儿· 一日三餐/李林克的小馆儿· 一日三餐-神秘老板.png" width="50" height="50" alt="李林克的小馆儿· 一日三餐-神秘老板">
+<img src="https://emoji.shojo.cn/bili/src/李林克的小馆儿· 一日三餐/李林克的小馆儿· 一日三餐-开饭啦.png" width="50" height="50" alt="李林克的小馆儿· 一日三餐-开饭啦">
+<img src="https://emoji.shojo.cn/bili/src/李林克的小馆儿· 一日三餐/李林克的小馆儿· 一日三餐-放饭啦.png" width="50" height="50" alt="李林克的小馆儿· 一日三餐-放饭啦">
+
+## 下载地址
+
+https://shamiko-my.sharepoint.com/:u:/g/personal/img_yuru_pro/EeCrgMid8UNIpUR6Xi7sagEB1gzohkQ-9t31xc1NJxVmUg

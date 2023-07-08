@@ -1,18 +1,24 @@
 # 游艇
-![icon](https://emoji.shojo.cn/bili/src/游艇/icon.png)
+<img src="https://emoji.shojo.cn/bili/src/游艇/icon.png" width="50" height="50" alt="icon">
+
 ## 链接
 Cloudflare:
 ```
 https://emoji.shojo.cn/bili/src/游艇
+https://emoji.shojo.cn/bili/webp/游艇
 ```
 ## 展示
-![游艇-挥手](https://emoji.shojo.cn/bili/src/游艇/游艇-挥手.png)
-![游艇-冲浪](https://emoji.shojo.cn/bili/src/游艇/游艇-冲浪.png)
-![游艇-走好不送](https://emoji.shojo.cn/bili/src/游艇/游艇-走好不送.png)
-![游艇-睡着了](https://emoji.shojo.cn/bili/src/游艇/游艇-睡着了.png)
-![游艇-沮丧](https://emoji.shojo.cn/bili/src/游艇/游艇-沮丧.png)
-![游艇-启航](https://emoji.shojo.cn/bili/src/游艇/游艇-启航.png)
-![游艇-歪瑞古德](https://emoji.shojo.cn/bili/src/游艇/游艇-歪瑞古德.png)
-![游艇-咻](https://emoji.shojo.cn/bili/src/游艇/游艇-咻.png)
-![游艇-度假](https://emoji.shojo.cn/bili/src/游艇/游艇-度假.png)
-![游艇-委屈](https://emoji.shojo.cn/bili/src/游艇/游艇-委屈.png)
+<img src="https://emoji.shojo.cn/bili/src/游艇/游艇-挥手.png" width="50" height="50" alt="游艇-挥手">
+<img src="https://emoji.shojo.cn/bili/src/游艇/游艇-冲浪.png" width="50" height="50" alt="游艇-冲浪">
+<img src="https://emoji.shojo.cn/bili/src/游艇/游艇-走好不送.png" width="50" height="50" alt="游艇-走好不送">
+<img src="https://emoji.shojo.cn/bili/src/游艇/游艇-睡着了.png" width="50" height="50" alt="游艇-睡着了">
+<img src="https://emoji.shojo.cn/bili/src/游艇/游艇-沮丧.png" width="50" height="50" alt="游艇-沮丧">
+<img src="https://emoji.shojo.cn/bili/src/游艇/游艇-启航.png" width="50" height="50" alt="游艇-启航">
+<img src="https://emoji.shojo.cn/bili/src/游艇/游艇-歪瑞古德.png" width="50" height="50" alt="游艇-歪瑞古德">
+<img src="https://emoji.shojo.cn/bili/src/游艇/游艇-咻.png" width="50" height="50" alt="游艇-咻">
+<img src="https://emoji.shojo.cn/bili/src/游艇/游艇-度假.png" width="50" height="50" alt="游艇-度假">
+<img src="https://emoji.shojo.cn/bili/src/游艇/游艇-委屈.png" width="50" height="50" alt="游艇-委屈">
+
+## 下载地址
+
+https://shamiko-my.sharepoint.com/:u:/g/personal/img_yuru_pro/EYY-fImfFlpOiV8N4u4xh0ABniK1-Nu-1Hdz6mtwaEn-tQ

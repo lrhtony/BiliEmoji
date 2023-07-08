@@ -1,28 +1,34 @@
 # VirtuaReal耀光表情包
-![icon](https://emoji.shojo.cn/bili/src/VirtuaReal耀光表情包/icon.png)
+<img src="https://emoji.shojo.cn/bili/src/VirtuaReal耀光表情包/icon.png" width="50" height="50" alt="icon">
+
 ## 链接
 Cloudflare:
 ```
 https://emoji.shojo.cn/bili/src/VirtuaReal耀光表情包
+https://emoji.shojo.cn/bili/webp/VirtuaReal耀光表情包
 ```
 ## 展示
-![VirtuaReal耀光表情包-别急 2](https://emoji.shojo.cn/bili/src/VirtuaReal耀光表情包/VirtuaReal耀光表情包-别急 2.png)
-![VirtuaReal耀光表情包-急](https://emoji.shojo.cn/bili/src/VirtuaReal耀光表情包/VirtuaReal耀光表情包-急.png)
-![VirtuaReal耀光表情包-寄](https://emoji.shojo.cn/bili/src/VirtuaReal耀光表情包/VirtuaReal耀光表情包-寄.png)
-![VirtuaReal耀光表情包-pien](https://emoji.shojo.cn/bili/src/VirtuaReal耀光表情包/VirtuaReal耀光表情包-pien.png)
-![VirtuaReal耀光表情包-晚安](https://emoji.shojo.cn/bili/src/VirtuaReal耀光表情包/VirtuaReal耀光表情包-晚安.png)
-![VirtuaReal耀光表情包-震惊](https://emoji.shojo.cn/bili/src/VirtuaReal耀光表情包/VirtuaReal耀光表情包-震惊.png)
-![VirtuaReal耀光表情包-好崩溃](https://emoji.shojo.cn/bili/src/VirtuaReal耀光表情包/VirtuaReal耀光表情包-好崩溃.png)
-![VirtuaReal耀光表情包-泪目](https://emoji.shojo.cn/bili/src/VirtuaReal耀光表情包/VirtuaReal耀光表情包-泪目.png)
-![VirtuaReal耀光表情包-社恐发作](https://emoji.shojo.cn/bili/src/VirtuaReal耀光表情包/VirtuaReal耀光表情包-社恐发作.png)
-![VirtuaReal耀光表情包-别急](https://emoji.shojo.cn/bili/src/VirtuaReal耀光表情包/VirtuaReal耀光表情包-别急.png)
-![VirtuaReal耀光表情包-好耶](https://emoji.shojo.cn/bili/src/VirtuaReal耀光表情包/VirtuaReal耀光表情包-好耶.png)
-![VirtuaReal耀光表情包-求求你了](https://emoji.shojo.cn/bili/src/VirtuaReal耀光表情包/VirtuaReal耀光表情包-求求你了.png)
-![VirtuaReal耀光表情包-坏笑](https://emoji.shojo.cn/bili/src/VirtuaReal耀光表情包/VirtuaReal耀光表情包-坏笑.png)
-![VirtuaReal耀光表情包-可怜](https://emoji.shojo.cn/bili/src/VirtuaReal耀光表情包/VirtuaReal耀光表情包-可怜.png)
-![VirtuaReal耀光表情包-笑里藏刀](https://emoji.shojo.cn/bili/src/VirtuaReal耀光表情包/VirtuaReal耀光表情包-笑里藏刀.png)
-![VirtuaReal耀光表情包-抱住](https://emoji.shojo.cn/bili/src/VirtuaReal耀光表情包/VirtuaReal耀光表情包-抱住.png)
-![VirtuaReal耀光表情包-给你一拳](https://emoji.shojo.cn/bili/src/VirtuaReal耀光表情包/VirtuaReal耀光表情包-给你一拳.png)
-![VirtuaReal耀光表情包-帅](https://emoji.shojo.cn/bili/src/VirtuaReal耀光表情包/VirtuaReal耀光表情包-帅.png)
-![VirtuaReal耀光表情包-打卡](https://emoji.shojo.cn/bili/src/VirtuaReal耀光表情包/VirtuaReal耀光表情包-打卡.png)
-![VirtuaReal耀光表情包-背锅](https://emoji.shojo.cn/bili/src/VirtuaReal耀光表情包/VirtuaReal耀光表情包-背锅.png)
+<img src="https://emoji.shojo.cn/bili/src/VirtuaReal耀光表情包/VirtuaReal耀光表情包-别急 2.png" width="50" height="50" alt="VirtuaReal耀光表情包-别急 2">
+<img src="https://emoji.shojo.cn/bili/src/VirtuaReal耀光表情包/VirtuaReal耀光表情包-急.png" width="50" height="50" alt="VirtuaReal耀光表情包-急">
+<img src="https://emoji.shojo.cn/bili/src/VirtuaReal耀光表情包/VirtuaReal耀光表情包-寄.png" width="50" height="50" alt="VirtuaReal耀光表情包-寄">
+<img src="https://emoji.shojo.cn/bili/src/VirtuaReal耀光表情包/VirtuaReal耀光表情包-pien.png" width="50" height="50" alt="VirtuaReal耀光表情包-pien">
+<img src="https://emoji.shojo.cn/bili/src/VirtuaReal耀光表情包/VirtuaReal耀光表情包-晚安.png" width="50" height="50" alt="VirtuaReal耀光表情包-晚安">
+<img src="https://emoji.shojo.cn/bili/src/VirtuaReal耀光表情包/VirtuaReal耀光表情包-震惊.png" width="50" height="50" alt="VirtuaReal耀光表情包-震惊">
+<img src="https://emoji.shojo.cn/bili/src/VirtuaReal耀光表情包/VirtuaReal耀光表情包-好崩溃.png" width="50" height="50" alt="VirtuaReal耀光表情包-好崩溃">
+<img src="https://emoji.shojo.cn/bili/src/VirtuaReal耀光表情包/VirtuaReal耀光表情包-泪目.png" width="50" height="50" alt="VirtuaReal耀光表情包-泪目">
+<img src="https://emoji.shojo.cn/bili/src/VirtuaReal耀光表情包/VirtuaReal耀光表情包-社恐发作.png" width="50" height="50" alt="VirtuaReal耀光表情包-社恐发作">
+<img src="https://emoji.shojo.cn/bili/src/VirtuaReal耀光表情包/VirtuaReal耀光表情包-别急.png" width="50" height="50" alt="VirtuaReal耀光表情包-别急">
+<img src="https://emoji.shojo.cn/bili/src/VirtuaReal耀光表情包/VirtuaReal耀光表情包-好耶.png" width="50" height="50" alt="VirtuaReal耀光表情包-好耶">
+<img src="https://emoji.shojo.cn/bili/src/VirtuaReal耀光表情包/VirtuaReal耀光表情包-求求你了.png" width="50" height="50" alt="VirtuaReal耀光表情包-求求你了">
+<img src="https://emoji.shojo.cn/bili/src/VirtuaReal耀光表情包/VirtuaReal耀光表情包-坏笑.png" width="50" height="50" alt="VirtuaReal耀光表情包-坏笑">
+<img src="https://emoji.shojo.cn/bili/src/VirtuaReal耀光表情包/VirtuaReal耀光表情包-可怜.png" width="50" height="50" alt="VirtuaReal耀光表情包-可怜">
+<img src="https://emoji.shojo.cn/bili/src/VirtuaReal耀光表情包/VirtuaReal耀光表情包-笑里藏刀.png" width="50" height="50" alt="VirtuaReal耀光表情包-笑里藏刀">
+<img src="https://emoji.shojo.cn/bili/src/VirtuaReal耀光表情包/VirtuaReal耀光表情包-抱住.png" width="50" height="50" alt="VirtuaReal耀光表情包-抱住">
+<img src="https://emoji.shojo.cn/bili/src/VirtuaReal耀光表情包/VirtuaReal耀光表情包-给你一拳.png" width="50" height="50" alt="VirtuaReal耀光表情包-给你一拳">
+<img src="https://emoji.shojo.cn/bili/src/VirtuaReal耀光表情包/VirtuaReal耀光表情包-帅.png" width="50" height="50" alt="VirtuaReal耀光表情包-帅">
+<img src="https://emoji.shojo.cn/bili/src/VirtuaReal耀光表情包/VirtuaReal耀光表情包-打卡.png" width="50" height="50" alt="VirtuaReal耀光表情包-打卡">
+<img src="https://emoji.shojo.cn/bili/src/VirtuaReal耀光表情包/VirtuaReal耀光表情包-背锅.png" width="50" height="50" alt="VirtuaReal耀光表情包-背锅">
+
+## 下载地址
+
+https://shamiko-my.sharepoint.com/:u:/g/personal/img_yuru_pro/EbNFYZIIU7NPrN3ymOMEuK0BaAfVAfAqD0ferz2pmh0AFQ

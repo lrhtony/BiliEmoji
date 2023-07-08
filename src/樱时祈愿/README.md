@@ -1,28 +1,34 @@
 # 樱时祈愿
-![icon](https://emoji.shojo.cn/bili/src/樱时祈愿/icon.png)
+<img src="https://emoji.shojo.cn/bili/src/樱时祈愿/icon.png" width="50" height="50" alt="icon">
+
 ## 链接
 Cloudflare:
 ```
 https://emoji.shojo.cn/bili/src/樱时祈愿
+https://emoji.shojo.cn/bili/webp/樱时祈愿
 ```
 ## 展示
-![樱时祈愿-半遮面](https://emoji.shojo.cn/bili/src/樱时祈愿/樱时祈愿-半遮面.png)
-![樱时祈愿-生气](https://emoji.shojo.cn/bili/src/樱时祈愿/樱时祈愿-生气.png)
-![樱时祈愿-乖巧](https://emoji.shojo.cn/bili/src/樱时祈愿/樱时祈愿-乖巧.png)
-![樱时祈愿-撑伞](https://emoji.shojo.cn/bili/src/樱时祈愿/樱时祈愿-撑伞.png)
-![樱时祈愿-上香](https://emoji.shojo.cn/bili/src/樱时祈愿/樱时祈愿-上香.png)
-![樱时祈愿-面具](https://emoji.shojo.cn/bili/src/樱时祈愿/樱时祈愿-面具.png)
-![樱时祈愿-思索](https://emoji.shojo.cn/bili/src/樱时祈愿/樱时祈愿-思索.png)
-![樱时祈愿-喂鱼](https://emoji.shojo.cn/bili/src/樱时祈愿/樱时祈愿-喂鱼.png)
-![樱时祈愿-拭泪](https://emoji.shojo.cn/bili/src/樱时祈愿/樱时祈愿-拭泪.png)
-![樱时祈愿-占卜](https://emoji.shojo.cn/bili/src/樱时祈愿/樱时祈愿-占卜.png)
-![樱时祈愿-飞灯](https://emoji.shojo.cn/bili/src/樱时祈愿/樱时祈愿-飞灯.png)
-![樱时祈愿-害羞](https://emoji.shojo.cn/bili/src/樱时祈愿/樱时祈愿-害羞.png)
-![樱时祈愿-欸](https://emoji.shojo.cn/bili/src/樱时祈愿/樱时祈愿-欸.png)
-![樱时祈愿-喝茶](https://emoji.shojo.cn/bili/src/樱时祈愿/樱时祈愿-喝茶.png)
-![樱时祈愿-哇](https://emoji.shojo.cn/bili/src/樱时祈愿/樱时祈愿-哇.png)
-![樱时祈愿-大写的六](https://emoji.shojo.cn/bili/src/樱时祈愿/樱时祈愿-大写的六.png)
-![樱时祈愿-蝴蝶](https://emoji.shojo.cn/bili/src/樱时祈愿/樱时祈愿-蝴蝶.png)
-![樱时祈愿-伸懒腰](https://emoji.shojo.cn/bili/src/樱时祈愿/樱时祈愿-伸懒腰.png)
-![樱时祈愿-祈福](https://emoji.shojo.cn/bili/src/樱时祈愿/樱时祈愿-祈福.png)
-![樱时祈愿-纸鹤](https://emoji.shojo.cn/bili/src/樱时祈愿/樱时祈愿-纸鹤.png)
+<img src="https://emoji.shojo.cn/bili/src/樱时祈愿/樱时祈愿-半遮面.png" width="50" height="50" alt="樱时祈愿-半遮面">
+<img src="https://emoji.shojo.cn/bili/src/樱时祈愿/樱时祈愿-生气.png" width="50" height="50" alt="樱时祈愿-生气">
+<img src="https://emoji.shojo.cn/bili/src/樱时祈愿/樱时祈愿-乖巧.png" width="50" height="50" alt="樱时祈愿-乖巧">
+<img src="https://emoji.shojo.cn/bili/src/樱时祈愿/樱时祈愿-撑伞.png" width="50" height="50" alt="樱时祈愿-撑伞">
+<img src="https://emoji.shojo.cn/bili/src/樱时祈愿/樱时祈愿-上香.png" width="50" height="50" alt="樱时祈愿-上香">
+<img src="https://emoji.shojo.cn/bili/src/樱时祈愿/樱时祈愿-面具.png" width="50" height="50" alt="樱时祈愿-面具">
+<img src="https://emoji.shojo.cn/bili/src/樱时祈愿/樱时祈愿-思索.png" width="50" height="50" alt="樱时祈愿-思索">
+<img src="https://emoji.shojo.cn/bili/src/樱时祈愿/樱时祈愿-喂鱼.png" width="50" height="50" alt="樱时祈愿-喂鱼">
+<img src="https://emoji.shojo.cn/bili/src/樱时祈愿/樱时祈愿-拭泪.png" width="50" height="50" alt="樱时祈愿-拭泪">
+<img src="https://emoji.shojo.cn/bili/src/樱时祈愿/樱时祈愿-占卜.png" width="50" height="50" alt="樱时祈愿-占卜">
+<img src="https://emoji.shojo.cn/bili/src/樱时祈愿/樱时祈愿-飞灯.png" width="50" height="50" alt="樱时祈愿-飞灯">
+<img src="https://emoji.shojo.cn/bili/src/樱时祈愿/樱时祈愿-害羞.png" width="50" height="50" alt="樱时祈愿-害羞">
+<img src="https://emoji.shojo.cn/bili/src/樱时祈愿/樱时祈愿-欸.png" width="50" height="50" alt="樱时祈愿-欸">
+<img src="https://emoji.shojo.cn/bili/src/樱时祈愿/樱时祈愿-喝茶.png" width="50" height="50" alt="樱时祈愿-喝茶">
+<img src="https://emoji.shojo.cn/bili/src/樱时祈愿/樱时祈愿-哇.png" width="50" height="50" alt="樱时祈愿-哇">
+<img src="https://emoji.shojo.cn/bili/src/樱时祈愿/樱时祈愿-大写的六.png" width="50" height="50" alt="樱时祈愿-大写的六">
+<img src="https://emoji.shojo.cn/bili/src/樱时祈愿/樱时祈愿-蝴蝶.png" width="50" height="50" alt="樱时祈愿-蝴蝶">
+<img src="https://emoji.shojo.cn/bili/src/樱时祈愿/樱时祈愿-伸懒腰.png" width="50" height="50" alt="樱时祈愿-伸懒腰">
+<img src="https://emoji.shojo.cn/bili/src/樱时祈愿/樱时祈愿-祈福.png" width="50" height="50" alt="樱时祈愿-祈福">
+<img src="https://emoji.shojo.cn/bili/src/樱时祈愿/樱时祈愿-纸鹤.png" width="50" height="50" alt="樱时祈愿-纸鹤">
+
+## 下载地址
+
+https://shamiko-my.sharepoint.com/:u:/g/personal/img_yuru_pro/EcnohWY4tVFJuJZCfrNMYN8BdGgbde1cC27JVq7NSUnqxw

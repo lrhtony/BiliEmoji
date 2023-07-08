@@ -1,23 +1,29 @@
 # 罗伊Roi
-![icon](https://emoji.shojo.cn/bili/src/罗伊Roi/icon.png)
+<img src="https://emoji.shojo.cn/bili/src/罗伊Roi/icon.png" width="50" height="50" alt="icon">
+
 ## 链接
 Cloudflare:
 ```
 https://emoji.shojo.cn/bili/src/罗伊Roi
+https://emoji.shojo.cn/bili/webp/罗伊Roi
 ```
 ## 展示
-![罗伊Roi-Hi~](https://emoji.shojo.cn/bili/src/罗伊Roi/罗伊Roi-Hi~.png)
-![罗伊Roi-suki](https://emoji.shojo.cn/bili/src/罗伊Roi/罗伊Roi-suki.png)
-![罗伊Roi-ww](https://emoji.shojo.cn/bili/src/罗伊Roi/罗伊Roi-ww.png)
-![罗伊Roi-爱你](https://emoji.shojo.cn/bili/src/罗伊Roi/罗伊Roi-爱你.png)
-![罗伊Roi-吃桃](https://emoji.shojo.cn/bili/src/罗伊Roi/罗伊Roi-吃桃.png)
-![罗伊Roi-点赞](https://emoji.shojo.cn/bili/src/罗伊Roi/罗伊Roi-点赞.png)
-![罗伊Roi-干杯](https://emoji.shojo.cn/bili/src/罗伊Roi/罗伊Roi-干杯.png)
-![罗伊Roi-好耶](https://emoji.shojo.cn/bili/src/罗伊Roi/罗伊Roi-好耶.png)
-![罗伊Roi-击剑](https://emoji.shojo.cn/bili/src/罗伊Roi/罗伊Roi-击剑.png)
-![罗伊Roi-惊讶](https://emoji.shojo.cn/bili/src/罗伊Roi/罗伊Roi-惊讶.png)
-![罗伊Roi-哭哭](https://emoji.shojo.cn/bili/src/罗伊Roi/罗伊Roi-哭哭.png)
-![罗伊Roi-希望人没事](https://emoji.shojo.cn/bili/src/罗伊Roi/罗伊Roi-希望人没事.png)
-![罗伊Roi-嫌弃](https://emoji.shojo.cn/bili/src/罗伊Roi/罗伊Roi-嫌弃.png)
-![罗伊Roi-小丑](https://emoji.shojo.cn/bili/src/罗伊Roi/罗伊Roi-小丑.png)
-![罗伊Roi-疑惑](https://emoji.shojo.cn/bili/src/罗伊Roi/罗伊Roi-疑惑.png)
+<img src="https://emoji.shojo.cn/bili/src/罗伊Roi/罗伊Roi-Hi~.png" width="50" height="50" alt="罗伊Roi-Hi~">
+<img src="https://emoji.shojo.cn/bili/src/罗伊Roi/罗伊Roi-suki.png" width="50" height="50" alt="罗伊Roi-suki">
+<img src="https://emoji.shojo.cn/bili/src/罗伊Roi/罗伊Roi-ww.png" width="50" height="50" alt="罗伊Roi-ww">
+<img src="https://emoji.shojo.cn/bili/src/罗伊Roi/罗伊Roi-爱你.png" width="50" height="50" alt="罗伊Roi-爱你">
+<img src="https://emoji.shojo.cn/bili/src/罗伊Roi/罗伊Roi-吃桃.png" width="50" height="50" alt="罗伊Roi-吃桃">
+<img src="https://emoji.shojo.cn/bili/src/罗伊Roi/罗伊Roi-点赞.png" width="50" height="50" alt="罗伊Roi-点赞">
+<img src="https://emoji.shojo.cn/bili/src/罗伊Roi/罗伊Roi-干杯.png" width="50" height="50" alt="罗伊Roi-干杯">
+<img src="https://emoji.shojo.cn/bili/src/罗伊Roi/罗伊Roi-好耶.png" width="50" height="50" alt="罗伊Roi-好耶">
+<img src="https://emoji.shojo.cn/bili/src/罗伊Roi/罗伊Roi-击剑.png" width="50" height="50" alt="罗伊Roi-击剑">
+<img src="https://emoji.shojo.cn/bili/src/罗伊Roi/罗伊Roi-惊讶.png" width="50" height="50" alt="罗伊Roi-惊讶">
+<img src="https://emoji.shojo.cn/bili/src/罗伊Roi/罗伊Roi-哭哭.png" width="50" height="50" alt="罗伊Roi-哭哭">
+<img src="https://emoji.shojo.cn/bili/src/罗伊Roi/罗伊Roi-希望人没事.png" width="50" height="50" alt="罗伊Roi-希望人没事">
+<img src="https://emoji.shojo.cn/bili/src/罗伊Roi/罗伊Roi-嫌弃.png" width="50" height="50" alt="罗伊Roi-嫌弃">
+<img src="https://emoji.shojo.cn/bili/src/罗伊Roi/罗伊Roi-小丑.png" width="50" height="50" alt="罗伊Roi-小丑">
+<img src="https://emoji.shojo.cn/bili/src/罗伊Roi/罗伊Roi-疑惑.png" width="50" height="50" alt="罗伊Roi-疑惑">
+
+## 下载地址
+
+https://shamiko-my.sharepoint.com/:u:/g/personal/img_yuru_pro/ERSjaRQbJalGuyBXgYBGNekB21D9om_nzIQDZqGWEL39xQ

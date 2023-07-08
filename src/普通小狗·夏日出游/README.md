@@ -1,23 +1,29 @@
 # 普通小狗·夏日出游
-![icon](https://emoji.shojo.cn/bili/src/普通小狗·夏日出游/icon.png)
+<img src="https://emoji.shojo.cn/bili/src/普通小狗·夏日出游/icon.png" width="50" height="50" alt="icon">
+
 ## 链接
 Cloudflare:
 ```
 https://emoji.shojo.cn/bili/src/普通小狗·夏日出游
+https://emoji.shojo.cn/bili/webp/普通小狗·夏日出游
 ```
 ## 展示
-![普通小狗·夏日出游-摸头](https://emoji.shojo.cn/bili/src/普通小狗·夏日出游/普通小狗·夏日出游-摸头.png)
-![普通小狗·夏日出游-委屈](https://emoji.shojo.cn/bili/src/普通小狗·夏日出游/普通小狗·夏日出游-委屈.png)
-![普通小狗·夏日出游-干杯](https://emoji.shojo.cn/bili/src/普通小狗·夏日出游/普通小狗·夏日出游-干杯.png)
-![普通小狗·夏日出游-哇塞](https://emoji.shojo.cn/bili/src/普通小狗·夏日出游/普通小狗·夏日出游-哇塞.png)
-![普通小狗·夏日出游-星期四](https://emoji.shojo.cn/bili/src/普通小狗·夏日出游/普通小狗·夏日出游-星期四.png)
-![普通小狗·夏日出游-略略略](https://emoji.shojo.cn/bili/src/普通小狗·夏日出游/普通小狗·夏日出游-略略略.png)
-![普通小狗·夏日出游-对对对](https://emoji.shojo.cn/bili/src/普通小狗·夏日出游/普通小狗·夏日出游-对对对.png)
-![普通小狗·夏日出游-老板大气](https://emoji.shojo.cn/bili/src/普通小狗·夏日出游/普通小狗·夏日出游-老板大气.png)
-![普通小狗·夏日出游-啵啵啵](https://emoji.shojo.cn/bili/src/普通小狗·夏日出游/普通小狗·夏日出游-啵啵啵.png)
-![普通小狗·夏日出游-达成一致](https://emoji.shojo.cn/bili/src/普通小狗·夏日出游/普通小狗·夏日出游-达成一致.png)
-![普通小狗·夏日出游-爱你](https://emoji.shojo.cn/bili/src/普通小狗·夏日出游/普通小狗·夏日出游-爱你.png)
-![普通小狗·夏日出游-选我](https://emoji.shojo.cn/bili/src/普通小狗·夏日出游/普通小狗·夏日出游-选我.png)
-![普通小狗·夏日出游-送花](https://emoji.shojo.cn/bili/src/普通小狗·夏日出游/普通小狗·夏日出游-送花.png)
-![普通小狗·夏日出游-诶](https://emoji.shojo.cn/bili/src/普通小狗·夏日出游/普通小狗·夏日出游-诶.png)
-![普通小狗·夏日出游-棒](https://emoji.shojo.cn/bili/src/普通小狗·夏日出游/普通小狗·夏日出游-棒.png)
+<img src="https://emoji.shojo.cn/bili/src/普通小狗·夏日出游/普通小狗·夏日出游-摸头.png" width="50" height="50" alt="普通小狗·夏日出游-摸头">
+<img src="https://emoji.shojo.cn/bili/src/普通小狗·夏日出游/普通小狗·夏日出游-委屈.png" width="50" height="50" alt="普通小狗·夏日出游-委屈">
+<img src="https://emoji.shojo.cn/bili/src/普通小狗·夏日出游/普通小狗·夏日出游-干杯.png" width="50" height="50" alt="普通小狗·夏日出游-干杯">
+<img src="https://emoji.shojo.cn/bili/src/普通小狗·夏日出游/普通小狗·夏日出游-哇塞.png" width="50" height="50" alt="普通小狗·夏日出游-哇塞">
+<img src="https://emoji.shojo.cn/bili/src/普通小狗·夏日出游/普通小狗·夏日出游-星期四.png" width="50" height="50" alt="普通小狗·夏日出游-星期四">
+<img src="https://emoji.shojo.cn/bili/src/普通小狗·夏日出游/普通小狗·夏日出游-略略略.png" width="50" height="50" alt="普通小狗·夏日出游-略略略">
+<img src="https://emoji.shojo.cn/bili/src/普通小狗·夏日出游/普通小狗·夏日出游-对对对.png" width="50" height="50" alt="普通小狗·夏日出游-对对对">
+<img src="https://emoji.shojo.cn/bili/src/普通小狗·夏日出游/普通小狗·夏日出游-老板大气.png" width="50" height="50" alt="普通小狗·夏日出游-老板大气">
+<img src="https://emoji.shojo.cn/bili/src/普通小狗·夏日出游/普通小狗·夏日出游-啵啵啵.png" width="50" height="50" alt="普通小狗·夏日出游-啵啵啵">
+<img src="https://emoji.shojo.cn/bili/src/普通小狗·夏日出游/普通小狗·夏日出游-达成一致.png" width="50" height="50" alt="普通小狗·夏日出游-达成一致">
+<img src="https://emoji.shojo.cn/bili/src/普通小狗·夏日出游/普通小狗·夏日出游-爱你.png" width="50" height="50" alt="普通小狗·夏日出游-爱你">
+<img src="https://emoji.shojo.cn/bili/src/普通小狗·夏日出游/普通小狗·夏日出游-选我.png" width="50" height="50" alt="普通小狗·夏日出游-选我">
+<img src="https://emoji.shojo.cn/bili/src/普通小狗·夏日出游/普通小狗·夏日出游-送花.png" width="50" height="50" alt="普通小狗·夏日出游-送花">
+<img src="https://emoji.shojo.cn/bili/src/普通小狗·夏日出游/普通小狗·夏日出游-诶.png" width="50" height="50" alt="普通小狗·夏日出游-诶">
+<img src="https://emoji.shojo.cn/bili/src/普通小狗·夏日出游/普通小狗·夏日出游-棒.png" width="50" height="50" alt="普通小狗·夏日出游-棒">
+
+## 下载地址
+
+https://shamiko-my.sharepoint.com/:u:/g/personal/img_yuru_pro/EW5G_1d6BKdCoeOl4ulKnLQBgmtlQYOExNBOBhDxh3ZNRQ

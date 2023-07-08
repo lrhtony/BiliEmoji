@@ -1,23 +1,29 @@
 # 呆呆鲨
-![icon](https://emoji.shojo.cn/bili/src/呆呆鲨/icon.png)
+<img src="https://emoji.shojo.cn/bili/src/呆呆鲨/icon.png" width="50" height="50" alt="icon">
+
 ## 链接
 Cloudflare:
 ```
 https://emoji.shojo.cn/bili/src/呆呆鲨
+https://emoji.shojo.cn/bili/webp/呆呆鲨
 ```
 ## 展示
-![呆呆鲨-星星眼](https://emoji.shojo.cn/bili/src/呆呆鲨/呆呆鲨-星星眼.png)
-![呆呆鲨-震惊](https://emoji.shojo.cn/bili/src/呆呆鲨/呆呆鲨-震惊.png)
-![呆呆鲨-感动](https://emoji.shojo.cn/bili/src/呆呆鲨/呆呆鲨-感动.png)
-![呆呆鲨-v我50](https://emoji.shojo.cn/bili/src/呆呆鲨/呆呆鲨-v我50.png)
-![呆呆鲨-我倒](https://emoji.shojo.cn/bili/src/呆呆鲨/呆呆鲨-我倒.png)
-![呆呆鲨-懵](https://emoji.shojo.cn/bili/src/呆呆鲨/呆呆鲨-懵.png)
-![呆呆鲨-看不见我](https://emoji.shojo.cn/bili/src/呆呆鲨/呆呆鲨-看不见我.png)
-![呆呆鲨-局促](https://emoji.shojo.cn/bili/src/呆呆鲨/呆呆鲨-局促.png)
-![呆呆鲨-无语](https://emoji.shojo.cn/bili/src/呆呆鲨/呆呆鲨-无语.png)
-![呆呆鲨-傻了](https://emoji.shojo.cn/bili/src/呆呆鲨/呆呆鲨-傻了.png)
-![呆呆鲨-6](https://emoji.shojo.cn/bili/src/呆呆鲨/呆呆鲨-6.png)
-![呆呆鲨-谢谢](https://emoji.shojo.cn/bili/src/呆呆鲨/呆呆鲨-谢谢.png)
-![呆呆鲨-冒出](https://emoji.shojo.cn/bili/src/呆呆鲨/呆呆鲨-冒出.png)
-![呆呆鲨-安详](https://emoji.shojo.cn/bili/src/呆呆鲨/呆呆鲨-安详.png)
-![呆呆鲨-爱你](https://emoji.shojo.cn/bili/src/呆呆鲨/呆呆鲨-爱你.png)
+<img src="https://emoji.shojo.cn/bili/src/呆呆鲨/呆呆鲨-星星眼.png" width="50" height="50" alt="呆呆鲨-星星眼">
+<img src="https://emoji.shojo.cn/bili/src/呆呆鲨/呆呆鲨-震惊.png" width="50" height="50" alt="呆呆鲨-震惊">
+<img src="https://emoji.shojo.cn/bili/src/呆呆鲨/呆呆鲨-感动.png" width="50" height="50" alt="呆呆鲨-感动">
+<img src="https://emoji.shojo.cn/bili/src/呆呆鲨/呆呆鲨-v我50.png" width="50" height="50" alt="呆呆鲨-v我50">
+<img src="https://emoji.shojo.cn/bili/src/呆呆鲨/呆呆鲨-我倒.png" width="50" height="50" alt="呆呆鲨-我倒">
+<img src="https://emoji.shojo.cn/bili/src/呆呆鲨/呆呆鲨-懵.png" width="50" height="50" alt="呆呆鲨-懵">
+<img src="https://emoji.shojo.cn/bili/src/呆呆鲨/呆呆鲨-看不见我.png" width="50" height="50" alt="呆呆鲨-看不见我">
+<img src="https://emoji.shojo.cn/bili/src/呆呆鲨/呆呆鲨-局促.png" width="50" height="50" alt="呆呆鲨-局促">
+<img src="https://emoji.shojo.cn/bili/src/呆呆鲨/呆呆鲨-无语.png" width="50" height="50" alt="呆呆鲨-无语">
+<img src="https://emoji.shojo.cn/bili/src/呆呆鲨/呆呆鲨-傻了.png" width="50" height="50" alt="呆呆鲨-傻了">
+<img src="https://emoji.shojo.cn/bili/src/呆呆鲨/呆呆鲨-6.png" width="50" height="50" alt="呆呆鲨-6">
+<img src="https://emoji.shojo.cn/bili/src/呆呆鲨/呆呆鲨-谢谢.png" width="50" height="50" alt="呆呆鲨-谢谢">
+<img src="https://emoji.shojo.cn/bili/src/呆呆鲨/呆呆鲨-冒出.png" width="50" height="50" alt="呆呆鲨-冒出">
+<img src="https://emoji.shojo.cn/bili/src/呆呆鲨/呆呆鲨-安详.png" width="50" height="50" alt="呆呆鲨-安详">
+<img src="https://emoji.shojo.cn/bili/src/呆呆鲨/呆呆鲨-爱你.png" width="50" height="50" alt="呆呆鲨-爱你">
+
+## 下载地址
+
+https://shamiko-my.sharepoint.com/:u:/g/personal/img_yuru_pro/ESR2RB-jVGpNo8IqnPqXx20BRchZj7RunPhwj4amINgKYg

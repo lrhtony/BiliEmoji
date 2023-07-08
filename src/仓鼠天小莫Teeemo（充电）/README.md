@@ -1,18 +1,24 @@
 # 仓鼠天小莫Teeemo（充电）
-![icon](https://emoji.shojo.cn/bili/src/仓鼠天小莫Teeemo（充电）/icon.png)
+<img src="https://emoji.shojo.cn/bili/src/仓鼠天小莫Teeemo（充电）/icon.png" width="50" height="50" alt="icon">
+
 ## 链接
 Cloudflare:
 ```
 https://emoji.shojo.cn/bili/src/仓鼠天小莫Teeemo（充电）
+https://emoji.shojo.cn/bili/webp/仓鼠天小莫Teeemo（充电）
 ```
 ## 展示
-![UPOWER-452075137-OK](https://emoji.shojo.cn/bili/src/仓鼠天小莫Teeemo（充电）/UPOWER-452075137-OK.png)
-![UPOWER-452075137-干杯](https://emoji.shojo.cn/bili/src/仓鼠天小莫Teeemo（充电）/UPOWER-452075137-干杯.png)
-![UPOWER-452075137-疑惑](https://emoji.shojo.cn/bili/src/仓鼠天小莫Teeemo（充电）/UPOWER-452075137-疑惑.png)
-![UPOWER-452075137-吃瓜](https://emoji.shojo.cn/bili/src/仓鼠天小莫Teeemo（充电）/UPOWER-452075137-吃瓜.png)
-![UPOWER-452075137-托腮](https://emoji.shojo.cn/bili/src/仓鼠天小莫Teeemo（充电）/UPOWER-452075137-托腮.png)
-![UPOWER-452075137-吃花花](https://emoji.shojo.cn/bili/src/仓鼠天小莫Teeemo（充电）/UPOWER-452075137-吃花花.png)
-![UPOWER-452075137-超凶](https://emoji.shojo.cn/bili/src/仓鼠天小莫Teeemo（充电）/UPOWER-452075137-超凶.png)
-![UPOWER-452075137-无奈](https://emoji.shojo.cn/bili/src/仓鼠天小莫Teeemo（充电）/UPOWER-452075137-无奈.png)
-![UPOWER-452075137-探头](https://emoji.shojo.cn/bili/src/仓鼠天小莫Teeemo（充电）/UPOWER-452075137-探头.png)
-![UPOWER-452075137-邪魅一笑](https://emoji.shojo.cn/bili/src/仓鼠天小莫Teeemo（充电）/UPOWER-452075137-邪魅一笑.png)
+<img src="https://emoji.shojo.cn/bili/src/仓鼠天小莫Teeemo（充电）/UPOWER-452075137-OK.png" width="50" height="50" alt="UPOWER-452075137-OK">
+<img src="https://emoji.shojo.cn/bili/src/仓鼠天小莫Teeemo（充电）/UPOWER-452075137-干杯.png" width="50" height="50" alt="UPOWER-452075137-干杯">
+<img src="https://emoji.shojo.cn/bili/src/仓鼠天小莫Teeemo（充电）/UPOWER-452075137-疑惑.png" width="50" height="50" alt="UPOWER-452075137-疑惑">
+<img src="https://emoji.shojo.cn/bili/src/仓鼠天小莫Teeemo（充电）/UPOWER-452075137-吃瓜.png" width="50" height="50" alt="UPOWER-452075137-吃瓜">
+<img src="https://emoji.shojo.cn/bili/src/仓鼠天小莫Teeemo（充电）/UPOWER-452075137-托腮.png" width="50" height="50" alt="UPOWER-452075137-托腮">
+<img src="https://emoji.shojo.cn/bili/src/仓鼠天小莫Teeemo（充电）/UPOWER-452075137-吃花花.png" width="50" height="50" alt="UPOWER-452075137-吃花花">
+<img src="https://emoji.shojo.cn/bili/src/仓鼠天小莫Teeemo（充电）/UPOWER-452075137-超凶.png" width="50" height="50" alt="UPOWER-452075137-超凶">
+<img src="https://emoji.shojo.cn/bili/src/仓鼠天小莫Teeemo（充电）/UPOWER-452075137-无奈.png" width="50" height="50" alt="UPOWER-452075137-无奈">
+<img src="https://emoji.shojo.cn/bili/src/仓鼠天小莫Teeemo（充电）/UPOWER-452075137-探头.png" width="50" height="50" alt="UPOWER-452075137-探头">
+<img src="https://emoji.shojo.cn/bili/src/仓鼠天小莫Teeemo（充电）/UPOWER-452075137-邪魅一笑.png" width="50" height="50" alt="UPOWER-452075137-邪魅一笑">
+
+## 下载地址
+
+https://shamiko-my.sharepoint.com/:u:/g/personal/img_yuru_pro/EXxR76qh_elKkW3-ACe8F-IBB03zbjHXkPlA9WH2z3hnxQ

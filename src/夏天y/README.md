@@ -1,33 +1,39 @@
 # 夏天y
-![icon](https://emoji.shojo.cn/bili/src/夏天y/icon.png)
+<img src="https://emoji.shojo.cn/bili/src/夏天y/icon.png" width="50" height="50" alt="icon">
+
 ## 链接
 Cloudflare:
 ```
 https://emoji.shojo.cn/bili/src/夏天y
+https://emoji.shojo.cn/bili/webp/夏天y
 ```
 ## 展示
-![夏天y-6](https://emoji.shojo.cn/bili/src/夏天y/夏天y-6.png)
-![夏天y-比心](https://emoji.shojo.cn/bili/src/夏天y/夏天y-比心.png)
-![夏天y-吃瓜](https://emoji.shojo.cn/bili/src/夏天y/夏天y-吃瓜.png)
-![夏天y-期待](https://emoji.shojo.cn/bili/src/夏天y/夏天y-期待.png)
-![夏天y-咕咕](https://emoji.shojo.cn/bili/src/夏天y/夏天y-咕咕.png)
-![夏天y-嗨](https://emoji.shojo.cn/bili/src/夏天y/夏天y-嗨.png)
-![夏天y-急急急](https://emoji.shojo.cn/bili/src/夏天y/夏天y-急急急.png)
-![夏天y-就这](https://emoji.shojo.cn/bili/src/夏天y/夏天y-就这.png)
-![夏天y-歇会](https://emoji.shojo.cn/bili/src/夏天y/夏天y-歇会.png)
-![夏天y-哭哭](https://emoji.shojo.cn/bili/src/夏天y/夏天y-哭哭.png)
-![夏天y-流汗黄豆](https://emoji.shojo.cn/bili/src/夏天y/夏天y-流汗黄豆.png)
-![夏天y-耐久大帝](https://emoji.shojo.cn/bili/src/夏天y/夏天y-耐久大帝.png)
-![夏天y-前排](https://emoji.shojo.cn/bili/src/夏天y/夏天y-前排.png)
-![夏天y-润](https://emoji.shojo.cn/bili/src/夏天y/夏天y-润.png)
-![夏天y-弱](https://emoji.shojo.cn/bili/src/夏天y/夏天y-弱.png)
-![夏天y-沙盒大师](https://emoji.shojo.cn/bili/src/夏天y/夏天y-沙盒大师.png)
-![夏天y-天门](https://emoji.shojo.cn/bili/src/夏天y/夏天y-天门.png)
-![夏天y-完结撒花](https://emoji.shojo.cn/bili/src/夏天y/夏天y-完结撒花.png)
-![夏天y-窝瓜](https://emoji.shojo.cn/bili/src/夏天y/夏天y-窝瓜.png)
-![夏天y-我的我的](https://emoji.shojo.cn/bili/src/夏天y/夏天y-我的我的.png)
-![夏天y-下次一定](https://emoji.shojo.cn/bili/src/夏天y/夏天y-下次一定.png)
-![夏天y-笑](https://emoji.shojo.cn/bili/src/夏天y/夏天y-笑.png)
-![夏天y-验证](https://emoji.shojo.cn/bili/src/夏天y/夏天y-验证.png)
-![夏天y-赞](https://emoji.shojo.cn/bili/src/夏天y/夏天y-赞.png)
-![夏天y-嘴硬](https://emoji.shojo.cn/bili/src/夏天y/夏天y-嘴硬.png)
+<img src="https://emoji.shojo.cn/bili/src/夏天y/夏天y-6.png" width="50" height="50" alt="夏天y-6">
+<img src="https://emoji.shojo.cn/bili/src/夏天y/夏天y-比心.png" width="50" height="50" alt="夏天y-比心">
+<img src="https://emoji.shojo.cn/bili/src/夏天y/夏天y-吃瓜.png" width="50" height="50" alt="夏天y-吃瓜">
+<img src="https://emoji.shojo.cn/bili/src/夏天y/夏天y-期待.png" width="50" height="50" alt="夏天y-期待">
+<img src="https://emoji.shojo.cn/bili/src/夏天y/夏天y-咕咕.png" width="50" height="50" alt="夏天y-咕咕">
+<img src="https://emoji.shojo.cn/bili/src/夏天y/夏天y-嗨.png" width="50" height="50" alt="夏天y-嗨">
+<img src="https://emoji.shojo.cn/bili/src/夏天y/夏天y-急急急.png" width="50" height="50" alt="夏天y-急急急">
+<img src="https://emoji.shojo.cn/bili/src/夏天y/夏天y-就这.png" width="50" height="50" alt="夏天y-就这">
+<img src="https://emoji.shojo.cn/bili/src/夏天y/夏天y-歇会.png" width="50" height="50" alt="夏天y-歇会">
+<img src="https://emoji.shojo.cn/bili/src/夏天y/夏天y-哭哭.png" width="50" height="50" alt="夏天y-哭哭">
+<img src="https://emoji.shojo.cn/bili/src/夏天y/夏天y-流汗黄豆.png" width="50" height="50" alt="夏天y-流汗黄豆">
+<img src="https://emoji.shojo.cn/bili/src/夏天y/夏天y-耐久大帝.png" width="50" height="50" alt="夏天y-耐久大帝">
+<img src="https://emoji.shojo.cn/bili/src/夏天y/夏天y-前排.png" width="50" height="50" alt="夏天y-前排">
+<img src="https://emoji.shojo.cn/bili/src/夏天y/夏天y-润.png" width="50" height="50" alt="夏天y-润">
+<img src="https://emoji.shojo.cn/bili/src/夏天y/夏天y-弱.png" width="50" height="50" alt="夏天y-弱">
+<img src="https://emoji.shojo.cn/bili/src/夏天y/夏天y-沙盒大师.png" width="50" height="50" alt="夏天y-沙盒大师">
+<img src="https://emoji.shojo.cn/bili/src/夏天y/夏天y-天门.png" width="50" height="50" alt="夏天y-天门">
+<img src="https://emoji.shojo.cn/bili/src/夏天y/夏天y-完结撒花.png" width="50" height="50" alt="夏天y-完结撒花">
+<img src="https://emoji.shojo.cn/bili/src/夏天y/夏天y-窝瓜.png" width="50" height="50" alt="夏天y-窝瓜">
+<img src="https://emoji.shojo.cn/bili/src/夏天y/夏天y-我的我的.png" width="50" height="50" alt="夏天y-我的我的">
+<img src="https://emoji.shojo.cn/bili/src/夏天y/夏天y-下次一定.png" width="50" height="50" alt="夏天y-下次一定">
+<img src="https://emoji.shojo.cn/bili/src/夏天y/夏天y-笑.png" width="50" height="50" alt="夏天y-笑">
+<img src="https://emoji.shojo.cn/bili/src/夏天y/夏天y-验证.png" width="50" height="50" alt="夏天y-验证">
+<img src="https://emoji.shojo.cn/bili/src/夏天y/夏天y-赞.png" width="50" height="50" alt="夏天y-赞">
+<img src="https://emoji.shojo.cn/bili/src/夏天y/夏天y-嘴硬.png" width="50" height="50" alt="夏天y-嘴硬">
+
+## 下载地址
+
+https://shamiko-my.sharepoint.com/:u:/g/personal/img_yuru_pro/EXtNpfh_TC1EjZ8cBEAGBPsBkqWXdMexuwdzlpYuJkBkEg

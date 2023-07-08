@@ -1,23 +1,29 @@
 # 小电视
-![icon](https://emoji.shojo.cn/bili/src/小电视/icon.png)
+<img src="https://emoji.shojo.cn/bili/src/小电视/icon.png" width="50" height="50" alt="icon">
+
 ## 链接
 Cloudflare:
 ```
 https://emoji.shojo.cn/bili/src/小电视
+https://emoji.shojo.cn/bili/webp/小电视
 ```
 ## 展示
-![小电视-笑](https://emoji.shojo.cn/bili/src/小电视/小电视-笑.png)
-![小电视-发愁](https://emoji.shojo.cn/bili/src/小电视/小电视-发愁.png)
-![小电视-赞](https://emoji.shojo.cn/bili/src/小电视/小电视-赞.png)
-![小电视-差评](https://emoji.shojo.cn/bili/src/小电视/小电视-差评.png)
-![小电视-嘟嘴](https://emoji.shojo.cn/bili/src/小电视/小电视-嘟嘴.png)
-![小电视-汗](https://emoji.shojo.cn/bili/src/小电视/小电视-汗.png)
-![小电视-害羞](https://emoji.shojo.cn/bili/src/小电视/小电视-害羞.png)
-![小电视-吃惊](https://emoji.shojo.cn/bili/src/小电视/小电视-吃惊.png)
-![小电视-哭泣](https://emoji.shojo.cn/bili/src/小电视/小电视-哭泣.png)
-![小电视-太太喜欢](https://emoji.shojo.cn/bili/src/小电视/小电视-太太喜欢.png)
-![小电视-好怒啊](https://emoji.shojo.cn/bili/src/小电视/小电视-好怒啊.png)
-![小电视-困惑](https://emoji.shojo.cn/bili/src/小电视/小电视-困惑.png)
-![小电视-我好兴奋](https://emoji.shojo.cn/bili/src/小电视/小电视-我好兴奋.png)
-![小电视-思索](https://emoji.shojo.cn/bili/src/小电视/小电视-思索.png)
-![小电视-无语](https://emoji.shojo.cn/bili/src/小电视/小电视-无语.png)
+<img src="https://emoji.shojo.cn/bili/src/小电视/小电视-笑.png" width="50" height="50" alt="小电视-笑">
+<img src="https://emoji.shojo.cn/bili/src/小电视/小电视-发愁.png" width="50" height="50" alt="小电视-发愁">
+<img src="https://emoji.shojo.cn/bili/src/小电视/小电视-赞.png" width="50" height="50" alt="小电视-赞">
+<img src="https://emoji.shojo.cn/bili/src/小电视/小电视-差评.png" width="50" height="50" alt="小电视-差评">
+<img src="https://emoji.shojo.cn/bili/src/小电视/小电视-嘟嘴.png" width="50" height="50" alt="小电视-嘟嘴">
+<img src="https://emoji.shojo.cn/bili/src/小电视/小电视-汗.png" width="50" height="50" alt="小电视-汗">
+<img src="https://emoji.shojo.cn/bili/src/小电视/小电视-害羞.png" width="50" height="50" alt="小电视-害羞">
+<img src="https://emoji.shojo.cn/bili/src/小电视/小电视-吃惊.png" width="50" height="50" alt="小电视-吃惊">
+<img src="https://emoji.shojo.cn/bili/src/小电视/小电视-哭泣.png" width="50" height="50" alt="小电视-哭泣">
+<img src="https://emoji.shojo.cn/bili/src/小电视/小电视-太太喜欢.png" width="50" height="50" alt="小电视-太太喜欢">
+<img src="https://emoji.shojo.cn/bili/src/小电视/小电视-好怒啊.png" width="50" height="50" alt="小电视-好怒啊">
+<img src="https://emoji.shojo.cn/bili/src/小电视/小电视-困惑.png" width="50" height="50" alt="小电视-困惑">
+<img src="https://emoji.shojo.cn/bili/src/小电视/小电视-我好兴奋.png" width="50" height="50" alt="小电视-我好兴奋">
+<img src="https://emoji.shojo.cn/bili/src/小电视/小电视-思索.png" width="50" height="50" alt="小电视-思索">
+<img src="https://emoji.shojo.cn/bili/src/小电视/小电视-无语.png" width="50" height="50" alt="小电视-无语">
+
+## 下载地址
+
+https://shamiko-my.sharepoint.com/:u:/g/personal/img_yuru_pro/EQz4otZpvBhLiuTkO6NemooB7UBddZb0tFa2PmII5Dm-1A

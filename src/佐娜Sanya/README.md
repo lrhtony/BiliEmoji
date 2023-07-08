@@ -1,33 +1,39 @@
 # 佐娜Sanya
-![icon](https://emoji.shojo.cn/bili/src/佐娜Sanya/icon.png)
+<img src="https://emoji.shojo.cn/bili/src/佐娜Sanya/icon.png" width="50" height="50" alt="icon">
+
 ## 链接
 Cloudflare:
 ```
 https://emoji.shojo.cn/bili/src/佐娜Sanya
+https://emoji.shojo.cn/bili/webp/佐娜Sanya
 ```
 ## 展示
-![佐娜Sanya-下饭](https://emoji.shojo.cn/bili/src/佐娜Sanya/佐娜Sanya-下饭.png)
-![佐娜Sanya-不吃](https://emoji.shojo.cn/bili/src/佐娜Sanya/佐娜Sanya-不吃.png)
-![佐娜Sanya-真香](https://emoji.shojo.cn/bili/src/佐娜Sanya/佐娜Sanya-真香.png)
-![佐娜Sanya-吃饱了](https://emoji.shojo.cn/bili/src/佐娜Sanya/佐娜Sanya-吃饱了.png)
-![佐娜Sanya-给你花花](https://emoji.shojo.cn/bili/src/佐娜Sanya/佐娜Sanya-给你花花.png)
-![佐娜Sanya-SUKI](https://emoji.shojo.cn/bili/src/佐娜Sanya/佐娜Sanya-SUKI.png)
-![佐娜Sanya-打call](https://emoji.shojo.cn/bili/src/佐娜Sanya/佐娜Sanya-打call.png)
-![佐娜Sanya-牛哇](https://emoji.shojo.cn/bili/src/佐娜Sanya/佐娜Sanya-牛哇.png)
-![佐娜Sanya-晚安](https://emoji.shojo.cn/bili/src/佐娜Sanya/佐娜Sanya-晚安.png)
-![佐娜Sanya-问号](https://emoji.shojo.cn/bili/src/佐娜Sanya/佐娜Sanya-问号.png)
-![佐娜Sanya-达咩](https://emoji.shojo.cn/bili/src/佐娜Sanya/佐娜Sanya-达咩.png)
-![佐娜Sanya-啊对对对](https://emoji.shojo.cn/bili/src/佐娜Sanya/佐娜Sanya-啊对对对.png)
-![佐娜Sanya-生气](https://emoji.shojo.cn/bili/src/佐娜Sanya/佐娜Sanya-生气.png)
-![佐娜Sanya-坐牢](https://emoji.shojo.cn/bili/src/佐娜Sanya/佐娜Sanya-坐牢.png)
-![佐娜Sanya-多来点](https://emoji.shojo.cn/bili/src/佐娜Sanya/佐娜Sanya-多来点.png)
-![佐娜Sanya-无语](https://emoji.shojo.cn/bili/src/佐娜Sanya/佐娜Sanya-无语.png)
-![佐娜Sanya-植物](https://emoji.shojo.cn/bili/src/佐娜Sanya/佐娜Sanya-植物.png)
-![佐娜Sanya-选一个](https://emoji.shojo.cn/bili/src/佐娜Sanya/佐娜Sanya-选一个.png)
-![佐娜Sanya-QAQ](https://emoji.shojo.cn/bili/src/佐娜Sanya/佐娜Sanya-QAQ.png)
-![佐娜Sanya-害羞](https://emoji.shojo.cn/bili/src/佐娜Sanya/佐娜Sanya-害羞.png)
-![佐娜Sanya-慌张](https://emoji.shojo.cn/bili/src/佐娜Sanya/佐娜Sanya-慌张.png)
-![佐娜Sanya-贫弱](https://emoji.shojo.cn/bili/src/佐娜Sanya/佐娜Sanya-贫弱.png)
-![佐娜Sanya-乐](https://emoji.shojo.cn/bili/src/佐娜Sanya/佐娜Sanya-乐.png)
-![佐娜Sanya-摸鱼](https://emoji.shojo.cn/bili/src/佐娜Sanya/佐娜Sanya-摸鱼.png)
-![佐娜Sanya-降临](https://emoji.shojo.cn/bili/src/佐娜Sanya/佐娜Sanya-降临.png)
+<img src="https://emoji.shojo.cn/bili/src/佐娜Sanya/佐娜Sanya-下饭.png" width="50" height="50" alt="佐娜Sanya-下饭">
+<img src="https://emoji.shojo.cn/bili/src/佐娜Sanya/佐娜Sanya-不吃.png" width="50" height="50" alt="佐娜Sanya-不吃">
+<img src="https://emoji.shojo.cn/bili/src/佐娜Sanya/佐娜Sanya-真香.png" width="50" height="50" alt="佐娜Sanya-真香">
+<img src="https://emoji.shojo.cn/bili/src/佐娜Sanya/佐娜Sanya-吃饱了.png" width="50" height="50" alt="佐娜Sanya-吃饱了">
+<img src="https://emoji.shojo.cn/bili/src/佐娜Sanya/佐娜Sanya-给你花花.png" width="50" height="50" alt="佐娜Sanya-给你花花">
+<img src="https://emoji.shojo.cn/bili/src/佐娜Sanya/佐娜Sanya-SUKI.png" width="50" height="50" alt="佐娜Sanya-SUKI">
+<img src="https://emoji.shojo.cn/bili/src/佐娜Sanya/佐娜Sanya-打call.png" width="50" height="50" alt="佐娜Sanya-打call">
+<img src="https://emoji.shojo.cn/bili/src/佐娜Sanya/佐娜Sanya-牛哇.png" width="50" height="50" alt="佐娜Sanya-牛哇">
+<img src="https://emoji.shojo.cn/bili/src/佐娜Sanya/佐娜Sanya-晚安.png" width="50" height="50" alt="佐娜Sanya-晚安">
+<img src="https://emoji.shojo.cn/bili/src/佐娜Sanya/佐娜Sanya-问号.png" width="50" height="50" alt="佐娜Sanya-问号">
+<img src="https://emoji.shojo.cn/bili/src/佐娜Sanya/佐娜Sanya-达咩.png" width="50" height="50" alt="佐娜Sanya-达咩">
+<img src="https://emoji.shojo.cn/bili/src/佐娜Sanya/佐娜Sanya-啊对对对.png" width="50" height="50" alt="佐娜Sanya-啊对对对">
+<img src="https://emoji.shojo.cn/bili/src/佐娜Sanya/佐娜Sanya-生气.png" width="50" height="50" alt="佐娜Sanya-生气">
+<img src="https://emoji.shojo.cn/bili/src/佐娜Sanya/佐娜Sanya-坐牢.png" width="50" height="50" alt="佐娜Sanya-坐牢">
+<img src="https://emoji.shojo.cn/bili/src/佐娜Sanya/佐娜Sanya-多来点.png" width="50" height="50" alt="佐娜Sanya-多来点">
+<img src="https://emoji.shojo.cn/bili/src/佐娜Sanya/佐娜Sanya-无语.png" width="50" height="50" alt="佐娜Sanya-无语">
+<img src="https://emoji.shojo.cn/bili/src/佐娜Sanya/佐娜Sanya-植物.png" width="50" height="50" alt="佐娜Sanya-植物">
+<img src="https://emoji.shojo.cn/bili/src/佐娜Sanya/佐娜Sanya-选一个.png" width="50" height="50" alt="佐娜Sanya-选一个">
+<img src="https://emoji.shojo.cn/bili/src/佐娜Sanya/佐娜Sanya-QAQ.png" width="50" height="50" alt="佐娜Sanya-QAQ">
+<img src="https://emoji.shojo.cn/bili/src/佐娜Sanya/佐娜Sanya-害羞.png" width="50" height="50" alt="佐娜Sanya-害羞">
+<img src="https://emoji.shojo.cn/bili/src/佐娜Sanya/佐娜Sanya-慌张.png" width="50" height="50" alt="佐娜Sanya-慌张">
+<img src="https://emoji.shojo.cn/bili/src/佐娜Sanya/佐娜Sanya-贫弱.png" width="50" height="50" alt="佐娜Sanya-贫弱">
+<img src="https://emoji.shojo.cn/bili/src/佐娜Sanya/佐娜Sanya-乐.png" width="50" height="50" alt="佐娜Sanya-乐">
+<img src="https://emoji.shojo.cn/bili/src/佐娜Sanya/佐娜Sanya-摸鱼.png" width="50" height="50" alt="佐娜Sanya-摸鱼">
+<img src="https://emoji.shojo.cn/bili/src/佐娜Sanya/佐娜Sanya-降临.png" width="50" height="50" alt="佐娜Sanya-降临">
+
+## 下载地址
+
+https://shamiko-my.sharepoint.com/:u:/g/personal/img_yuru_pro/EeKwH17UJK1Jq6T5v3NXy5YBvHfEbZa2kWYh3M1GIqcm_g

@@ -1,28 +1,34 @@
 # 叶
-![icon](https://emoji.shojo.cn/bili/src/叶/icon.png)
+<img src="https://emoji.shojo.cn/bili/src/叶/icon.png" width="50" height="50" alt="icon">
+
 ## 链接
 Cloudflare:
 ```
 https://emoji.shojo.cn/bili/src/叶
+https://emoji.shojo.cn/bili/webp/叶
 ```
 ## 展示
-![叶-黑脸捶桌](https://emoji.shojo.cn/bili/src/叶/叶-黑脸捶桌.png)
-![叶-超大声](https://emoji.shojo.cn/bili/src/叶/叶-超大声.png)
-![叶-贴贴](https://emoji.shojo.cn/bili/src/叶/叶-贴贴.png)
-![叶-礼物谢谢](https://emoji.shojo.cn/bili/src/叶/叶-礼物谢谢.png)
-![叶-熬夜](https://emoji.shojo.cn/bili/src/叶/叶-熬夜.png)
-![叶-晚安](https://emoji.shojo.cn/bili/src/叶/叶-晚安.png)
-![叶-感动](https://emoji.shojo.cn/bili/src/叶/叶-感动.png)
-![叶-害怕](https://emoji.shojo.cn/bili/src/叶/叶-害怕.png)
-![叶-威胁](https://emoji.shojo.cn/bili/src/叶/叶-威胁.png)
-![叶-失忆](https://emoji.shojo.cn/bili/src/叶/叶-失忆.png)
-![叶-天使之吻](https://emoji.shojo.cn/bili/src/叶/叶-天使之吻.png)
-![叶-大佬](https://emoji.shojo.cn/bili/src/叶/叶-大佬.png)
-![叶-哭哭](https://emoji.shojo.cn/bili/src/叶/叶-哭哭.png)
-![叶-叶问](https://emoji.shojo.cn/bili/src/叶/叶-叶问.png)
-![叶-别吵架](https://emoji.shojo.cn/bili/src/叶/叶-别吵架.png)
-![叶-偷看](https://emoji.shojo.cn/bili/src/叶/叶-偷看.png)
-![叶-yeah](https://emoji.shojo.cn/bili/src/叶/叶-yeah.png)
-![叶-nice](https://emoji.shojo.cn/bili/src/叶/叶-nice.png)
-![叶-meu](https://emoji.shojo.cn/bili/src/叶/叶-meu.png)
-![叶-瞪](https://emoji.shojo.cn/bili/src/叶/叶-瞪.png)
+<img src="https://emoji.shojo.cn/bili/src/叶/叶-黑脸捶桌.png" width="50" height="50" alt="叶-黑脸捶桌">
+<img src="https://emoji.shojo.cn/bili/src/叶/叶-超大声.png" width="50" height="50" alt="叶-超大声">
+<img src="https://emoji.shojo.cn/bili/src/叶/叶-贴贴.png" width="50" height="50" alt="叶-贴贴">
+<img src="https://emoji.shojo.cn/bili/src/叶/叶-礼物谢谢.png" width="50" height="50" alt="叶-礼物谢谢">
+<img src="https://emoji.shojo.cn/bili/src/叶/叶-熬夜.png" width="50" height="50" alt="叶-熬夜">
+<img src="https://emoji.shojo.cn/bili/src/叶/叶-晚安.png" width="50" height="50" alt="叶-晚安">
+<img src="https://emoji.shojo.cn/bili/src/叶/叶-感动.png" width="50" height="50" alt="叶-感动">
+<img src="https://emoji.shojo.cn/bili/src/叶/叶-害怕.png" width="50" height="50" alt="叶-害怕">
+<img src="https://emoji.shojo.cn/bili/src/叶/叶-威胁.png" width="50" height="50" alt="叶-威胁">
+<img src="https://emoji.shojo.cn/bili/src/叶/叶-失忆.png" width="50" height="50" alt="叶-失忆">
+<img src="https://emoji.shojo.cn/bili/src/叶/叶-天使之吻.png" width="50" height="50" alt="叶-天使之吻">
+<img src="https://emoji.shojo.cn/bili/src/叶/叶-大佬.png" width="50" height="50" alt="叶-大佬">
+<img src="https://emoji.shojo.cn/bili/src/叶/叶-哭哭.png" width="50" height="50" alt="叶-哭哭">
+<img src="https://emoji.shojo.cn/bili/src/叶/叶-叶问.png" width="50" height="50" alt="叶-叶问">
+<img src="https://emoji.shojo.cn/bili/src/叶/叶-别吵架.png" width="50" height="50" alt="叶-别吵架">
+<img src="https://emoji.shojo.cn/bili/src/叶/叶-偷看.png" width="50" height="50" alt="叶-偷看">
+<img src="https://emoji.shojo.cn/bili/src/叶/叶-yeah.png" width="50" height="50" alt="叶-yeah">
+<img src="https://emoji.shojo.cn/bili/src/叶/叶-nice.png" width="50" height="50" alt="叶-nice">
+<img src="https://emoji.shojo.cn/bili/src/叶/叶-meu.png" width="50" height="50" alt="叶-meu">
+<img src="https://emoji.shojo.cn/bili/src/叶/叶-瞪.png" width="50" height="50" alt="叶-瞪">
+
+## 下载地址
+
+https://shamiko-my.sharepoint.com/:u:/g/personal/img_yuru_pro/EcAuggwS2z9MiMhGB1TWi8YBew1qIm_e4rA_pNpA12xAog

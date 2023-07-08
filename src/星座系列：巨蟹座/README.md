@@ -1,18 +1,24 @@
 # 星座系列：巨蟹座
-![icon](https://emoji.shojo.cn/bili/src/星座系列：巨蟹座/icon.png)
+<img src="https://emoji.shojo.cn/bili/src/星座系列：巨蟹座/icon.png" width="50" height="50" alt="icon">
+
 ## 链接
 Cloudflare:
 ```
 https://emoji.shojo.cn/bili/src/星座系列：巨蟹座
+https://emoji.shojo.cn/bili/webp/星座系列：巨蟹座
 ```
 ## 展示
-![巨蟹座-好热](https://emoji.shojo.cn/bili/src/星座系列：巨蟹座/巨蟹座-好热.png)
-![巨蟹座-难顶](https://emoji.shojo.cn/bili/src/星座系列：巨蟹座/巨蟹座-难顶.png)
-![巨蟹座-拍拍](https://emoji.shojo.cn/bili/src/星座系列：巨蟹座/巨蟹座-拍拍.png)
-![巨蟹座-体温过高](https://emoji.shojo.cn/bili/src/星座系列：巨蟹座/巨蟹座-体温过高.png)
-![巨蟹座-贴贴](https://emoji.shojo.cn/bili/src/星座系列：巨蟹座/巨蟹座-贴贴.png)
-![巨蟹座-铁锅炖自己](https://emoji.shojo.cn/bili/src/星座系列：巨蟹座/巨蟹座-铁锅炖自己.png)
-![巨蟹座-痛啊](https://emoji.shojo.cn/bili/src/星座系列：巨蟹座/巨蟹座-痛啊.png)
-![巨蟹座-蟹蟹](https://emoji.shojo.cn/bili/src/星座系列：巨蟹座/巨蟹座-蟹蟹.png)
-![巨蟹座-蟹蟹爱你](https://emoji.shojo.cn/bili/src/星座系列：巨蟹座/巨蟹座-蟹蟹爱你.png)
-![巨蟹座-有八卦](https://emoji.shojo.cn/bili/src/星座系列：巨蟹座/巨蟹座-有八卦.png)
+<img src="https://emoji.shojo.cn/bili/src/星座系列：巨蟹座/巨蟹座-好热.png" width="50" height="50" alt="巨蟹座-好热">
+<img src="https://emoji.shojo.cn/bili/src/星座系列：巨蟹座/巨蟹座-难顶.png" width="50" height="50" alt="巨蟹座-难顶">
+<img src="https://emoji.shojo.cn/bili/src/星座系列：巨蟹座/巨蟹座-拍拍.png" width="50" height="50" alt="巨蟹座-拍拍">
+<img src="https://emoji.shojo.cn/bili/src/星座系列：巨蟹座/巨蟹座-体温过高.png" width="50" height="50" alt="巨蟹座-体温过高">
+<img src="https://emoji.shojo.cn/bili/src/星座系列：巨蟹座/巨蟹座-贴贴.png" width="50" height="50" alt="巨蟹座-贴贴">
+<img src="https://emoji.shojo.cn/bili/src/星座系列：巨蟹座/巨蟹座-铁锅炖自己.png" width="50" height="50" alt="巨蟹座-铁锅炖自己">
+<img src="https://emoji.shojo.cn/bili/src/星座系列：巨蟹座/巨蟹座-痛啊.png" width="50" height="50" alt="巨蟹座-痛啊">
+<img src="https://emoji.shojo.cn/bili/src/星座系列：巨蟹座/巨蟹座-蟹蟹.png" width="50" height="50" alt="巨蟹座-蟹蟹">
+<img src="https://emoji.shojo.cn/bili/src/星座系列：巨蟹座/巨蟹座-蟹蟹爱你.png" width="50" height="50" alt="巨蟹座-蟹蟹爱你">
+<img src="https://emoji.shojo.cn/bili/src/星座系列：巨蟹座/巨蟹座-有八卦.png" width="50" height="50" alt="巨蟹座-有八卦">
+
+## 下载地址
+
+https://shamiko-my.sharepoint.com/:u:/g/personal/img_yuru_pro/EemUAQEvdMBFjxRES2F1N48BVd0rOZj1JhLmekxY8K662w

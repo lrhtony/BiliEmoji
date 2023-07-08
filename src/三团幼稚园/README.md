@@ -1,35 +1,41 @@
 # 三团幼稚园
-![icon](https://emoji.shojo.cn/bili/src/三团幼稚园/icon.png)
+<img src="https://emoji.shojo.cn/bili/src/三团幼稚园/icon.png" width="50" height="50" alt="icon">
+
 ## 链接
 Cloudflare:
 ```
 https://emoji.shojo.cn/bili/src/三团幼稚园
+https://emoji.shojo.cn/bili/webp/三团幼稚园
 ```
 ## 展示
-![三团幼稚园-mua~](https://emoji.shojo.cn/bili/src/三团幼稚园/三团幼稚园-mua~.png)
-![三团幼稚园-wow](https://emoji.shojo.cn/bili/src/三团幼稚园/三团幼稚园-wow.png)
-![三团幼稚园-抱抱](https://emoji.shojo.cn/bili/src/三团幼稚园/三团幼稚园-抱抱.png)
-![三团幼稚园-不想上班](https://emoji.shojo.cn/bili/src/三团幼稚园/三团幼稚园-不想上班.png)
-![三团幼稚园-蹭蹭](https://emoji.shojo.cn/bili/src/三团幼稚园/三团幼稚园-蹭蹭.png)
-![三团幼稚园-打瞌睡](https://emoji.shojo.cn/bili/src/三团幼稚园/三团幼稚园-打瞌睡.png)
-![三团幼稚园-到哪了](https://emoji.shojo.cn/bili/src/三团幼稚园/三团幼稚园-到哪了.png)
-![三团幼稚园-等等](https://emoji.shojo.cn/bili/src/三团幼稚园/三团幼稚园-等等.png)
-![三团幼稚园-发射爱心](https://emoji.shojo.cn/bili/src/三团幼稚园/三团幼稚园-发射爱心.png)
-![三团幼稚园-害羞](https://emoji.shojo.cn/bili/src/三团幼稚园/三团幼稚园-害羞.png)
-![三团幼稚园-黑心](https://emoji.shojo.cn/bili/src/三团幼稚园/三团幼稚园-黑心.png)
-![三团幼稚园-加油](https://emoji.shojo.cn/bili/src/三团幼稚园/三团幼稚园-加油.png)
-![三团幼稚园-看好你](https://emoji.shojo.cn/bili/src/三团幼稚园/三团幼稚园-看好你.png)
-![三团幼稚园-狼](https://emoji.shojo.cn/bili/src/三团幼稚园/三团幼稚园-狼.png)
-![三团幼稚园-摸头](https://emoji.shojo.cn/bili/src/三团幼稚园/三团幼稚园-摸头.png)
-![三团幼稚园-你输了](https://emoji.shojo.cn/bili/src/三团幼稚园/三团幼稚园-你输了.png)
-![三团幼稚园-噢？](https://emoji.shojo.cn/bili/src/三团幼稚园/三团幼稚园-噢？.png)
-![三团幼稚园-脾气挺大](https://emoji.shojo.cn/bili/src/三团幼稚园/三团幼稚园-脾气挺大.png)
-![三团幼稚园-亲亲](https://emoji.shojo.cn/bili/src/三团幼稚园/三团幼稚园-亲亲.png)
-![三团幼稚园-撒花](https://emoji.shojo.cn/bili/src/三团幼稚园/三团幼稚园-撒花.png)
-![三团幼稚园-兔](https://emoji.shojo.cn/bili/src/三团幼稚园/三团幼稚园-兔.png)
-![三团幼稚园-委屈](https://emoji.shojo.cn/bili/src/三团幼稚园/三团幼稚园-委屈.png)
-![三团幼稚园-洗洗睡啦](https://emoji.shojo.cn/bili/src/三团幼稚园/三团幼稚园-洗洗睡啦.png)
-![三团幼稚园-想干嘛](https://emoji.shojo.cn/bili/src/三团幼稚园/三团幼稚园-想干嘛.png)
-![三团幼稚园-想你了](https://emoji.shojo.cn/bili/src/三团幼稚园/三团幼稚园-想你了.png)
-![三团幼稚园-谢谢](https://emoji.shojo.cn/bili/src/三团幼稚园/三团幼稚园-谢谢.png)
-![三团幼稚园-兄弟萌](https://emoji.shojo.cn/bili/src/三团幼稚园/三团幼稚园-兄弟萌.png)
+<img src="https://emoji.shojo.cn/bili/src/三团幼稚园/三团幼稚园-mua~.png" width="50" height="50" alt="三团幼稚园-mua~">
+<img src="https://emoji.shojo.cn/bili/src/三团幼稚园/三团幼稚园-wow.png" width="50" height="50" alt="三团幼稚园-wow">
+<img src="https://emoji.shojo.cn/bili/src/三团幼稚园/三团幼稚园-抱抱.png" width="50" height="50" alt="三团幼稚园-抱抱">
+<img src="https://emoji.shojo.cn/bili/src/三团幼稚园/三团幼稚园-不想上班.png" width="50" height="50" alt="三团幼稚园-不想上班">
+<img src="https://emoji.shojo.cn/bili/src/三团幼稚园/三团幼稚园-蹭蹭.png" width="50" height="50" alt="三团幼稚园-蹭蹭">
+<img src="https://emoji.shojo.cn/bili/src/三团幼稚园/三团幼稚园-打瞌睡.png" width="50" height="50" alt="三团幼稚园-打瞌睡">
+<img src="https://emoji.shojo.cn/bili/src/三团幼稚园/三团幼稚园-到哪了.png" width="50" height="50" alt="三团幼稚园-到哪了">
+<img src="https://emoji.shojo.cn/bili/src/三团幼稚园/三团幼稚园-等等.png" width="50" height="50" alt="三团幼稚园-等等">
+<img src="https://emoji.shojo.cn/bili/src/三团幼稚园/三团幼稚园-发射爱心.png" width="50" height="50" alt="三团幼稚园-发射爱心">
+<img src="https://emoji.shojo.cn/bili/src/三团幼稚园/三团幼稚园-害羞.png" width="50" height="50" alt="三团幼稚园-害羞">
+<img src="https://emoji.shojo.cn/bili/src/三团幼稚园/三团幼稚园-黑心.png" width="50" height="50" alt="三团幼稚园-黑心">
+<img src="https://emoji.shojo.cn/bili/src/三团幼稚园/三团幼稚园-加油.png" width="50" height="50" alt="三团幼稚园-加油">
+<img src="https://emoji.shojo.cn/bili/src/三团幼稚园/三团幼稚园-看好你.png" width="50" height="50" alt="三团幼稚园-看好你">
+<img src="https://emoji.shojo.cn/bili/src/三团幼稚园/三团幼稚园-狼.png" width="50" height="50" alt="三团幼稚园-狼">
+<img src="https://emoji.shojo.cn/bili/src/三团幼稚园/三团幼稚园-摸头.png" width="50" height="50" alt="三团幼稚园-摸头">
+<img src="https://emoji.shojo.cn/bili/src/三团幼稚园/三团幼稚园-你输了.png" width="50" height="50" alt="三团幼稚园-你输了">
+<img src="https://emoji.shojo.cn/bili/src/三团幼稚园/三团幼稚园-噢？.png" width="50" height="50" alt="三团幼稚园-噢？">
+<img src="https://emoji.shojo.cn/bili/src/三团幼稚园/三团幼稚园-脾气挺大.png" width="50" height="50" alt="三团幼稚园-脾气挺大">
+<img src="https://emoji.shojo.cn/bili/src/三团幼稚园/三团幼稚园-亲亲.png" width="50" height="50" alt="三团幼稚园-亲亲">
+<img src="https://emoji.shojo.cn/bili/src/三团幼稚园/三团幼稚园-撒花.png" width="50" height="50" alt="三团幼稚园-撒花">
+<img src="https://emoji.shojo.cn/bili/src/三团幼稚园/三团幼稚园-兔.png" width="50" height="50" alt="三团幼稚园-兔">
+<img src="https://emoji.shojo.cn/bili/src/三团幼稚园/三团幼稚园-委屈.png" width="50" height="50" alt="三团幼稚园-委屈">
+<img src="https://emoji.shojo.cn/bili/src/三团幼稚园/三团幼稚园-洗洗睡啦.png" width="50" height="50" alt="三团幼稚园-洗洗睡啦">
+<img src="https://emoji.shojo.cn/bili/src/三团幼稚园/三团幼稚园-想干嘛.png" width="50" height="50" alt="三团幼稚园-想干嘛">
+<img src="https://emoji.shojo.cn/bili/src/三团幼稚园/三团幼稚园-想你了.png" width="50" height="50" alt="三团幼稚园-想你了">
+<img src="https://emoji.shojo.cn/bili/src/三团幼稚园/三团幼稚园-谢谢.png" width="50" height="50" alt="三团幼稚园-谢谢">
+<img src="https://emoji.shojo.cn/bili/src/三团幼稚园/三团幼稚园-兄弟萌.png" width="50" height="50" alt="三团幼稚园-兄弟萌">
+
+## 下载地址
+
+https://shamiko-my.sharepoint.com/:u:/g/personal/img_yuru_pro/EawF6-b78uJDtg_leyoqkpgBUK0m4aQTFNjyKKXeAZm5YQ

@@ -1,28 +1,34 @@
 # 早稻叽
-![icon](https://emoji.shojo.cn/bili/src/早稻叽/icon.png)
+<img src="https://emoji.shojo.cn/bili/src/早稻叽/icon.png" width="50" height="50" alt="icon">
+
 ## 链接
 Cloudflare:
 ```
 https://emoji.shojo.cn/bili/src/早稻叽
+https://emoji.shojo.cn/bili/webp/早稻叽
 ```
 ## 展示
-![早稻叽-AWSL](https://emoji.shojo.cn/bili/src/早稻叽/早稻叽-AWSL.png)
-![早稻叽-no](https://emoji.shojo.cn/bili/src/早稻叽/早稻叽-no.png)
-![早稻叽-YES!](https://emoji.shojo.cn/bili/src/早稻叽/早稻叽-YES!.png)
-![早稻叽-馋](https://emoji.shojo.cn/bili/src/早稻叽/早稻叽-馋.png)
-![早稻叽-嘲笑](https://emoji.shojo.cn/bili/src/早稻叽/早稻叽-嘲笑.png)
-![早稻叽-冲鸭](https://emoji.shojo.cn/bili/src/早稻叽/早稻叽-冲鸭.png)
-![早稻叽-薅呆毛](https://emoji.shojo.cn/bili/src/早稻叽/早稻叽-薅呆毛.png)
-![早稻叽-老婆](https://emoji.shojo.cn/bili/src/早稻叽/早稻叽-老婆.png)
-![早稻叽-泪目](https://emoji.shojo.cn/bili/src/早稻叽/早稻叽-泪目.png)
-![早稻叽-冒头](https://emoji.shojo.cn/bili/src/早稻叽/早稻叽-冒头.png)
-![早稻叽-生气](https://emoji.shojo.cn/bili/src/早稻叽/早稻叽-生气.png)
-![早稻叽-瘫](https://emoji.shojo.cn/bili/src/早稻叽/早稻叽-瘫.png)
-![早稻叽-打嗝](https://emoji.shojo.cn/bili/src/早稻叽/早稻叽-打嗝.png)
-![早稻叽-元气满满](https://emoji.shojo.cn/bili/src/早稻叽/早稻叽-元气满满.png)
-![早稻叽-比心](https://emoji.shojo.cn/bili/src/早稻叽/早稻叽-比心.png)
-![早稻叽-戳](https://emoji.shojo.cn/bili/src/早稻叽/早稻叽-戳.png)
-![早稻叽-牛啊](https://emoji.shojo.cn/bili/src/早稻叽/早稻叽-牛啊.png)
-![早稻叽-亲亲](https://emoji.shojo.cn/bili/src/早稻叽/早稻叽-亲亲.png)
-![早稻叽-无语](https://emoji.shojo.cn/bili/src/早稻叽/早稻叽-无语.png)
-![早稻叽-亿点点](https://emoji.shojo.cn/bili/src/早稻叽/早稻叽-亿点点.png)
+<img src="https://emoji.shojo.cn/bili/src/早稻叽/早稻叽-AWSL.png" width="50" height="50" alt="早稻叽-AWSL">
+<img src="https://emoji.shojo.cn/bili/src/早稻叽/早稻叽-no.png" width="50" height="50" alt="早稻叽-no">
+<img src="https://emoji.shojo.cn/bili/src/早稻叽/早稻叽-YES!.png" width="50" height="50" alt="早稻叽-YES!">
+<img src="https://emoji.shojo.cn/bili/src/早稻叽/早稻叽-馋.png" width="50" height="50" alt="早稻叽-馋">
+<img src="https://emoji.shojo.cn/bili/src/早稻叽/早稻叽-嘲笑.png" width="50" height="50" alt="早稻叽-嘲笑">
+<img src="https://emoji.shojo.cn/bili/src/早稻叽/早稻叽-冲鸭.png" width="50" height="50" alt="早稻叽-冲鸭">
+<img src="https://emoji.shojo.cn/bili/src/早稻叽/早稻叽-薅呆毛.png" width="50" height="50" alt="早稻叽-薅呆毛">
+<img src="https://emoji.shojo.cn/bili/src/早稻叽/早稻叽-老婆.png" width="50" height="50" alt="早稻叽-老婆">
+<img src="https://emoji.shojo.cn/bili/src/早稻叽/早稻叽-泪目.png" width="50" height="50" alt="早稻叽-泪目">
+<img src="https://emoji.shojo.cn/bili/src/早稻叽/早稻叽-冒头.png" width="50" height="50" alt="早稻叽-冒头">
+<img src="https://emoji.shojo.cn/bili/src/早稻叽/早稻叽-生气.png" width="50" height="50" alt="早稻叽-生气">
+<img src="https://emoji.shojo.cn/bili/src/早稻叽/早稻叽-瘫.png" width="50" height="50" alt="早稻叽-瘫">
+<img src="https://emoji.shojo.cn/bili/src/早稻叽/早稻叽-打嗝.png" width="50" height="50" alt="早稻叽-打嗝">
+<img src="https://emoji.shojo.cn/bili/src/早稻叽/早稻叽-元气满满.png" width="50" height="50" alt="早稻叽-元气满满">
+<img src="https://emoji.shojo.cn/bili/src/早稻叽/早稻叽-比心.png" width="50" height="50" alt="早稻叽-比心">
+<img src="https://emoji.shojo.cn/bili/src/早稻叽/早稻叽-戳.png" width="50" height="50" alt="早稻叽-戳">
+<img src="https://emoji.shojo.cn/bili/src/早稻叽/早稻叽-牛啊.png" width="50" height="50" alt="早稻叽-牛啊">
+<img src="https://emoji.shojo.cn/bili/src/早稻叽/早稻叽-亲亲.png" width="50" height="50" alt="早稻叽-亲亲">
+<img src="https://emoji.shojo.cn/bili/src/早稻叽/早稻叽-无语.png" width="50" height="50" alt="早稻叽-无语">
+<img src="https://emoji.shojo.cn/bili/src/早稻叽/早稻叽-亿点点.png" width="50" height="50" alt="早稻叽-亿点点">
+
+## 下载地址
+
+https://shamiko-my.sharepoint.com/:u:/g/personal/img_yuru_pro/ETgC-gBvY_JItEmTqzsn5XYB8YXPMek1DQeaWoCt3GkXKg

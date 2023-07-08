@@ -1,33 +1,39 @@
 # 狸喵唤！太子
-![icon](https://emoji.shojo.cn/bili/src/狸喵唤！太子/icon.png)
+<img src="https://emoji.shojo.cn/bili/src/狸喵唤！太子/icon.png" width="50" height="50" alt="icon">
+
 ## 链接
 Cloudflare:
 ```
 https://emoji.shojo.cn/bili/src/狸喵唤！太子
+https://emoji.shojo.cn/bili/webp/狸喵唤！太子
 ```
 ## 展示
-![狸喵唤！太子-阿巴](https://emoji.shojo.cn/bili/src/狸喵唤！太子/狸喵唤！太子-阿巴.png)
-![狸喵唤！太子-冲冲冲](https://emoji.shojo.cn/bili/src/狸喵唤！太子/狸喵唤！太子-冲冲冲.png)
-![狸喵唤！太子-帅气](https://emoji.shojo.cn/bili/src/狸喵唤！太子/狸喵唤！太子-帅气.png)
-![狸喵唤！太子-震惊](https://emoji.shojo.cn/bili/src/狸喵唤！太子/狸喵唤！太子-震惊.png)
-![狸喵唤！太子-晚安](https://emoji.shojo.cn/bili/src/狸喵唤！太子/狸喵唤！太子-晚安.png)
-![狸喵唤！太子-？？？](https://emoji.shojo.cn/bili/src/狸喵唤！太子/狸喵唤！太子-？？？.png)
-![狸喵唤！太子-吃瓜](https://emoji.shojo.cn/bili/src/狸喵唤！太子/狸喵唤！太子-吃瓜.png)
-![狸喵唤！太子-Hi](https://emoji.shojo.cn/bili/src/狸喵唤！太子/狸喵唤！太子-Hi.png)
-![狸喵唤！太子-酷](https://emoji.shojo.cn/bili/src/狸喵唤！太子/狸喵唤！太子-酷.png)
-![狸喵唤！太子-哇哦](https://emoji.shojo.cn/bili/src/狸喵唤！太子/狸喵唤！太子-哇哦.png)
-![狸喵唤！太子-拿去](https://emoji.shojo.cn/bili/src/狸喵唤！太子/狸喵唤！太子-拿去.png)
-![狸喵唤！太子-尾巴点赞](https://emoji.shojo.cn/bili/src/狸喵唤！太子/狸喵唤！太子-尾巴点赞.png)
-![狸喵唤！太子-HAHAHA](https://emoji.shojo.cn/bili/src/狸喵唤！太子/狸喵唤！太子-HAHAHA.png)
-![狸喵唤！太子-泪目](https://emoji.shojo.cn/bili/src/狸喵唤！太子/狸喵唤！太子-泪目.png)
-![狸喵唤！太子-冒出](https://emoji.shojo.cn/bili/src/狸喵唤！太子/狸喵唤！太子-冒出.png)
-![狸喵唤！太子-害羞](https://emoji.shojo.cn/bili/src/狸喵唤！太子/狸喵唤！太子-害羞.png)
-![狸喵唤！太子-饮茶啦](https://emoji.shojo.cn/bili/src/狸喵唤！太子/狸喵唤！太子-饮茶啦.png)
-![狸喵唤！太子-升华了](https://emoji.shojo.cn/bili/src/狸喵唤！太子/狸喵唤！太子-升华了.png)
-![狸喵唤！太子-黄豆流汗](https://emoji.shojo.cn/bili/src/狸喵唤！太子/狸喵唤！太子-黄豆流汗.png)
-![狸喵唤！太子-秃了](https://emoji.shojo.cn/bili/src/狸喵唤！太子/狸喵唤！太子-秃了.png)
-![狸喵唤！太子-我来了](https://emoji.shojo.cn/bili/src/狸喵唤！太子/狸喵唤！太子-我来了.png)
-![狸喵唤！太子-捧心心](https://emoji.shojo.cn/bili/src/狸喵唤！太子/狸喵唤！太子-捧心心.png)
-![狸喵唤！太子-工作](https://emoji.shojo.cn/bili/src/狸喵唤！太子/狸喵唤！太子-工作.png)
-![狸喵唤！太子-吨吨吨](https://emoji.shojo.cn/bili/src/狸喵唤！太子/狸喵唤！太子-吨吨吨.png)
-![狸喵唤！太子-黑化](https://emoji.shojo.cn/bili/src/狸喵唤！太子/狸喵唤！太子-黑化.png)
+<img src="https://emoji.shojo.cn/bili/src/狸喵唤！太子/狸喵唤！太子-阿巴.png" width="50" height="50" alt="狸喵唤！太子-阿巴">
+<img src="https://emoji.shojo.cn/bili/src/狸喵唤！太子/狸喵唤！太子-冲冲冲.png" width="50" height="50" alt="狸喵唤！太子-冲冲冲">
+<img src="https://emoji.shojo.cn/bili/src/狸喵唤！太子/狸喵唤！太子-帅气.png" width="50" height="50" alt="狸喵唤！太子-帅气">
+<img src="https://emoji.shojo.cn/bili/src/狸喵唤！太子/狸喵唤！太子-震惊.png" width="50" height="50" alt="狸喵唤！太子-震惊">
+<img src="https://emoji.shojo.cn/bili/src/狸喵唤！太子/狸喵唤！太子-晚安.png" width="50" height="50" alt="狸喵唤！太子-晚安">
+<img src="https://emoji.shojo.cn/bili/src/狸喵唤！太子/狸喵唤！太子-？？？.png" width="50" height="50" alt="狸喵唤！太子-？？？">
+<img src="https://emoji.shojo.cn/bili/src/狸喵唤！太子/狸喵唤！太子-吃瓜.png" width="50" height="50" alt="狸喵唤！太子-吃瓜">
+<img src="https://emoji.shojo.cn/bili/src/狸喵唤！太子/狸喵唤！太子-Hi.png" width="50" height="50" alt="狸喵唤！太子-Hi">
+<img src="https://emoji.shojo.cn/bili/src/狸喵唤！太子/狸喵唤！太子-酷.png" width="50" height="50" alt="狸喵唤！太子-酷">
+<img src="https://emoji.shojo.cn/bili/src/狸喵唤！太子/狸喵唤！太子-哇哦.png" width="50" height="50" alt="狸喵唤！太子-哇哦">
+<img src="https://emoji.shojo.cn/bili/src/狸喵唤！太子/狸喵唤！太子-拿去.png" width="50" height="50" alt="狸喵唤！太子-拿去">
+<img src="https://emoji.shojo.cn/bili/src/狸喵唤！太子/狸喵唤！太子-尾巴点赞.png" width="50" height="50" alt="狸喵唤！太子-尾巴点赞">
+<img src="https://emoji.shojo.cn/bili/src/狸喵唤！太子/狸喵唤！太子-HAHAHA.png" width="50" height="50" alt="狸喵唤！太子-HAHAHA">
+<img src="https://emoji.shojo.cn/bili/src/狸喵唤！太子/狸喵唤！太子-泪目.png" width="50" height="50" alt="狸喵唤！太子-泪目">
+<img src="https://emoji.shojo.cn/bili/src/狸喵唤！太子/狸喵唤！太子-冒出.png" width="50" height="50" alt="狸喵唤！太子-冒出">
+<img src="https://emoji.shojo.cn/bili/src/狸喵唤！太子/狸喵唤！太子-害羞.png" width="50" height="50" alt="狸喵唤！太子-害羞">
+<img src="https://emoji.shojo.cn/bili/src/狸喵唤！太子/狸喵唤！太子-饮茶啦.png" width="50" height="50" alt="狸喵唤！太子-饮茶啦">
+<img src="https://emoji.shojo.cn/bili/src/狸喵唤！太子/狸喵唤！太子-升华了.png" width="50" height="50" alt="狸喵唤！太子-升华了">
+<img src="https://emoji.shojo.cn/bili/src/狸喵唤！太子/狸喵唤！太子-黄豆流汗.png" width="50" height="50" alt="狸喵唤！太子-黄豆流汗">
+<img src="https://emoji.shojo.cn/bili/src/狸喵唤！太子/狸喵唤！太子-秃了.png" width="50" height="50" alt="狸喵唤！太子-秃了">
+<img src="https://emoji.shojo.cn/bili/src/狸喵唤！太子/狸喵唤！太子-我来了.png" width="50" height="50" alt="狸喵唤！太子-我来了">
+<img src="https://emoji.shojo.cn/bili/src/狸喵唤！太子/狸喵唤！太子-捧心心.png" width="50" height="50" alt="狸喵唤！太子-捧心心">
+<img src="https://emoji.shojo.cn/bili/src/狸喵唤！太子/狸喵唤！太子-工作.png" width="50" height="50" alt="狸喵唤！太子-工作">
+<img src="https://emoji.shojo.cn/bili/src/狸喵唤！太子/狸喵唤！太子-吨吨吨.png" width="50" height="50" alt="狸喵唤！太子-吨吨吨">
+<img src="https://emoji.shojo.cn/bili/src/狸喵唤！太子/狸喵唤！太子-黑化.png" width="50" height="50" alt="狸喵唤！太子-黑化">
+
+## 下载地址
+
+https://shamiko-my.sharepoint.com/:u:/g/personal/img_yuru_pro/EfaV0EezW3BDs26jkf4koH0BQfGnLpo8IyJIeEvx0uwV4w

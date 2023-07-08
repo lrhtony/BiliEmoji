@@ -1,23 +1,29 @@
 # 今天吃什么
-![icon](https://emoji.shojo.cn/bili/src/今天吃什么/icon.png)
+<img src="https://emoji.shojo.cn/bili/src/今天吃什么/icon.png" width="50" height="50" alt="icon">
+
 ## 链接
 Cloudflare:
 ```
 https://emoji.shojo.cn/bili/src/今天吃什么
+https://emoji.shojo.cn/bili/webp/今天吃什么
 ```
 ## 展示
-![今天吃什么-关东煮](https://emoji.shojo.cn/bili/src/今天吃什么/今天吃什么-关东煮.png)
-![今天吃什么-牛奶](https://emoji.shojo.cn/bili/src/今天吃什么/今天吃什么-牛奶.png)
-![今天吃什么-糖果](https://emoji.shojo.cn/bili/src/今天吃什么/今天吃什么-糖果.png)
-![今天吃什么-冰激凌](https://emoji.shojo.cn/bili/src/今天吃什么/今天吃什么-冰激凌.png)
-![今天吃什么-棒棒糖](https://emoji.shojo.cn/bili/src/今天吃什么/今天吃什么-棒棒糖.png)
-![今天吃什么-饭团](https://emoji.shojo.cn/bili/src/今天吃什么/今天吃什么-饭团.png)
-![今天吃什么-蛋糕](https://emoji.shojo.cn/bili/src/今天吃什么/今天吃什么-蛋糕.png)
-![今天吃什么-面包](https://emoji.shojo.cn/bili/src/今天吃什么/今天吃什么-面包.png)
-![今天吃什么-水果](https://emoji.shojo.cn/bili/src/今天吃什么/今天吃什么-水果.png)
-![今天吃什么-饺子](https://emoji.shojo.cn/bili/src/今天吃什么/今天吃什么-饺子.png)
-![今天吃什么-饮料](https://emoji.shojo.cn/bili/src/今天吃什么/今天吃什么-饮料.png)
-![今天吃什么-点心](https://emoji.shojo.cn/bili/src/今天吃什么/今天吃什么-点心.png)
-![今天吃什么-青团](https://emoji.shojo.cn/bili/src/今天吃什么/今天吃什么-青团.png)
-![今天吃什么-火腿](https://emoji.shojo.cn/bili/src/今天吃什么/今天吃什么-火腿.png)
-![今天吃什么-零食](https://emoji.shojo.cn/bili/src/今天吃什么/今天吃什么-零食.png)
+<img src="https://emoji.shojo.cn/bili/src/今天吃什么/今天吃什么-关东煮.png" width="50" height="50" alt="今天吃什么-关东煮">
+<img src="https://emoji.shojo.cn/bili/src/今天吃什么/今天吃什么-牛奶.png" width="50" height="50" alt="今天吃什么-牛奶">
+<img src="https://emoji.shojo.cn/bili/src/今天吃什么/今天吃什么-糖果.png" width="50" height="50" alt="今天吃什么-糖果">
+<img src="https://emoji.shojo.cn/bili/src/今天吃什么/今天吃什么-冰激凌.png" width="50" height="50" alt="今天吃什么-冰激凌">
+<img src="https://emoji.shojo.cn/bili/src/今天吃什么/今天吃什么-棒棒糖.png" width="50" height="50" alt="今天吃什么-棒棒糖">
+<img src="https://emoji.shojo.cn/bili/src/今天吃什么/今天吃什么-饭团.png" width="50" height="50" alt="今天吃什么-饭团">
+<img src="https://emoji.shojo.cn/bili/src/今天吃什么/今天吃什么-蛋糕.png" width="50" height="50" alt="今天吃什么-蛋糕">
+<img src="https://emoji.shojo.cn/bili/src/今天吃什么/今天吃什么-面包.png" width="50" height="50" alt="今天吃什么-面包">
+<img src="https://emoji.shojo.cn/bili/src/今天吃什么/今天吃什么-水果.png" width="50" height="50" alt="今天吃什么-水果">
+<img src="https://emoji.shojo.cn/bili/src/今天吃什么/今天吃什么-饺子.png" width="50" height="50" alt="今天吃什么-饺子">
+<img src="https://emoji.shojo.cn/bili/src/今天吃什么/今天吃什么-饮料.png" width="50" height="50" alt="今天吃什么-饮料">
+<img src="https://emoji.shojo.cn/bili/src/今天吃什么/今天吃什么-点心.png" width="50" height="50" alt="今天吃什么-点心">
+<img src="https://emoji.shojo.cn/bili/src/今天吃什么/今天吃什么-青团.png" width="50" height="50" alt="今天吃什么-青团">
+<img src="https://emoji.shojo.cn/bili/src/今天吃什么/今天吃什么-火腿.png" width="50" height="50" alt="今天吃什么-火腿">
+<img src="https://emoji.shojo.cn/bili/src/今天吃什么/今天吃什么-零食.png" width="50" height="50" alt="今天吃什么-零食">
+
+## 下载地址
+
+https://shamiko-my.sharepoint.com/:u:/g/personal/img_yuru_pro/EYitGIgxP4lDn2UA3-WTOEsBHJpZGNRhwROB6pBlNyuCQg

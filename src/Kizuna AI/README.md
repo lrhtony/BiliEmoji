@@ -1,23 +1,29 @@
 # Kizuna AI
-![icon](https://emoji.shojo.cn/bili/src/Kizuna AI/icon.png)
+<img src="https://emoji.shojo.cn/bili/src/Kizuna AI/icon.png" width="50" height="50" alt="icon">
+
 ## 链接
 Cloudflare:
 ```
 https://emoji.shojo.cn/bili/src/Kizuna AI
+https://emoji.shojo.cn/bili/webp/Kizuna AI
 ```
 ## 展示
-![Kizuna AI-比心](https://emoji.shojo.cn/bili/src/Kizuna AI/Kizuna AI-比心.png)
-![Kizuna AI-哭哭](https://emoji.shojo.cn/bili/src/Kizuna AI/Kizuna AI-哭哭.png)
-![Kizuna AI-嘤嘤嘤](https://emoji.shojo.cn/bili/src/Kizuna AI/Kizuna AI-嘤嘤嘤.png)
-![Kizuna AI-无语](https://emoji.shojo.cn/bili/src/Kizuna AI/Kizuna AI-无语.png)
-![Kizuna AI-震惊](https://emoji.shojo.cn/bili/src/Kizuna AI/Kizuna AI-震惊.png)
-![Kizuna AI-得意脸](https://emoji.shojo.cn/bili/src/Kizuna AI/Kizuna AI-得意脸.png)
-![Kizuna AI-OK](https://emoji.shojo.cn/bili/src/Kizuna AI/Kizuna AI-OK.png)
-![Kizuna AI-嗨多摩](https://emoji.shojo.cn/bili/src/Kizuna AI/Kizuna AI-嗨多摩.png)
-![Kizuna AI-花q](https://emoji.shojo.cn/bili/src/Kizuna AI/Kizuna AI-花q.png)
-![Kizuna AI-怀疑](https://emoji.shojo.cn/bili/src/Kizuna AI/Kizuna AI-怀疑.png)
-![Kizuna AI-惊讶](https://emoji.shojo.cn/bili/src/Kizuna AI/Kizuna AI-惊讶.png)
-![Kizuna AI-拿第一](https://emoji.shojo.cn/bili/src/Kizuna AI/Kizuna AI-拿第一.png)
-![Kizuna AI-天才天才](https://emoji.shojo.cn/bili/src/Kizuna AI/Kizuna AI-天才天才.png)
-![Kizuna AI-摇晃悠悠](https://emoji.shojo.cn/bili/src/Kizuna AI/Kizuna AI-摇晃悠悠.png)
-![Kizuna AI-原来如此](https://emoji.shojo.cn/bili/src/Kizuna AI/Kizuna AI-原来如此.png)
+<img src="https://emoji.shojo.cn/bili/src/Kizuna AI/Kizuna AI-比心.png" width="50" height="50" alt="Kizuna AI-比心">
+<img src="https://emoji.shojo.cn/bili/src/Kizuna AI/Kizuna AI-哭哭.png" width="50" height="50" alt="Kizuna AI-哭哭">
+<img src="https://emoji.shojo.cn/bili/src/Kizuna AI/Kizuna AI-嘤嘤嘤.png" width="50" height="50" alt="Kizuna AI-嘤嘤嘤">
+<img src="https://emoji.shojo.cn/bili/src/Kizuna AI/Kizuna AI-无语.png" width="50" height="50" alt="Kizuna AI-无语">
+<img src="https://emoji.shojo.cn/bili/src/Kizuna AI/Kizuna AI-震惊.png" width="50" height="50" alt="Kizuna AI-震惊">
+<img src="https://emoji.shojo.cn/bili/src/Kizuna AI/Kizuna AI-得意脸.png" width="50" height="50" alt="Kizuna AI-得意脸">
+<img src="https://emoji.shojo.cn/bili/src/Kizuna AI/Kizuna AI-OK.png" width="50" height="50" alt="Kizuna AI-OK">
+<img src="https://emoji.shojo.cn/bili/src/Kizuna AI/Kizuna AI-嗨多摩.png" width="50" height="50" alt="Kizuna AI-嗨多摩">
+<img src="https://emoji.shojo.cn/bili/src/Kizuna AI/Kizuna AI-花q.png" width="50" height="50" alt="Kizuna AI-花q">
+<img src="https://emoji.shojo.cn/bili/src/Kizuna AI/Kizuna AI-怀疑.png" width="50" height="50" alt="Kizuna AI-怀疑">
+<img src="https://emoji.shojo.cn/bili/src/Kizuna AI/Kizuna AI-惊讶.png" width="50" height="50" alt="Kizuna AI-惊讶">
+<img src="https://emoji.shojo.cn/bili/src/Kizuna AI/Kizuna AI-拿第一.png" width="50" height="50" alt="Kizuna AI-拿第一">
+<img src="https://emoji.shojo.cn/bili/src/Kizuna AI/Kizuna AI-天才天才.png" width="50" height="50" alt="Kizuna AI-天才天才">
+<img src="https://emoji.shojo.cn/bili/src/Kizuna AI/Kizuna AI-摇晃悠悠.png" width="50" height="50" alt="Kizuna AI-摇晃悠悠">
+<img src="https://emoji.shojo.cn/bili/src/Kizuna AI/Kizuna AI-原来如此.png" width="50" height="50" alt="Kizuna AI-原来如此">
+
+## 下载地址
+
+https://shamiko-my.sharepoint.com/:u:/g/personal/img_yuru_pro/EW1Fr52yT5dDpO_hMIC6-34BwyJGGyxMKn8FniDFtRQA_w

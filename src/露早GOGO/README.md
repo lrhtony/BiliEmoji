@@ -1,33 +1,39 @@
 # 露早GOGO
-![icon](https://emoji.shojo.cn/bili/src/露早GOGO/icon.png)
+<img src="https://emoji.shojo.cn/bili/src/露早GOGO/icon.png" width="50" height="50" alt="icon">
+
 ## 链接
 Cloudflare:
 ```
 https://emoji.shojo.cn/bili/src/露早GOGO
+https://emoji.shojo.cn/bili/webp/露早GOGO
 ```
 ## 展示
-![露早GOGO-GOGO队](https://emoji.shojo.cn/bili/src/露早GOGO/露早GOGO-GOGO队.png)
-![露早GOGO-mua](https://emoji.shojo.cn/bili/src/露早GOGO/露早GOGO-mua.png)
-![露早GOGO-给你一拳](https://emoji.shojo.cn/bili/src/露早GOGO/露早GOGO-给你一拳.png)
-![露早GOGO-姐有招](https://emoji.shojo.cn/bili/src/露早GOGO/露早GOGO-姐有招.png)
-![露早GOGO-紧张](https://emoji.shojo.cn/bili/src/露早GOGO/露早GOGO-紧张.png)
-![露早GOGO-开心](https://emoji.shojo.cn/bili/src/露早GOGO/露早GOGO-开心.png)
-![露早GOGO-侃侃而谈](https://emoji.shojo.cn/bili/src/露早GOGO/露早GOGO-侃侃而谈.png)
-![露早GOGO-哭泣](https://emoji.shojo.cn/bili/src/露早GOGO/露早GOGO-哭泣.png)
-![露早GOGO-偶像包袱](https://emoji.shojo.cn/bili/src/露早GOGO/露早GOGO-偶像包袱.png)
-![露早GOGO-生气](https://emoji.shojo.cn/bili/src/露早GOGO/露早GOGO-生气.png)
-![露早GOGO-睡着](https://emoji.shojo.cn/bili/src/露早GOGO/露早GOGO-睡着.png)
-![露早GOGO-偷吃](https://emoji.shojo.cn/bili/src/露早GOGO/露早GOGO-偷吃.png)
-![露早GOGO-歪嘴](https://emoji.shojo.cn/bili/src/露早GOGO/露早GOGO-歪嘴.png)
-![露早GOGO-在看吗？](https://emoji.shojo.cn/bili/src/露早GOGO/露早GOGO-在看吗？.png)
-![露早GOGO-宅家](https://emoji.shojo.cn/bili/src/露早GOGO/露早GOGO-宅家.png)
-![露早GOGO-补签卡](https://emoji.shojo.cn/bili/src/露早GOGO/露早GOGO-补签卡.png)
-![露早GOGO-蒽，](https://emoji.shojo.cn/bili/src/露早GOGO/露早GOGO-蒽，.png)
-![露早GOGO-公主殿下](https://emoji.shojo.cn/bili/src/露早GOGO/露早GOGO-公主殿下.png)
-![露早GOGO-敬礼](https://emoji.shojo.cn/bili/src/露早GOGO/露早GOGO-敬礼.png)
-![露早GOGO-流汗](https://emoji.shojo.cn/bili/src/露早GOGO/露早GOGO-流汗.png)
-![露早GOGO-哇袄](https://emoji.shojo.cn/bili/src/露早GOGO/露早GOGO-哇袄.png)
-![露早GOGO-谢谢你](https://emoji.shojo.cn/bili/src/露早GOGO/露早GOGO-谢谢你.png)
-![露早GOGO-早](https://emoji.shojo.cn/bili/src/露早GOGO/露早GOGO-早.png)
-![露早GOGO-我们是EOE](https://emoji.shojo.cn/bili/src/露早GOGO/露早GOGO-我们是EOE.png)
-![露早GOGO-GO叫](https://emoji.shojo.cn/bili/src/露早GOGO/露早GOGO-GO叫.png)
+<img src="https://emoji.shojo.cn/bili/src/露早GOGO/露早GOGO-GOGO队.png" width="50" height="50" alt="露早GOGO-GOGO队">
+<img src="https://emoji.shojo.cn/bili/src/露早GOGO/露早GOGO-mua.png" width="50" height="50" alt="露早GOGO-mua">
+<img src="https://emoji.shojo.cn/bili/src/露早GOGO/露早GOGO-给你一拳.png" width="50" height="50" alt="露早GOGO-给你一拳">
+<img src="https://emoji.shojo.cn/bili/src/露早GOGO/露早GOGO-姐有招.png" width="50" height="50" alt="露早GOGO-姐有招">
+<img src="https://emoji.shojo.cn/bili/src/露早GOGO/露早GOGO-紧张.png" width="50" height="50" alt="露早GOGO-紧张">
+<img src="https://emoji.shojo.cn/bili/src/露早GOGO/露早GOGO-开心.png" width="50" height="50" alt="露早GOGO-开心">
+<img src="https://emoji.shojo.cn/bili/src/露早GOGO/露早GOGO-侃侃而谈.png" width="50" height="50" alt="露早GOGO-侃侃而谈">
+<img src="https://emoji.shojo.cn/bili/src/露早GOGO/露早GOGO-哭泣.png" width="50" height="50" alt="露早GOGO-哭泣">
+<img src="https://emoji.shojo.cn/bili/src/露早GOGO/露早GOGO-偶像包袱.png" width="50" height="50" alt="露早GOGO-偶像包袱">
+<img src="https://emoji.shojo.cn/bili/src/露早GOGO/露早GOGO-生气.png" width="50" height="50" alt="露早GOGO-生气">
+<img src="https://emoji.shojo.cn/bili/src/露早GOGO/露早GOGO-睡着.png" width="50" height="50" alt="露早GOGO-睡着">
+<img src="https://emoji.shojo.cn/bili/src/露早GOGO/露早GOGO-偷吃.png" width="50" height="50" alt="露早GOGO-偷吃">
+<img src="https://emoji.shojo.cn/bili/src/露早GOGO/露早GOGO-歪嘴.png" width="50" height="50" alt="露早GOGO-歪嘴">
+<img src="https://emoji.shojo.cn/bili/src/露早GOGO/露早GOGO-在看吗？.png" width="50" height="50" alt="露早GOGO-在看吗？">
+<img src="https://emoji.shojo.cn/bili/src/露早GOGO/露早GOGO-宅家.png" width="50" height="50" alt="露早GOGO-宅家">
+<img src="https://emoji.shojo.cn/bili/src/露早GOGO/露早GOGO-补签卡.png" width="50" height="50" alt="露早GOGO-补签卡">
+<img src="https://emoji.shojo.cn/bili/src/露早GOGO/露早GOGO-蒽，.png" width="50" height="50" alt="露早GOGO-蒽，">
+<img src="https://emoji.shojo.cn/bili/src/露早GOGO/露早GOGO-公主殿下.png" width="50" height="50" alt="露早GOGO-公主殿下">
+<img src="https://emoji.shojo.cn/bili/src/露早GOGO/露早GOGO-敬礼.png" width="50" height="50" alt="露早GOGO-敬礼">
+<img src="https://emoji.shojo.cn/bili/src/露早GOGO/露早GOGO-流汗.png" width="50" height="50" alt="露早GOGO-流汗">
+<img src="https://emoji.shojo.cn/bili/src/露早GOGO/露早GOGO-哇袄.png" width="50" height="50" alt="露早GOGO-哇袄">
+<img src="https://emoji.shojo.cn/bili/src/露早GOGO/露早GOGO-谢谢你.png" width="50" height="50" alt="露早GOGO-谢谢你">
+<img src="https://emoji.shojo.cn/bili/src/露早GOGO/露早GOGO-早.png" width="50" height="50" alt="露早GOGO-早">
+<img src="https://emoji.shojo.cn/bili/src/露早GOGO/露早GOGO-我们是EOE.png" width="50" height="50" alt="露早GOGO-我们是EOE">
+<img src="https://emoji.shojo.cn/bili/src/露早GOGO/露早GOGO-GO叫.png" width="50" height="50" alt="露早GOGO-GO叫">
+
+## 下载地址
+
+https://shamiko-my.sharepoint.com/:u:/g/personal/img_yuru_pro/EexgpW_vHxFHoovAs3K92WgB8z79sy8yvI57t4WcosY2dw

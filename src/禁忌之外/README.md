@@ -1,23 +1,29 @@
 # 禁忌之外
-![icon](https://emoji.shojo.cn/bili/src/禁忌之外/icon.png)
+<img src="https://emoji.shojo.cn/bili/src/禁忌之外/icon.png" width="50" height="50" alt="icon">
+
 ## 链接
 Cloudflare:
 ```
 https://emoji.shojo.cn/bili/src/禁忌之外
+https://emoji.shojo.cn/bili/webp/禁忌之外
 ```
 ## 展示
-![禁忌之外-赞啊](https://emoji.shojo.cn/bili/src/禁忌之外/禁忌之外-赞啊.png)
-![禁忌之外-mua](https://emoji.shojo.cn/bili/src/禁忌之外/禁忌之外-mua.png)
-![禁忌之外-555](https://emoji.shojo.cn/bili/src/禁忌之外/禁忌之外-555.png)
-![禁忌之外-喵喵？](https://emoji.shojo.cn/bili/src/禁忌之外/禁忌之外-喵喵？.png)
-![禁忌之外-好耶](https://emoji.shojo.cn/bili/src/禁忌之外/禁忌之外-好耶.png)
-![禁忌之外-困了](https://emoji.shojo.cn/bili/src/禁忌之外/禁忌之外-困了.png)
-![禁忌之外-智慧](https://emoji.shojo.cn/bili/src/禁忌之外/禁忌之外-智慧.png)
-![禁忌之外-认错](https://emoji.shojo.cn/bili/src/禁忌之外/禁忌之外-认错.png)
-![禁忌之外-许愿](https://emoji.shojo.cn/bili/src/禁忌之外/禁忌之外-许愿.png)
-![禁忌之外-生胖气](https://emoji.shojo.cn/bili/src/禁忌之外/禁忌之外-生胖气.png)
-![禁忌之外-拽](https://emoji.shojo.cn/bili/src/禁忌之外/禁忌之外-拽.png)
-![禁忌之外-尴尬](https://emoji.shojo.cn/bili/src/禁忌之外/禁忌之外-尴尬.png)
-![禁忌之外-扎心](https://emoji.shojo.cn/bili/src/禁忌之外/禁忌之外-扎心.png)
-![禁忌之外-心动](https://emoji.shojo.cn/bili/src/禁忌之外/禁忌之外-心动.png)
-![禁忌之外-疑惑](https://emoji.shojo.cn/bili/src/禁忌之外/禁忌之外-疑惑.png)
+<img src="https://emoji.shojo.cn/bili/src/禁忌之外/禁忌之外-赞啊.png" width="50" height="50" alt="禁忌之外-赞啊">
+<img src="https://emoji.shojo.cn/bili/src/禁忌之外/禁忌之外-mua.png" width="50" height="50" alt="禁忌之外-mua">
+<img src="https://emoji.shojo.cn/bili/src/禁忌之外/禁忌之外-555.png" width="50" height="50" alt="禁忌之外-555">
+<img src="https://emoji.shojo.cn/bili/src/禁忌之外/禁忌之外-喵喵？.png" width="50" height="50" alt="禁忌之外-喵喵？">
+<img src="https://emoji.shojo.cn/bili/src/禁忌之外/禁忌之外-好耶.png" width="50" height="50" alt="禁忌之外-好耶">
+<img src="https://emoji.shojo.cn/bili/src/禁忌之外/禁忌之外-困了.png" width="50" height="50" alt="禁忌之外-困了">
+<img src="https://emoji.shojo.cn/bili/src/禁忌之外/禁忌之外-智慧.png" width="50" height="50" alt="禁忌之外-智慧">
+<img src="https://emoji.shojo.cn/bili/src/禁忌之外/禁忌之外-认错.png" width="50" height="50" alt="禁忌之外-认错">
+<img src="https://emoji.shojo.cn/bili/src/禁忌之外/禁忌之外-许愿.png" width="50" height="50" alt="禁忌之外-许愿">
+<img src="https://emoji.shojo.cn/bili/src/禁忌之外/禁忌之外-生胖气.png" width="50" height="50" alt="禁忌之外-生胖气">
+<img src="https://emoji.shojo.cn/bili/src/禁忌之外/禁忌之外-拽.png" width="50" height="50" alt="禁忌之外-拽">
+<img src="https://emoji.shojo.cn/bili/src/禁忌之外/禁忌之外-尴尬.png" width="50" height="50" alt="禁忌之外-尴尬">
+<img src="https://emoji.shojo.cn/bili/src/禁忌之外/禁忌之外-扎心.png" width="50" height="50" alt="禁忌之外-扎心">
+<img src="https://emoji.shojo.cn/bili/src/禁忌之外/禁忌之外-心动.png" width="50" height="50" alt="禁忌之外-心动">
+<img src="https://emoji.shojo.cn/bili/src/禁忌之外/禁忌之外-疑惑.png" width="50" height="50" alt="禁忌之外-疑惑">
+
+## 下载地址
+
+https://shamiko-my.sharepoint.com/:u:/g/personal/img_yuru_pro/ERNL8y4qUolHvt83Gl7koU8BHVMCeTnjwLwtkkeuOgWD4Q

@@ -1,23 +1,29 @@
 # 小囧熊 十二星座
-![icon](https://emoji.shojo.cn/bili/src/小囧熊 十二星座/icon.png)
+<img src="https://emoji.shojo.cn/bili/src/小囧熊 十二星座/icon.png" width="50" height="50" alt="icon">
+
 ## 链接
 Cloudflare:
 ```
 https://emoji.shojo.cn/bili/src/小囧熊 十二星座
+https://emoji.shojo.cn/bili/webp/小囧熊 十二星座
 ```
 ## 展示
-![小囧熊 十二星座-纯爱战羊](https://emoji.shojo.cn/bili/src/小囧熊 十二星座/小囧熊 十二星座-纯爱战羊.png)
-![小囧熊 十二星座-牛啊](https://emoji.shojo.cn/bili/src/小囧熊 十二星座/小囧熊 十二星座-牛啊.png)
-![小囧熊 十二星座-双倍快乐](https://emoji.shojo.cn/bili/src/小囧熊 十二星座/小囧熊 十二星座-双倍快乐.png)
-![小囧熊 十二星座-蟹蟹](https://emoji.shojo.cn/bili/src/小囧熊 十二星座/小囧熊 十二星座-蟹蟹.png)
-![小囧熊 十二星座-狮在必得](https://emoji.shojo.cn/bili/src/小囧熊 十二星座/小囧熊 十二星座-狮在必得.png)
-![小囧熊 十二星座-女神驾到](https://emoji.shojo.cn/bili/src/小囧熊 十二星座/小囧熊 十二星座-女神驾到.png)
-![小囧熊 十二星座-渴望掉秤](https://emoji.shojo.cn/bili/src/小囧熊 十二星座/小囧熊 十二星座-渴望掉秤.png)
-![小囧熊 十二星座-天蝎本蝎](https://emoji.shojo.cn/bili/src/小囧熊 十二星座/小囧熊 十二星座-天蝎本蝎.png)
-![小囧熊 十二星座-发射](https://emoji.shojo.cn/bili/src/小囧熊 十二星座/小囧熊 十二星座-发射.png)
-![小囧熊 十二星座-馏魔](https://emoji.shojo.cn/bili/src/小囧熊 十二星座/小囧熊 十二星座-馏魔.png)
-![小囧熊 十二星座-眼泪瓶](https://emoji.shojo.cn/bili/src/小囧熊 十二星座/小囧熊 十二星座-眼泪瓶.png)
-![小囧熊 十二星座-亲亲鱼](https://emoji.shojo.cn/bili/src/小囧熊 十二星座/小囧熊 十二星座-亲亲鱼.png)
-![小囧熊 十二星座-吹](https://emoji.shojo.cn/bili/src/小囧熊 十二星座/小囧熊 十二星座-吹.png)
-![小囧熊 十二星座-弹](https://emoji.shojo.cn/bili/src/小囧熊 十二星座/小囧熊 十二星座-弹.png)
-![小囧熊 十二星座-啦啦啦](https://emoji.shojo.cn/bili/src/小囧熊 十二星座/小囧熊 十二星座-啦啦啦.png)
+<img src="https://emoji.shojo.cn/bili/src/小囧熊 十二星座/小囧熊 十二星座-纯爱战羊.png" width="50" height="50" alt="小囧熊 十二星座-纯爱战羊">
+<img src="https://emoji.shojo.cn/bili/src/小囧熊 十二星座/小囧熊 十二星座-牛啊.png" width="50" height="50" alt="小囧熊 十二星座-牛啊">
+<img src="https://emoji.shojo.cn/bili/src/小囧熊 十二星座/小囧熊 十二星座-双倍快乐.png" width="50" height="50" alt="小囧熊 十二星座-双倍快乐">
+<img src="https://emoji.shojo.cn/bili/src/小囧熊 十二星座/小囧熊 十二星座-蟹蟹.png" width="50" height="50" alt="小囧熊 十二星座-蟹蟹">
+<img src="https://emoji.shojo.cn/bili/src/小囧熊 十二星座/小囧熊 十二星座-狮在必得.png" width="50" height="50" alt="小囧熊 十二星座-狮在必得">
+<img src="https://emoji.shojo.cn/bili/src/小囧熊 十二星座/小囧熊 十二星座-女神驾到.png" width="50" height="50" alt="小囧熊 十二星座-女神驾到">
+<img src="https://emoji.shojo.cn/bili/src/小囧熊 十二星座/小囧熊 十二星座-渴望掉秤.png" width="50" height="50" alt="小囧熊 十二星座-渴望掉秤">
+<img src="https://emoji.shojo.cn/bili/src/小囧熊 十二星座/小囧熊 十二星座-天蝎本蝎.png" width="50" height="50" alt="小囧熊 十二星座-天蝎本蝎">
+<img src="https://emoji.shojo.cn/bili/src/小囧熊 十二星座/小囧熊 十二星座-发射.png" width="50" height="50" alt="小囧熊 十二星座-发射">
+<img src="https://emoji.shojo.cn/bili/src/小囧熊 十二星座/小囧熊 十二星座-馏魔.png" width="50" height="50" alt="小囧熊 十二星座-馏魔">
+<img src="https://emoji.shojo.cn/bili/src/小囧熊 十二星座/小囧熊 十二星座-眼泪瓶.png" width="50" height="50" alt="小囧熊 十二星座-眼泪瓶">
+<img src="https://emoji.shojo.cn/bili/src/小囧熊 十二星座/小囧熊 十二星座-亲亲鱼.png" width="50" height="50" alt="小囧熊 十二星座-亲亲鱼">
+<img src="https://emoji.shojo.cn/bili/src/小囧熊 十二星座/小囧熊 十二星座-吹.png" width="50" height="50" alt="小囧熊 十二星座-吹">
+<img src="https://emoji.shojo.cn/bili/src/小囧熊 十二星座/小囧熊 十二星座-弹.png" width="50" height="50" alt="小囧熊 十二星座-弹">
+<img src="https://emoji.shojo.cn/bili/src/小囧熊 十二星座/小囧熊 十二星座-啦啦啦.png" width="50" height="50" alt="小囧熊 十二星座-啦啦啦">
+
+## 下载地址
+
+https://shamiko-my.sharepoint.com/:u:/g/personal/img_yuru_pro/ETCz-QvkakhBkmIh5XbyoiUBBemvGzsu6szbBvxxLcSehg

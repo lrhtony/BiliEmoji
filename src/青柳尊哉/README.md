@@ -1,33 +1,39 @@
 # 青柳尊哉
-![icon](https://emoji.shojo.cn/bili/src/青柳尊哉/icon.png)
+<img src="https://emoji.shojo.cn/bili/src/青柳尊哉/icon.png" width="50" height="50" alt="icon">
+
 ## 链接
 Cloudflare:
 ```
 https://emoji.shojo.cn/bili/src/青柳尊哉
+https://emoji.shojo.cn/bili/webp/青柳尊哉
 ```
 ## 展示
-![青柳尊哉-疑惑](https://emoji.shojo.cn/bili/src/青柳尊哉/青柳尊哉-疑惑.png)
-![青柳尊哉-开饭啦](https://emoji.shojo.cn/bili/src/青柳尊哉/青柳尊哉-开饭啦.png)
-![青柳尊哉-暗的回眸](https://emoji.shojo.cn/bili/src/青柳尊哉/青柳尊哉-暗的回眸.png)
-![青柳尊哉-抓狂](https://emoji.shojo.cn/bili/src/青柳尊哉/青柳尊哉-抓狂.png)
-![青柳尊哉-对不起](https://emoji.shojo.cn/bili/src/青柳尊哉/青柳尊哉-对不起.png)
-![青柳尊哉-让我看看](https://emoji.shojo.cn/bili/src/青柳尊哉/青柳尊哉-让我看看.png)
-![青柳尊哉-新年快乐](https://emoji.shojo.cn/bili/src/青柳尊哉/青柳尊哉-新年快乐.png)
-![青柳尊哉-欢迎](https://emoji.shojo.cn/bili/src/青柳尊哉/青柳尊哉-欢迎.png)
-![青柳尊哉-自信](https://emoji.shojo.cn/bili/src/青柳尊哉/青柳尊哉-自信.png)
-![青柳尊哉-圣诞快乐](https://emoji.shojo.cn/bili/src/青柳尊哉/青柳尊哉-圣诞快乐.png)
-![青柳尊哉-生日快乐](https://emoji.shojo.cn/bili/src/青柳尊哉/青柳尊哉-生日快乐.png)
-![青柳尊哉-YES](https://emoji.shojo.cn/bili/src/青柳尊哉/青柳尊哉-YES.png)
-![青柳尊哉-安利](https://emoji.shojo.cn/bili/src/青柳尊哉/青柳尊哉-安利.png)
-![青柳尊哉-无奈](https://emoji.shojo.cn/bili/src/青柳尊哉/青柳尊哉-无奈.png)
-![青柳尊哉-NO](https://emoji.shojo.cn/bili/src/青柳尊哉/青柳尊哉-NO.png)
-![青柳尊哉-大笑](https://emoji.shojo.cn/bili/src/青柳尊哉/青柳尊哉-大笑.png)
-![青柳尊哉-打招呼](https://emoji.shojo.cn/bili/src/青柳尊哉/青柳尊哉-打招呼.png)
-![青柳尊哉-好吃](https://emoji.shojo.cn/bili/src/青柳尊哉/青柳尊哉-好吃.png)
-![青柳尊哉-哦斯](https://emoji.shojo.cn/bili/src/青柳尊哉/青柳尊哉-哦斯.png)
-![青柳尊哉-震惊](https://emoji.shojo.cn/bili/src/青柳尊哉/青柳尊哉-震惊.png)
-![青柳尊哉-可爱](https://emoji.shojo.cn/bili/src/青柳尊哉/青柳尊哉-可爱.png)
-![青柳尊哉-帅气](https://emoji.shojo.cn/bili/src/青柳尊哉/青柳尊哉-帅气.png)
-![青柳尊哉-喝饮料](https://emoji.shojo.cn/bili/src/青柳尊哉/青柳尊哉-喝饮料.png)
-![青柳尊哉-爱你](https://emoji.shojo.cn/bili/src/青柳尊哉/青柳尊哉-爱你.png)
-![青柳尊哉-哭泣](https://emoji.shojo.cn/bili/src/青柳尊哉/青柳尊哉-哭泣.png)
+<img src="https://emoji.shojo.cn/bili/src/青柳尊哉/青柳尊哉-疑惑.png" width="50" height="50" alt="青柳尊哉-疑惑">
+<img src="https://emoji.shojo.cn/bili/src/青柳尊哉/青柳尊哉-开饭啦.png" width="50" height="50" alt="青柳尊哉-开饭啦">
+<img src="https://emoji.shojo.cn/bili/src/青柳尊哉/青柳尊哉-暗的回眸.png" width="50" height="50" alt="青柳尊哉-暗的回眸">
+<img src="https://emoji.shojo.cn/bili/src/青柳尊哉/青柳尊哉-抓狂.png" width="50" height="50" alt="青柳尊哉-抓狂">
+<img src="https://emoji.shojo.cn/bili/src/青柳尊哉/青柳尊哉-对不起.png" width="50" height="50" alt="青柳尊哉-对不起">
+<img src="https://emoji.shojo.cn/bili/src/青柳尊哉/青柳尊哉-让我看看.png" width="50" height="50" alt="青柳尊哉-让我看看">
+<img src="https://emoji.shojo.cn/bili/src/青柳尊哉/青柳尊哉-新年快乐.png" width="50" height="50" alt="青柳尊哉-新年快乐">
+<img src="https://emoji.shojo.cn/bili/src/青柳尊哉/青柳尊哉-欢迎.png" width="50" height="50" alt="青柳尊哉-欢迎">
+<img src="https://emoji.shojo.cn/bili/src/青柳尊哉/青柳尊哉-自信.png" width="50" height="50" alt="青柳尊哉-自信">
+<img src="https://emoji.shojo.cn/bili/src/青柳尊哉/青柳尊哉-圣诞快乐.png" width="50" height="50" alt="青柳尊哉-圣诞快乐">
+<img src="https://emoji.shojo.cn/bili/src/青柳尊哉/青柳尊哉-生日快乐.png" width="50" height="50" alt="青柳尊哉-生日快乐">
+<img src="https://emoji.shojo.cn/bili/src/青柳尊哉/青柳尊哉-YES.png" width="50" height="50" alt="青柳尊哉-YES">
+<img src="https://emoji.shojo.cn/bili/src/青柳尊哉/青柳尊哉-安利.png" width="50" height="50" alt="青柳尊哉-安利">
+<img src="https://emoji.shojo.cn/bili/src/青柳尊哉/青柳尊哉-无奈.png" width="50" height="50" alt="青柳尊哉-无奈">
+<img src="https://emoji.shojo.cn/bili/src/青柳尊哉/青柳尊哉-NO.png" width="50" height="50" alt="青柳尊哉-NO">
+<img src="https://emoji.shojo.cn/bili/src/青柳尊哉/青柳尊哉-大笑.png" width="50" height="50" alt="青柳尊哉-大笑">
+<img src="https://emoji.shojo.cn/bili/src/青柳尊哉/青柳尊哉-打招呼.png" width="50" height="50" alt="青柳尊哉-打招呼">
+<img src="https://emoji.shojo.cn/bili/src/青柳尊哉/青柳尊哉-好吃.png" width="50" height="50" alt="青柳尊哉-好吃">
+<img src="https://emoji.shojo.cn/bili/src/青柳尊哉/青柳尊哉-哦斯.png" width="50" height="50" alt="青柳尊哉-哦斯">
+<img src="https://emoji.shojo.cn/bili/src/青柳尊哉/青柳尊哉-震惊.png" width="50" height="50" alt="青柳尊哉-震惊">
+<img src="https://emoji.shojo.cn/bili/src/青柳尊哉/青柳尊哉-可爱.png" width="50" height="50" alt="青柳尊哉-可爱">
+<img src="https://emoji.shojo.cn/bili/src/青柳尊哉/青柳尊哉-帅气.png" width="50" height="50" alt="青柳尊哉-帅气">
+<img src="https://emoji.shojo.cn/bili/src/青柳尊哉/青柳尊哉-喝饮料.png" width="50" height="50" alt="青柳尊哉-喝饮料">
+<img src="https://emoji.shojo.cn/bili/src/青柳尊哉/青柳尊哉-爱你.png" width="50" height="50" alt="青柳尊哉-爱你">
+<img src="https://emoji.shojo.cn/bili/src/青柳尊哉/青柳尊哉-哭泣.png" width="50" height="50" alt="青柳尊哉-哭泣">
+
+## 下载地址
+
+https://shamiko-my.sharepoint.com/:u:/g/personal/img_yuru_pro/Ed0ewvfXOB1HjjBKcKWSyioBWiE1mvfk69Wc21s5Gr29Zw

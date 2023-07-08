@@ -1,28 +1,34 @@
 # Luca Kaneshiro
-![icon](https://emoji.shojo.cn/bili/src/Luca Kaneshiro/icon.png)
+<img src="https://emoji.shojo.cn/bili/src/Luca Kaneshiro/icon.png" width="50" height="50" alt="icon">
+
 ## 链接
 Cloudflare:
 ```
 https://emoji.shojo.cn/bili/src/Luca Kaneshiro
+https://emoji.shojo.cn/bili/webp/Luca Kaneshiro
 ```
 ## 展示
-![Luca-pog](https://emoji.shojo.cn/bili/src/Luca Kaneshiro/Luca-pog.png)
-![Luca-Unpog](https://emoji.shojo.cn/bili/src/Luca Kaneshiro/Luca-Unpog.png)
-![Luca-哭哭](https://emoji.shojo.cn/bili/src/Luca Kaneshiro/Luca-哭哭.png)
-![Luca-比心](https://emoji.shojo.cn/bili/src/Luca Kaneshiro/Luca-比心.png)
-![Luca-元气满满](https://emoji.shojo.cn/bili/src/Luca Kaneshiro/Luca-元气满满.png)
-![Luca-冒头](https://emoji.shojo.cn/bili/src/Luca Kaneshiro/Luca-冒头.png)
-![Luca-冲鸭](https://emoji.shojo.cn/bili/src/Luca Kaneshiro/Luca-冲鸭.png)
-![Luca-亲亲](https://emoji.shojo.cn/bili/src/Luca Kaneshiro/Luca-亲亲.png)
-![Luca-邪恶](https://emoji.shojo.cn/bili/src/Luca Kaneshiro/Luca-邪恶.png)
-![Luca-加载中](https://emoji.shojo.cn/bili/src/Luca Kaneshiro/Luca-加载中.png)
-![Luca-就这？](https://emoji.shojo.cn/bili/src/Luca Kaneshiro/Luca-就这？.png)
-![Luca-生气](https://emoji.shojo.cn/bili/src/Luca Kaneshiro/Luca-生气.png)
-![Luca-脸红](https://emoji.shojo.cn/bili/src/Luca Kaneshiro/Luca-脸红.png)
-![Luca-晕厥](https://emoji.shojo.cn/bili/src/Luca Kaneshiro/Luca-晕厥.png)
-![Luca-打call](https://emoji.shojo.cn/bili/src/Luca Kaneshiro/Luca-打call.png)
-![Luca-拜托](https://emoji.shojo.cn/bili/src/Luca Kaneshiro/Luca-拜托.png)
-![Luca-可疑](https://emoji.shojo.cn/bili/src/Luca Kaneshiro/Luca-可疑.png)
-![Luca-一起锻炼！](https://emoji.shojo.cn/bili/src/Luca Kaneshiro/Luca-一起锻炼！.png)
-![Luca-TSKR](https://emoji.shojo.cn/bili/src/Luca Kaneshiro/Luca-TSKR.png)
-![Luca-摸摸头](https://emoji.shojo.cn/bili/src/Luca Kaneshiro/Luca-摸摸头.png)
+<img src="https://emoji.shojo.cn/bili/src/Luca Kaneshiro/Luca-pog.png" width="50" height="50" alt="Luca-pog">
+<img src="https://emoji.shojo.cn/bili/src/Luca Kaneshiro/Luca-Unpog.png" width="50" height="50" alt="Luca-Unpog">
+<img src="https://emoji.shojo.cn/bili/src/Luca Kaneshiro/Luca-哭哭.png" width="50" height="50" alt="Luca-哭哭">
+<img src="https://emoji.shojo.cn/bili/src/Luca Kaneshiro/Luca-比心.png" width="50" height="50" alt="Luca-比心">
+<img src="https://emoji.shojo.cn/bili/src/Luca Kaneshiro/Luca-元气满满.png" width="50" height="50" alt="Luca-元气满满">
+<img src="https://emoji.shojo.cn/bili/src/Luca Kaneshiro/Luca-冒头.png" width="50" height="50" alt="Luca-冒头">
+<img src="https://emoji.shojo.cn/bili/src/Luca Kaneshiro/Luca-冲鸭.png" width="50" height="50" alt="Luca-冲鸭">
+<img src="https://emoji.shojo.cn/bili/src/Luca Kaneshiro/Luca-亲亲.png" width="50" height="50" alt="Luca-亲亲">
+<img src="https://emoji.shojo.cn/bili/src/Luca Kaneshiro/Luca-邪恶.png" width="50" height="50" alt="Luca-邪恶">
+<img src="https://emoji.shojo.cn/bili/src/Luca Kaneshiro/Luca-加载中.png" width="50" height="50" alt="Luca-加载中">
+<img src="https://emoji.shojo.cn/bili/src/Luca Kaneshiro/Luca-就这？.png" width="50" height="50" alt="Luca-就这？">
+<img src="https://emoji.shojo.cn/bili/src/Luca Kaneshiro/Luca-生气.png" width="50" height="50" alt="Luca-生气">
+<img src="https://emoji.shojo.cn/bili/src/Luca Kaneshiro/Luca-脸红.png" width="50" height="50" alt="Luca-脸红">
+<img src="https://emoji.shojo.cn/bili/src/Luca Kaneshiro/Luca-晕厥.png" width="50" height="50" alt="Luca-晕厥">
+<img src="https://emoji.shojo.cn/bili/src/Luca Kaneshiro/Luca-打call.png" width="50" height="50" alt="Luca-打call">
+<img src="https://emoji.shojo.cn/bili/src/Luca Kaneshiro/Luca-拜托.png" width="50" height="50" alt="Luca-拜托">
+<img src="https://emoji.shojo.cn/bili/src/Luca Kaneshiro/Luca-可疑.png" width="50" height="50" alt="Luca-可疑">
+<img src="https://emoji.shojo.cn/bili/src/Luca Kaneshiro/Luca-一起锻炼！.png" width="50" height="50" alt="Luca-一起锻炼！">
+<img src="https://emoji.shojo.cn/bili/src/Luca Kaneshiro/Luca-TSKR.png" width="50" height="50" alt="Luca-TSKR">
+<img src="https://emoji.shojo.cn/bili/src/Luca Kaneshiro/Luca-摸摸头.png" width="50" height="50" alt="Luca-摸摸头">
+
+## 下载地址
+
+https://shamiko-my.sharepoint.com/:u:/g/personal/img_yuru_pro/ER8gEoX8LexArTIErill0d8BmB177udRgFzJB3VbKIPK1w

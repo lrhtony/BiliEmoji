@@ -1,18 +1,24 @@
 # 少年歌行
-![icon](https://emoji.shojo.cn/bili/src/少年歌行/icon.png)
+<img src="https://emoji.shojo.cn/bili/src/少年歌行/icon.png" width="50" height="50" alt="icon">
+
 ## 链接
 Cloudflare:
 ```
 https://emoji.shojo.cn/bili/src/少年歌行
+https://emoji.shojo.cn/bili/webp/少年歌行
 ```
 ## 展示
-![少年歌行-no](https://emoji.shojo.cn/bili/src/少年歌行/少年歌行-no.png)
-![少年歌行-yes](https://emoji.shojo.cn/bili/src/少年歌行/少年歌行-yes.png)
-![少年歌行-比心](https://emoji.shojo.cn/bili/src/少年歌行/少年歌行-比心.png)
-![少年歌行-馋](https://emoji.shojo.cn/bili/src/少年歌行/少年歌行-馋.png)
-![少年歌行-冲鸭](https://emoji.shojo.cn/bili/src/少年歌行/少年歌行-冲鸭.png)
-![少年歌行-戳](https://emoji.shojo.cn/bili/src/少年歌行/少年歌行-戳.png)
-![少年歌行-泪目](https://emoji.shojo.cn/bili/src/少年歌行/少年歌行-泪目.png)
-![少年歌行-亿点点](https://emoji.shojo.cn/bili/src/少年歌行/少年歌行-亿点点.png)
-![少年歌行-元气满满](https://emoji.shojo.cn/bili/src/少年歌行/少年歌行-元气满满.png)
-![少年歌行-在吗](https://emoji.shojo.cn/bili/src/少年歌行/少年歌行-在吗.png)
+<img src="https://emoji.shojo.cn/bili/src/少年歌行/少年歌行-no.png" width="50" height="50" alt="少年歌行-no">
+<img src="https://emoji.shojo.cn/bili/src/少年歌行/少年歌行-yes.png" width="50" height="50" alt="少年歌行-yes">
+<img src="https://emoji.shojo.cn/bili/src/少年歌行/少年歌行-比心.png" width="50" height="50" alt="少年歌行-比心">
+<img src="https://emoji.shojo.cn/bili/src/少年歌行/少年歌行-馋.png" width="50" height="50" alt="少年歌行-馋">
+<img src="https://emoji.shojo.cn/bili/src/少年歌行/少年歌行-冲鸭.png" width="50" height="50" alt="少年歌行-冲鸭">
+<img src="https://emoji.shojo.cn/bili/src/少年歌行/少年歌行-戳.png" width="50" height="50" alt="少年歌行-戳">
+<img src="https://emoji.shojo.cn/bili/src/少年歌行/少年歌行-泪目.png" width="50" height="50" alt="少年歌行-泪目">
+<img src="https://emoji.shojo.cn/bili/src/少年歌行/少年歌行-亿点点.png" width="50" height="50" alt="少年歌行-亿点点">
+<img src="https://emoji.shojo.cn/bili/src/少年歌行/少年歌行-元气满满.png" width="50" height="50" alt="少年歌行-元气满满">
+<img src="https://emoji.shojo.cn/bili/src/少年歌行/少年歌行-在吗.png" width="50" height="50" alt="少年歌行-在吗">
+
+## 下载地址
+
+https://shamiko-my.sharepoint.com/:u:/g/personal/img_yuru_pro/Ecy0q4S0Ig9GhK59CjQt3aMBw4O9KPnAJXyHGK6idWXdpg

@@ -1,33 +1,39 @@
 # 漫画风唐老鸭
-![icon](https://emoji.shojo.cn/bili/src/漫画风唐老鸭/icon.png)
+<img src="https://emoji.shojo.cn/bili/src/漫画风唐老鸭/icon.png" width="50" height="50" alt="icon">
+
 ## 链接
 Cloudflare:
 ```
 https://emoji.shojo.cn/bili/src/漫画风唐老鸭
+https://emoji.shojo.cn/bili/webp/漫画风唐老鸭
 ```
 ## 展示
-![漫画风唐老鸭-拜~](https://emoji.shojo.cn/bili/src/漫画风唐老鸭/漫画风唐老鸭-拜~.png)
-![漫画风唐老鸭-惊吓](https://emoji.shojo.cn/bili/src/漫画风唐老鸭/漫画风唐老鸭-惊吓.png)
-![漫画风唐老鸭-偷笑](https://emoji.shojo.cn/bili/src/漫画风唐老鸭/漫画风唐老鸭-偷笑.png)
-![漫画风唐老鸭-生气](https://emoji.shojo.cn/bili/src/漫画风唐老鸭/漫画风唐老鸭-生气.png)
-![漫画风唐老鸭-鄙视](https://emoji.shojo.cn/bili/src/漫画风唐老鸭/漫画风唐老鸭-鄙视.png)
-![漫画风唐老鸭-凶](https://emoji.shojo.cn/bili/src/漫画风唐老鸭/漫画风唐老鸭-凶.png)
-![漫画风唐老鸭-耶](https://emoji.shojo.cn/bili/src/漫画风唐老鸭/漫画风唐老鸭-耶.png)
-![漫画风唐老鸭-物理闭嘴](https://emoji.shojo.cn/bili/src/漫画风唐老鸭/漫画风唐老鸭-物理闭嘴.png)
-![漫画风唐老鸭-骄傲](https://emoji.shojo.cn/bili/src/漫画风唐老鸭/漫画风唐老鸭-骄傲.png)
-![漫画风唐老鸭-很酷](https://emoji.shojo.cn/bili/src/漫画风唐老鸭/漫画风唐老鸭-很酷.png)
-![漫画风唐老鸭-我来看看](https://emoji.shojo.cn/bili/src/漫画风唐老鸭/漫画风唐老鸭-我来看看.png)
-![漫画风唐老鸭-盯](https://emoji.shojo.cn/bili/src/漫画风唐老鸭/漫画风唐老鸭-盯.png)
-![漫画风唐老鸭-吓唬](https://emoji.shojo.cn/bili/src/漫画风唐老鸭/漫画风唐老鸭-吓唬.png)
-![漫画风唐老鸭-头晕](https://emoji.shojo.cn/bili/src/漫画风唐老鸭/漫画风唐老鸭-头晕.png)
-![漫画风唐老鸭-吵架](https://emoji.shojo.cn/bili/src/漫画风唐老鸭/漫画风唐老鸭-吵架.png)
-![漫画风唐老鸭-看](https://emoji.shojo.cn/bili/src/漫画风唐老鸭/漫画风唐老鸭-看.png)
-![漫画风唐老鸭-鄙夷](https://emoji.shojo.cn/bili/src/漫画风唐老鸭/漫画风唐老鸭-鄙夷.png)
-![漫画风唐老鸭-萎靡](https://emoji.shojo.cn/bili/src/漫画风唐老鸭/漫画风唐老鸭-萎靡.png)
-![漫画风唐老鸭-欢迎](https://emoji.shojo.cn/bili/src/漫画风唐老鸭/漫画风唐老鸭-欢迎.png)
-![漫画风唐老鸭-开心](https://emoji.shojo.cn/bili/src/漫画风唐老鸭/漫画风唐老鸭-开心.png)
-![漫画风唐老鸭-是我](https://emoji.shojo.cn/bili/src/漫画风唐老鸭/漫画风唐老鸭-是我.png)
-![漫画风唐老鸭-震惊](https://emoji.shojo.cn/bili/src/漫画风唐老鸭/漫画风唐老鸭-震惊.png)
-![漫画风唐老鸭-溜了](https://emoji.shojo.cn/bili/src/漫画风唐老鸭/漫画风唐老鸭-溜了.png)
-![漫画风唐老鸭-苦恼](https://emoji.shojo.cn/bili/src/漫画风唐老鸭/漫画风唐老鸭-苦恼.png)
-![漫画风唐老鸭-笑死](https://emoji.shojo.cn/bili/src/漫画风唐老鸭/漫画风唐老鸭-笑死.png)
+<img src="https://emoji.shojo.cn/bili/src/漫画风唐老鸭/漫画风唐老鸭-拜~.png" width="50" height="50" alt="漫画风唐老鸭-拜~">
+<img src="https://emoji.shojo.cn/bili/src/漫画风唐老鸭/漫画风唐老鸭-惊吓.png" width="50" height="50" alt="漫画风唐老鸭-惊吓">
+<img src="https://emoji.shojo.cn/bili/src/漫画风唐老鸭/漫画风唐老鸭-偷笑.png" width="50" height="50" alt="漫画风唐老鸭-偷笑">
+<img src="https://emoji.shojo.cn/bili/src/漫画风唐老鸭/漫画风唐老鸭-生气.png" width="50" height="50" alt="漫画风唐老鸭-生气">
+<img src="https://emoji.shojo.cn/bili/src/漫画风唐老鸭/漫画风唐老鸭-鄙视.png" width="50" height="50" alt="漫画风唐老鸭-鄙视">
+<img src="https://emoji.shojo.cn/bili/src/漫画风唐老鸭/漫画风唐老鸭-凶.png" width="50" height="50" alt="漫画风唐老鸭-凶">
+<img src="https://emoji.shojo.cn/bili/src/漫画风唐老鸭/漫画风唐老鸭-耶.png" width="50" height="50" alt="漫画风唐老鸭-耶">
+<img src="https://emoji.shojo.cn/bili/src/漫画风唐老鸭/漫画风唐老鸭-物理闭嘴.png" width="50" height="50" alt="漫画风唐老鸭-物理闭嘴">
+<img src="https://emoji.shojo.cn/bili/src/漫画风唐老鸭/漫画风唐老鸭-骄傲.png" width="50" height="50" alt="漫画风唐老鸭-骄傲">
+<img src="https://emoji.shojo.cn/bili/src/漫画风唐老鸭/漫画风唐老鸭-很酷.png" width="50" height="50" alt="漫画风唐老鸭-很酷">
+<img src="https://emoji.shojo.cn/bili/src/漫画风唐老鸭/漫画风唐老鸭-我来看看.png" width="50" height="50" alt="漫画风唐老鸭-我来看看">
+<img src="https://emoji.shojo.cn/bili/src/漫画风唐老鸭/漫画风唐老鸭-盯.png" width="50" height="50" alt="漫画风唐老鸭-盯">
+<img src="https://emoji.shojo.cn/bili/src/漫画风唐老鸭/漫画风唐老鸭-吓唬.png" width="50" height="50" alt="漫画风唐老鸭-吓唬">
+<img src="https://emoji.shojo.cn/bili/src/漫画风唐老鸭/漫画风唐老鸭-头晕.png" width="50" height="50" alt="漫画风唐老鸭-头晕">
+<img src="https://emoji.shojo.cn/bili/src/漫画风唐老鸭/漫画风唐老鸭-吵架.png" width="50" height="50" alt="漫画风唐老鸭-吵架">
+<img src="https://emoji.shojo.cn/bili/src/漫画风唐老鸭/漫画风唐老鸭-看.png" width="50" height="50" alt="漫画风唐老鸭-看">
+<img src="https://emoji.shojo.cn/bili/src/漫画风唐老鸭/漫画风唐老鸭-鄙夷.png" width="50" height="50" alt="漫画风唐老鸭-鄙夷">
+<img src="https://emoji.shojo.cn/bili/src/漫画风唐老鸭/漫画风唐老鸭-萎靡.png" width="50" height="50" alt="漫画风唐老鸭-萎靡">
+<img src="https://emoji.shojo.cn/bili/src/漫画风唐老鸭/漫画风唐老鸭-欢迎.png" width="50" height="50" alt="漫画风唐老鸭-欢迎">
+<img src="https://emoji.shojo.cn/bili/src/漫画风唐老鸭/漫画风唐老鸭-开心.png" width="50" height="50" alt="漫画风唐老鸭-开心">
+<img src="https://emoji.shojo.cn/bili/src/漫画风唐老鸭/漫画风唐老鸭-是我.png" width="50" height="50" alt="漫画风唐老鸭-是我">
+<img src="https://emoji.shojo.cn/bili/src/漫画风唐老鸭/漫画风唐老鸭-震惊.png" width="50" height="50" alt="漫画风唐老鸭-震惊">
+<img src="https://emoji.shojo.cn/bili/src/漫画风唐老鸭/漫画风唐老鸭-溜了.png" width="50" height="50" alt="漫画风唐老鸭-溜了">
+<img src="https://emoji.shojo.cn/bili/src/漫画风唐老鸭/漫画风唐老鸭-苦恼.png" width="50" height="50" alt="漫画风唐老鸭-苦恼">
+<img src="https://emoji.shojo.cn/bili/src/漫画风唐老鸭/漫画风唐老鸭-笑死.png" width="50" height="50" alt="漫画风唐老鸭-笑死">
+
+## 下载地址
+
+https://shamiko-my.sharepoint.com/:u:/g/personal/img_yuru_pro/Ef60Pa_rNmpFgxWQ7tXbcykBohP34bK3yb79pQ_nHRoT4A

@@ -1,28 +1,34 @@
 # 敷衍熊
-![icon](https://emoji.shojo.cn/bili/src/敷衍熊/icon.png)
+<img src="https://emoji.shojo.cn/bili/src/敷衍熊/icon.png" width="50" height="50" alt="icon">
+
 ## 链接
 Cloudflare:
 ```
 https://emoji.shojo.cn/bili/src/敷衍熊
+https://emoji.shojo.cn/bili/webp/敷衍熊
 ```
 ## 展示
-![敷衍熊-求求了](https://emoji.shojo.cn/bili/src/敷衍熊/敷衍熊-求求了.png)
-![敷衍熊-迷惑](https://emoji.shojo.cn/bili/src/敷衍熊/敷衍熊-迷惑.png)
-![敷衍熊-开饭](https://emoji.shojo.cn/bili/src/敷衍熊/敷衍熊-开饭.png)
-![敷衍熊-勾引](https://emoji.shojo.cn/bili/src/敷衍熊/敷衍熊-勾引.png)
-![敷衍熊-出现](https://emoji.shojo.cn/bili/src/敷衍熊/敷衍熊-出现.png)
-![敷衍熊-阴暗爬行](https://emoji.shojo.cn/bili/src/敷衍熊/敷衍熊-阴暗爬行.png)
-![敷衍熊-拉屎](https://emoji.shojo.cn/bili/src/敷衍熊/敷衍熊-拉屎.png)
-![敷衍熊-纠结](https://emoji.shojo.cn/bili/src/敷衍熊/敷衍熊-纠结.png)
-![敷衍熊-看戏](https://emoji.shojo.cn/bili/src/敷衍熊/敷衍熊-看戏.png)
-![敷衍熊-功德](https://emoji.shojo.cn/bili/src/敷衍熊/敷衍熊-功德.png)
-![敷衍熊-睡觉](https://emoji.shojo.cn/bili/src/敷衍熊/敷衍熊-睡觉.png)
-![敷衍熊-呆](https://emoji.shojo.cn/bili/src/敷衍熊/敷衍熊-呆.png)
-![敷衍熊-发呆](https://emoji.shojo.cn/bili/src/敷衍熊/敷衍熊-发呆.png)
-![敷衍熊-路过](https://emoji.shojo.cn/bili/src/敷衍熊/敷衍熊-路过.png)
-![敷衍熊-感动](https://emoji.shojo.cn/bili/src/敷衍熊/敷衍熊-感动.png)
-![敷衍熊-赞](https://emoji.shojo.cn/bili/src/敷衍熊/敷衍熊-赞.png)
-![敷衍熊-思考](https://emoji.shojo.cn/bili/src/敷衍熊/敷衍熊-思考.png)
-![敷衍熊-转运](https://emoji.shojo.cn/bili/src/敷衍熊/敷衍熊-转运.png)
-![敷衍熊-流鼻血](https://emoji.shojo.cn/bili/src/敷衍熊/敷衍熊-流鼻血.png)
-![敷衍熊-帅气](https://emoji.shojo.cn/bili/src/敷衍熊/敷衍熊-帅气.png)
+<img src="https://emoji.shojo.cn/bili/src/敷衍熊/敷衍熊-求求了.png" width="50" height="50" alt="敷衍熊-求求了">
+<img src="https://emoji.shojo.cn/bili/src/敷衍熊/敷衍熊-迷惑.png" width="50" height="50" alt="敷衍熊-迷惑">
+<img src="https://emoji.shojo.cn/bili/src/敷衍熊/敷衍熊-开饭.png" width="50" height="50" alt="敷衍熊-开饭">
+<img src="https://emoji.shojo.cn/bili/src/敷衍熊/敷衍熊-勾引.png" width="50" height="50" alt="敷衍熊-勾引">
+<img src="https://emoji.shojo.cn/bili/src/敷衍熊/敷衍熊-出现.png" width="50" height="50" alt="敷衍熊-出现">
+<img src="https://emoji.shojo.cn/bili/src/敷衍熊/敷衍熊-阴暗爬行.png" width="50" height="50" alt="敷衍熊-阴暗爬行">
+<img src="https://emoji.shojo.cn/bili/src/敷衍熊/敷衍熊-拉屎.png" width="50" height="50" alt="敷衍熊-拉屎">
+<img src="https://emoji.shojo.cn/bili/src/敷衍熊/敷衍熊-纠结.png" width="50" height="50" alt="敷衍熊-纠结">
+<img src="https://emoji.shojo.cn/bili/src/敷衍熊/敷衍熊-看戏.png" width="50" height="50" alt="敷衍熊-看戏">
+<img src="https://emoji.shojo.cn/bili/src/敷衍熊/敷衍熊-功德.png" width="50" height="50" alt="敷衍熊-功德">
+<img src="https://emoji.shojo.cn/bili/src/敷衍熊/敷衍熊-睡觉.png" width="50" height="50" alt="敷衍熊-睡觉">
+<img src="https://emoji.shojo.cn/bili/src/敷衍熊/敷衍熊-呆.png" width="50" height="50" alt="敷衍熊-呆">
+<img src="https://emoji.shojo.cn/bili/src/敷衍熊/敷衍熊-发呆.png" width="50" height="50" alt="敷衍熊-发呆">
+<img src="https://emoji.shojo.cn/bili/src/敷衍熊/敷衍熊-路过.png" width="50" height="50" alt="敷衍熊-路过">
+<img src="https://emoji.shojo.cn/bili/src/敷衍熊/敷衍熊-感动.png" width="50" height="50" alt="敷衍熊-感动">
+<img src="https://emoji.shojo.cn/bili/src/敷衍熊/敷衍熊-赞.png" width="50" height="50" alt="敷衍熊-赞">
+<img src="https://emoji.shojo.cn/bili/src/敷衍熊/敷衍熊-思考.png" width="50" height="50" alt="敷衍熊-思考">
+<img src="https://emoji.shojo.cn/bili/src/敷衍熊/敷衍熊-转运.png" width="50" height="50" alt="敷衍熊-转运">
+<img src="https://emoji.shojo.cn/bili/src/敷衍熊/敷衍熊-流鼻血.png" width="50" height="50" alt="敷衍熊-流鼻血">
+<img src="https://emoji.shojo.cn/bili/src/敷衍熊/敷衍熊-帅气.png" width="50" height="50" alt="敷衍熊-帅气">
+
+## 下载地址
+
+https://shamiko-my.sharepoint.com/:u:/g/personal/img_yuru_pro/EYo6C19lrXtLpsxNyrlEEPUBG5Gz0aO1Kdr2VH-hjau4Iw

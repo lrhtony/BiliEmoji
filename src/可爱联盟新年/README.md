@@ -1,33 +1,39 @@
 # 可爱联盟新年
-![icon](https://emoji.shojo.cn/bili/src/可爱联盟新年/icon.png)
+<img src="https://emoji.shojo.cn/bili/src/可爱联盟新年/icon.png" width="50" height="50" alt="icon">
+
 ## 链接
 Cloudflare:
 ```
 https://emoji.shojo.cn/bili/src/可爱联盟新年
+https://emoji.shojo.cn/bili/webp/可爱联盟新年
 ```
 ## 展示
-![可爱联盟新年-好](https://emoji.shojo.cn/bili/src/可爱联盟新年/可爱联盟新年-好.png)
-![可爱联盟新年-新年快乐](https://emoji.shojo.cn/bili/src/可爱联盟新年/可爱联盟新年-新年快乐.png)
-![可爱联盟新年-祈福](https://emoji.shojo.cn/bili/src/可爱联盟新年/可爱联盟新年-祈福.png)
-![可爱联盟新年-恭喜发财](https://emoji.shojo.cn/bili/src/可爱联盟新年/可爱联盟新年-恭喜发财.png)
-![可爱联盟新年-害羞](https://emoji.shojo.cn/bili/src/可爱联盟新年/可爱联盟新年-害羞.png)
-![可爱联盟新年-开心](https://emoji.shojo.cn/bili/src/可爱联盟新年/可爱联盟新年-开心.png)
-![可爱联盟新年-击掌](https://emoji.shojo.cn/bili/src/可爱联盟新年/可爱联盟新年-击掌.png)
-![可爱联盟新年-嘿嘿](https://emoji.shojo.cn/bili/src/可爱联盟新年/可爱联盟新年-嘿嘿.png)
-![可爱联盟新年-福](https://emoji.shojo.cn/bili/src/可爱联盟新年/可爱联盟新年-福.png)
-![可爱联盟新年-贫穷](https://emoji.shojo.cn/bili/src/可爱联盟新年/可爱联盟新年-贫穷.png)
-![可爱联盟新年-发红包](https://emoji.shojo.cn/bili/src/可爱联盟新年/可爱联盟新年-发红包.png)
-![可爱联盟新年-蹲](https://emoji.shojo.cn/bili/src/可爱联盟新年/可爱联盟新年-蹲.png)
-![可爱联盟新年-等待](https://emoji.shojo.cn/bili/src/可爱联盟新年/可爱联盟新年-等待.png)
-![可爱联盟新年-流汗](https://emoji.shojo.cn/bili/src/可爱联盟新年/可爱联盟新年-流汗.png)
-![可爱联盟新年-打你](https://emoji.shojo.cn/bili/src/可爱联盟新年/可爱联盟新年-打你.png)
-![可爱联盟新年-吃饭](https://emoji.shojo.cn/bili/src/可爱联盟新年/可爱联盟新年-吃饭.png)
-![可爱联盟新年-不开心](https://emoji.shojo.cn/bili/src/可爱联盟新年/可爱联盟新年-不开心.png)
-![可爱联盟新年-晕](https://emoji.shojo.cn/bili/src/可爱联盟新年/可爱联盟新年-晕.png)
-![可爱联盟新年-不](https://emoji.shojo.cn/bili/src/可爱联盟新年/可爱联盟新年-不.png)
-![可爱联盟新年-谢谢老板](https://emoji.shojo.cn/bili/src/可爱联盟新年/可爱联盟新年-谢谢老板.png)
-![可爱联盟新年-仙女棒](https://emoji.shojo.cn/bili/src/可爱联盟新年/可爱联盟新年-仙女棒.png)
-![可爱联盟新年-嘻](https://emoji.shojo.cn/bili/src/可爱联盟新年/可爱联盟新年-嘻.png)
-![可爱联盟新年-睡觉](https://emoji.shojo.cn/bili/src/可爱联盟新年/可爱联盟新年-睡觉.png)
-![可爱联盟新年-上厕所](https://emoji.shojo.cn/bili/src/可爱联盟新年/可爱联盟新年-上厕所.png)
-![可爱联盟新年-呆](https://emoji.shojo.cn/bili/src/可爱联盟新年/可爱联盟新年-呆.png)
+<img src="https://emoji.shojo.cn/bili/src/可爱联盟新年/可爱联盟新年-好.png" width="50" height="50" alt="可爱联盟新年-好">
+<img src="https://emoji.shojo.cn/bili/src/可爱联盟新年/可爱联盟新年-新年快乐.png" width="50" height="50" alt="可爱联盟新年-新年快乐">
+<img src="https://emoji.shojo.cn/bili/src/可爱联盟新年/可爱联盟新年-祈福.png" width="50" height="50" alt="可爱联盟新年-祈福">
+<img src="https://emoji.shojo.cn/bili/src/可爱联盟新年/可爱联盟新年-恭喜发财.png" width="50" height="50" alt="可爱联盟新年-恭喜发财">
+<img src="https://emoji.shojo.cn/bili/src/可爱联盟新年/可爱联盟新年-害羞.png" width="50" height="50" alt="可爱联盟新年-害羞">
+<img src="https://emoji.shojo.cn/bili/src/可爱联盟新年/可爱联盟新年-开心.png" width="50" height="50" alt="可爱联盟新年-开心">
+<img src="https://emoji.shojo.cn/bili/src/可爱联盟新年/可爱联盟新年-击掌.png" width="50" height="50" alt="可爱联盟新年-击掌">
+<img src="https://emoji.shojo.cn/bili/src/可爱联盟新年/可爱联盟新年-嘿嘿.png" width="50" height="50" alt="可爱联盟新年-嘿嘿">
+<img src="https://emoji.shojo.cn/bili/src/可爱联盟新年/可爱联盟新年-福.png" width="50" height="50" alt="可爱联盟新年-福">
+<img src="https://emoji.shojo.cn/bili/src/可爱联盟新年/可爱联盟新年-贫穷.png" width="50" height="50" alt="可爱联盟新年-贫穷">
+<img src="https://emoji.shojo.cn/bili/src/可爱联盟新年/可爱联盟新年-发红包.png" width="50" height="50" alt="可爱联盟新年-发红包">
+<img src="https://emoji.shojo.cn/bili/src/可爱联盟新年/可爱联盟新年-蹲.png" width="50" height="50" alt="可爱联盟新年-蹲">
+<img src="https://emoji.shojo.cn/bili/src/可爱联盟新年/可爱联盟新年-等待.png" width="50" height="50" alt="可爱联盟新年-等待">
+<img src="https://emoji.shojo.cn/bili/src/可爱联盟新年/可爱联盟新年-流汗.png" width="50" height="50" alt="可爱联盟新年-流汗">
+<img src="https://emoji.shojo.cn/bili/src/可爱联盟新年/可爱联盟新年-打你.png" width="50" height="50" alt="可爱联盟新年-打你">
+<img src="https://emoji.shojo.cn/bili/src/可爱联盟新年/可爱联盟新年-吃饭.png" width="50" height="50" alt="可爱联盟新年-吃饭">
+<img src="https://emoji.shojo.cn/bili/src/可爱联盟新年/可爱联盟新年-不开心.png" width="50" height="50" alt="可爱联盟新年-不开心">
+<img src="https://emoji.shojo.cn/bili/src/可爱联盟新年/可爱联盟新年-晕.png" width="50" height="50" alt="可爱联盟新年-晕">
+<img src="https://emoji.shojo.cn/bili/src/可爱联盟新年/可爱联盟新年-不.png" width="50" height="50" alt="可爱联盟新年-不">
+<img src="https://emoji.shojo.cn/bili/src/可爱联盟新年/可爱联盟新年-谢谢老板.png" width="50" height="50" alt="可爱联盟新年-谢谢老板">
+<img src="https://emoji.shojo.cn/bili/src/可爱联盟新年/可爱联盟新年-仙女棒.png" width="50" height="50" alt="可爱联盟新年-仙女棒">
+<img src="https://emoji.shojo.cn/bili/src/可爱联盟新年/可爱联盟新年-嘻.png" width="50" height="50" alt="可爱联盟新年-嘻">
+<img src="https://emoji.shojo.cn/bili/src/可爱联盟新年/可爱联盟新年-睡觉.png" width="50" height="50" alt="可爱联盟新年-睡觉">
+<img src="https://emoji.shojo.cn/bili/src/可爱联盟新年/可爱联盟新年-上厕所.png" width="50" height="50" alt="可爱联盟新年-上厕所">
+<img src="https://emoji.shojo.cn/bili/src/可爱联盟新年/可爱联盟新年-呆.png" width="50" height="50" alt="可爱联盟新年-呆">
+
+## 下载地址
+
+https://shamiko-my.sharepoint.com/:u:/g/personal/img_yuru_pro/EWNF82nNiZFLhGokwwk6egMBeAkqrcZoWXaqhfGK1o_TcQ

@@ -1,33 +1,39 @@
 # 杜铂雷童话装扮表情包
-![icon](https://emoji.shojo.cn/bili/src/杜铂雷童话装扮表情包/icon.png)
+<img src="https://emoji.shojo.cn/bili/src/杜铂雷童话装扮表情包/icon.png" width="50" height="50" alt="icon">
+
 ## 链接
 Cloudflare:
 ```
 https://emoji.shojo.cn/bili/src/杜铂雷童话装扮表情包
+https://emoji.shojo.cn/bili/webp/杜铂雷童话装扮表情包
 ```
 ## 展示
-![杜铂雷童话装扮表情包-开心](https://emoji.shojo.cn/bili/src/杜铂雷童话装扮表情包/杜铂雷童话装扮表情包-开心.png)
-![杜铂雷童话装扮表情包-星星眼](https://emoji.shojo.cn/bili/src/杜铂雷童话装扮表情包/杜铂雷童话装扮表情包-星星眼.png)
-![杜铂雷童话装扮表情包-叹息](https://emoji.shojo.cn/bili/src/杜铂雷童话装扮表情包/杜铂雷童话装扮表情包-叹息.png)
-![杜铂雷童话装扮表情包-晚安](https://emoji.shojo.cn/bili/src/杜铂雷童话装扮表情包/杜铂雷童话装扮表情包-晚安.png)
-![杜铂雷童话装扮表情包-打call](https://emoji.shojo.cn/bili/src/杜铂雷童话装扮表情包/杜铂雷童话装扮表情包-打call.png)
-![杜铂雷童话装扮表情包-偷看](https://emoji.shojo.cn/bili/src/杜铂雷童话装扮表情包/杜铂雷童话装扮表情包-偷看.png)
-![杜铂雷童话装扮表情包-早安](https://emoji.shojo.cn/bili/src/杜铂雷童话装扮表情包/杜铂雷童话装扮表情包-早安.png)
-![杜铂雷童话装扮表情包-微笑](https://emoji.shojo.cn/bili/src/杜铂雷童话装扮表情包/杜铂雷童话装扮表情包-微笑.png)
-![杜铂雷童话装扮表情包-点赞](https://emoji.shojo.cn/bili/src/杜铂雷童话装扮表情包/杜铂雷童话装扮表情包-点赞.png)
-![杜铂雷童话装扮表情包-难过](https://emoji.shojo.cn/bili/src/杜铂雷童话装扮表情包/杜铂雷童话装扮表情包-难过.png)
-![杜铂雷童话装扮表情包-干杯](https://emoji.shojo.cn/bili/src/杜铂雷童话装扮表情包/杜铂雷童话装扮表情包-干杯.png)
-![杜铂雷童话装扮表情包-打咩！](https://emoji.shojo.cn/bili/src/杜铂雷童话装扮表情包/杜铂雷童话装扮表情包-打咩！.png)
-![杜铂雷童话装扮表情包-生气](https://emoji.shojo.cn/bili/src/杜铂雷童话装扮表情包/杜铂雷童话装扮表情包-生气.png)
-![杜铂雷童话装扮表情包-小丑](https://emoji.shojo.cn/bili/src/杜铂雷童话装扮表情包/杜铂雷童话装扮表情包-小丑.png)
-![杜铂雷童话装扮表情包-难绷](https://emoji.shojo.cn/bili/src/杜铂雷童话装扮表情包/杜铂雷童话装扮表情包-难绷.png)
-![杜铂雷童话装扮表情包-坏笑](https://emoji.shojo.cn/bili/src/杜铂雷童话装扮表情包/杜铂雷童话装扮表情包-坏笑.png)
-![杜铂雷童话装扮表情包-遁入空门](https://emoji.shojo.cn/bili/src/杜铂雷童话装扮表情包/杜铂雷童话装扮表情包-遁入空门.png)
-![杜铂雷童话装扮表情包-社畜搬砖](https://emoji.shojo.cn/bili/src/杜铂雷童话装扮表情包/杜铂雷童话装扮表情包-社畜搬砖.png)
-![杜铂雷童话装扮表情包-干饭要紧](https://emoji.shojo.cn/bili/src/杜铂雷童话装扮表情包/杜铂雷童话装扮表情包-干饭要紧.png)
-![杜铂雷童话装扮表情包-TSKR](https://emoji.shojo.cn/bili/src/杜铂雷童话装扮表情包/杜铂雷童话装扮表情包-TSKR.png)
-![杜铂雷童话装扮表情包-Loading](https://emoji.shojo.cn/bili/src/杜铂雷童话装扮表情包/杜铂雷童话装扮表情包-Loading.png)
-![杜铂雷童话装扮表情包-哭哭](https://emoji.shojo.cn/bili/src/杜铂雷童话装扮表情包/杜铂雷童话装扮表情包-哭哭.png)
-![杜铂雷童话装扮表情包-牛哇！](https://emoji.shojo.cn/bili/src/杜铂雷童话装扮表情包/杜铂雷童话装扮表情包-牛哇！.png)
-![杜铂雷童话装扮表情包-呵呵](https://emoji.shojo.cn/bili/src/杜铂雷童话装扮表情包/杜铂雷童话装扮表情包-呵呵.png)
-![杜铂雷童话装扮表情包-怨念](https://emoji.shojo.cn/bili/src/杜铂雷童话装扮表情包/杜铂雷童话装扮表情包-怨念.png)
+<img src="https://emoji.shojo.cn/bili/src/杜铂雷童话装扮表情包/杜铂雷童话装扮表情包-开心.png" width="50" height="50" alt="杜铂雷童话装扮表情包-开心">
+<img src="https://emoji.shojo.cn/bili/src/杜铂雷童话装扮表情包/杜铂雷童话装扮表情包-星星眼.png" width="50" height="50" alt="杜铂雷童话装扮表情包-星星眼">
+<img src="https://emoji.shojo.cn/bili/src/杜铂雷童话装扮表情包/杜铂雷童话装扮表情包-叹息.png" width="50" height="50" alt="杜铂雷童话装扮表情包-叹息">
+<img src="https://emoji.shojo.cn/bili/src/杜铂雷童话装扮表情包/杜铂雷童话装扮表情包-晚安.png" width="50" height="50" alt="杜铂雷童话装扮表情包-晚安">
+<img src="https://emoji.shojo.cn/bili/src/杜铂雷童话装扮表情包/杜铂雷童话装扮表情包-打call.png" width="50" height="50" alt="杜铂雷童话装扮表情包-打call">
+<img src="https://emoji.shojo.cn/bili/src/杜铂雷童话装扮表情包/杜铂雷童话装扮表情包-偷看.png" width="50" height="50" alt="杜铂雷童话装扮表情包-偷看">
+<img src="https://emoji.shojo.cn/bili/src/杜铂雷童话装扮表情包/杜铂雷童话装扮表情包-早安.png" width="50" height="50" alt="杜铂雷童话装扮表情包-早安">
+<img src="https://emoji.shojo.cn/bili/src/杜铂雷童话装扮表情包/杜铂雷童话装扮表情包-微笑.png" width="50" height="50" alt="杜铂雷童话装扮表情包-微笑">
+<img src="https://emoji.shojo.cn/bili/src/杜铂雷童话装扮表情包/杜铂雷童话装扮表情包-点赞.png" width="50" height="50" alt="杜铂雷童话装扮表情包-点赞">
+<img src="https://emoji.shojo.cn/bili/src/杜铂雷童话装扮表情包/杜铂雷童话装扮表情包-难过.png" width="50" height="50" alt="杜铂雷童话装扮表情包-难过">
+<img src="https://emoji.shojo.cn/bili/src/杜铂雷童话装扮表情包/杜铂雷童话装扮表情包-干杯.png" width="50" height="50" alt="杜铂雷童话装扮表情包-干杯">
+<img src="https://emoji.shojo.cn/bili/src/杜铂雷童话装扮表情包/杜铂雷童话装扮表情包-打咩！.png" width="50" height="50" alt="杜铂雷童话装扮表情包-打咩！">
+<img src="https://emoji.shojo.cn/bili/src/杜铂雷童话装扮表情包/杜铂雷童话装扮表情包-生气.png" width="50" height="50" alt="杜铂雷童话装扮表情包-生气">
+<img src="https://emoji.shojo.cn/bili/src/杜铂雷童话装扮表情包/杜铂雷童话装扮表情包-小丑.png" width="50" height="50" alt="杜铂雷童话装扮表情包-小丑">
+<img src="https://emoji.shojo.cn/bili/src/杜铂雷童话装扮表情包/杜铂雷童话装扮表情包-难绷.png" width="50" height="50" alt="杜铂雷童话装扮表情包-难绷">
+<img src="https://emoji.shojo.cn/bili/src/杜铂雷童话装扮表情包/杜铂雷童话装扮表情包-坏笑.png" width="50" height="50" alt="杜铂雷童话装扮表情包-坏笑">
+<img src="https://emoji.shojo.cn/bili/src/杜铂雷童话装扮表情包/杜铂雷童话装扮表情包-遁入空门.png" width="50" height="50" alt="杜铂雷童话装扮表情包-遁入空门">
+<img src="https://emoji.shojo.cn/bili/src/杜铂雷童话装扮表情包/杜铂雷童话装扮表情包-社畜搬砖.png" width="50" height="50" alt="杜铂雷童话装扮表情包-社畜搬砖">
+<img src="https://emoji.shojo.cn/bili/src/杜铂雷童话装扮表情包/杜铂雷童话装扮表情包-干饭要紧.png" width="50" height="50" alt="杜铂雷童话装扮表情包-干饭要紧">
+<img src="https://emoji.shojo.cn/bili/src/杜铂雷童话装扮表情包/杜铂雷童话装扮表情包-TSKR.png" width="50" height="50" alt="杜铂雷童话装扮表情包-TSKR">
+<img src="https://emoji.shojo.cn/bili/src/杜铂雷童话装扮表情包/杜铂雷童话装扮表情包-Loading.png" width="50" height="50" alt="杜铂雷童话装扮表情包-Loading">
+<img src="https://emoji.shojo.cn/bili/src/杜铂雷童话装扮表情包/杜铂雷童话装扮表情包-哭哭.png" width="50" height="50" alt="杜铂雷童话装扮表情包-哭哭">
+<img src="https://emoji.shojo.cn/bili/src/杜铂雷童话装扮表情包/杜铂雷童话装扮表情包-牛哇！.png" width="50" height="50" alt="杜铂雷童话装扮表情包-牛哇！">
+<img src="https://emoji.shojo.cn/bili/src/杜铂雷童话装扮表情包/杜铂雷童话装扮表情包-呵呵.png" width="50" height="50" alt="杜铂雷童话装扮表情包-呵呵">
+<img src="https://emoji.shojo.cn/bili/src/杜铂雷童话装扮表情包/杜铂雷童话装扮表情包-怨念.png" width="50" height="50" alt="杜铂雷童话装扮表情包-怨念">
+
+## 下载地址
+
+https://shamiko-my.sharepoint.com/:u:/g/personal/img_yuru_pro/EWH61SWkRKxFoPQZWrjmMZEBYyI0HF5cYycCfBNMgXqJWA

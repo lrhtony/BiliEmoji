@@ -1,23 +1,29 @@
 # 星宫汐
-![icon](https://emoji.shojo.cn/bili/src/星宫汐/icon.png)
+<img src="https://emoji.shojo.cn/bili/src/星宫汐/icon.png" width="50" height="50" alt="icon">
+
 ## 链接
 Cloudflare:
 ```
 https://emoji.shojo.cn/bili/src/星宫汐
+https://emoji.shojo.cn/bili/webp/星宫汐
 ```
 ## 展示
-![星宫汐-吃桃](https://emoji.shojo.cn/bili/src/星宫汐/星宫汐-吃桃.png)
-![星宫汐-八成攻](https://emoji.shojo.cn/bili/src/星宫汐/星宫汐-八成攻.png)
-![星宫汐-不要指望](https://emoji.shojo.cn/bili/src/星宫汐/星宫汐-不要指望.png)
-![星宫汐-好耶](https://emoji.shojo.cn/bili/src/星宫汐/星宫汐-好耶.png)
-![星宫汐-叉出去](https://emoji.shojo.cn/bili/src/星宫汐/星宫汐-叉出去.png)
-![星宫汐-泪目](https://emoji.shojo.cn/bili/src/星宫汐/星宫汐-泪目.png)
-![星宫汐-没什么事](https://emoji.shojo.cn/bili/src/星宫汐/星宫汐-没什么事.png)
-![星宫汐-摸鱼](https://emoji.shojo.cn/bili/src/星宫汐/星宫汐-摸鱼.png)
-![星宫汐-企鹅](https://emoji.shojo.cn/bili/src/星宫汐/星宫汐-企鹅.png)
-![星宫汐-企飞](https://emoji.shojo.cn/bili/src/星宫汐/星宫汐-企飞.png)
-![星宫汐-塔塔开](https://emoji.shojo.cn/bili/src/星宫汐/星宫汐-塔塔开.png)
-![星宫汐-贴贴](https://emoji.shojo.cn/bili/src/星宫汐/星宫汐-贴贴.png)
-![星宫汐-完全懂了](https://emoji.shojo.cn/bili/src/星宫汐/星宫汐-完全懂了.png)
-![星宫汐-问号](https://emoji.shojo.cn/bili/src/星宫汐/星宫汐-问号.png)
-![星宫汐-笑死](https://emoji.shojo.cn/bili/src/星宫汐/星宫汐-笑死.png)
+<img src="https://emoji.shojo.cn/bili/src/星宫汐/星宫汐-吃桃.png" width="50" height="50" alt="星宫汐-吃桃">
+<img src="https://emoji.shojo.cn/bili/src/星宫汐/星宫汐-八成攻.png" width="50" height="50" alt="星宫汐-八成攻">
+<img src="https://emoji.shojo.cn/bili/src/星宫汐/星宫汐-不要指望.png" width="50" height="50" alt="星宫汐-不要指望">
+<img src="https://emoji.shojo.cn/bili/src/星宫汐/星宫汐-好耶.png" width="50" height="50" alt="星宫汐-好耶">
+<img src="https://emoji.shojo.cn/bili/src/星宫汐/星宫汐-叉出去.png" width="50" height="50" alt="星宫汐-叉出去">
+<img src="https://emoji.shojo.cn/bili/src/星宫汐/星宫汐-泪目.png" width="50" height="50" alt="星宫汐-泪目">
+<img src="https://emoji.shojo.cn/bili/src/星宫汐/星宫汐-没什么事.png" width="50" height="50" alt="星宫汐-没什么事">
+<img src="https://emoji.shojo.cn/bili/src/星宫汐/星宫汐-摸鱼.png" width="50" height="50" alt="星宫汐-摸鱼">
+<img src="https://emoji.shojo.cn/bili/src/星宫汐/星宫汐-企鹅.png" width="50" height="50" alt="星宫汐-企鹅">
+<img src="https://emoji.shojo.cn/bili/src/星宫汐/星宫汐-企飞.png" width="50" height="50" alt="星宫汐-企飞">
+<img src="https://emoji.shojo.cn/bili/src/星宫汐/星宫汐-塔塔开.png" width="50" height="50" alt="星宫汐-塔塔开">
+<img src="https://emoji.shojo.cn/bili/src/星宫汐/星宫汐-贴贴.png" width="50" height="50" alt="星宫汐-贴贴">
+<img src="https://emoji.shojo.cn/bili/src/星宫汐/星宫汐-完全懂了.png" width="50" height="50" alt="星宫汐-完全懂了">
+<img src="https://emoji.shojo.cn/bili/src/星宫汐/星宫汐-问号.png" width="50" height="50" alt="星宫汐-问号">
+<img src="https://emoji.shojo.cn/bili/src/星宫汐/星宫汐-笑死.png" width="50" height="50" alt="星宫汐-笑死">
+
+## 下载地址
+
+https://shamiko-my.sharepoint.com/:u:/g/personal/img_yuru_pro/ETcKEgVwkWNPlq7Mns2Sy68Bj_uy67QhY3v_MIxk200DlA

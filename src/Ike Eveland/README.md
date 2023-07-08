@@ -1,28 +1,34 @@
 # Ike Eveland
-![icon](https://emoji.shojo.cn/bili/src/Ike Eveland/icon.png)
+<img src="https://emoji.shojo.cn/bili/src/Ike Eveland/icon.png" width="50" height="50" alt="icon">
+
 ## 链接
 Cloudflare:
 ```
 https://emoji.shojo.cn/bili/src/Ike Eveland
+https://emoji.shojo.cn/bili/webp/Ike Eveland
 ```
 ## 展示
-![Ike Eveland-anyway](https://emoji.shojo.cn/bili/src/Ike Eveland/Ike Eveland-anyway.png)
-![Ike Eveland-hate here](https://emoji.shojo.cn/bili/src/Ike Eveland/Ike Eveland-hate here.png)
-![Ike Eveland-I sleep](https://emoji.shojo.cn/bili/src/Ike Eveland/Ike Eveland-I sleep.png)
-![Ike Eveland-love you](https://emoji.shojo.cn/bili/src/Ike Eveland/Ike Eveland-love you.png)
-![Ike Eveland-吃土司](https://emoji.shojo.cn/bili/src/Ike Eveland/Ike Eveland-吃土司.png)
-![Ike Eveland-害羞](https://emoji.shojo.cn/bili/src/Ike Eveland/Ike Eveland-害羞.png)
-![Ike Eveland-mine](https://emoji.shojo.cn/bili/src/Ike Eveland/Ike Eveland-mine.png)
-![Ike Eveland-被吓](https://emoji.shojo.cn/bili/src/Ike Eveland/Ike Eveland-被吓.png)
-![Ike Eveland-唱歌](https://emoji.shojo.cn/bili/src/Ike Eveland/Ike Eveland-唱歌.png)
-![Ike Eveland-开罐](https://emoji.shojo.cn/bili/src/Ike Eveland/Ike Eveland-开罐.png)
-![Ike Eveland-strawberry](https://emoji.shojo.cn/bili/src/Ike Eveland/Ike Eveland-strawberry.png)
-![Ike Eveland-哭哭](https://emoji.shojo.cn/bili/src/Ike Eveland/Ike Eveland-哭哭.png)
-![Ike Eveland-hi](https://emoji.shojo.cn/bili/src/Ike Eveland/Ike Eveland-hi.png)
-![Ike Eveland-思考](https://emoji.shojo.cn/bili/src/Ike Eveland/Ike Eveland-思考.png)
-![Ike Eveland-tskr](https://emoji.shojo.cn/bili/src/Ike Eveland/Ike Eveland-tskr.png)
-![Ike Eveland-酷](https://emoji.shojo.cn/bili/src/Ike Eveland/Ike Eveland-酷.png)
-![Ike Eveland-呆住](https://emoji.shojo.cn/bili/src/Ike Eveland/Ike Eveland-呆住.png)
-![Ike Eveland-加油](https://emoji.shojo.cn/bili/src/Ike Eveland/Ike Eveland-加油.png)
-![Ike Eveland-荧光棒](https://emoji.shojo.cn/bili/src/Ike Eveland/Ike Eveland-荧光棒.png)
-![Ike Eveland-祈祷](https://emoji.shojo.cn/bili/src/Ike Eveland/Ike Eveland-祈祷.png)
+<img src="https://emoji.shojo.cn/bili/src/Ike Eveland/Ike Eveland-anyway.png" width="50" height="50" alt="Ike Eveland-anyway">
+<img src="https://emoji.shojo.cn/bili/src/Ike Eveland/Ike Eveland-hate here.png" width="50" height="50" alt="Ike Eveland-hate here">
+<img src="https://emoji.shojo.cn/bili/src/Ike Eveland/Ike Eveland-I sleep.png" width="50" height="50" alt="Ike Eveland-I sleep">
+<img src="https://emoji.shojo.cn/bili/src/Ike Eveland/Ike Eveland-love you.png" width="50" height="50" alt="Ike Eveland-love you">
+<img src="https://emoji.shojo.cn/bili/src/Ike Eveland/Ike Eveland-吃土司.png" width="50" height="50" alt="Ike Eveland-吃土司">
+<img src="https://emoji.shojo.cn/bili/src/Ike Eveland/Ike Eveland-害羞.png" width="50" height="50" alt="Ike Eveland-害羞">
+<img src="https://emoji.shojo.cn/bili/src/Ike Eveland/Ike Eveland-mine.png" width="50" height="50" alt="Ike Eveland-mine">
+<img src="https://emoji.shojo.cn/bili/src/Ike Eveland/Ike Eveland-被吓.png" width="50" height="50" alt="Ike Eveland-被吓">
+<img src="https://emoji.shojo.cn/bili/src/Ike Eveland/Ike Eveland-唱歌.png" width="50" height="50" alt="Ike Eveland-唱歌">
+<img src="https://emoji.shojo.cn/bili/src/Ike Eveland/Ike Eveland-开罐.png" width="50" height="50" alt="Ike Eveland-开罐">
+<img src="https://emoji.shojo.cn/bili/src/Ike Eveland/Ike Eveland-strawberry.png" width="50" height="50" alt="Ike Eveland-strawberry">
+<img src="https://emoji.shojo.cn/bili/src/Ike Eveland/Ike Eveland-哭哭.png" width="50" height="50" alt="Ike Eveland-哭哭">
+<img src="https://emoji.shojo.cn/bili/src/Ike Eveland/Ike Eveland-hi.png" width="50" height="50" alt="Ike Eveland-hi">
+<img src="https://emoji.shojo.cn/bili/src/Ike Eveland/Ike Eveland-思考.png" width="50" height="50" alt="Ike Eveland-思考">
+<img src="https://emoji.shojo.cn/bili/src/Ike Eveland/Ike Eveland-tskr.png" width="50" height="50" alt="Ike Eveland-tskr">
+<img src="https://emoji.shojo.cn/bili/src/Ike Eveland/Ike Eveland-酷.png" width="50" height="50" alt="Ike Eveland-酷">
+<img src="https://emoji.shojo.cn/bili/src/Ike Eveland/Ike Eveland-呆住.png" width="50" height="50" alt="Ike Eveland-呆住">
+<img src="https://emoji.shojo.cn/bili/src/Ike Eveland/Ike Eveland-加油.png" width="50" height="50" alt="Ike Eveland-加油">
+<img src="https://emoji.shojo.cn/bili/src/Ike Eveland/Ike Eveland-荧光棒.png" width="50" height="50" alt="Ike Eveland-荧光棒">
+<img src="https://emoji.shojo.cn/bili/src/Ike Eveland/Ike Eveland-祈祷.png" width="50" height="50" alt="Ike Eveland-祈祷">
+
+## 下载地址
+
+https://shamiko-my.sharepoint.com/:u:/g/personal/img_yuru_pro/ERDT_OzDtAFJmKEQAsPf3y8BShUAK9JFT1iycFSLmuy0SQ
