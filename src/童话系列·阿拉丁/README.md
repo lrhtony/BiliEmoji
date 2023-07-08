@@ -8,31 +8,7 @@ https://emoji.shojo.cn/bili/src/童话系列·阿拉丁
 https://emoji.shojo.cn/bili/webp/童话系列·阿拉丁
 ```
 ## 展示
-<img src="https://emoji.shojo.cn/bili/src/童话系列·阿拉丁/童话系列·阿拉丁-mua.png" width="50" height="50" alt="童话系列·阿拉丁-mua">
-<img src="https://emoji.shojo.cn/bili/src/童话系列·阿拉丁/童话系列·阿拉丁-wink.png" width="50" height="50" alt="童话系列·阿拉丁-wink">
-<img src="https://emoji.shojo.cn/bili/src/童话系列·阿拉丁/童话系列·阿拉丁-啊对对对.png" width="50" height="50" alt="童话系列·阿拉丁-啊对对对">
-<img src="https://emoji.shojo.cn/bili/src/童话系列·阿拉丁/童话系列·阿拉丁-暗中观察.png" width="50" height="50" alt="童话系列·阿拉丁-暗中观察">
-<img src="https://emoji.shojo.cn/bili/src/童话系列·阿拉丁/童话系列·阿拉丁-比心.png" width="50" height="50" alt="童话系列·阿拉丁-比心">
-<img src="https://emoji.shojo.cn/bili/src/童话系列·阿拉丁/童话系列·阿拉丁-害羞.png" width="50" height="50" alt="童话系列·阿拉丁-害羞">
-<img src="https://emoji.shojo.cn/bili/src/童话系列·阿拉丁/童话系列·阿拉丁-寄.png" width="50" height="50" alt="童话系列·阿拉丁-寄">
-<img src="https://emoji.shojo.cn/bili/src/童话系列·阿拉丁/童话系列·阿拉丁-惊.png" width="50" height="50" alt="童话系列·阿拉丁-惊">
-<img src="https://emoji.shojo.cn/bili/src/童话系列·阿拉丁/童话系列·阿拉丁-摸摸头.png" width="50" height="50" alt="童话系列·阿拉丁-摸摸头">
-<img src="https://emoji.shojo.cn/bili/src/童话系列·阿拉丁/童话系列·阿拉丁-奶思.png" width="50" height="50" alt="童话系列·阿拉丁-奶思">
-<img src="https://emoji.shojo.cn/bili/src/童话系列·阿拉丁/童话系列·阿拉丁-拍手手.png" width="50" height="50" alt="童话系列·阿拉丁-拍手手">
-<img src="https://emoji.shojo.cn/bili/src/童话系列·阿拉丁/童话系列·阿拉丁-期待.png" width="50" height="50" alt="童话系列·阿拉丁-期待">
-<img src="https://emoji.shojo.cn/bili/src/童话系列·阿拉丁/童话系列·阿拉丁-撒娇.png" width="50" height="50" alt="童话系列·阿拉丁-撒娇">
-<img src="https://emoji.shojo.cn/bili/src/童话系列·阿拉丁/童话系列·阿拉丁-生气气.png" width="50" height="50" alt="童话系列·阿拉丁-生气气">
-<img src="https://emoji.shojo.cn/bili/src/童话系列·阿拉丁/童话系列·阿拉丁-思考.png" width="50" height="50" alt="童话系列·阿拉丁-思考">
-<img src="https://emoji.shojo.cn/bili/src/童话系列·阿拉丁/童话系列·阿拉丁-叹气.png" width="50" height="50" alt="童话系列·阿拉丁-叹气">
-<img src="https://emoji.shojo.cn/bili/src/童话系列·阿拉丁/童话系列·阿拉丁-贴贴.png" width="50" height="50" alt="童话系列·阿拉丁-贴贴">
-<img src="https://emoji.shojo.cn/bili/src/童话系列·阿拉丁/童话系列·阿拉丁-偷笑.png" width="50" height="50" alt="童话系列·阿拉丁-偷笑">
-<img src="https://emoji.shojo.cn/bili/src/童话系列·阿拉丁/童话系列·阿拉丁-芜湖.png" width="50" height="50" alt="童话系列·阿拉丁-芜湖">
-<img src="https://emoji.shojo.cn/bili/src/童话系列·阿拉丁/童话系列·阿拉丁-捂脸.png" width="50" height="50" alt="童话系列·阿拉丁-捂脸">
-<img src="https://emoji.shojo.cn/bili/src/童话系列·阿拉丁/童话系列·阿拉丁-谢谢.png" width="50" height="50" alt="童话系列·阿拉丁-谢谢">
-<img src="https://emoji.shojo.cn/bili/src/童话系列·阿拉丁/童话系列·阿拉丁-许愿.png" width="50" height="50" alt="童话系列·阿拉丁-许愿">
-<img src="https://emoji.shojo.cn/bili/src/童话系列·阿拉丁/童话系列·阿拉丁-疑问.png" width="50" height="50" alt="童话系列·阿拉丁-疑问">
-<img src="https://emoji.shojo.cn/bili/src/童话系列·阿拉丁/童话系列·阿拉丁-急急国王.png" width="50" height="50" alt="童话系列·阿拉丁-急急国王">
-<img src="https://emoji.shojo.cn/bili/src/童话系列·阿拉丁/童话系列·阿拉丁-装睡.png" width="50" height="50" alt="童话系列·阿拉丁-装睡">
+<img src="https://emoji.shojo.cn/bili/src/童话系列·阿拉丁/童话系列·阿拉丁-mua.png" width="50" height="50" alt="童话系列·阿拉丁-mua"><img src="https://emoji.shojo.cn/bili/src/童话系列·阿拉丁/童话系列·阿拉丁-wink.png" width="50" height="50" alt="童话系列·阿拉丁-wink"><img src="https://emoji.shojo.cn/bili/src/童话系列·阿拉丁/童话系列·阿拉丁-啊对对对.png" width="50" height="50" alt="童话系列·阿拉丁-啊对对对"><img src="https://emoji.shojo.cn/bili/src/童话系列·阿拉丁/童话系列·阿拉丁-暗中观察.png" width="50" height="50" alt="童话系列·阿拉丁-暗中观察"><img src="https://emoji.shojo.cn/bili/src/童话系列·阿拉丁/童话系列·阿拉丁-比心.png" width="50" height="50" alt="童话系列·阿拉丁-比心"><img src="https://emoji.shojo.cn/bili/src/童话系列·阿拉丁/童话系列·阿拉丁-害羞.png" width="50" height="50" alt="童话系列·阿拉丁-害羞"><img src="https://emoji.shojo.cn/bili/src/童话系列·阿拉丁/童话系列·阿拉丁-寄.png" width="50" height="50" alt="童话系列·阿拉丁-寄"><img src="https://emoji.shojo.cn/bili/src/童话系列·阿拉丁/童话系列·阿拉丁-惊.png" width="50" height="50" alt="童话系列·阿拉丁-惊"><img src="https://emoji.shojo.cn/bili/src/童话系列·阿拉丁/童话系列·阿拉丁-摸摸头.png" width="50" height="50" alt="童话系列·阿拉丁-摸摸头"><img src="https://emoji.shojo.cn/bili/src/童话系列·阿拉丁/童话系列·阿拉丁-奶思.png" width="50" height="50" alt="童话系列·阿拉丁-奶思"><img src="https://emoji.shojo.cn/bili/src/童话系列·阿拉丁/童话系列·阿拉丁-拍手手.png" width="50" height="50" alt="童话系列·阿拉丁-拍手手"><img src="https://emoji.shojo.cn/bili/src/童话系列·阿拉丁/童话系列·阿拉丁-期待.png" width="50" height="50" alt="童话系列·阿拉丁-期待"><img src="https://emoji.shojo.cn/bili/src/童话系列·阿拉丁/童话系列·阿拉丁-撒娇.png" width="50" height="50" alt="童话系列·阿拉丁-撒娇"><img src="https://emoji.shojo.cn/bili/src/童话系列·阿拉丁/童话系列·阿拉丁-生气气.png" width="50" height="50" alt="童话系列·阿拉丁-生气气"><img src="https://emoji.shojo.cn/bili/src/童话系列·阿拉丁/童话系列·阿拉丁-思考.png" width="50" height="50" alt="童话系列·阿拉丁-思考"><img src="https://emoji.shojo.cn/bili/src/童话系列·阿拉丁/童话系列·阿拉丁-叹气.png" width="50" height="50" alt="童话系列·阿拉丁-叹气"><img src="https://emoji.shojo.cn/bili/src/童话系列·阿拉丁/童话系列·阿拉丁-贴贴.png" width="50" height="50" alt="童话系列·阿拉丁-贴贴"><img src="https://emoji.shojo.cn/bili/src/童话系列·阿拉丁/童话系列·阿拉丁-偷笑.png" width="50" height="50" alt="童话系列·阿拉丁-偷笑"><img src="https://emoji.shojo.cn/bili/src/童话系列·阿拉丁/童话系列·阿拉丁-芜湖.png" width="50" height="50" alt="童话系列·阿拉丁-芜湖"><img src="https://emoji.shojo.cn/bili/src/童话系列·阿拉丁/童话系列·阿拉丁-捂脸.png" width="50" height="50" alt="童话系列·阿拉丁-捂脸"><img src="https://emoji.shojo.cn/bili/src/童话系列·阿拉丁/童话系列·阿拉丁-谢谢.png" width="50" height="50" alt="童话系列·阿拉丁-谢谢"><img src="https://emoji.shojo.cn/bili/src/童话系列·阿拉丁/童话系列·阿拉丁-许愿.png" width="50" height="50" alt="童话系列·阿拉丁-许愿"><img src="https://emoji.shojo.cn/bili/src/童话系列·阿拉丁/童话系列·阿拉丁-疑问.png" width="50" height="50" alt="童话系列·阿拉丁-疑问"><img src="https://emoji.shojo.cn/bili/src/童话系列·阿拉丁/童话系列·阿拉丁-急急国王.png" width="50" height="50" alt="童话系列·阿拉丁-急急国王"><img src="https://emoji.shojo.cn/bili/src/童话系列·阿拉丁/童话系列·阿拉丁-装睡.png" width="50" height="50" alt="童话系列·阿拉丁-装睡">
 
 ## 下载地址
 

@@ -8,31 +8,7 @@ https://emoji.shojo.cn/bili/src/RNG·2022LPL出征
 https://emoji.shojo.cn/bili/webp/RNG·2022LPL出征
 ```
 ## 展示
-<img src="https://emoji.shojo.cn/bili/src/RNG·2022LPL出征/RNG·2022LPL出征-666.png" width="50" height="50" alt="RNG·2022LPL出征-666">
-<img src="https://emoji.shojo.cn/bili/src/RNG·2022LPL出征/RNG·2022LPL出征-emmm.png" width="50" height="50" alt="RNG·2022LPL出征-emmm">
-<img src="https://emoji.shojo.cn/bili/src/RNG·2022LPL出征/RNG·2022LPL出征-RNG.png" width="50" height="50" alt="RNG·2022LPL出征-RNG">
-<img src="https://emoji.shojo.cn/bili/src/RNG·2022LPL出征/RNG·2022LPL出征-霸气.png" width="50" height="50" alt="RNG·2022LPL出征-霸气">
-<img src="https://emoji.shojo.cn/bili/src/RNG·2022LPL出征/RNG·2022LPL出征-比心.png" width="50" height="50" alt="RNG·2022LPL出征-比心">
-<img src="https://emoji.shojo.cn/bili/src/RNG·2022LPL出征/RNG·2022LPL出征-不会吧.png" width="50" height="50" alt="RNG·2022LPL出征-不会吧">
-<img src="https://emoji.shojo.cn/bili/src/RNG·2022LPL出征/RNG·2022LPL出征-超凶的.png" width="50" height="50" alt="RNG·2022LPL出征-超凶的">
-<img src="https://emoji.shojo.cn/bili/src/RNG·2022LPL出征/RNG·2022LPL出征-锤一局.png" width="50" height="50" alt="RNG·2022LPL出征-锤一局">
-<img src="https://emoji.shojo.cn/bili/src/RNG·2022LPL出征/RNG·2022LPL出征-紧张.png" width="50" height="50" alt="RNG·2022LPL出征-紧张">
-<img src="https://emoji.shojo.cn/bili/src/RNG·2022LPL出征/RNG·2022LPL出征-绝望.png" width="50" height="50" alt="RNG·2022LPL出征-绝望">
-<img src="https://emoji.shojo.cn/bili/src/RNG·2022LPL出征/RNG·2022LPL出征-来抓人了.png" width="50" height="50" alt="RNG·2022LPL出征-来抓人了">
-<img src="https://emoji.shojo.cn/bili/src/RNG·2022LPL出征/RNG·2022LPL出征-连跪.png" width="50" height="50" alt="RNG·2022LPL出征-连跪">
-<img src="https://emoji.shojo.cn/bili/src/RNG·2022LPL出征/RNG·2022LPL出征-美滋滋.png" width="50" height="50" alt="RNG·2022LPL出征-美滋滋">
-<img src="https://emoji.shojo.cn/bili/src/RNG·2022LPL出征/RNG·2022LPL出征-逆风翻盘.png" width="50" height="50" alt="RNG·2022LPL出征-逆风翻盘">
-<img src="https://emoji.shojo.cn/bili/src/RNG·2022LPL出征/RNG·2022LPL出征-起飞.png" width="50" height="50" alt="RNG·2022LPL出征-起飞">
-<img src="https://emoji.shojo.cn/bili/src/RNG·2022LPL出征/RNG·2022LPL出征-求求.png" width="50" height="50" alt="RNG·2022LPL出征-求求">
-<img src="https://emoji.shojo.cn/bili/src/RNG·2022LPL出征/RNG·2022LPL出征-人呢？.png" width="50" height="50" alt="RNG·2022LPL出征-人呢？">
-<img src="https://emoji.shojo.cn/bili/src/RNG·2022LPL出征/RNG·2022LPL出征-收到.png" width="50" height="50" alt="RNG·2022LPL出征-收到">
-<img src="https://emoji.shojo.cn/bili/src/RNG·2022LPL出征/RNG·2022LPL出征-晚安.png" width="50" height="50" alt="RNG·2022LPL出征-晚安">
-<img src="https://emoji.shojo.cn/bili/src/RNG·2022LPL出征/RNG·2022LPL出征-委屈.png" width="50" height="50" alt="RNG·2022LPL出征-委屈">
-<img src="https://emoji.shojo.cn/bili/src/RNG·2022LPL出征/RNG·2022LPL出征-稳住.png" width="50" height="50" alt="RNG·2022LPL出征-稳住">
-<img src="https://emoji.shojo.cn/bili/src/RNG·2022LPL出征/RNG·2022LPL出征-要坚强.png" width="50" height="50" alt="RNG·2022LPL出征-要坚强">
-<img src="https://emoji.shojo.cn/bili/src/RNG·2022LPL出征/RNG·2022LPL出征-耶.png" width="50" height="50" alt="RNG·2022LPL出征-耶">
-<img src="https://emoji.shojo.cn/bili/src/RNG·2022LPL出征/RNG·2022LPL出征-优秀.png" width="50" height="50" alt="RNG·2022LPL出征-优秀">
-<img src="https://emoji.shojo.cn/bili/src/RNG·2022LPL出征/RNG·2022LPL出征-有毒.png" width="50" height="50" alt="RNG·2022LPL出征-有毒">
+<img src="https://emoji.shojo.cn/bili/src/RNG·2022LPL出征/RNG·2022LPL出征-666.png" width="50" height="50" alt="RNG·2022LPL出征-666"><img src="https://emoji.shojo.cn/bili/src/RNG·2022LPL出征/RNG·2022LPL出征-emmm.png" width="50" height="50" alt="RNG·2022LPL出征-emmm"><img src="https://emoji.shojo.cn/bili/src/RNG·2022LPL出征/RNG·2022LPL出征-RNG.png" width="50" height="50" alt="RNG·2022LPL出征-RNG"><img src="https://emoji.shojo.cn/bili/src/RNG·2022LPL出征/RNG·2022LPL出征-霸气.png" width="50" height="50" alt="RNG·2022LPL出征-霸气"><img src="https://emoji.shojo.cn/bili/src/RNG·2022LPL出征/RNG·2022LPL出征-比心.png" width="50" height="50" alt="RNG·2022LPL出征-比心"><img src="https://emoji.shojo.cn/bili/src/RNG·2022LPL出征/RNG·2022LPL出征-不会吧.png" width="50" height="50" alt="RNG·2022LPL出征-不会吧"><img src="https://emoji.shojo.cn/bili/src/RNG·2022LPL出征/RNG·2022LPL出征-超凶的.png" width="50" height="50" alt="RNG·2022LPL出征-超凶的"><img src="https://emoji.shojo.cn/bili/src/RNG·2022LPL出征/RNG·2022LPL出征-锤一局.png" width="50" height="50" alt="RNG·2022LPL出征-锤一局"><img src="https://emoji.shojo.cn/bili/src/RNG·2022LPL出征/RNG·2022LPL出征-紧张.png" width="50" height="50" alt="RNG·2022LPL出征-紧张"><img src="https://emoji.shojo.cn/bili/src/RNG·2022LPL出征/RNG·2022LPL出征-绝望.png" width="50" height="50" alt="RNG·2022LPL出征-绝望"><img src="https://emoji.shojo.cn/bili/src/RNG·2022LPL出征/RNG·2022LPL出征-来抓人了.png" width="50" height="50" alt="RNG·2022LPL出征-来抓人了"><img src="https://emoji.shojo.cn/bili/src/RNG·2022LPL出征/RNG·2022LPL出征-连跪.png" width="50" height="50" alt="RNG·2022LPL出征-连跪"><img src="https://emoji.shojo.cn/bili/src/RNG·2022LPL出征/RNG·2022LPL出征-美滋滋.png" width="50" height="50" alt="RNG·2022LPL出征-美滋滋"><img src="https://emoji.shojo.cn/bili/src/RNG·2022LPL出征/RNG·2022LPL出征-逆风翻盘.png" width="50" height="50" alt="RNG·2022LPL出征-逆风翻盘"><img src="https://emoji.shojo.cn/bili/src/RNG·2022LPL出征/RNG·2022LPL出征-起飞.png" width="50" height="50" alt="RNG·2022LPL出征-起飞"><img src="https://emoji.shojo.cn/bili/src/RNG·2022LPL出征/RNG·2022LPL出征-求求.png" width="50" height="50" alt="RNG·2022LPL出征-求求"><img src="https://emoji.shojo.cn/bili/src/RNG·2022LPL出征/RNG·2022LPL出征-人呢？.png" width="50" height="50" alt="RNG·2022LPL出征-人呢？"><img src="https://emoji.shojo.cn/bili/src/RNG·2022LPL出征/RNG·2022LPL出征-收到.png" width="50" height="50" alt="RNG·2022LPL出征-收到"><img src="https://emoji.shojo.cn/bili/src/RNG·2022LPL出征/RNG·2022LPL出征-晚安.png" width="50" height="50" alt="RNG·2022LPL出征-晚安"><img src="https://emoji.shojo.cn/bili/src/RNG·2022LPL出征/RNG·2022LPL出征-委屈.png" width="50" height="50" alt="RNG·2022LPL出征-委屈"><img src="https://emoji.shojo.cn/bili/src/RNG·2022LPL出征/RNG·2022LPL出征-稳住.png" width="50" height="50" alt="RNG·2022LPL出征-稳住"><img src="https://emoji.shojo.cn/bili/src/RNG·2022LPL出征/RNG·2022LPL出征-要坚强.png" width="50" height="50" alt="RNG·2022LPL出征-要坚强"><img src="https://emoji.shojo.cn/bili/src/RNG·2022LPL出征/RNG·2022LPL出征-耶.png" width="50" height="50" alt="RNG·2022LPL出征-耶"><img src="https://emoji.shojo.cn/bili/src/RNG·2022LPL出征/RNG·2022LPL出征-优秀.png" width="50" height="50" alt="RNG·2022LPL出征-优秀"><img src="https://emoji.shojo.cn/bili/src/RNG·2022LPL出征/RNG·2022LPL出征-有毒.png" width="50" height="50" alt="RNG·2022LPL出征-有毒">
 
 ## 下载地址
 

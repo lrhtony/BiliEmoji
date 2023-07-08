@@ -8,31 +8,7 @@ https://emoji.shojo.cn/bili/src/曼城是冠军
 https://emoji.shojo.cn/bili/webp/曼城是冠军
 ```
 ## 展示
-<img src="https://emoji.shojo.cn/bili/src/曼城是冠军/曼城是冠军-震惊.png" width="50" height="50" alt="曼城是冠军-震惊">
-<img src="https://emoji.shojo.cn/bili/src/曼城是冠军/曼城是冠军-疑惑.png" width="50" height="50" alt="曼城是冠军-疑惑">
-<img src="https://emoji.shojo.cn/bili/src/曼城是冠军/曼城是冠军-哭.png" width="50" height="50" alt="曼城是冠军-哭">
-<img src="https://emoji.shojo.cn/bili/src/曼城是冠军/曼城是冠军-你说得对.png" width="50" height="50" alt="曼城是冠军-你说得对">
-<img src="https://emoji.shojo.cn/bili/src/曼城是冠军/曼城是冠军-干杯.png" width="50" height="50" alt="曼城是冠军-干杯">
-<img src="https://emoji.shojo.cn/bili/src/曼城是冠军/曼城是冠军-大笑.png" width="50" height="50" alt="曼城是冠军-大笑">
-<img src="https://emoji.shojo.cn/bili/src/曼城是冠军/曼城是冠军-起飞.png" width="50" height="50" alt="曼城是冠军-起飞">
-<img src="https://emoji.shojo.cn/bili/src/曼城是冠军/曼城是冠军-真是没办法.png" width="50" height="50" alt="曼城是冠军-真是没办法">
-<img src="https://emoji.shojo.cn/bili/src/曼城是冠军/曼城是冠军-波兹南舞.png" width="50" height="50" alt="曼城是冠军-波兹南舞">
-<img src="https://emoji.shojo.cn/bili/src/曼城是冠军/曼城是冠军-蓝月高照.png" width="50" height="50" alt="曼城是冠军-蓝月高照">
-<img src="https://emoji.shojo.cn/bili/src/曼城是冠军/曼城是冠军-我们是城迷.png" width="50" height="50" alt="曼城是冠军-我们是城迷">
-<img src="https://emoji.shojo.cn/bili/src/曼城是冠军/曼城是冠军-蓝波ONE.png" width="50" height="50" alt="曼城是冠军-蓝波ONE">
-<img src="https://emoji.shojo.cn/bili/src/曼城是冠军/曼城是冠军-蓝不住.png" width="50" height="50" alt="曼城是冠军-蓝不住">
-<img src="https://emoji.shojo.cn/bili/src/曼城是冠军/曼城是冠军-人生赢家.png" width="50" height="50" alt="曼城是冠军-人生赢家">
-<img src="https://emoji.shojo.cn/bili/src/曼城是冠军/曼城是冠军-捧杯.png" width="50" height="50" alt="曼城是冠军-捧杯">
-<img src="https://emoji.shojo.cn/bili/src/曼城是冠军/曼城是冠军-曼市天空.png" width="50" height="50" alt="曼城是冠军-曼市天空">
-<img src="https://emoji.shojo.cn/bili/src/曼城是冠军/曼城是冠军-滑跪.png" width="50" height="50" alt="曼城是冠军-滑跪">
-<img src="https://emoji.shojo.cn/bili/src/曼城是冠军/曼城是冠军-黄牌警告.png" width="50" height="50" alt="曼城是冠军-黄牌警告">
-<img src="https://emoji.shojo.cn/bili/src/曼城是冠军/曼城是冠军-加油助威.png" width="50" height="50" alt="曼城是冠军-加油助威">
-<img src="https://emoji.shojo.cn/bili/src/曼城是冠军/曼城是冠军-让我说！！.png" width="50" height="50" alt="曼城是冠军-让我说！！">
-<img src="https://emoji.shojo.cn/bili/src/曼城是冠军/曼城是冠军-安静！！！.png" width="50" height="50" alt="曼城是冠军-安静！！！">
-<img src="https://emoji.shojo.cn/bili/src/曼城是冠军/曼城是冠军-小区级庆祝.png" width="50" height="50" alt="曼城是冠军-小区级庆祝">
-<img src="https://emoji.shojo.cn/bili/src/曼城是冠军/曼城是冠军-幼儿园庆祝.png" width="50" height="50" alt="曼城是冠军-幼儿园庆祝">
-<img src="https://emoji.shojo.cn/bili/src/曼城是冠军/曼城是冠军-敲木鱼.png" width="50" height="50" alt="曼城是冠军-敲木鱼">
-<img src="https://emoji.shojo.cn/bili/src/曼城是冠军/曼城是冠军-你等着.png" width="50" height="50" alt="曼城是冠军-你等着">
+<img src="https://emoji.shojo.cn/bili/src/曼城是冠军/曼城是冠军-震惊.png" width="50" height="50" alt="曼城是冠军-震惊"><img src="https://emoji.shojo.cn/bili/src/曼城是冠军/曼城是冠军-疑惑.png" width="50" height="50" alt="曼城是冠军-疑惑"><img src="https://emoji.shojo.cn/bili/src/曼城是冠军/曼城是冠军-哭.png" width="50" height="50" alt="曼城是冠军-哭"><img src="https://emoji.shojo.cn/bili/src/曼城是冠军/曼城是冠军-你说得对.png" width="50" height="50" alt="曼城是冠军-你说得对"><img src="https://emoji.shojo.cn/bili/src/曼城是冠军/曼城是冠军-干杯.png" width="50" height="50" alt="曼城是冠军-干杯"><img src="https://emoji.shojo.cn/bili/src/曼城是冠军/曼城是冠军-大笑.png" width="50" height="50" alt="曼城是冠军-大笑"><img src="https://emoji.shojo.cn/bili/src/曼城是冠军/曼城是冠军-起飞.png" width="50" height="50" alt="曼城是冠军-起飞"><img src="https://emoji.shojo.cn/bili/src/曼城是冠军/曼城是冠军-真是没办法.png" width="50" height="50" alt="曼城是冠军-真是没办法"><img src="https://emoji.shojo.cn/bili/src/曼城是冠军/曼城是冠军-波兹南舞.png" width="50" height="50" alt="曼城是冠军-波兹南舞"><img src="https://emoji.shojo.cn/bili/src/曼城是冠军/曼城是冠军-蓝月高照.png" width="50" height="50" alt="曼城是冠军-蓝月高照"><img src="https://emoji.shojo.cn/bili/src/曼城是冠军/曼城是冠军-我们是城迷.png" width="50" height="50" alt="曼城是冠军-我们是城迷"><img src="https://emoji.shojo.cn/bili/src/曼城是冠军/曼城是冠军-蓝波ONE.png" width="50" height="50" alt="曼城是冠军-蓝波ONE"><img src="https://emoji.shojo.cn/bili/src/曼城是冠军/曼城是冠军-蓝不住.png" width="50" height="50" alt="曼城是冠军-蓝不住"><img src="https://emoji.shojo.cn/bili/src/曼城是冠军/曼城是冠军-人生赢家.png" width="50" height="50" alt="曼城是冠军-人生赢家"><img src="https://emoji.shojo.cn/bili/src/曼城是冠军/曼城是冠军-捧杯.png" width="50" height="50" alt="曼城是冠军-捧杯"><img src="https://emoji.shojo.cn/bili/src/曼城是冠军/曼城是冠军-曼市天空.png" width="50" height="50" alt="曼城是冠军-曼市天空"><img src="https://emoji.shojo.cn/bili/src/曼城是冠军/曼城是冠军-滑跪.png" width="50" height="50" alt="曼城是冠军-滑跪"><img src="https://emoji.shojo.cn/bili/src/曼城是冠军/曼城是冠军-黄牌警告.png" width="50" height="50" alt="曼城是冠军-黄牌警告"><img src="https://emoji.shojo.cn/bili/src/曼城是冠军/曼城是冠军-加油助威.png" width="50" height="50" alt="曼城是冠军-加油助威"><img src="https://emoji.shojo.cn/bili/src/曼城是冠军/曼城是冠军-让我说！！.png" width="50" height="50" alt="曼城是冠军-让我说！！"><img src="https://emoji.shojo.cn/bili/src/曼城是冠军/曼城是冠军-安静！！！.png" width="50" height="50" alt="曼城是冠军-安静！！！"><img src="https://emoji.shojo.cn/bili/src/曼城是冠军/曼城是冠军-小区级庆祝.png" width="50" height="50" alt="曼城是冠军-小区级庆祝"><img src="https://emoji.shojo.cn/bili/src/曼城是冠军/曼城是冠军-幼儿园庆祝.png" width="50" height="50" alt="曼城是冠军-幼儿园庆祝"><img src="https://emoji.shojo.cn/bili/src/曼城是冠军/曼城是冠军-敲木鱼.png" width="50" height="50" alt="曼城是冠军-敲木鱼"><img src="https://emoji.shojo.cn/bili/src/曼城是冠军/曼城是冠军-你等着.png" width="50" height="50" alt="曼城是冠军-你等着">
 
 ## 下载地址
 

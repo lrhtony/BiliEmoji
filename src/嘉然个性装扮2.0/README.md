@@ -8,31 +8,7 @@ https://emoji.shojo.cn/bili/src/嘉然个性装扮2.0
 https://emoji.shojo.cn/bili/webp/嘉然个性装扮2.0
 ```
 ## 展示
-<img src="https://emoji.shojo.cn/bili/src/嘉然个性装扮2.0/嘉然2.0-我们是.png" width="50" height="50" alt="嘉然2.0-我们是">
-<img src="https://emoji.shojo.cn/bili/src/嘉然个性装扮2.0/嘉然2.0-啊笑死.png" width="50" height="50" alt="嘉然2.0-啊笑死">
-<img src="https://emoji.shojo.cn/bili/src/嘉然个性装扮2.0/嘉然2.0-变身.png" width="50" height="50" alt="嘉然2.0-变身">
-<img src="https://emoji.shojo.cn/bili/src/嘉然个性装扮2.0/嘉然2.0-擦汗.png" width="50" height="50" alt="嘉然2.0-擦汗">
-<img src="https://emoji.shojo.cn/bili/src/嘉然个性装扮2.0/嘉然2.0-打盹.png" width="50" height="50" alt="嘉然2.0-打盹">
-<img src="https://emoji.shojo.cn/bili/src/嘉然个性装扮2.0/嘉然2.0-打气.png" width="50" height="50" alt="嘉然2.0-打气">
-<img src="https://emoji.shojo.cn/bili/src/嘉然个性装扮2.0/嘉然2.0-干饭神.png" width="50" height="50" alt="嘉然2.0-干饭神">
-<img src="https://emoji.shojo.cn/bili/src/嘉然个性装扮2.0/嘉然2.0-好好吃饭.png" width="50" height="50" alt="嘉然2.0-好好吃饭">
-<img src="https://emoji.shojo.cn/bili/src/嘉然个性装扮2.0/嘉然2.0-好好好.png" width="50" height="50" alt="嘉然2.0-好好好">
-<img src="https://emoji.shojo.cn/bili/src/嘉然个性装扮2.0/嘉然2.0-嘿嘿嘿嘿.png" width="50" height="50" alt="嘉然2.0-嘿嘿嘿嘿">
-<img src="https://emoji.shojo.cn/bili/src/嘉然个性装扮2.0/嘉然2.0-坏东西.png" width="50" height="50" alt="嘉然2.0-坏东西">
-<img src="https://emoji.shojo.cn/bili/src/嘉然个性装扮2.0/嘉然2.0-嘉然Queen.png" width="50" height="50" alt="嘉然2.0-嘉然Queen">
-<img src="https://emoji.shojo.cn/bili/src/嘉然个性装扮2.0/嘉然2.0-嘉心糖.png" width="50" height="50" alt="嘉然2.0-嘉心糖">
-<img src="https://emoji.shojo.cn/bili/src/嘉然个性装扮2.0/嘉然2.0-可爱捏.png" width="50" height="50" alt="嘉然2.0-可爱捏">
-<img src="https://emoji.shojo.cn/bili/src/嘉然个性装扮2.0/嘉然2.0-可是蒂娜我.png" width="50" height="50" alt="嘉然2.0-可是蒂娜我">
-<img src="https://emoji.shojo.cn/bili/src/嘉然个性装扮2.0/嘉然2.0-累了.png" width="50" height="50" alt="嘉然2.0-累了">
-<img src="https://emoji.shojo.cn/bili/src/嘉然个性装扮2.0/嘉然2.0-撒娇.png" width="50" height="50" alt="嘉然2.0-撒娇">
-<img src="https://emoji.shojo.cn/bili/src/嘉然个性装扮2.0/嘉然2.0-生闷气.png" width="50" height="50" alt="嘉然2.0-生闷气">
-<img src="https://emoji.shojo.cn/bili/src/嘉然个性装扮2.0/嘉然2.0-甜甜小草莓.png" width="50" height="50" alt="嘉然2.0-甜甜小草莓">
-<img src="https://emoji.shojo.cn/bili/src/嘉然个性装扮2.0/嘉然2.0-小天使.png" width="50" height="50" alt="嘉然2.0-小天使">
-<img src="https://emoji.shojo.cn/bili/src/嘉然个性装扮2.0/嘉然2.0-小熊.png" width="50" height="50" alt="嘉然2.0-小熊">
-<img src="https://emoji.shojo.cn/bili/src/嘉然个性装扮2.0/嘉然2.0-早上好.png" width="50" height="50" alt="嘉然2.0-早上好">
-<img src="https://emoji.shojo.cn/bili/src/嘉然个性装扮2.0/嘉然2.0-宅舞.png" width="50" height="50" alt="嘉然2.0-宅舞">
-<img src="https://emoji.shojo.cn/bili/src/嘉然个性装扮2.0/嘉然2.0-MUA你一下.png" width="50" height="50" alt="嘉然2.0-MUA你一下">
-<img src="https://emoji.shojo.cn/bili/src/嘉然个性装扮2.0/嘉然2.0-RUN了.png" width="50" height="50" alt="嘉然2.0-RUN了">
+<img src="https://emoji.shojo.cn/bili/src/嘉然个性装扮2.0/嘉然2.0-我们是.png" width="50" height="50" alt="嘉然2.0-我们是"><img src="https://emoji.shojo.cn/bili/src/嘉然个性装扮2.0/嘉然2.0-啊笑死.png" width="50" height="50" alt="嘉然2.0-啊笑死"><img src="https://emoji.shojo.cn/bili/src/嘉然个性装扮2.0/嘉然2.0-变身.png" width="50" height="50" alt="嘉然2.0-变身"><img src="https://emoji.shojo.cn/bili/src/嘉然个性装扮2.0/嘉然2.0-擦汗.png" width="50" height="50" alt="嘉然2.0-擦汗"><img src="https://emoji.shojo.cn/bili/src/嘉然个性装扮2.0/嘉然2.0-打盹.png" width="50" height="50" alt="嘉然2.0-打盹"><img src="https://emoji.shojo.cn/bili/src/嘉然个性装扮2.0/嘉然2.0-打气.png" width="50" height="50" alt="嘉然2.0-打气"><img src="https://emoji.shojo.cn/bili/src/嘉然个性装扮2.0/嘉然2.0-干饭神.png" width="50" height="50" alt="嘉然2.0-干饭神"><img src="https://emoji.shojo.cn/bili/src/嘉然个性装扮2.0/嘉然2.0-好好吃饭.png" width="50" height="50" alt="嘉然2.0-好好吃饭"><img src="https://emoji.shojo.cn/bili/src/嘉然个性装扮2.0/嘉然2.0-好好好.png" width="50" height="50" alt="嘉然2.0-好好好"><img src="https://emoji.shojo.cn/bili/src/嘉然个性装扮2.0/嘉然2.0-嘿嘿嘿嘿.png" width="50" height="50" alt="嘉然2.0-嘿嘿嘿嘿"><img src="https://emoji.shojo.cn/bili/src/嘉然个性装扮2.0/嘉然2.0-坏东西.png" width="50" height="50" alt="嘉然2.0-坏东西"><img src="https://emoji.shojo.cn/bili/src/嘉然个性装扮2.0/嘉然2.0-嘉然Queen.png" width="50" height="50" alt="嘉然2.0-嘉然Queen"><img src="https://emoji.shojo.cn/bili/src/嘉然个性装扮2.0/嘉然2.0-嘉心糖.png" width="50" height="50" alt="嘉然2.0-嘉心糖"><img src="https://emoji.shojo.cn/bili/src/嘉然个性装扮2.0/嘉然2.0-可爱捏.png" width="50" height="50" alt="嘉然2.0-可爱捏"><img src="https://emoji.shojo.cn/bili/src/嘉然个性装扮2.0/嘉然2.0-可是蒂娜我.png" width="50" height="50" alt="嘉然2.0-可是蒂娜我"><img src="https://emoji.shojo.cn/bili/src/嘉然个性装扮2.0/嘉然2.0-累了.png" width="50" height="50" alt="嘉然2.0-累了"><img src="https://emoji.shojo.cn/bili/src/嘉然个性装扮2.0/嘉然2.0-撒娇.png" width="50" height="50" alt="嘉然2.0-撒娇"><img src="https://emoji.shojo.cn/bili/src/嘉然个性装扮2.0/嘉然2.0-生闷气.png" width="50" height="50" alt="嘉然2.0-生闷气"><img src="https://emoji.shojo.cn/bili/src/嘉然个性装扮2.0/嘉然2.0-甜甜小草莓.png" width="50" height="50" alt="嘉然2.0-甜甜小草莓"><img src="https://emoji.shojo.cn/bili/src/嘉然个性装扮2.0/嘉然2.0-小天使.png" width="50" height="50" alt="嘉然2.0-小天使"><img src="https://emoji.shojo.cn/bili/src/嘉然个性装扮2.0/嘉然2.0-小熊.png" width="50" height="50" alt="嘉然2.0-小熊"><img src="https://emoji.shojo.cn/bili/src/嘉然个性装扮2.0/嘉然2.0-早上好.png" width="50" height="50" alt="嘉然2.0-早上好"><img src="https://emoji.shojo.cn/bili/src/嘉然个性装扮2.0/嘉然2.0-宅舞.png" width="50" height="50" alt="嘉然2.0-宅舞"><img src="https://emoji.shojo.cn/bili/src/嘉然个性装扮2.0/嘉然2.0-MUA你一下.png" width="50" height="50" alt="嘉然2.0-MUA你一下"><img src="https://emoji.shojo.cn/bili/src/嘉然个性装扮2.0/嘉然2.0-RUN了.png" width="50" height="50" alt="嘉然2.0-RUN了">
 
 ## 下载地址
 

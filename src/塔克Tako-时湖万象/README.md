@@ -8,31 +8,7 @@ https://emoji.shojo.cn/bili/src/塔克Tako-时湖万象
 https://emoji.shojo.cn/bili/webp/塔克Tako-时湖万象
 ```
 ## 展示
-<img src="https://emoji.shojo.cn/bili/src/塔克Tako-时湖万象/塔克Tako-时湖万象-不关我事.png" width="50" height="50" alt="塔克Tako-时湖万象-不关我事">
-<img src="https://emoji.shojo.cn/bili/src/塔克Tako-时湖万象/塔克Tako-时湖万象-不满意？.png" width="50" height="50" alt="塔克Tako-时湖万象-不满意？">
-<img src="https://emoji.shojo.cn/bili/src/塔克Tako-时湖万象/塔克Tako-时湖万象-呃呃OK.png" width="50" height="50" alt="塔克Tako-时湖万象-呃呃OK">
-<img src="https://emoji.shojo.cn/bili/src/塔克Tako-时湖万象/塔克Tako-时湖万象-哈啊？.png" width="50" height="50" alt="塔克Tako-时湖万象-哈啊？">
-<img src="https://emoji.shojo.cn/bili/src/塔克Tako-时湖万象/塔克Tako-时湖万象-哈哈.png" width="50" height="50" alt="塔克Tako-时湖万象-哈哈">
-<img src="https://emoji.shojo.cn/bili/src/塔克Tako-时湖万象/塔克Tako-时湖万象-好鸭.png" width="50" height="50" alt="塔克Tako-时湖万象-好鸭">
-<img src="https://emoji.shojo.cn/bili/src/塔克Tako-时湖万象/塔克Tako-时湖万象-监工.png" width="50" height="50" alt="塔克Tako-时湖万象-监工">
-<img src="https://emoji.shojo.cn/bili/src/塔克Tako-时湖万象/塔克Tako-时湖万象-瞄.png" width="50" height="50" alt="塔克Tako-时湖万象-瞄">
-<img src="https://emoji.shojo.cn/bili/src/塔克Tako-时湖万象/塔克Tako-时湖万象-男瓜.png" width="50" height="50" alt="塔克Tako-时湖万象-男瓜">
-<img src="https://emoji.shojo.cn/bili/src/塔克Tako-时湖万象/塔克Tako-时湖万象-难绷.png" width="50" height="50" alt="塔克Tako-时湖万象-难绷">
-<img src="https://emoji.shojo.cn/bili/src/塔克Tako-时湖万象/塔克Tako-时湖万象-你抱井吧.png" width="50" height="50" alt="塔克Tako-时湖万象-你抱井吧">
-<img src="https://emoji.shojo.cn/bili/src/塔克Tako-时湖万象/塔克Tako-时湖万象-你最好是.png" width="50" height="50" alt="塔克Tako-时湖万象-你最好是">
-<img src="https://emoji.shojo.cn/bili/src/塔克Tako-时湖万象/塔克Tako-时湖万象-请用茶.png" width="50" height="50" alt="塔克Tako-时湖万象-请用茶">
-<img src="https://emoji.shojo.cn/bili/src/塔克Tako-时湖万象/塔克Tako-时湖万象-求求.png" width="50" height="50" alt="塔克Tako-时湖万象-求求">
-<img src="https://emoji.shojo.cn/bili/src/塔克Tako-时湖万象/塔克Tako-时湖万象-惹.png" width="50" height="50" alt="塔克Tako-时湖万象-惹">
-<img src="https://emoji.shojo.cn/bili/src/塔克Tako-时湖万象/塔克Tako-时湖万象-收收味.png" width="50" height="50" alt="塔克Tako-时湖万象-收收味">
-<img src="https://emoji.shojo.cn/bili/src/塔克Tako-时湖万象/塔克Tako-时湖万象-我抱井了.png" width="50" height="50" alt="塔克Tako-时湖万象-我抱井了">
-<img src="https://emoji.shojo.cn/bili/src/塔克Tako-时湖万象/塔克Tako-时湖万象-我碟.png" width="50" height="50" alt="塔克Tako-时湖万象-我碟">
-<img src="https://emoji.shojo.cn/bili/src/塔克Tako-时湖万象/塔克Tako-时湖万象-我先哭.png" width="50" height="50" alt="塔克Tako-时湖万象-我先哭">
-<img src="https://emoji.shojo.cn/bili/src/塔克Tako-时湖万象/塔克Tako-时湖万象-小丑.png" width="50" height="50" alt="塔克Tako-时湖万象-小丑">
-<img src="https://emoji.shojo.cn/bili/src/塔克Tako-时湖万象/塔克Tako-时湖万象-削发为尼.png" width="50" height="50" alt="塔克Tako-时湖万象-削发为尼">
-<img src="https://emoji.shojo.cn/bili/src/塔克Tako-时湖万象/塔克Tako-时湖万象-怨.png" width="50" height="50" alt="塔克Tako-时湖万象-怨">
-<img src="https://emoji.shojo.cn/bili/src/塔克Tako-时湖万象/塔克Tako-时湖万象-栽种.png" width="50" height="50" alt="塔克Tako-时湖万象-栽种">
-<img src="https://emoji.shojo.cn/bili/src/塔克Tako-时湖万象/塔克Tako-时湖万象-猪瘾犯了.png" width="50" height="50" alt="塔克Tako-时湖万象-猪瘾犯了">
-<img src="https://emoji.shojo.cn/bili/src/塔克Tako-时湖万象/塔克Tako-时湖万象-呲牙咧嘴.png" width="50" height="50" alt="塔克Tako-时湖万象-呲牙咧嘴">
+<img src="https://emoji.shojo.cn/bili/src/塔克Tako-时湖万象/塔克Tako-时湖万象-不关我事.png" width="50" height="50" alt="塔克Tako-时湖万象-不关我事"><img src="https://emoji.shojo.cn/bili/src/塔克Tako-时湖万象/塔克Tako-时湖万象-不满意？.png" width="50" height="50" alt="塔克Tako-时湖万象-不满意？"><img src="https://emoji.shojo.cn/bili/src/塔克Tako-时湖万象/塔克Tako-时湖万象-呃呃OK.png" width="50" height="50" alt="塔克Tako-时湖万象-呃呃OK"><img src="https://emoji.shojo.cn/bili/src/塔克Tako-时湖万象/塔克Tako-时湖万象-哈啊？.png" width="50" height="50" alt="塔克Tako-时湖万象-哈啊？"><img src="https://emoji.shojo.cn/bili/src/塔克Tako-时湖万象/塔克Tako-时湖万象-哈哈.png" width="50" height="50" alt="塔克Tako-时湖万象-哈哈"><img src="https://emoji.shojo.cn/bili/src/塔克Tako-时湖万象/塔克Tako-时湖万象-好鸭.png" width="50" height="50" alt="塔克Tako-时湖万象-好鸭"><img src="https://emoji.shojo.cn/bili/src/塔克Tako-时湖万象/塔克Tako-时湖万象-监工.png" width="50" height="50" alt="塔克Tako-时湖万象-监工"><img src="https://emoji.shojo.cn/bili/src/塔克Tako-时湖万象/塔克Tako-时湖万象-瞄.png" width="50" height="50" alt="塔克Tako-时湖万象-瞄"><img src="https://emoji.shojo.cn/bili/src/塔克Tako-时湖万象/塔克Tako-时湖万象-男瓜.png" width="50" height="50" alt="塔克Tako-时湖万象-男瓜"><img src="https://emoji.shojo.cn/bili/src/塔克Tako-时湖万象/塔克Tako-时湖万象-难绷.png" width="50" height="50" alt="塔克Tako-时湖万象-难绷"><img src="https://emoji.shojo.cn/bili/src/塔克Tako-时湖万象/塔克Tako-时湖万象-你抱井吧.png" width="50" height="50" alt="塔克Tako-时湖万象-你抱井吧"><img src="https://emoji.shojo.cn/bili/src/塔克Tako-时湖万象/塔克Tako-时湖万象-你最好是.png" width="50" height="50" alt="塔克Tako-时湖万象-你最好是"><img src="https://emoji.shojo.cn/bili/src/塔克Tako-时湖万象/塔克Tako-时湖万象-请用茶.png" width="50" height="50" alt="塔克Tako-时湖万象-请用茶"><img src="https://emoji.shojo.cn/bili/src/塔克Tako-时湖万象/塔克Tako-时湖万象-求求.png" width="50" height="50" alt="塔克Tako-时湖万象-求求"><img src="https://emoji.shojo.cn/bili/src/塔克Tako-时湖万象/塔克Tako-时湖万象-惹.png" width="50" height="50" alt="塔克Tako-时湖万象-惹"><img src="https://emoji.shojo.cn/bili/src/塔克Tako-时湖万象/塔克Tako-时湖万象-收收味.png" width="50" height="50" alt="塔克Tako-时湖万象-收收味"><img src="https://emoji.shojo.cn/bili/src/塔克Tako-时湖万象/塔克Tako-时湖万象-我抱井了.png" width="50" height="50" alt="塔克Tako-时湖万象-我抱井了"><img src="https://emoji.shojo.cn/bili/src/塔克Tako-时湖万象/塔克Tako-时湖万象-我碟.png" width="50" height="50" alt="塔克Tako-时湖万象-我碟"><img src="https://emoji.shojo.cn/bili/src/塔克Tako-时湖万象/塔克Tako-时湖万象-我先哭.png" width="50" height="50" alt="塔克Tako-时湖万象-我先哭"><img src="https://emoji.shojo.cn/bili/src/塔克Tako-时湖万象/塔克Tako-时湖万象-小丑.png" width="50" height="50" alt="塔克Tako-时湖万象-小丑"><img src="https://emoji.shojo.cn/bili/src/塔克Tako-时湖万象/塔克Tako-时湖万象-削发为尼.png" width="50" height="50" alt="塔克Tako-时湖万象-削发为尼"><img src="https://emoji.shojo.cn/bili/src/塔克Tako-时湖万象/塔克Tako-时湖万象-怨.png" width="50" height="50" alt="塔克Tako-时湖万象-怨"><img src="https://emoji.shojo.cn/bili/src/塔克Tako-时湖万象/塔克Tako-时湖万象-栽种.png" width="50" height="50" alt="塔克Tako-时湖万象-栽种"><img src="https://emoji.shojo.cn/bili/src/塔克Tako-时湖万象/塔克Tako-时湖万象-猪瘾犯了.png" width="50" height="50" alt="塔克Tako-时湖万象-猪瘾犯了"><img src="https://emoji.shojo.cn/bili/src/塔克Tako-时湖万象/塔克Tako-时湖万象-呲牙咧嘴.png" width="50" height="50" alt="塔克Tako-时湖万象-呲牙咧嘴">
 
 ## 下载地址
 

@@ -8,30 +8,7 @@ https://emoji.shojo.cn/bili/src/卡慕SaMa
 https://emoji.shojo.cn/bili/webp/卡慕SaMa
 ```
 ## 展示
-<img src="https://emoji.shojo.cn/bili/src/卡慕SaMa/卡慕SaMa-！.png" width="50" height="50" alt="卡慕SaMa-！">
-<img src="https://emoji.shojo.cn/bili/src/卡慕SaMa/卡慕SaMa-？.png" width="50" height="50" alt="卡慕SaMa-？">
-<img src="https://emoji.shojo.cn/bili/src/卡慕SaMa/卡慕SaMa-mua~.png" width="50" height="50" alt="卡慕SaMa-mua~">
-<img src="https://emoji.shojo.cn/bili/src/卡慕SaMa/卡慕SaMa-rwkk.png" width="50" height="50" alt="卡慕SaMa-rwkk">
-<img src="https://emoji.shojo.cn/bili/src/卡慕SaMa/卡慕SaMa-yue.png" width="50" height="50" alt="卡慕SaMa-yue">
-<img src="https://emoji.shojo.cn/bili/src/卡慕SaMa/卡慕SaMa-比心心.png" width="50" height="50" alt="卡慕SaMa-比心心">
-<img src="https://emoji.shojo.cn/bili/src/卡慕SaMa/卡慕SaMa-吃瓜.png" width="50" height="50" alt="卡慕SaMa-吃瓜">
-<img src="https://emoji.shojo.cn/bili/src/卡慕SaMa/卡慕SaMa-吃什么.png" width="50" height="50" alt="卡慕SaMa-吃什么">
-<img src="https://emoji.shojo.cn/bili/src/卡慕SaMa/卡慕SaMa-冲冲冲.png" width="50" height="50" alt="卡慕SaMa-冲冲冲">
-<img src="https://emoji.shojo.cn/bili/src/卡慕SaMa/卡慕SaMa-点个外卖.png" width="50" height="50" alt="卡慕SaMa-点个外卖">
-<img src="https://emoji.shojo.cn/bili/src/卡慕SaMa/卡慕SaMa-叼玫瑰.png" width="50" height="50" alt="卡慕SaMa-叼玫瑰">
-<img src="https://emoji.shojo.cn/bili/src/卡慕SaMa/卡慕SaMa-给你一拳.png" width="50" height="50" alt="卡慕SaMa-给你一拳">
-<img src="https://emoji.shojo.cn/bili/src/卡慕SaMa/卡慕SaMa-哈哈哈哈哈.png" width="50" height="50" alt="卡慕SaMa-哈哈哈哈哈">
-<img src="https://emoji.shojo.cn/bili/src/卡慕SaMa/卡慕SaMa-烤黑猫.png" width="50" height="50" alt="卡慕SaMa-烤黑猫">
-<img src="https://emoji.shojo.cn/bili/src/卡慕SaMa/卡慕SaMa-烤坚果.png" width="50" height="50" alt="卡慕SaMa-烤坚果">
-<img src="https://emoji.shojo.cn/bili/src/卡慕SaMa/卡慕SaMa-烤茄子.png" width="50" height="50" alt="卡慕SaMa-烤茄子">
-<img src="https://emoji.shojo.cn/bili/src/卡慕SaMa/卡慕SaMa-烤兔子.png" width="50" height="50" alt="卡慕SaMa-烤兔子">
-<img src="https://emoji.shojo.cn/bili/src/卡慕SaMa/卡慕SaMa-你先别急.png" width="50" height="50" alt="卡慕SaMa-你先别急">
-<img src="https://emoji.shojo.cn/bili/src/卡慕SaMa/卡慕SaMa-嘶哈嘶哈.png" width="50" height="50" alt="卡慕SaMa-嘶哈嘶哈">
-<img src="https://emoji.shojo.cn/bili/src/卡慕SaMa/卡慕SaMa-晚安.png" width="50" height="50" alt="卡慕SaMa-晚安">
-<img src="https://emoji.shojo.cn/bili/src/卡慕SaMa/卡慕SaMa-我急了.png" width="50" height="50" alt="卡慕SaMa-我急了">
-<img src="https://emoji.shojo.cn/bili/src/卡慕SaMa/卡慕SaMa-我哭了.png" width="50" height="50" alt="卡慕SaMa-我哭了">
-<img src="https://emoji.shojo.cn/bili/src/卡慕SaMa/卡慕SaMa-早八人.png" width="50" height="50" alt="卡慕SaMa-早八人">
-<img src="https://emoji.shojo.cn/bili/src/卡慕SaMa/卡慕SaMa-猪脑过载.png" width="50" height="50" alt="卡慕SaMa-猪脑过载">
+<img src="https://emoji.shojo.cn/bili/src/卡慕SaMa/卡慕SaMa-！.png" width="50" height="50" alt="卡慕SaMa-！"><img src="https://emoji.shojo.cn/bili/src/卡慕SaMa/卡慕SaMa-？.png" width="50" height="50" alt="卡慕SaMa-？"><img src="https://emoji.shojo.cn/bili/src/卡慕SaMa/卡慕SaMa-mua~.png" width="50" height="50" alt="卡慕SaMa-mua~"><img src="https://emoji.shojo.cn/bili/src/卡慕SaMa/卡慕SaMa-rwkk.png" width="50" height="50" alt="卡慕SaMa-rwkk"><img src="https://emoji.shojo.cn/bili/src/卡慕SaMa/卡慕SaMa-yue.png" width="50" height="50" alt="卡慕SaMa-yue"><img src="https://emoji.shojo.cn/bili/src/卡慕SaMa/卡慕SaMa-比心心.png" width="50" height="50" alt="卡慕SaMa-比心心"><img src="https://emoji.shojo.cn/bili/src/卡慕SaMa/卡慕SaMa-吃瓜.png" width="50" height="50" alt="卡慕SaMa-吃瓜"><img src="https://emoji.shojo.cn/bili/src/卡慕SaMa/卡慕SaMa-吃什么.png" width="50" height="50" alt="卡慕SaMa-吃什么"><img src="https://emoji.shojo.cn/bili/src/卡慕SaMa/卡慕SaMa-冲冲冲.png" width="50" height="50" alt="卡慕SaMa-冲冲冲"><img src="https://emoji.shojo.cn/bili/src/卡慕SaMa/卡慕SaMa-点个外卖.png" width="50" height="50" alt="卡慕SaMa-点个外卖"><img src="https://emoji.shojo.cn/bili/src/卡慕SaMa/卡慕SaMa-叼玫瑰.png" width="50" height="50" alt="卡慕SaMa-叼玫瑰"><img src="https://emoji.shojo.cn/bili/src/卡慕SaMa/卡慕SaMa-给你一拳.png" width="50" height="50" alt="卡慕SaMa-给你一拳"><img src="https://emoji.shojo.cn/bili/src/卡慕SaMa/卡慕SaMa-哈哈哈哈哈.png" width="50" height="50" alt="卡慕SaMa-哈哈哈哈哈"><img src="https://emoji.shojo.cn/bili/src/卡慕SaMa/卡慕SaMa-烤黑猫.png" width="50" height="50" alt="卡慕SaMa-烤黑猫"><img src="https://emoji.shojo.cn/bili/src/卡慕SaMa/卡慕SaMa-烤坚果.png" width="50" height="50" alt="卡慕SaMa-烤坚果"><img src="https://emoji.shojo.cn/bili/src/卡慕SaMa/卡慕SaMa-烤茄子.png" width="50" height="50" alt="卡慕SaMa-烤茄子"><img src="https://emoji.shojo.cn/bili/src/卡慕SaMa/卡慕SaMa-烤兔子.png" width="50" height="50" alt="卡慕SaMa-烤兔子"><img src="https://emoji.shojo.cn/bili/src/卡慕SaMa/卡慕SaMa-你先别急.png" width="50" height="50" alt="卡慕SaMa-你先别急"><img src="https://emoji.shojo.cn/bili/src/卡慕SaMa/卡慕SaMa-嘶哈嘶哈.png" width="50" height="50" alt="卡慕SaMa-嘶哈嘶哈"><img src="https://emoji.shojo.cn/bili/src/卡慕SaMa/卡慕SaMa-晚安.png" width="50" height="50" alt="卡慕SaMa-晚安"><img src="https://emoji.shojo.cn/bili/src/卡慕SaMa/卡慕SaMa-我急了.png" width="50" height="50" alt="卡慕SaMa-我急了"><img src="https://emoji.shojo.cn/bili/src/卡慕SaMa/卡慕SaMa-我哭了.png" width="50" height="50" alt="卡慕SaMa-我哭了"><img src="https://emoji.shojo.cn/bili/src/卡慕SaMa/卡慕SaMa-早八人.png" width="50" height="50" alt="卡慕SaMa-早八人"><img src="https://emoji.shojo.cn/bili/src/卡慕SaMa/卡慕SaMa-猪脑过载.png" width="50" height="50" alt="卡慕SaMa-猪脑过载">
 
 ## 下载地址
 

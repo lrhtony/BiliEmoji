@@ -8,36 +8,7 @@ https://emoji.shojo.cn/bili/src/高田熊圣诞特辑
 https://emoji.shojo.cn/bili/webp/高田熊圣诞特辑
 ```
 ## 展示
-<img src="https://emoji.shojo.cn/bili/src/高田熊圣诞特辑/高田熊圣诞特辑-兴奋.png" width="50" height="50" alt="高田熊圣诞特辑-兴奋">
-<img src="https://emoji.shojo.cn/bili/src/高田熊圣诞特辑/高田熊圣诞特辑-贴贴.png" width="50" height="50" alt="高田熊圣诞特辑-贴贴">
-<img src="https://emoji.shojo.cn/bili/src/高田熊圣诞特辑/高田熊圣诞特辑-惊恐.png" width="50" height="50" alt="高田熊圣诞特辑-惊恐">
-<img src="https://emoji.shojo.cn/bili/src/高田熊圣诞特辑/高田熊圣诞特辑-升天.png" width="50" height="50" alt="高田熊圣诞特辑-升天">
-<img src="https://emoji.shojo.cn/bili/src/高田熊圣诞特辑/高田熊圣诞特辑-emo.png" width="50" height="50" alt="高田熊圣诞特辑-emo">
-<img src="https://emoji.shojo.cn/bili/src/高田熊圣诞特辑/高田熊圣诞特辑-手舞足蹈.png" width="50" height="50" alt="高田熊圣诞特辑-手舞足蹈">
-<img src="https://emoji.shojo.cn/bili/src/高田熊圣诞特辑/高田熊圣诞特辑-问号.png" width="50" height="50" alt="高田熊圣诞特辑-问号">
-<img src="https://emoji.shojo.cn/bili/src/高田熊圣诞特辑/高田熊圣诞特辑-大哭.png" width="50" height="50" alt="高田熊圣诞特辑-大哭">
-<img src="https://emoji.shojo.cn/bili/src/高田熊圣诞特辑/高田熊圣诞特辑-耶.png" width="50" height="50" alt="高田熊圣诞特辑-耶">
-<img src="https://emoji.shojo.cn/bili/src/高田熊圣诞特辑/高田熊圣诞特辑-穿衣保暖.png" width="50" height="50" alt="高田熊圣诞特辑-穿衣保暖">
-<img src="https://emoji.shojo.cn/bili/src/高田熊圣诞特辑/高田熊圣诞特辑-吐魂.png" width="50" height="50" alt="高田熊圣诞特辑-吐魂">
-<img src="https://emoji.shojo.cn/bili/src/高田熊圣诞特辑/高田熊圣诞特辑-惊.png" width="50" height="50" alt="高田熊圣诞特辑-惊">
-<img src="https://emoji.shojo.cn/bili/src/高田熊圣诞特辑/高田熊圣诞特辑-亲亲.png" width="50" height="50" alt="高田熊圣诞特辑-亲亲">
-<img src="https://emoji.shojo.cn/bili/src/高田熊圣诞特辑/高田熊圣诞特辑-慌张.png" width="50" height="50" alt="高田熊圣诞特辑-慌张">
-<img src="https://emoji.shojo.cn/bili/src/高田熊圣诞特辑/高田熊圣诞特辑-啵啵.png" width="50" height="50" alt="高田熊圣诞特辑-啵啵">
-<img src="https://emoji.shojo.cn/bili/src/高田熊圣诞特辑/高田熊圣诞特辑-无语.png" width="50" height="50" alt="高田熊圣诞特辑-无语">
-<img src="https://emoji.shojo.cn/bili/src/高田熊圣诞特辑/高田熊圣诞特辑-疑问.png" width="50" height="50" alt="高田熊圣诞特辑-疑问">
-<img src="https://emoji.shojo.cn/bili/src/高田熊圣诞特辑/高田熊圣诞特辑-发火.png" width="50" height="50" alt="高田熊圣诞特辑-发火">
-<img src="https://emoji.shojo.cn/bili/src/高田熊圣诞特辑/高田熊圣诞特辑-晴天.png" width="50" height="50" alt="高田熊圣诞特辑-晴天">
-<img src="https://emoji.shojo.cn/bili/src/高田熊圣诞特辑/高田熊圣诞特辑-下雨.png" width="50" height="50" alt="高田熊圣诞特辑-下雨">
-<img src="https://emoji.shojo.cn/bili/src/高田熊圣诞特辑/高田熊圣诞特辑-愤怒.png" width="50" height="50" alt="高田熊圣诞特辑-愤怒">
-<img src="https://emoji.shojo.cn/bili/src/高田熊圣诞特辑/高田熊圣诞特辑-咬牙切齿.png" width="50" height="50" alt="高田熊圣诞特辑-咬牙切齿">
-<img src="https://emoji.shojo.cn/bili/src/高田熊圣诞特辑/高田熊圣诞特辑-装死.png" width="50" height="50" alt="高田熊圣诞特辑-装死">
-<img src="https://emoji.shojo.cn/bili/src/高田熊圣诞特辑/高田熊圣诞特辑-点赞.png" width="50" height="50" alt="高田熊圣诞特辑-点赞">
-<img src="https://emoji.shojo.cn/bili/src/高田熊圣诞特辑/高田熊圣诞特辑-开心.png" width="50" height="50" alt="高田熊圣诞特辑-开心">
-<img src="https://emoji.shojo.cn/bili/src/高田熊圣诞特辑/高田熊圣诞特辑-探头.png" width="50" height="50" alt="高田熊圣诞特辑-探头">
-<img src="https://emoji.shojo.cn/bili/src/高田熊圣诞特辑/高田熊圣诞特辑-雪人.png" width="50" height="50" alt="高田熊圣诞特辑-雪人">
-<img src="https://emoji.shojo.cn/bili/src/高田熊圣诞特辑/高田熊圣诞特辑-恭敬.png" width="50" height="50" alt="高田熊圣诞特辑-恭敬">
-<img src="https://emoji.shojo.cn/bili/src/高田熊圣诞特辑/高田熊圣诞特辑-硬撑.png" width="50" height="50" alt="高田熊圣诞特辑-硬撑">
-<img src="https://emoji.shojo.cn/bili/src/高田熊圣诞特辑/高田熊圣诞特辑-伸脚.png" width="50" height="50" alt="高田熊圣诞特辑-伸脚">
+<img src="https://emoji.shojo.cn/bili/src/高田熊圣诞特辑/高田熊圣诞特辑-兴奋.png" width="50" height="50" alt="高田熊圣诞特辑-兴奋"><img src="https://emoji.shojo.cn/bili/src/高田熊圣诞特辑/高田熊圣诞特辑-贴贴.png" width="50" height="50" alt="高田熊圣诞特辑-贴贴"><img src="https://emoji.shojo.cn/bili/src/高田熊圣诞特辑/高田熊圣诞特辑-惊恐.png" width="50" height="50" alt="高田熊圣诞特辑-惊恐"><img src="https://emoji.shojo.cn/bili/src/高田熊圣诞特辑/高田熊圣诞特辑-升天.png" width="50" height="50" alt="高田熊圣诞特辑-升天"><img src="https://emoji.shojo.cn/bili/src/高田熊圣诞特辑/高田熊圣诞特辑-emo.png" width="50" height="50" alt="高田熊圣诞特辑-emo"><img src="https://emoji.shojo.cn/bili/src/高田熊圣诞特辑/高田熊圣诞特辑-手舞足蹈.png" width="50" height="50" alt="高田熊圣诞特辑-手舞足蹈"><img src="https://emoji.shojo.cn/bili/src/高田熊圣诞特辑/高田熊圣诞特辑-问号.png" width="50" height="50" alt="高田熊圣诞特辑-问号"><img src="https://emoji.shojo.cn/bili/src/高田熊圣诞特辑/高田熊圣诞特辑-大哭.png" width="50" height="50" alt="高田熊圣诞特辑-大哭"><img src="https://emoji.shojo.cn/bili/src/高田熊圣诞特辑/高田熊圣诞特辑-耶.png" width="50" height="50" alt="高田熊圣诞特辑-耶"><img src="https://emoji.shojo.cn/bili/src/高田熊圣诞特辑/高田熊圣诞特辑-穿衣保暖.png" width="50" height="50" alt="高田熊圣诞特辑-穿衣保暖"><img src="https://emoji.shojo.cn/bili/src/高田熊圣诞特辑/高田熊圣诞特辑-吐魂.png" width="50" height="50" alt="高田熊圣诞特辑-吐魂"><img src="https://emoji.shojo.cn/bili/src/高田熊圣诞特辑/高田熊圣诞特辑-惊.png" width="50" height="50" alt="高田熊圣诞特辑-惊"><img src="https://emoji.shojo.cn/bili/src/高田熊圣诞特辑/高田熊圣诞特辑-亲亲.png" width="50" height="50" alt="高田熊圣诞特辑-亲亲"><img src="https://emoji.shojo.cn/bili/src/高田熊圣诞特辑/高田熊圣诞特辑-慌张.png" width="50" height="50" alt="高田熊圣诞特辑-慌张"><img src="https://emoji.shojo.cn/bili/src/高田熊圣诞特辑/高田熊圣诞特辑-啵啵.png" width="50" height="50" alt="高田熊圣诞特辑-啵啵"><img src="https://emoji.shojo.cn/bili/src/高田熊圣诞特辑/高田熊圣诞特辑-无语.png" width="50" height="50" alt="高田熊圣诞特辑-无语"><img src="https://emoji.shojo.cn/bili/src/高田熊圣诞特辑/高田熊圣诞特辑-疑问.png" width="50" height="50" alt="高田熊圣诞特辑-疑问"><img src="https://emoji.shojo.cn/bili/src/高田熊圣诞特辑/高田熊圣诞特辑-发火.png" width="50" height="50" alt="高田熊圣诞特辑-发火"><img src="https://emoji.shojo.cn/bili/src/高田熊圣诞特辑/高田熊圣诞特辑-晴天.png" width="50" height="50" alt="高田熊圣诞特辑-晴天"><img src="https://emoji.shojo.cn/bili/src/高田熊圣诞特辑/高田熊圣诞特辑-下雨.png" width="50" height="50" alt="高田熊圣诞特辑-下雨"><img src="https://emoji.shojo.cn/bili/src/高田熊圣诞特辑/高田熊圣诞特辑-愤怒.png" width="50" height="50" alt="高田熊圣诞特辑-愤怒"><img src="https://emoji.shojo.cn/bili/src/高田熊圣诞特辑/高田熊圣诞特辑-咬牙切齿.png" width="50" height="50" alt="高田熊圣诞特辑-咬牙切齿"><img src="https://emoji.shojo.cn/bili/src/高田熊圣诞特辑/高田熊圣诞特辑-装死.png" width="50" height="50" alt="高田熊圣诞特辑-装死"><img src="https://emoji.shojo.cn/bili/src/高田熊圣诞特辑/高田熊圣诞特辑-点赞.png" width="50" height="50" alt="高田熊圣诞特辑-点赞"><img src="https://emoji.shojo.cn/bili/src/高田熊圣诞特辑/高田熊圣诞特辑-开心.png" width="50" height="50" alt="高田熊圣诞特辑-开心"><img src="https://emoji.shojo.cn/bili/src/高田熊圣诞特辑/高田熊圣诞特辑-探头.png" width="50" height="50" alt="高田熊圣诞特辑-探头"><img src="https://emoji.shojo.cn/bili/src/高田熊圣诞特辑/高田熊圣诞特辑-雪人.png" width="50" height="50" alt="高田熊圣诞特辑-雪人"><img src="https://emoji.shojo.cn/bili/src/高田熊圣诞特辑/高田熊圣诞特辑-恭敬.png" width="50" height="50" alt="高田熊圣诞特辑-恭敬"><img src="https://emoji.shojo.cn/bili/src/高田熊圣诞特辑/高田熊圣诞特辑-硬撑.png" width="50" height="50" alt="高田熊圣诞特辑-硬撑"><img src="https://emoji.shojo.cn/bili/src/高田熊圣诞特辑/高田熊圣诞特辑-伸脚.png" width="50" height="50" alt="高田熊圣诞特辑-伸脚">
 
 ## 下载地址
 

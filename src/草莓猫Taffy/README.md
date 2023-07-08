@@ -8,31 +8,7 @@ https://emoji.shojo.cn/bili/src/草莓猫Taffy
 https://emoji.shojo.cn/bili/webp/草莓猫Taffy
 ```
 ## 展示
-<img src="https://emoji.shojo.cn/bili/src/草莓猫Taffy/草莓猫Taffy-嬉皮笑脸.png" width="50" height="50" alt="草莓猫Taffy-嬉皮笑脸">
-<img src="https://emoji.shojo.cn/bili/src/草莓猫Taffy/草莓猫Taffy-草莓拳.png" width="50" height="50" alt="草莓猫Taffy-草莓拳">
-<img src="https://emoji.shojo.cn/bili/src/草莓猫Taffy/草莓猫Taffy-Taffy流汗.png" width="50" height="50" alt="草莓猫Taffy-Taffy流汗">
-<img src="https://emoji.shojo.cn/bili/src/草莓猫Taffy/草莓猫Taffy-落小珍珠.png" width="50" height="50" alt="草莓猫Taffy-落小珍珠">
-<img src="https://emoji.shojo.cn/bili/src/草莓猫Taffy/草莓猫Taffy-mua~.png" width="50" height="50" alt="草莓猫Taffy-mua~">
-<img src="https://emoji.shojo.cn/bili/src/草莓猫Taffy/草莓猫Taffy-折叠手.png" width="50" height="50" alt="草莓猫Taffy-折叠手">
-<img src="https://emoji.shojo.cn/bili/src/草莓猫Taffy/草莓猫Taffy-生闷气.png" width="50" height="50" alt="草莓猫Taffy-生闷气">
-<img src="https://emoji.shojo.cn/bili/src/草莓猫Taffy/草莓猫Taffy-害羞.png" width="50" height="50" alt="草莓猫Taffy-害羞">
-<img src="https://emoji.shojo.cn/bili/src/草莓猫Taffy/草莓猫Taffy-Taffy看戏.png" width="50" height="50" alt="草莓猫Taffy-Taffy看戏">
-<img src="https://emoji.shojo.cn/bili/src/草莓猫Taffy/草莓猫Taffy-织布机.png" width="50" height="50" alt="草莓猫Taffy-织布机">
-<img src="https://emoji.shojo.cn/bili/src/草莓猫Taffy/草莓猫Taffy-大懒喵.png" width="50" height="50" alt="草莓猫Taffy-大懒喵">
-<img src="https://emoji.shojo.cn/bili/src/草莓猫Taffy/草莓猫Taffy-加油.png" width="50" height="50" alt="草莓猫Taffy-加油">
-<img src="https://emoji.shojo.cn/bili/src/草莓猫Taffy/草莓猫Taffy-Taffy震惊.png" width="50" height="50" alt="草莓猫Taffy-Taffy震惊">
-<img src="https://emoji.shojo.cn/bili/src/草莓猫Taffy/草莓猫Taffy-Taffy嘲笑.png" width="50" height="50" alt="草莓猫Taffy-Taffy嘲笑">
-<img src="https://emoji.shojo.cn/bili/src/草莓猫Taffy/草莓猫Taffy-Taffy问号.png" width="50" height="50" alt="草莓猫Taffy-Taffy问号">
-<img src="https://emoji.shojo.cn/bili/src/草莓猫Taffy/草莓猫Taffy-开派对咯.png" width="50" height="50" alt="草莓猫Taffy-开派对咯">
-<img src="https://emoji.shojo.cn/bili/src/草莓猫Taffy/草莓猫Taffy-奶嗝.png" width="50" height="50" alt="草莓猫Taffy-奶嗝">
-<img src="https://emoji.shojo.cn/bili/src/草莓猫Taffy/草莓猫Taffy-谢谢莓莓露.png" width="50" height="50" alt="草莓猫Taffy-谢谢莓莓露">
-<img src="https://emoji.shojo.cn/bili/src/草莓猫Taffy/草莓猫Taffy-米线.png" width="50" height="50" alt="草莓猫Taffy-米线">
-<img src="https://emoji.shojo.cn/bili/src/草莓猫Taffy/草莓猫Taffy-滑了.png" width="50" height="50" alt="草莓猫Taffy-滑了">
-<img src="https://emoji.shojo.cn/bili/src/草莓猫Taffy/草莓猫Taffy-结婚.png" width="50" height="50" alt="草莓猫Taffy-结婚">
-<img src="https://emoji.shojo.cn/bili/src/草莓猫Taffy/草莓猫Taffy-敬礼.png" width="50" height="50" alt="草莓猫Taffy-敬礼">
-<img src="https://emoji.shojo.cn/bili/src/草莓猫Taffy/草莓猫Taffy-乱说.png" width="50" height="50" alt="草莓猫Taffy-乱说">
-<img src="https://emoji.shojo.cn/bili/src/草莓猫Taffy/草莓猫Taffy-爆了.png" width="50" height="50" alt="草莓猫Taffy-爆了">
-<img src="https://emoji.shojo.cn/bili/src/草莓猫Taffy/草莓猫Taffy-Taffy怒.png" width="50" height="50" alt="草莓猫Taffy-Taffy怒">
+<img src="https://emoji.shojo.cn/bili/src/草莓猫Taffy/草莓猫Taffy-嬉皮笑脸.png" width="50" height="50" alt="草莓猫Taffy-嬉皮笑脸"><img src="https://emoji.shojo.cn/bili/src/草莓猫Taffy/草莓猫Taffy-草莓拳.png" width="50" height="50" alt="草莓猫Taffy-草莓拳"><img src="https://emoji.shojo.cn/bili/src/草莓猫Taffy/草莓猫Taffy-Taffy流汗.png" width="50" height="50" alt="草莓猫Taffy-Taffy流汗"><img src="https://emoji.shojo.cn/bili/src/草莓猫Taffy/草莓猫Taffy-落小珍珠.png" width="50" height="50" alt="草莓猫Taffy-落小珍珠"><img src="https://emoji.shojo.cn/bili/src/草莓猫Taffy/草莓猫Taffy-mua~.png" width="50" height="50" alt="草莓猫Taffy-mua~"><img src="https://emoji.shojo.cn/bili/src/草莓猫Taffy/草莓猫Taffy-折叠手.png" width="50" height="50" alt="草莓猫Taffy-折叠手"><img src="https://emoji.shojo.cn/bili/src/草莓猫Taffy/草莓猫Taffy-生闷气.png" width="50" height="50" alt="草莓猫Taffy-生闷气"><img src="https://emoji.shojo.cn/bili/src/草莓猫Taffy/草莓猫Taffy-害羞.png" width="50" height="50" alt="草莓猫Taffy-害羞"><img src="https://emoji.shojo.cn/bili/src/草莓猫Taffy/草莓猫Taffy-Taffy看戏.png" width="50" height="50" alt="草莓猫Taffy-Taffy看戏"><img src="https://emoji.shojo.cn/bili/src/草莓猫Taffy/草莓猫Taffy-织布机.png" width="50" height="50" alt="草莓猫Taffy-织布机"><img src="https://emoji.shojo.cn/bili/src/草莓猫Taffy/草莓猫Taffy-大懒喵.png" width="50" height="50" alt="草莓猫Taffy-大懒喵"><img src="https://emoji.shojo.cn/bili/src/草莓猫Taffy/草莓猫Taffy-加油.png" width="50" height="50" alt="草莓猫Taffy-加油"><img src="https://emoji.shojo.cn/bili/src/草莓猫Taffy/草莓猫Taffy-Taffy震惊.png" width="50" height="50" alt="草莓猫Taffy-Taffy震惊"><img src="https://emoji.shojo.cn/bili/src/草莓猫Taffy/草莓猫Taffy-Taffy嘲笑.png" width="50" height="50" alt="草莓猫Taffy-Taffy嘲笑"><img src="https://emoji.shojo.cn/bili/src/草莓猫Taffy/草莓猫Taffy-Taffy问号.png" width="50" height="50" alt="草莓猫Taffy-Taffy问号"><img src="https://emoji.shojo.cn/bili/src/草莓猫Taffy/草莓猫Taffy-开派对咯.png" width="50" height="50" alt="草莓猫Taffy-开派对咯"><img src="https://emoji.shojo.cn/bili/src/草莓猫Taffy/草莓猫Taffy-奶嗝.png" width="50" height="50" alt="草莓猫Taffy-奶嗝"><img src="https://emoji.shojo.cn/bili/src/草莓猫Taffy/草莓猫Taffy-谢谢莓莓露.png" width="50" height="50" alt="草莓猫Taffy-谢谢莓莓露"><img src="https://emoji.shojo.cn/bili/src/草莓猫Taffy/草莓猫Taffy-米线.png" width="50" height="50" alt="草莓猫Taffy-米线"><img src="https://emoji.shojo.cn/bili/src/草莓猫Taffy/草莓猫Taffy-滑了.png" width="50" height="50" alt="草莓猫Taffy-滑了"><img src="https://emoji.shojo.cn/bili/src/草莓猫Taffy/草莓猫Taffy-结婚.png" width="50" height="50" alt="草莓猫Taffy-结婚"><img src="https://emoji.shojo.cn/bili/src/草莓猫Taffy/草莓猫Taffy-敬礼.png" width="50" height="50" alt="草莓猫Taffy-敬礼"><img src="https://emoji.shojo.cn/bili/src/草莓猫Taffy/草莓猫Taffy-乱说.png" width="50" height="50" alt="草莓猫Taffy-乱说"><img src="https://emoji.shojo.cn/bili/src/草莓猫Taffy/草莓猫Taffy-爆了.png" width="50" height="50" alt="草莓猫Taffy-爆了"><img src="https://emoji.shojo.cn/bili/src/草莓猫Taffy/草莓猫Taffy-Taffy怒.png" width="50" height="50" alt="草莓猫Taffy-Taffy怒">
 
 ## 下载地址
 

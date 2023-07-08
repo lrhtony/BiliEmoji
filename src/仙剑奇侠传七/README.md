@@ -8,36 +8,7 @@ https://emoji.shojo.cn/bili/src/仙剑奇侠传七
 https://emoji.shojo.cn/bili/webp/仙剑奇侠传七
 ```
 ## 展示
-<img src="https://emoji.shojo.cn/bili/src/仙剑奇侠传七/仙剑七-仙.png" width="50" height="50" alt="仙剑七-仙">
-<img src="https://emoji.shojo.cn/bili/src/仙剑奇侠传七/仙剑七-剑.png" width="50" height="50" alt="仙剑七-剑">
-<img src="https://emoji.shojo.cn/bili/src/仙剑奇侠传七/仙剑七-奇.png" width="50" height="50" alt="仙剑七-奇">
-<img src="https://emoji.shojo.cn/bili/src/仙剑奇侠传七/仙剑七-侠.png" width="50" height="50" alt="仙剑七-侠">
-<img src="https://emoji.shojo.cn/bili/src/仙剑奇侠传七/仙剑七-传.png" width="50" height="50" alt="仙剑七-传">
-<img src="https://emoji.shojo.cn/bili/src/仙剑奇侠传七/仙剑七-七.png" width="50" height="50" alt="仙剑七-七">
-<img src="https://emoji.shojo.cn/bili/src/仙剑奇侠传七/仙剑七-努力.png" width="50" height="50" alt="仙剑七-努力">
-<img src="https://emoji.shojo.cn/bili/src/仙剑奇侠传七/仙剑七-可.png" width="50" height="50" alt="仙剑七-可">
-<img src="https://emoji.shojo.cn/bili/src/仙剑奇侠传七/仙剑七-鸽了.png" width="50" height="50" alt="仙剑七-鸽了">
-<img src="https://emoji.shojo.cn/bili/src/仙剑奇侠传七/仙剑七-思考.png" width="50" height="50" alt="仙剑七-思考">
-<img src="https://emoji.shojo.cn/bili/src/仙剑奇侠传七/仙剑七-感谢.png" width="50" height="50" alt="仙剑七-感谢">
-<img src="https://emoji.shojo.cn/bili/src/仙剑奇侠传七/仙剑七-我来了.png" width="50" height="50" alt="仙剑七-我来了">
-<img src="https://emoji.shojo.cn/bili/src/仙剑奇侠传七/仙剑七-尴尬.png" width="50" height="50" alt="仙剑七-尴尬">
-<img src="https://emoji.shojo.cn/bili/src/仙剑奇侠传七/仙剑七-拒绝.png" width="50" height="50" alt="仙剑七-拒绝">
-<img src="https://emoji.shojo.cn/bili/src/仙剑奇侠传七/仙剑七-干杯.png" width="50" height="50" alt="仙剑七-干杯">
-<img src="https://emoji.shojo.cn/bili/src/仙剑奇侠传七/仙剑七-疑惑.png" width="50" height="50" alt="仙剑七-疑惑">
-<img src="https://emoji.shojo.cn/bili/src/仙剑奇侠传七/仙剑七-可爱.png" width="50" height="50" alt="仙剑七-可爱">
-<img src="https://emoji.shojo.cn/bili/src/仙剑奇侠传七/仙剑七-比心.png" width="50" height="50" alt="仙剑七-比心">
-<img src="https://emoji.shojo.cn/bili/src/仙剑奇侠传七/仙剑七-祝符.png" width="50" height="50" alt="仙剑七-祝符">
-<img src="https://emoji.shojo.cn/bili/src/仙剑奇侠传七/仙剑七-加油.png" width="50" height="50" alt="仙剑七-加油">
-<img src="https://emoji.shojo.cn/bili/src/仙剑奇侠传七/仙剑七-委屈.png" width="50" height="50" alt="仙剑七-委屈">
-<img src="https://emoji.shojo.cn/bili/src/仙剑奇侠传七/仙剑七-太难了.png" width="50" height="50" alt="仙剑七-太难了">
-<img src="https://emoji.shojo.cn/bili/src/仙剑奇侠传七/仙剑七-吃瓜.png" width="50" height="50" alt="仙剑七-吃瓜">
-<img src="https://emoji.shojo.cn/bili/src/仙剑奇侠传七/仙剑七-摇头.png" width="50" height="50" alt="仙剑七-摇头">
-<img src="https://emoji.shojo.cn/bili/src/仙剑奇侠传七/仙剑七-假装不在.png" width="50" height="50" alt="仙剑七-假装不在">
-<img src="https://emoji.shojo.cn/bili/src/仙剑奇侠传七/仙剑七-庆祝.png" width="50" height="50" alt="仙剑七-庆祝">
-<img src="https://emoji.shojo.cn/bili/src/仙剑奇侠传七/仙剑七-哭哭.png" width="50" height="50" alt="仙剑七-哭哭">
-<img src="https://emoji.shojo.cn/bili/src/仙剑奇侠传七/仙剑七-晚安.png" width="50" height="50" alt="仙剑七-晚安">
-<img src="https://emoji.shojo.cn/bili/src/仙剑奇侠传七/仙剑七-就这.png" width="50" height="50" alt="仙剑七-就这">
-<img src="https://emoji.shojo.cn/bili/src/仙剑奇侠传七/仙剑七-生气.png" width="50" height="50" alt="仙剑七-生气">
+<img src="https://emoji.shojo.cn/bili/src/仙剑奇侠传七/仙剑七-仙.png" width="50" height="50" alt="仙剑七-仙"><img src="https://emoji.shojo.cn/bili/src/仙剑奇侠传七/仙剑七-剑.png" width="50" height="50" alt="仙剑七-剑"><img src="https://emoji.shojo.cn/bili/src/仙剑奇侠传七/仙剑七-奇.png" width="50" height="50" alt="仙剑七-奇"><img src="https://emoji.shojo.cn/bili/src/仙剑奇侠传七/仙剑七-侠.png" width="50" height="50" alt="仙剑七-侠"><img src="https://emoji.shojo.cn/bili/src/仙剑奇侠传七/仙剑七-传.png" width="50" height="50" alt="仙剑七-传"><img src="https://emoji.shojo.cn/bili/src/仙剑奇侠传七/仙剑七-七.png" width="50" height="50" alt="仙剑七-七"><img src="https://emoji.shojo.cn/bili/src/仙剑奇侠传七/仙剑七-努力.png" width="50" height="50" alt="仙剑七-努力"><img src="https://emoji.shojo.cn/bili/src/仙剑奇侠传七/仙剑七-可.png" width="50" height="50" alt="仙剑七-可"><img src="https://emoji.shojo.cn/bili/src/仙剑奇侠传七/仙剑七-鸽了.png" width="50" height="50" alt="仙剑七-鸽了"><img src="https://emoji.shojo.cn/bili/src/仙剑奇侠传七/仙剑七-思考.png" width="50" height="50" alt="仙剑七-思考"><img src="https://emoji.shojo.cn/bili/src/仙剑奇侠传七/仙剑七-感谢.png" width="50" height="50" alt="仙剑七-感谢"><img src="https://emoji.shojo.cn/bili/src/仙剑奇侠传七/仙剑七-我来了.png" width="50" height="50" alt="仙剑七-我来了"><img src="https://emoji.shojo.cn/bili/src/仙剑奇侠传七/仙剑七-尴尬.png" width="50" height="50" alt="仙剑七-尴尬"><img src="https://emoji.shojo.cn/bili/src/仙剑奇侠传七/仙剑七-拒绝.png" width="50" height="50" alt="仙剑七-拒绝"><img src="https://emoji.shojo.cn/bili/src/仙剑奇侠传七/仙剑七-干杯.png" width="50" height="50" alt="仙剑七-干杯"><img src="https://emoji.shojo.cn/bili/src/仙剑奇侠传七/仙剑七-疑惑.png" width="50" height="50" alt="仙剑七-疑惑"><img src="https://emoji.shojo.cn/bili/src/仙剑奇侠传七/仙剑七-可爱.png" width="50" height="50" alt="仙剑七-可爱"><img src="https://emoji.shojo.cn/bili/src/仙剑奇侠传七/仙剑七-比心.png" width="50" height="50" alt="仙剑七-比心"><img src="https://emoji.shojo.cn/bili/src/仙剑奇侠传七/仙剑七-祝符.png" width="50" height="50" alt="仙剑七-祝符"><img src="https://emoji.shojo.cn/bili/src/仙剑奇侠传七/仙剑七-加油.png" width="50" height="50" alt="仙剑七-加油"><img src="https://emoji.shojo.cn/bili/src/仙剑奇侠传七/仙剑七-委屈.png" width="50" height="50" alt="仙剑七-委屈"><img src="https://emoji.shojo.cn/bili/src/仙剑奇侠传七/仙剑七-太难了.png" width="50" height="50" alt="仙剑七-太难了"><img src="https://emoji.shojo.cn/bili/src/仙剑奇侠传七/仙剑七-吃瓜.png" width="50" height="50" alt="仙剑七-吃瓜"><img src="https://emoji.shojo.cn/bili/src/仙剑奇侠传七/仙剑七-摇头.png" width="50" height="50" alt="仙剑七-摇头"><img src="https://emoji.shojo.cn/bili/src/仙剑奇侠传七/仙剑七-假装不在.png" width="50" height="50" alt="仙剑七-假装不在"><img src="https://emoji.shojo.cn/bili/src/仙剑奇侠传七/仙剑七-庆祝.png" width="50" height="50" alt="仙剑七-庆祝"><img src="https://emoji.shojo.cn/bili/src/仙剑奇侠传七/仙剑七-哭哭.png" width="50" height="50" alt="仙剑七-哭哭"><img src="https://emoji.shojo.cn/bili/src/仙剑奇侠传七/仙剑七-晚安.png" width="50" height="50" alt="仙剑七-晚安"><img src="https://emoji.shojo.cn/bili/src/仙剑奇侠传七/仙剑七-就这.png" width="50" height="50" alt="仙剑七-就这"><img src="https://emoji.shojo.cn/bili/src/仙剑奇侠传七/仙剑七-生气.png" width="50" height="50" alt="仙剑七-生气">
 
 ## 下载地址
 

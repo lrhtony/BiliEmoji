@@ -8,31 +8,7 @@ https://emoji.shojo.cn/bili/src/步玎Pudding
 https://emoji.shojo.cn/bili/webp/步玎Pudding
 ```
 ## 展示
-<img src="https://emoji.shojo.cn/bili/src/步玎Pudding/步玎Pudding-赞.png" width="50" height="50" alt="步玎Pudding-赞">
-<img src="https://emoji.shojo.cn/bili/src/步玎Pudding/步玎Pudding-好耶.png" width="50" height="50" alt="步玎Pudding-好耶">
-<img src="https://emoji.shojo.cn/bili/src/步玎Pudding/步玎Pudding-嗯？.png" width="50" height="50" alt="步玎Pudding-嗯？">
-<img src="https://emoji.shojo.cn/bili/src/步玎Pudding/步玎Pudding-诶嘿.png" width="50" height="50" alt="步玎Pudding-诶嘿">
-<img src="https://emoji.shojo.cn/bili/src/步玎Pudding/步玎Pudding-天才.png" width="50" height="50" alt="步玎Pudding-天才">
-<img src="https://emoji.shojo.cn/bili/src/步玎Pudding/步玎Pudding-谢谢.png" width="50" height="50" alt="步玎Pudding-谢谢">
-<img src="https://emoji.shojo.cn/bili/src/步玎Pudding/步玎Pudding-心心.png" width="50" height="50" alt="步玎Pudding-心心">
-<img src="https://emoji.shojo.cn/bili/src/步玎Pudding/步玎Pudding-学习.png" width="50" height="50" alt="步玎Pudding-学习">
-<img src="https://emoji.shojo.cn/bili/src/步玎Pudding/步玎Pudding-摸头.png" width="50" height="50" alt="步玎Pudding-摸头">
-<img src="https://emoji.shojo.cn/bili/src/步玎Pudding/步玎Pudding-抽卡.png" width="50" height="50" alt="步玎Pudding-抽卡">
-<img src="https://emoji.shojo.cn/bili/src/步玎Pudding/步玎Pudding-挂树.png" width="50" height="50" alt="步玎Pudding-挂树">
-<img src="https://emoji.shojo.cn/bili/src/步玎Pudding/步玎Pudding-吓.png" width="50" height="50" alt="步玎Pudding-吓">
-<img src="https://emoji.shojo.cn/bili/src/步玎Pudding/步玎Pudding-加油.png" width="50" height="50" alt="步玎Pudding-加油">
-<img src="https://emoji.shojo.cn/bili/src/步玎Pudding/步玎Pudding-笔记.png" width="50" height="50" alt="步玎Pudding-笔记">
-<img src="https://emoji.shojo.cn/bili/src/步玎Pudding/步玎Pudding-探头.png" width="50" height="50" alt="步玎Pudding-探头">
-<img src="https://emoji.shojo.cn/bili/src/步玎Pudding/步玎Pudding-OxO.png" width="50" height="50" alt="步玎Pudding-OxO">
-<img src="https://emoji.shojo.cn/bili/src/步玎Pudding/步玎Pudding-吃瓜.png" width="50" height="50" alt="步玎Pudding-吃瓜">
-<img src="https://emoji.shojo.cn/bili/src/步玎Pudding/步玎Pudding-饱了.png" width="50" height="50" alt="步玎Pudding-饱了">
-<img src="https://emoji.shojo.cn/bili/src/步玎Pudding/步玎Pudding-气鼓鼓.png" width="50" height="50" alt="步玎Pudding-气鼓鼓">
-<img src="https://emoji.shojo.cn/bili/src/步玎Pudding/步玎Pudding-喂喂喂.png" width="50" height="50" alt="步玎Pudding-喂喂喂">
-<img src="https://emoji.shojo.cn/bili/src/步玎Pudding/步玎Pudding-早鸭.png" width="50" height="50" alt="步玎Pudding-早鸭">
-<img src="https://emoji.shojo.cn/bili/src/步玎Pudding/步玎Pudding-哭哭.png" width="50" height="50" alt="步玎Pudding-哭哭">
-<img src="https://emoji.shojo.cn/bili/src/步玎Pudding/步玎Pudding-庆祝.png" width="50" height="50" alt="步玎Pudding-庆祝">
-<img src="https://emoji.shojo.cn/bili/src/步玎Pudding/步玎Pudding-升天.png" width="50" height="50" alt="步玎Pudding-升天">
-<img src="https://emoji.shojo.cn/bili/src/步玎Pudding/步玎Pudding-睡大觉.png" width="50" height="50" alt="步玎Pudding-睡大觉">
+<img src="https://emoji.shojo.cn/bili/src/步玎Pudding/步玎Pudding-赞.png" width="50" height="50" alt="步玎Pudding-赞"><img src="https://emoji.shojo.cn/bili/src/步玎Pudding/步玎Pudding-好耶.png" width="50" height="50" alt="步玎Pudding-好耶"><img src="https://emoji.shojo.cn/bili/src/步玎Pudding/步玎Pudding-嗯？.png" width="50" height="50" alt="步玎Pudding-嗯？"><img src="https://emoji.shojo.cn/bili/src/步玎Pudding/步玎Pudding-诶嘿.png" width="50" height="50" alt="步玎Pudding-诶嘿"><img src="https://emoji.shojo.cn/bili/src/步玎Pudding/步玎Pudding-天才.png" width="50" height="50" alt="步玎Pudding-天才"><img src="https://emoji.shojo.cn/bili/src/步玎Pudding/步玎Pudding-谢谢.png" width="50" height="50" alt="步玎Pudding-谢谢"><img src="https://emoji.shojo.cn/bili/src/步玎Pudding/步玎Pudding-心心.png" width="50" height="50" alt="步玎Pudding-心心"><img src="https://emoji.shojo.cn/bili/src/步玎Pudding/步玎Pudding-学习.png" width="50" height="50" alt="步玎Pudding-学习"><img src="https://emoji.shojo.cn/bili/src/步玎Pudding/步玎Pudding-摸头.png" width="50" height="50" alt="步玎Pudding-摸头"><img src="https://emoji.shojo.cn/bili/src/步玎Pudding/步玎Pudding-抽卡.png" width="50" height="50" alt="步玎Pudding-抽卡"><img src="https://emoji.shojo.cn/bili/src/步玎Pudding/步玎Pudding-挂树.png" width="50" height="50" alt="步玎Pudding-挂树"><img src="https://emoji.shojo.cn/bili/src/步玎Pudding/步玎Pudding-吓.png" width="50" height="50" alt="步玎Pudding-吓"><img src="https://emoji.shojo.cn/bili/src/步玎Pudding/步玎Pudding-加油.png" width="50" height="50" alt="步玎Pudding-加油"><img src="https://emoji.shojo.cn/bili/src/步玎Pudding/步玎Pudding-笔记.png" width="50" height="50" alt="步玎Pudding-笔记"><img src="https://emoji.shojo.cn/bili/src/步玎Pudding/步玎Pudding-探头.png" width="50" height="50" alt="步玎Pudding-探头"><img src="https://emoji.shojo.cn/bili/src/步玎Pudding/步玎Pudding-OxO.png" width="50" height="50" alt="步玎Pudding-OxO"><img src="https://emoji.shojo.cn/bili/src/步玎Pudding/步玎Pudding-吃瓜.png" width="50" height="50" alt="步玎Pudding-吃瓜"><img src="https://emoji.shojo.cn/bili/src/步玎Pudding/步玎Pudding-饱了.png" width="50" height="50" alt="步玎Pudding-饱了"><img src="https://emoji.shojo.cn/bili/src/步玎Pudding/步玎Pudding-气鼓鼓.png" width="50" height="50" alt="步玎Pudding-气鼓鼓"><img src="https://emoji.shojo.cn/bili/src/步玎Pudding/步玎Pudding-喂喂喂.png" width="50" height="50" alt="步玎Pudding-喂喂喂"><img src="https://emoji.shojo.cn/bili/src/步玎Pudding/步玎Pudding-早鸭.png" width="50" height="50" alt="步玎Pudding-早鸭"><img src="https://emoji.shojo.cn/bili/src/步玎Pudding/步玎Pudding-哭哭.png" width="50" height="50" alt="步玎Pudding-哭哭"><img src="https://emoji.shojo.cn/bili/src/步玎Pudding/步玎Pudding-庆祝.png" width="50" height="50" alt="步玎Pudding-庆祝"><img src="https://emoji.shojo.cn/bili/src/步玎Pudding/步玎Pudding-升天.png" width="50" height="50" alt="步玎Pudding-升天"><img src="https://emoji.shojo.cn/bili/src/步玎Pudding/步玎Pudding-睡大觉.png" width="50" height="50" alt="步玎Pudding-睡大觉">
 
 ## 下载地址
 

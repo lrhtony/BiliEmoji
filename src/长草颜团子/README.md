@@ -8,36 +8,7 @@ https://emoji.shojo.cn/bili/src/长草颜团子
 https://emoji.shojo.cn/bili/webp/长草颜团子
 ```
 ## 展示
-<img src="https://emoji.shojo.cn/bili/src/长草颜团子/长草颜团子-？？？.png" width="50" height="50" alt="长草颜团子-？？？">
-<img src="https://emoji.shojo.cn/bili/src/长草颜团子/长草颜团子-886.png" width="50" height="50" alt="长草颜团子-886">
-<img src="https://emoji.shojo.cn/bili/src/长草颜团子/长草颜团子-OK.png" width="50" height="50" alt="长草颜团子-OK">
-<img src="https://emoji.shojo.cn/bili/src/长草颜团子/长草颜团子-Power.png" width="50" height="50" alt="长草颜团子-Power">
-<img src="https://emoji.shojo.cn/bili/src/长草颜团子/长草颜团子-SOS.png" width="50" height="50" alt="长草颜团子-SOS">
-<img src="https://emoji.shojo.cn/bili/src/长草颜团子/长草颜团子-ZZZ.png" width="50" height="50" alt="长草颜团子-ZZZ">
-<img src="https://emoji.shojo.cn/bili/src/长草颜团子/长草颜团子-爱你.png" width="50" height="50" alt="长草颜团子-爱你">
-<img src="https://emoji.shojo.cn/bili/src/长草颜团子/长草颜团子-棒.png" width="50" height="50" alt="长草颜团子-棒">
-<img src="https://emoji.shojo.cn/bili/src/长草颜团子/长草颜团子-吃瓜.png" width="50" height="50" alt="长草颜团子-吃瓜">
-<img src="https://emoji.shojo.cn/bili/src/长草颜团子/长草颜团子-吹爆.png" width="50" height="50" alt="长草颜团子-吹爆">
-<img src="https://emoji.shojo.cn/bili/src/长草颜团子/长草颜团子-达咩.png" width="50" height="50" alt="长草颜团子-达咩">
-<img src="https://emoji.shojo.cn/bili/src/长草颜团子/长草颜团子-打.png" width="50" height="50" alt="长草颜团子-打">
-<img src="https://emoji.shojo.cn/bili/src/长草颜团子/长草颜团子-打卡.png" width="50" height="50" alt="长草颜团子-打卡">
-<img src="https://emoji.shojo.cn/bili/src/长草颜团子/长草颜团子-等.png" width="50" height="50" alt="长草颜团子-等">
-<img src="https://emoji.shojo.cn/bili/src/长草颜团子/长草颜团子-非酋.png" width="50" height="50" alt="长草颜团子-非酋">
-<img src="https://emoji.shojo.cn/bili/src/长草颜团子/长草颜团子-佛.png" width="50" height="50" alt="长草颜团子-佛">
-<img src="https://emoji.shojo.cn/bili/src/长草颜团子/长草颜团子-干杯.png" width="50" height="50" alt="长草颜团子-干杯">
-<img src="https://emoji.shojo.cn/bili/src/长草颜团子/长草颜团子-给我火.png" width="50" height="50" alt="长草颜团子-给我火">
-<img src="https://emoji.shojo.cn/bili/src/长草颜团子/长草颜团子-害怕.png" width="50" height="50" alt="长草颜团子-害怕">
-<img src="https://emoji.shojo.cn/bili/src/长草颜团子/长草颜团子-看看.png" width="50" height="50" alt="长草颜团子-看看">
-<img src="https://emoji.shojo.cn/bili/src/长草颜团子/长草颜团子-哭了.png" width="50" height="50" alt="长草颜团子-哭了">
-<img src="https://emoji.shojo.cn/bili/src/长草颜团子/长草颜团子-摸鱼.png" width="50" height="50" alt="长草颜团子-摸鱼">
-<img src="https://emoji.shojo.cn/bili/src/长草颜团子/长草颜团子-你好.png" width="50" height="50" alt="长草颜团子-你好">
-<img src="https://emoji.shojo.cn/bili/src/长草颜团子/长草颜团子-潜水.png" width="50" height="50" alt="长草颜团子-潜水">
-<img src="https://emoji.shojo.cn/bili/src/长草颜团子/长草颜团子-三连.png" width="50" height="50" alt="长草颜团子-三连">
-<img src="https://emoji.shojo.cn/bili/src/长草颜团子/长草颜团子-私信.png" width="50" height="50" alt="长草颜团子-私信">
-<img src="https://emoji.shojo.cn/bili/src/长草颜团子/长草颜团子-完结撒花.png" width="50" height="50" alt="长草颜团子-完结撒花">
-<img src="https://emoji.shojo.cn/bili/src/长草颜团子/长草颜团子-无语.png" width="50" height="50" alt="长草颜团子-无语">
-<img src="https://emoji.shojo.cn/bili/src/长草颜团子/长草颜团子-在吗.png" width="50" height="50" alt="长草颜团子-在吗">
-<img src="https://emoji.shojo.cn/bili/src/长草颜团子/长草颜团子-震惊.png" width="50" height="50" alt="长草颜团子-震惊">
+<img src="https://emoji.shojo.cn/bili/src/长草颜团子/长草颜团子-？？？.png" width="50" height="50" alt="长草颜团子-？？？"><img src="https://emoji.shojo.cn/bili/src/长草颜团子/长草颜团子-886.png" width="50" height="50" alt="长草颜团子-886"><img src="https://emoji.shojo.cn/bili/src/长草颜团子/长草颜团子-OK.png" width="50" height="50" alt="长草颜团子-OK"><img src="https://emoji.shojo.cn/bili/src/长草颜团子/长草颜团子-Power.png" width="50" height="50" alt="长草颜团子-Power"><img src="https://emoji.shojo.cn/bili/src/长草颜团子/长草颜团子-SOS.png" width="50" height="50" alt="长草颜团子-SOS"><img src="https://emoji.shojo.cn/bili/src/长草颜团子/长草颜团子-ZZZ.png" width="50" height="50" alt="长草颜团子-ZZZ"><img src="https://emoji.shojo.cn/bili/src/长草颜团子/长草颜团子-爱你.png" width="50" height="50" alt="长草颜团子-爱你"><img src="https://emoji.shojo.cn/bili/src/长草颜团子/长草颜团子-棒.png" width="50" height="50" alt="长草颜团子-棒"><img src="https://emoji.shojo.cn/bili/src/长草颜团子/长草颜团子-吃瓜.png" width="50" height="50" alt="长草颜团子-吃瓜"><img src="https://emoji.shojo.cn/bili/src/长草颜团子/长草颜团子-吹爆.png" width="50" height="50" alt="长草颜团子-吹爆"><img src="https://emoji.shojo.cn/bili/src/长草颜团子/长草颜团子-达咩.png" width="50" height="50" alt="长草颜团子-达咩"><img src="https://emoji.shojo.cn/bili/src/长草颜团子/长草颜团子-打.png" width="50" height="50" alt="长草颜团子-打"><img src="https://emoji.shojo.cn/bili/src/长草颜团子/长草颜团子-打卡.png" width="50" height="50" alt="长草颜团子-打卡"><img src="https://emoji.shojo.cn/bili/src/长草颜团子/长草颜团子-等.png" width="50" height="50" alt="长草颜团子-等"><img src="https://emoji.shojo.cn/bili/src/长草颜团子/长草颜团子-非酋.png" width="50" height="50" alt="长草颜团子-非酋"><img src="https://emoji.shojo.cn/bili/src/长草颜团子/长草颜团子-佛.png" width="50" height="50" alt="长草颜团子-佛"><img src="https://emoji.shojo.cn/bili/src/长草颜团子/长草颜团子-干杯.png" width="50" height="50" alt="长草颜团子-干杯"><img src="https://emoji.shojo.cn/bili/src/长草颜团子/长草颜团子-给我火.png" width="50" height="50" alt="长草颜团子-给我火"><img src="https://emoji.shojo.cn/bili/src/长草颜团子/长草颜团子-害怕.png" width="50" height="50" alt="长草颜团子-害怕"><img src="https://emoji.shojo.cn/bili/src/长草颜团子/长草颜团子-看看.png" width="50" height="50" alt="长草颜团子-看看"><img src="https://emoji.shojo.cn/bili/src/长草颜团子/长草颜团子-哭了.png" width="50" height="50" alt="长草颜团子-哭了"><img src="https://emoji.shojo.cn/bili/src/长草颜团子/长草颜团子-摸鱼.png" width="50" height="50" alt="长草颜团子-摸鱼"><img src="https://emoji.shojo.cn/bili/src/长草颜团子/长草颜团子-你好.png" width="50" height="50" alt="长草颜团子-你好"><img src="https://emoji.shojo.cn/bili/src/长草颜团子/长草颜团子-潜水.png" width="50" height="50" alt="长草颜团子-潜水"><img src="https://emoji.shojo.cn/bili/src/长草颜团子/长草颜团子-三连.png" width="50" height="50" alt="长草颜团子-三连"><img src="https://emoji.shojo.cn/bili/src/长草颜团子/长草颜团子-私信.png" width="50" height="50" alt="长草颜团子-私信"><img src="https://emoji.shojo.cn/bili/src/长草颜团子/长草颜团子-完结撒花.png" width="50" height="50" alt="长草颜团子-完结撒花"><img src="https://emoji.shojo.cn/bili/src/长草颜团子/长草颜团子-无语.png" width="50" height="50" alt="长草颜团子-无语"><img src="https://emoji.shojo.cn/bili/src/长草颜团子/长草颜团子-在吗.png" width="50" height="50" alt="长草颜团子-在吗"><img src="https://emoji.shojo.cn/bili/src/长草颜团子/长草颜团子-震惊.png" width="50" height="50" alt="长草颜团子-震惊">
 
 ## 下载地址
 

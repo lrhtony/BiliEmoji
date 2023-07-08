@@ -8,31 +8,7 @@ https://emoji.shojo.cn/bili/src/椰奶Yana_灵鱼椰
 https://emoji.shojo.cn/bili/webp/椰奶Yana_灵鱼椰
 ```
 ## 展示
-<img src="https://emoji.shojo.cn/bili/src/椰奶Yana_灵鱼椰/椰奶Yana-灵鱼椰-不错椰.png" width="50" height="50" alt="椰奶Yana-灵鱼椰-不错椰">
-<img src="https://emoji.shojo.cn/bili/src/椰奶Yana_灵鱼椰/椰奶Yana-灵鱼椰-震惊椰.png" width="50" height="50" alt="椰奶Yana-灵鱼椰-震惊椰">
-<img src="https://emoji.shojo.cn/bili/src/椰奶Yana_灵鱼椰/椰奶Yana-灵鱼椰-紧张椰.png" width="50" height="50" alt="椰奶Yana-灵鱼椰-紧张椰">
-<img src="https://emoji.shojo.cn/bili/src/椰奶Yana_灵鱼椰/椰奶Yana-灵鱼椰-难受椰.png" width="50" height="50" alt="椰奶Yana-灵鱼椰-难受椰">
-<img src="https://emoji.shojo.cn/bili/src/椰奶Yana_灵鱼椰/椰奶Yana-灵鱼椰-沉思椰.png" width="50" height="50" alt="椰奶Yana-灵鱼椰-沉思椰">
-<img src="https://emoji.shojo.cn/bili/src/椰奶Yana_灵鱼椰/椰奶Yana-灵鱼椰-怒了椰.png" width="50" height="50" alt="椰奶Yana-灵鱼椰-怒了椰">
-<img src="https://emoji.shojo.cn/bili/src/椰奶Yana_灵鱼椰/椰奶Yana-灵鱼椰-好冰椰.png" width="50" height="50" alt="椰奶Yana-灵鱼椰-好冰椰">
-<img src="https://emoji.shojo.cn/bili/src/椰奶Yana_灵鱼椰/椰奶Yana-灵鱼椰-困了椰.png" width="50" height="50" alt="椰奶Yana-灵鱼椰-困了椰">
-<img src="https://emoji.shojo.cn/bili/src/椰奶Yana_灵鱼椰/椰奶Yana-灵鱼椰-哎嘿椰.png" width="50" height="50" alt="椰奶Yana-灵鱼椰-哎嘿椰">
-<img src="https://emoji.shojo.cn/bili/src/椰奶Yana_灵鱼椰/椰奶Yana-灵鱼椰-兴奋椰.png" width="50" height="50" alt="椰奶Yana-灵鱼椰-兴奋椰">
-<img src="https://emoji.shojo.cn/bili/src/椰奶Yana_灵鱼椰/椰奶Yana-灵鱼椰-嫌弃椰.png" width="50" height="50" alt="椰奶Yana-灵鱼椰-嫌弃椰">
-<img src="https://emoji.shojo.cn/bili/src/椰奶Yana_灵鱼椰/椰奶Yana-灵鱼椰-那个椰.png" width="50" height="50" alt="椰奶Yana-灵鱼椰-那个椰">
-<img src="https://emoji.shojo.cn/bili/src/椰奶Yana_灵鱼椰/椰奶Yana-灵鱼椰-急了椰.png" width="50" height="50" alt="椰奶Yana-灵鱼椰-急了椰">
-<img src="https://emoji.shojo.cn/bili/src/椰奶Yana_灵鱼椰/椰奶Yana-灵鱼椰-嘣嘣椰.png" width="50" height="50" alt="椰奶Yana-灵鱼椰-嘣嘣椰">
-<img src="https://emoji.shojo.cn/bili/src/椰奶Yana_灵鱼椰/椰奶Yana-灵鱼椰-捧脸椰.png" width="50" height="50" alt="椰奶Yana-灵鱼椰-捧脸椰">
-<img src="https://emoji.shojo.cn/bili/src/椰奶Yana_灵鱼椰/椰奶Yana-灵鱼椰-对手椰.png" width="50" height="50" alt="椰奶Yana-灵鱼椰-对手椰">
-<img src="https://emoji.shojo.cn/bili/src/椰奶Yana_灵鱼椰/椰奶Yana-灵鱼椰-开吹椰.png" width="50" height="50" alt="椰奶Yana-灵鱼椰-开吹椰">
-<img src="https://emoji.shojo.cn/bili/src/椰奶Yana_灵鱼椰/椰奶Yana-灵鱼椰-好气椰.png" width="50" height="50" alt="椰奶Yana-灵鱼椰-好气椰">
-<img src="https://emoji.shojo.cn/bili/src/椰奶Yana_灵鱼椰/椰奶Yana-灵鱼椰-键盘椰.png" width="50" height="50" alt="椰奶Yana-灵鱼椰-键盘椰">
-<img src="https://emoji.shojo.cn/bili/src/椰奶Yana_灵鱼椰/椰奶Yana-灵鱼椰-觉觉椰.png" width="50" height="50" alt="椰奶Yana-灵鱼椰-觉觉椰">
-<img src="https://emoji.shojo.cn/bili/src/椰奶Yana_灵鱼椰/椰奶Yana-灵鱼椰-爆咯椰.png" width="50" height="50" alt="椰奶Yana-灵鱼椰-爆咯椰">
-<img src="https://emoji.shojo.cn/bili/src/椰奶Yana_灵鱼椰/椰奶Yana-灵鱼椰-摊手椰.png" width="50" height="50" alt="椰奶Yana-灵鱼椰-摊手椰">
-<img src="https://emoji.shojo.cn/bili/src/椰奶Yana_灵鱼椰/椰奶Yana-灵鱼椰-奶卡椰.png" width="50" height="50" alt="椰奶Yana-灵鱼椰-奶卡椰">
-<img src="https://emoji.shojo.cn/bili/src/椰奶Yana_灵鱼椰/椰奶Yana-灵鱼椰-奶呢椰.png" width="50" height="50" alt="椰奶Yana-灵鱼椰-奶呢椰">
-<img src="https://emoji.shojo.cn/bili/src/椰奶Yana_灵鱼椰/椰奶Yana-灵鱼椰-啊这椰.png" width="50" height="50" alt="椰奶Yana-灵鱼椰-啊这椰">
+<img src="https://emoji.shojo.cn/bili/src/椰奶Yana_灵鱼椰/椰奶Yana-灵鱼椰-不错椰.png" width="50" height="50" alt="椰奶Yana-灵鱼椰-不错椰"><img src="https://emoji.shojo.cn/bili/src/椰奶Yana_灵鱼椰/椰奶Yana-灵鱼椰-震惊椰.png" width="50" height="50" alt="椰奶Yana-灵鱼椰-震惊椰"><img src="https://emoji.shojo.cn/bili/src/椰奶Yana_灵鱼椰/椰奶Yana-灵鱼椰-紧张椰.png" width="50" height="50" alt="椰奶Yana-灵鱼椰-紧张椰"><img src="https://emoji.shojo.cn/bili/src/椰奶Yana_灵鱼椰/椰奶Yana-灵鱼椰-难受椰.png" width="50" height="50" alt="椰奶Yana-灵鱼椰-难受椰"><img src="https://emoji.shojo.cn/bili/src/椰奶Yana_灵鱼椰/椰奶Yana-灵鱼椰-沉思椰.png" width="50" height="50" alt="椰奶Yana-灵鱼椰-沉思椰"><img src="https://emoji.shojo.cn/bili/src/椰奶Yana_灵鱼椰/椰奶Yana-灵鱼椰-怒了椰.png" width="50" height="50" alt="椰奶Yana-灵鱼椰-怒了椰"><img src="https://emoji.shojo.cn/bili/src/椰奶Yana_灵鱼椰/椰奶Yana-灵鱼椰-好冰椰.png" width="50" height="50" alt="椰奶Yana-灵鱼椰-好冰椰"><img src="https://emoji.shojo.cn/bili/src/椰奶Yana_灵鱼椰/椰奶Yana-灵鱼椰-困了椰.png" width="50" height="50" alt="椰奶Yana-灵鱼椰-困了椰"><img src="https://emoji.shojo.cn/bili/src/椰奶Yana_灵鱼椰/椰奶Yana-灵鱼椰-哎嘿椰.png" width="50" height="50" alt="椰奶Yana-灵鱼椰-哎嘿椰"><img src="https://emoji.shojo.cn/bili/src/椰奶Yana_灵鱼椰/椰奶Yana-灵鱼椰-兴奋椰.png" width="50" height="50" alt="椰奶Yana-灵鱼椰-兴奋椰"><img src="https://emoji.shojo.cn/bili/src/椰奶Yana_灵鱼椰/椰奶Yana-灵鱼椰-嫌弃椰.png" width="50" height="50" alt="椰奶Yana-灵鱼椰-嫌弃椰"><img src="https://emoji.shojo.cn/bili/src/椰奶Yana_灵鱼椰/椰奶Yana-灵鱼椰-那个椰.png" width="50" height="50" alt="椰奶Yana-灵鱼椰-那个椰"><img src="https://emoji.shojo.cn/bili/src/椰奶Yana_灵鱼椰/椰奶Yana-灵鱼椰-急了椰.png" width="50" height="50" alt="椰奶Yana-灵鱼椰-急了椰"><img src="https://emoji.shojo.cn/bili/src/椰奶Yana_灵鱼椰/椰奶Yana-灵鱼椰-嘣嘣椰.png" width="50" height="50" alt="椰奶Yana-灵鱼椰-嘣嘣椰"><img src="https://emoji.shojo.cn/bili/src/椰奶Yana_灵鱼椰/椰奶Yana-灵鱼椰-捧脸椰.png" width="50" height="50" alt="椰奶Yana-灵鱼椰-捧脸椰"><img src="https://emoji.shojo.cn/bili/src/椰奶Yana_灵鱼椰/椰奶Yana-灵鱼椰-对手椰.png" width="50" height="50" alt="椰奶Yana-灵鱼椰-对手椰"><img src="https://emoji.shojo.cn/bili/src/椰奶Yana_灵鱼椰/椰奶Yana-灵鱼椰-开吹椰.png" width="50" height="50" alt="椰奶Yana-灵鱼椰-开吹椰"><img src="https://emoji.shojo.cn/bili/src/椰奶Yana_灵鱼椰/椰奶Yana-灵鱼椰-好气椰.png" width="50" height="50" alt="椰奶Yana-灵鱼椰-好气椰"><img src="https://emoji.shojo.cn/bili/src/椰奶Yana_灵鱼椰/椰奶Yana-灵鱼椰-键盘椰.png" width="50" height="50" alt="椰奶Yana-灵鱼椰-键盘椰"><img src="https://emoji.shojo.cn/bili/src/椰奶Yana_灵鱼椰/椰奶Yana-灵鱼椰-觉觉椰.png" width="50" height="50" alt="椰奶Yana-灵鱼椰-觉觉椰"><img src="https://emoji.shojo.cn/bili/src/椰奶Yana_灵鱼椰/椰奶Yana-灵鱼椰-爆咯椰.png" width="50" height="50" alt="椰奶Yana-灵鱼椰-爆咯椰"><img src="https://emoji.shojo.cn/bili/src/椰奶Yana_灵鱼椰/椰奶Yana-灵鱼椰-摊手椰.png" width="50" height="50" alt="椰奶Yana-灵鱼椰-摊手椰"><img src="https://emoji.shojo.cn/bili/src/椰奶Yana_灵鱼椰/椰奶Yana-灵鱼椰-奶卡椰.png" width="50" height="50" alt="椰奶Yana-灵鱼椰-奶卡椰"><img src="https://emoji.shojo.cn/bili/src/椰奶Yana_灵鱼椰/椰奶Yana-灵鱼椰-奶呢椰.png" width="50" height="50" alt="椰奶Yana-灵鱼椰-奶呢椰"><img src="https://emoji.shojo.cn/bili/src/椰奶Yana_灵鱼椰/椰奶Yana-灵鱼椰-啊这椰.png" width="50" height="50" alt="椰奶Yana-灵鱼椰-啊这椰">
 
 ## 下载地址
 

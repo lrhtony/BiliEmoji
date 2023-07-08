@@ -8,31 +8,7 @@ https://emoji.shojo.cn/bili/src/新月冰冰!
 https://emoji.shojo.cn/bili/webp/新月冰冰!
 ```
 ## 展示
-<img src="https://emoji.shojo.cn/bili/src/新月冰冰!/新月冰冰!-奥利给.png" width="50" height="50" alt="新月冰冰!-奥利给">
-<img src="https://emoji.shojo.cn/bili/src/新月冰冰!/新月冰冰!-达咩.png" width="50" height="50" alt="新月冰冰!-达咩">
-<img src="https://emoji.shojo.cn/bili/src/新月冰冰!/新月冰冰!-对手指.png" width="50" height="50" alt="新月冰冰!-对手指">
-<img src="https://emoji.shojo.cn/bili/src/新月冰冰!/新月冰冰!-失魂.png" width="50" height="50" alt="新月冰冰!-失魂">
-<img src="https://emoji.shojo.cn/bili/src/新月冰冰!/新月冰冰!-问号.png" width="50" height="50" alt="新月冰冰!-问号">
-<img src="https://emoji.shojo.cn/bili/src/新月冰冰!/新月冰冰!-掀桌.png" width="50" height="50" alt="新月冰冰!-掀桌">
-<img src="https://emoji.shojo.cn/bili/src/新月冰冰!/新月冰冰!-心脏骤停.png" width="50" height="50" alt="新月冰冰!-心脏骤停">
-<img src="https://emoji.shojo.cn/bili/src/新月冰冰!/新月冰冰!-加油.png" width="50" height="50" alt="新月冰冰!-加油">
-<img src="https://emoji.shojo.cn/bili/src/新月冰冰!/新月冰冰!-比心.png" width="50" height="50" alt="新月冰冰!-比心">
-<img src="https://emoji.shojo.cn/bili/src/新月冰冰!/新月冰冰!-不可以色色.png" width="50" height="50" alt="新月冰冰!-不可以色色">
-<img src="https://emoji.shojo.cn/bili/src/新月冰冰!/新月冰冰!-大哭.png" width="50" height="50" alt="新月冰冰!-大哭">
-<img src="https://emoji.shojo.cn/bili/src/新月冰冰!/新月冰冰!-单推.png" width="50" height="50" alt="新月冰冰!-单推">
-<img src="https://emoji.shojo.cn/bili/src/新月冰冰!/新月冰冰!-诶嘿.png" width="50" height="50" alt="新月冰冰!-诶嘿">
-<img src="https://emoji.shojo.cn/bili/src/新月冰冰!/新月冰冰!-给花花.png" width="50" height="50" alt="新月冰冰!-给花花">
-<img src="https://emoji.shojo.cn/bili/src/新月冰冰!/新月冰冰!-滑稽.png" width="50" height="50" alt="新月冰冰!-滑稽">
-<img src="https://emoji.shojo.cn/bili/src/新月冰冰!/新月冰冰!-举杯浇愁.png" width="50" height="50" alt="新月冰冰!-举杯浇愁">
-<img src="https://emoji.shojo.cn/bili/src/新月冰冰!/新月冰冰!-开车.png" width="50" height="50" alt="新月冰冰!-开车">
-<img src="https://emoji.shojo.cn/bili/src/新月冰冰!/新月冰冰!-开心.png" width="50" height="50" alt="新月冰冰!-开心">
-<img src="https://emoji.shojo.cn/bili/src/新月冰冰!/新月冰冰!-起床.png" width="50" height="50" alt="新月冰冰!-起床">
-<img src="https://emoji.shojo.cn/bili/src/新月冰冰!/新月冰冰!-穷醒.png" width="50" height="50" alt="新月冰冰!-穷醒">
-<img src="https://emoji.shojo.cn/bili/src/新月冰冰!/新月冰冰!-生气.png" width="50" height="50" alt="新月冰冰!-生气">
-<img src="https://emoji.shojo.cn/bili/src/新月冰冰!/新月冰冰!-谢谢老板.png" width="50" height="50" alt="新月冰冰!-谢谢老板">
-<img src="https://emoji.shojo.cn/bili/src/新月冰冰!/新月冰冰!-优雅.png" width="50" height="50" alt="新月冰冰!-优雅">
-<img src="https://emoji.shojo.cn/bili/src/新月冰冰!/新月冰冰!-早安晚安.png" width="50" height="50" alt="新月冰冰!-早安晚安">
-<img src="https://emoji.shojo.cn/bili/src/新月冰冰!/新月冰冰!-kira.png" width="50" height="50" alt="新月冰冰!-kira">
+<img src="https://emoji.shojo.cn/bili/src/新月冰冰!/新月冰冰!-奥利给.png" width="50" height="50" alt="新月冰冰!-奥利给"><img src="https://emoji.shojo.cn/bili/src/新月冰冰!/新月冰冰!-达咩.png" width="50" height="50" alt="新月冰冰!-达咩"><img src="https://emoji.shojo.cn/bili/src/新月冰冰!/新月冰冰!-对手指.png" width="50" height="50" alt="新月冰冰!-对手指"><img src="https://emoji.shojo.cn/bili/src/新月冰冰!/新月冰冰!-失魂.png" width="50" height="50" alt="新月冰冰!-失魂"><img src="https://emoji.shojo.cn/bili/src/新月冰冰!/新月冰冰!-问号.png" width="50" height="50" alt="新月冰冰!-问号"><img src="https://emoji.shojo.cn/bili/src/新月冰冰!/新月冰冰!-掀桌.png" width="50" height="50" alt="新月冰冰!-掀桌"><img src="https://emoji.shojo.cn/bili/src/新月冰冰!/新月冰冰!-心脏骤停.png" width="50" height="50" alt="新月冰冰!-心脏骤停"><img src="https://emoji.shojo.cn/bili/src/新月冰冰!/新月冰冰!-加油.png" width="50" height="50" alt="新月冰冰!-加油"><img src="https://emoji.shojo.cn/bili/src/新月冰冰!/新月冰冰!-比心.png" width="50" height="50" alt="新月冰冰!-比心"><img src="https://emoji.shojo.cn/bili/src/新月冰冰!/新月冰冰!-不可以色色.png" width="50" height="50" alt="新月冰冰!-不可以色色"><img src="https://emoji.shojo.cn/bili/src/新月冰冰!/新月冰冰!-大哭.png" width="50" height="50" alt="新月冰冰!-大哭"><img src="https://emoji.shojo.cn/bili/src/新月冰冰!/新月冰冰!-单推.png" width="50" height="50" alt="新月冰冰!-单推"><img src="https://emoji.shojo.cn/bili/src/新月冰冰!/新月冰冰!-诶嘿.png" width="50" height="50" alt="新月冰冰!-诶嘿"><img src="https://emoji.shojo.cn/bili/src/新月冰冰!/新月冰冰!-给花花.png" width="50" height="50" alt="新月冰冰!-给花花"><img src="https://emoji.shojo.cn/bili/src/新月冰冰!/新月冰冰!-滑稽.png" width="50" height="50" alt="新月冰冰!-滑稽"><img src="https://emoji.shojo.cn/bili/src/新月冰冰!/新月冰冰!-举杯浇愁.png" width="50" height="50" alt="新月冰冰!-举杯浇愁"><img src="https://emoji.shojo.cn/bili/src/新月冰冰!/新月冰冰!-开车.png" width="50" height="50" alt="新月冰冰!-开车"><img src="https://emoji.shojo.cn/bili/src/新月冰冰!/新月冰冰!-开心.png" width="50" height="50" alt="新月冰冰!-开心"><img src="https://emoji.shojo.cn/bili/src/新月冰冰!/新月冰冰!-起床.png" width="50" height="50" alt="新月冰冰!-起床"><img src="https://emoji.shojo.cn/bili/src/新月冰冰!/新月冰冰!-穷醒.png" width="50" height="50" alt="新月冰冰!-穷醒"><img src="https://emoji.shojo.cn/bili/src/新月冰冰!/新月冰冰!-生气.png" width="50" height="50" alt="新月冰冰!-生气"><img src="https://emoji.shojo.cn/bili/src/新月冰冰!/新月冰冰!-谢谢老板.png" width="50" height="50" alt="新月冰冰!-谢谢老板"><img src="https://emoji.shojo.cn/bili/src/新月冰冰!/新月冰冰!-优雅.png" width="50" height="50" alt="新月冰冰!-优雅"><img src="https://emoji.shojo.cn/bili/src/新月冰冰!/新月冰冰!-早安晚安.png" width="50" height="50" alt="新月冰冰!-早安晚安"><img src="https://emoji.shojo.cn/bili/src/新月冰冰!/新月冰冰!-kira.png" width="50" height="50" alt="新月冰冰!-kira">
 
 ## 下载地址
 

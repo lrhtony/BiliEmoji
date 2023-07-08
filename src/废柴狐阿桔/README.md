@@ -8,31 +8,7 @@ https://emoji.shojo.cn/bili/src/废柴狐阿桔
 https://emoji.shojo.cn/bili/webp/废柴狐阿桔
 ```
 ## 展示
-<img src="https://emoji.shojo.cn/bili/src/废柴狐阿桔/废柴狐阿桔-抱大腿.png" width="50" height="50" alt="废柴狐阿桔-抱大腿">
-<img src="https://emoji.shojo.cn/bili/src/废柴狐阿桔/废柴狐阿桔-苟住.png" width="50" height="50" alt="废柴狐阿桔-苟住">
-<img src="https://emoji.shojo.cn/bili/src/废柴狐阿桔/废柴狐阿桔-摸摸.png" width="50" height="50" alt="废柴狐阿桔-摸摸">
-<img src="https://emoji.shojo.cn/bili/src/废柴狐阿桔/废柴狐阿桔-委屈屈.png" width="50" height="50" alt="废柴狐阿桔-委屈屈">
-<img src="https://emoji.shojo.cn/bili/src/废柴狐阿桔/废柴狐阿桔-疑问.png" width="50" height="50" alt="废柴狐阿桔-疑问">
-<img src="https://emoji.shojo.cn/bili/src/废柴狐阿桔/废柴狐阿桔-悠闲.png" width="50" height="50" alt="废柴狐阿桔-悠闲">
-<img src="https://emoji.shojo.cn/bili/src/废柴狐阿桔/废柴狐阿桔-啊对对对.png" width="50" height="50" alt="废柴狐阿桔-啊对对对">
-<img src="https://emoji.shojo.cn/bili/src/废柴狐阿桔/废柴狐阿桔-吃瓜.png" width="50" height="50" alt="废柴狐阿桔-吃瓜">
-<img src="https://emoji.shojo.cn/bili/src/废柴狐阿桔/废柴狐阿桔-出来挨打.png" width="50" height="50" alt="废柴狐阿桔-出来挨打">
-<img src="https://emoji.shojo.cn/bili/src/废柴狐阿桔/废柴狐阿桔-诶？.png" width="50" height="50" alt="废柴狐阿桔-诶？">
-<img src="https://emoji.shojo.cn/bili/src/废柴狐阿桔/废柴狐阿桔-发达啦.png" width="50" height="50" alt="废柴狐阿桔-发达啦">
-<img src="https://emoji.shojo.cn/bili/src/废柴狐阿桔/废柴狐阿桔-关门放狗.png" width="50" height="50" alt="废柴狐阿桔-关门放狗">
-<img src="https://emoji.shojo.cn/bili/src/废柴狐阿桔/废柴狐阿桔-掀桌.png" width="50" height="50" alt="废柴狐阿桔-掀桌">
-<img src="https://emoji.shojo.cn/bili/src/废柴狐阿桔/废柴狐阿桔-啦啦啦.png" width="50" height="50" alt="废柴狐阿桔-啦啦啦">
-<img src="https://emoji.shojo.cn/bili/src/废柴狐阿桔/废柴狐阿桔-让你得瑟.png" width="50" height="50" alt="废柴狐阿桔-让你得瑟">
-<img src="https://emoji.shojo.cn/bili/src/废柴狐阿桔/废柴狐阿桔-思考.png" width="50" height="50" alt="废柴狐阿桔-思考">
-<img src="https://emoji.shojo.cn/bili/src/废柴狐阿桔/废柴狐阿桔-贴贴.png" width="50" height="50" alt="废柴狐阿桔-贴贴">
-<img src="https://emoji.shojo.cn/bili/src/废柴狐阿桔/废柴狐阿桔-晚安.png" width="50" height="50" alt="废柴狐阿桔-晚安">
-<img src="https://emoji.shojo.cn/bili/src/废柴狐阿桔/废柴狐阿桔-围观.png" width="50" height="50" alt="废柴狐阿桔-围观">
-<img src="https://emoji.shojo.cn/bili/src/废柴狐阿桔/废柴狐阿桔-一本正经.png" width="50" height="50" alt="废柴狐阿桔-一本正经">
-<img src="https://emoji.shojo.cn/bili/src/废柴狐阿桔/废柴狐阿桔-咦惹.png" width="50" height="50" alt="废柴狐阿桔-咦惹">
-<img src="https://emoji.shojo.cn/bili/src/废柴狐阿桔/废柴狐阿桔-真香.png" width="50" height="50" alt="废柴狐阿桔-真香">
-<img src="https://emoji.shojo.cn/bili/src/废柴狐阿桔/废柴狐阿桔-屈服.png" width="50" height="50" alt="废柴狐阿桔-屈服">
-<img src="https://emoji.shojo.cn/bili/src/废柴狐阿桔/废柴狐阿桔-AWSL.png" width="50" height="50" alt="废柴狐阿桔-AWSL">
-<img src="https://emoji.shojo.cn/bili/src/废柴狐阿桔/废柴狐阿桔-吃土.png" width="50" height="50" alt="废柴狐阿桔-吃土">
+<img src="https://emoji.shojo.cn/bili/src/废柴狐阿桔/废柴狐阿桔-抱大腿.png" width="50" height="50" alt="废柴狐阿桔-抱大腿"><img src="https://emoji.shojo.cn/bili/src/废柴狐阿桔/废柴狐阿桔-苟住.png" width="50" height="50" alt="废柴狐阿桔-苟住"><img src="https://emoji.shojo.cn/bili/src/废柴狐阿桔/废柴狐阿桔-摸摸.png" width="50" height="50" alt="废柴狐阿桔-摸摸"><img src="https://emoji.shojo.cn/bili/src/废柴狐阿桔/废柴狐阿桔-委屈屈.png" width="50" height="50" alt="废柴狐阿桔-委屈屈"><img src="https://emoji.shojo.cn/bili/src/废柴狐阿桔/废柴狐阿桔-疑问.png" width="50" height="50" alt="废柴狐阿桔-疑问"><img src="https://emoji.shojo.cn/bili/src/废柴狐阿桔/废柴狐阿桔-悠闲.png" width="50" height="50" alt="废柴狐阿桔-悠闲"><img src="https://emoji.shojo.cn/bili/src/废柴狐阿桔/废柴狐阿桔-啊对对对.png" width="50" height="50" alt="废柴狐阿桔-啊对对对"><img src="https://emoji.shojo.cn/bili/src/废柴狐阿桔/废柴狐阿桔-吃瓜.png" width="50" height="50" alt="废柴狐阿桔-吃瓜"><img src="https://emoji.shojo.cn/bili/src/废柴狐阿桔/废柴狐阿桔-出来挨打.png" width="50" height="50" alt="废柴狐阿桔-出来挨打"><img src="https://emoji.shojo.cn/bili/src/废柴狐阿桔/废柴狐阿桔-诶？.png" width="50" height="50" alt="废柴狐阿桔-诶？"><img src="https://emoji.shojo.cn/bili/src/废柴狐阿桔/废柴狐阿桔-发达啦.png" width="50" height="50" alt="废柴狐阿桔-发达啦"><img src="https://emoji.shojo.cn/bili/src/废柴狐阿桔/废柴狐阿桔-关门放狗.png" width="50" height="50" alt="废柴狐阿桔-关门放狗"><img src="https://emoji.shojo.cn/bili/src/废柴狐阿桔/废柴狐阿桔-掀桌.png" width="50" height="50" alt="废柴狐阿桔-掀桌"><img src="https://emoji.shojo.cn/bili/src/废柴狐阿桔/废柴狐阿桔-啦啦啦.png" width="50" height="50" alt="废柴狐阿桔-啦啦啦"><img src="https://emoji.shojo.cn/bili/src/废柴狐阿桔/废柴狐阿桔-让你得瑟.png" width="50" height="50" alt="废柴狐阿桔-让你得瑟"><img src="https://emoji.shojo.cn/bili/src/废柴狐阿桔/废柴狐阿桔-思考.png" width="50" height="50" alt="废柴狐阿桔-思考"><img src="https://emoji.shojo.cn/bili/src/废柴狐阿桔/废柴狐阿桔-贴贴.png" width="50" height="50" alt="废柴狐阿桔-贴贴"><img src="https://emoji.shojo.cn/bili/src/废柴狐阿桔/废柴狐阿桔-晚安.png" width="50" height="50" alt="废柴狐阿桔-晚安"><img src="https://emoji.shojo.cn/bili/src/废柴狐阿桔/废柴狐阿桔-围观.png" width="50" height="50" alt="废柴狐阿桔-围观"><img src="https://emoji.shojo.cn/bili/src/废柴狐阿桔/废柴狐阿桔-一本正经.png" width="50" height="50" alt="废柴狐阿桔-一本正经"><img src="https://emoji.shojo.cn/bili/src/废柴狐阿桔/废柴狐阿桔-咦惹.png" width="50" height="50" alt="废柴狐阿桔-咦惹"><img src="https://emoji.shojo.cn/bili/src/废柴狐阿桔/废柴狐阿桔-真香.png" width="50" height="50" alt="废柴狐阿桔-真香"><img src="https://emoji.shojo.cn/bili/src/废柴狐阿桔/废柴狐阿桔-屈服.png" width="50" height="50" alt="废柴狐阿桔-屈服"><img src="https://emoji.shojo.cn/bili/src/废柴狐阿桔/废柴狐阿桔-AWSL.png" width="50" height="50" alt="废柴狐阿桔-AWSL"><img src="https://emoji.shojo.cn/bili/src/废柴狐阿桔/废柴狐阿桔-吃土.png" width="50" height="50" alt="废柴狐阿桔-吃土">
 
 ## 下载地址
 

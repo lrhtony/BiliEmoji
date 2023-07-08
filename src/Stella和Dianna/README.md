@@ -8,33 +8,7 @@ https://emoji.shojo.cn/bili/src/Stella和Dianna
 https://emoji.shojo.cn/bili/webp/Stella和Dianna
 ```
 ## 展示
-<img src="https://emoji.shojo.cn/bili/src/Stella和Dianna/Stella和Dianna-震惊.png" width="50" height="50" alt="Stella和Dianna-震惊">
-<img src="https://emoji.shojo.cn/bili/src/Stella和Dianna/Stella和Dianna-花痴脸.png" width="50" height="50" alt="Stella和Dianna-花痴脸">
-<img src="https://emoji.shojo.cn/bili/src/Stella和Dianna/Stella和Dianna-撒花.png" width="50" height="50" alt="Stella和Dianna-撒花">
-<img src="https://emoji.shojo.cn/bili/src/Stella和Dianna/Stella和Dianna-微笑.png" width="50" height="50" alt="Stella和Dianna-微笑">
-<img src="https://emoji.shojo.cn/bili/src/Stella和Dianna/Stella和Dianna-生气.png" width="50" height="50" alt="Stella和Dianna-生气">
-<img src="https://emoji.shojo.cn/bili/src/Stella和Dianna/Stella和Dianna-哈哈哈.png" width="50" height="50" alt="Stella和Dianna-哈哈哈">
-<img src="https://emoji.shojo.cn/bili/src/Stella和Dianna/Stella和Dianna-没钱.png" width="50" height="50" alt="Stella和Dianna-没钱">
-<img src="https://emoji.shojo.cn/bili/src/Stella和Dianna/Stella和Dianna-喜欢.png" width="50" height="50" alt="Stella和Dianna-喜欢">
-<img src="https://emoji.shojo.cn/bili/src/Stella和Dianna/Stella和Dianna-扶墙.png" width="50" height="50" alt="Stella和Dianna-扶墙">
-<img src="https://emoji.shojo.cn/bili/src/Stella和Dianna/Stella和Dianna-赞.png" width="50" height="50" alt="Stella和Dianna-赞">
-<img src="https://emoji.shojo.cn/bili/src/Stella和Dianna/Stella和Dianna-脸红.png" width="50" height="50" alt="Stella和Dianna-脸红">
-<img src="https://emoji.shojo.cn/bili/src/Stella和Dianna/Stella和Dianna-问号.png" width="50" height="50" alt="Stella和Dianna-问号">
-<img src="https://emoji.shojo.cn/bili/src/Stella和Dianna/Stella和Dianna-emmm.png" width="50" height="50" alt="Stella和Dianna-emmm">
-<img src="https://emoji.shojo.cn/bili/src/Stella和Dianna/Stella和Dianna-OKAY.png" width="50" height="50" alt="Stella和Dianna-OKAY">
-<img src="https://emoji.shojo.cn/bili/src/Stella和Dianna/Stella和Dianna-暗中观察.png" width="50" height="50" alt="Stella和Dianna-暗中观察">
-<img src="https://emoji.shojo.cn/bili/src/Stella和Dianna/Stella和Dianna-给你心心.png" width="50" height="50" alt="Stella和Dianna-给你心心">
-<img src="https://emoji.shojo.cn/bili/src/Stella和Dianna/Stella和Dianna-仙女棒.png" width="50" height="50" alt="Stella和Dianna-仙女棒">
-<img src="https://emoji.shojo.cn/bili/src/Stella和Dianna/Stella和Dianna-冲呀.png" width="50" height="50" alt="Stella和Dianna-冲呀">
-<img src="https://emoji.shojo.cn/bili/src/Stella和Dianna/Stella和Dianna-爱心+1.png" width="50" height="50" alt="Stella和Dianna-爱心+1">
-<img src="https://emoji.shojo.cn/bili/src/Stella和Dianna/Stella和Dianna-心碎.png" width="50" height="50" alt="Stella和Dianna-心碎">
-<img src="https://emoji.shojo.cn/bili/src/Stella和Dianna/Stella和Dianna-石化.png" width="50" height="50" alt="Stella和Dianna-石化">
-<img src="https://emoji.shojo.cn/bili/src/Stella和Dianna/Stella和Dianna-耶.png" width="50" height="50" alt="Stella和Dianna-耶">
-<img src="https://emoji.shojo.cn/bili/src/Stella和Dianna/Stella和Dianna-帅.png" width="50" height="50" alt="Stella和Dianna-帅">
-<img src="https://emoji.shojo.cn/bili/src/Stella和Dianna/Stella和Dianna-什么？！.png" width="50" height="50" alt="Stella和Dianna-什么？！">
-<img src="https://emoji.shojo.cn/bili/src/Stella和Dianna/Stella和Dianna-绝望.png" width="50" height="50" alt="Stella和Dianna-绝望">
-<img src="https://emoji.shojo.cn/bili/src/Stella和Dianna/Stella和Dianna-酷.png" width="50" height="50" alt="Stella和Dianna-酷">
-<img src="https://emoji.shojo.cn/bili/src/Stella和Dianna/Stella和Dianna-学习.png" width="50" height="50" alt="Stella和Dianna-学习">
+<img src="https://emoji.shojo.cn/bili/src/Stella和Dianna/Stella和Dianna-震惊.png" width="50" height="50" alt="Stella和Dianna-震惊"><img src="https://emoji.shojo.cn/bili/src/Stella和Dianna/Stella和Dianna-花痴脸.png" width="50" height="50" alt="Stella和Dianna-花痴脸"><img src="https://emoji.shojo.cn/bili/src/Stella和Dianna/Stella和Dianna-撒花.png" width="50" height="50" alt="Stella和Dianna-撒花"><img src="https://emoji.shojo.cn/bili/src/Stella和Dianna/Stella和Dianna-微笑.png" width="50" height="50" alt="Stella和Dianna-微笑"><img src="https://emoji.shojo.cn/bili/src/Stella和Dianna/Stella和Dianna-生气.png" width="50" height="50" alt="Stella和Dianna-生气"><img src="https://emoji.shojo.cn/bili/src/Stella和Dianna/Stella和Dianna-哈哈哈.png" width="50" height="50" alt="Stella和Dianna-哈哈哈"><img src="https://emoji.shojo.cn/bili/src/Stella和Dianna/Stella和Dianna-没钱.png" width="50" height="50" alt="Stella和Dianna-没钱"><img src="https://emoji.shojo.cn/bili/src/Stella和Dianna/Stella和Dianna-喜欢.png" width="50" height="50" alt="Stella和Dianna-喜欢"><img src="https://emoji.shojo.cn/bili/src/Stella和Dianna/Stella和Dianna-扶墙.png" width="50" height="50" alt="Stella和Dianna-扶墙"><img src="https://emoji.shojo.cn/bili/src/Stella和Dianna/Stella和Dianna-赞.png" width="50" height="50" alt="Stella和Dianna-赞"><img src="https://emoji.shojo.cn/bili/src/Stella和Dianna/Stella和Dianna-脸红.png" width="50" height="50" alt="Stella和Dianna-脸红"><img src="https://emoji.shojo.cn/bili/src/Stella和Dianna/Stella和Dianna-问号.png" width="50" height="50" alt="Stella和Dianna-问号"><img src="https://emoji.shojo.cn/bili/src/Stella和Dianna/Stella和Dianna-emmm.png" width="50" height="50" alt="Stella和Dianna-emmm"><img src="https://emoji.shojo.cn/bili/src/Stella和Dianna/Stella和Dianna-OKAY.png" width="50" height="50" alt="Stella和Dianna-OKAY"><img src="https://emoji.shojo.cn/bili/src/Stella和Dianna/Stella和Dianna-暗中观察.png" width="50" height="50" alt="Stella和Dianna-暗中观察"><img src="https://emoji.shojo.cn/bili/src/Stella和Dianna/Stella和Dianna-给你心心.png" width="50" height="50" alt="Stella和Dianna-给你心心"><img src="https://emoji.shojo.cn/bili/src/Stella和Dianna/Stella和Dianna-仙女棒.png" width="50" height="50" alt="Stella和Dianna-仙女棒"><img src="https://emoji.shojo.cn/bili/src/Stella和Dianna/Stella和Dianna-冲呀.png" width="50" height="50" alt="Stella和Dianna-冲呀"><img src="https://emoji.shojo.cn/bili/src/Stella和Dianna/Stella和Dianna-爱心+1.png" width="50" height="50" alt="Stella和Dianna-爱心+1"><img src="https://emoji.shojo.cn/bili/src/Stella和Dianna/Stella和Dianna-心碎.png" width="50" height="50" alt="Stella和Dianna-心碎"><img src="https://emoji.shojo.cn/bili/src/Stella和Dianna/Stella和Dianna-石化.png" width="50" height="50" alt="Stella和Dianna-石化"><img src="https://emoji.shojo.cn/bili/src/Stella和Dianna/Stella和Dianna-耶.png" width="50" height="50" alt="Stella和Dianna-耶"><img src="https://emoji.shojo.cn/bili/src/Stella和Dianna/Stella和Dianna-帅.png" width="50" height="50" alt="Stella和Dianna-帅"><img src="https://emoji.shojo.cn/bili/src/Stella和Dianna/Stella和Dianna-什么？！.png" width="50" height="50" alt="Stella和Dianna-什么？！"><img src="https://emoji.shojo.cn/bili/src/Stella和Dianna/Stella和Dianna-绝望.png" width="50" height="50" alt="Stella和Dianna-绝望"><img src="https://emoji.shojo.cn/bili/src/Stella和Dianna/Stella和Dianna-酷.png" width="50" height="50" alt="Stella和Dianna-酷"><img src="https://emoji.shojo.cn/bili/src/Stella和Dianna/Stella和Dianna-学习.png" width="50" height="50" alt="Stella和Dianna-学习">
 
 ## 下载地址
 

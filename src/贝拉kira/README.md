@@ -8,31 +8,7 @@ https://emoji.shojo.cn/bili/src/贝拉kira
 https://emoji.shojo.cn/bili/webp/贝拉kira
 ```
 ## 展示
-<img src="https://emoji.shojo.cn/bili/src/贝拉kira/贝拉kira-OK.png" width="50" height="50" alt="贝拉kira-OK">
-<img src="https://emoji.shojo.cn/bili/src/贝拉kira/贝拉kira-拜托.png" width="50" height="50" alt="贝拉kira-拜托">
-<img src="https://emoji.shojo.cn/bili/src/贝拉kira/贝拉kira-贝式疑问.png" width="50" height="50" alt="贝拉kira-贝式疑问">
-<img src="https://emoji.shojo.cn/bili/src/贝拉kira/贝拉kira-笔芯.png" width="50" height="50" alt="贝拉kira-笔芯">
-<img src="https://emoji.shojo.cn/bili/src/贝拉kira/贝拉kira-别爱我.png" width="50" height="50" alt="贝拉kira-别爱我">
-<img src="https://emoji.shojo.cn/bili/src/贝拉kira/贝拉kira-别偷懒.png" width="50" height="50" alt="贝拉kira-别偷懒">
-<img src="https://emoji.shojo.cn/bili/src/贝拉kira/贝拉kira-不会吧.png" width="50" height="50" alt="贝拉kira-不会吧">
-<img src="https://emoji.shojo.cn/bili/src/贝拉kira/贝拉kira-吃我贝极拳.png" width="50" height="50" alt="贝拉kira-吃我贝极拳">
-<img src="https://emoji.shojo.cn/bili/src/贝拉kira/贝拉kira-给我出去.png" width="50" height="50" alt="贝拉kira-给我出去">
-<img src="https://emoji.shojo.cn/bili/src/贝拉kira/贝拉kira-汗.png" width="50" height="50" alt="贝拉kira-汗">
-<img src="https://emoji.shojo.cn/bili/src/贝拉kira/贝拉kira-哼哼.png" width="50" height="50" alt="贝拉kira-哼哼">
-<img src="https://emoji.shojo.cn/bili/src/贝拉kira/贝拉kira-加油.png" width="50" height="50" alt="贝拉kira-加油">
-<img src="https://emoji.shojo.cn/bili/src/贝拉kira/贝拉kira-开心到劈叉.png" width="50" height="50" alt="贝拉kira-开心到劈叉">
-<img src="https://emoji.shojo.cn/bili/src/贝拉kira/贝拉kira-看我可爱吗.png" width="50" height="50" alt="贝拉kira-看我可爱吗">
-<img src="https://emoji.shojo.cn/bili/src/贝拉kira/贝拉kira-累趴.png" width="50" height="50" alt="贝拉kira-累趴">
-<img src="https://emoji.shojo.cn/bili/src/贝拉kira/贝拉kira-送你小花花.png" width="50" height="50" alt="贝拉kira-送你小花花">
-<img src="https://emoji.shojo.cn/bili/src/贝拉kira/贝拉kira-王之蔑视.png" width="50" height="50" alt="贝拉kira-王之蔑视">
-<img src="https://emoji.shojo.cn/bili/src/贝拉kira/贝拉kira-我晕了.png" width="50" height="50" alt="贝拉kira-我晕了">
-<img src="https://emoji.shojo.cn/bili/src/贝拉kira/贝拉kira-在吗在吗.png" width="50" height="50" alt="贝拉kira-在吗在吗">
-<img src="https://emoji.shojo.cn/bili/src/贝拉kira/贝拉kira-这题我会.png" width="50" height="50" alt="贝拉kira-这题我会">
-<img src="https://emoji.shojo.cn/bili/src/贝拉kira/贝拉kira-sorry.png" width="50" height="50" alt="贝拉kira-sorry">
-<img src="https://emoji.shojo.cn/bili/src/贝拉kira/贝拉kira-芭蕾.png" width="50" height="50" alt="贝拉kira-芭蕾">
-<img src="https://emoji.shojo.cn/bili/src/贝拉kira/贝拉kira-贝极星.png" width="50" height="50" alt="贝拉kira-贝极星">
-<img src="https://emoji.shojo.cn/bili/src/贝拉kira/贝拉kira-拖拉机下山.png" width="50" height="50" alt="贝拉kira-拖拉机下山">
-<img src="https://emoji.shojo.cn/bili/src/贝拉kira/贝拉kira-我们是.png" width="50" height="50" alt="贝拉kira-我们是">
+<img src="https://emoji.shojo.cn/bili/src/贝拉kira/贝拉kira-OK.png" width="50" height="50" alt="贝拉kira-OK"><img src="https://emoji.shojo.cn/bili/src/贝拉kira/贝拉kira-拜托.png" width="50" height="50" alt="贝拉kira-拜托"><img src="https://emoji.shojo.cn/bili/src/贝拉kira/贝拉kira-贝式疑问.png" width="50" height="50" alt="贝拉kira-贝式疑问"><img src="https://emoji.shojo.cn/bili/src/贝拉kira/贝拉kira-笔芯.png" width="50" height="50" alt="贝拉kira-笔芯"><img src="https://emoji.shojo.cn/bili/src/贝拉kira/贝拉kira-别爱我.png" width="50" height="50" alt="贝拉kira-别爱我"><img src="https://emoji.shojo.cn/bili/src/贝拉kira/贝拉kira-别偷懒.png" width="50" height="50" alt="贝拉kira-别偷懒"><img src="https://emoji.shojo.cn/bili/src/贝拉kira/贝拉kira-不会吧.png" width="50" height="50" alt="贝拉kira-不会吧"><img src="https://emoji.shojo.cn/bili/src/贝拉kira/贝拉kira-吃我贝极拳.png" width="50" height="50" alt="贝拉kira-吃我贝极拳"><img src="https://emoji.shojo.cn/bili/src/贝拉kira/贝拉kira-给我出去.png" width="50" height="50" alt="贝拉kira-给我出去"><img src="https://emoji.shojo.cn/bili/src/贝拉kira/贝拉kira-汗.png" width="50" height="50" alt="贝拉kira-汗"><img src="https://emoji.shojo.cn/bili/src/贝拉kira/贝拉kira-哼哼.png" width="50" height="50" alt="贝拉kira-哼哼"><img src="https://emoji.shojo.cn/bili/src/贝拉kira/贝拉kira-加油.png" width="50" height="50" alt="贝拉kira-加油"><img src="https://emoji.shojo.cn/bili/src/贝拉kira/贝拉kira-开心到劈叉.png" width="50" height="50" alt="贝拉kira-开心到劈叉"><img src="https://emoji.shojo.cn/bili/src/贝拉kira/贝拉kira-看我可爱吗.png" width="50" height="50" alt="贝拉kira-看我可爱吗"><img src="https://emoji.shojo.cn/bili/src/贝拉kira/贝拉kira-累趴.png" width="50" height="50" alt="贝拉kira-累趴"><img src="https://emoji.shojo.cn/bili/src/贝拉kira/贝拉kira-送你小花花.png" width="50" height="50" alt="贝拉kira-送你小花花"><img src="https://emoji.shojo.cn/bili/src/贝拉kira/贝拉kira-王之蔑视.png" width="50" height="50" alt="贝拉kira-王之蔑视"><img src="https://emoji.shojo.cn/bili/src/贝拉kira/贝拉kira-我晕了.png" width="50" height="50" alt="贝拉kira-我晕了"><img src="https://emoji.shojo.cn/bili/src/贝拉kira/贝拉kira-在吗在吗.png" width="50" height="50" alt="贝拉kira-在吗在吗"><img src="https://emoji.shojo.cn/bili/src/贝拉kira/贝拉kira-这题我会.png" width="50" height="50" alt="贝拉kira-这题我会"><img src="https://emoji.shojo.cn/bili/src/贝拉kira/贝拉kira-sorry.png" width="50" height="50" alt="贝拉kira-sorry"><img src="https://emoji.shojo.cn/bili/src/贝拉kira/贝拉kira-芭蕾.png" width="50" height="50" alt="贝拉kira-芭蕾"><img src="https://emoji.shojo.cn/bili/src/贝拉kira/贝拉kira-贝极星.png" width="50" height="50" alt="贝拉kira-贝极星"><img src="https://emoji.shojo.cn/bili/src/贝拉kira/贝拉kira-拖拉机下山.png" width="50" height="50" alt="贝拉kira-拖拉机下山"><img src="https://emoji.shojo.cn/bili/src/贝拉kira/贝拉kira-我们是.png" width="50" height="50" alt="贝拉kira-我们是">
 
 ## 下载地址
 

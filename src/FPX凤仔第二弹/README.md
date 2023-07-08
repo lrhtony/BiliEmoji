@@ -8,30 +8,7 @@ https://emoji.shojo.cn/bili/src/FPX凤仔第二弹
 https://emoji.shojo.cn/bili/webp/FPX凤仔第二弹
 ```
 ## 展示
-<img src="https://emoji.shojo.cn/bili/src/FPX凤仔第二弹/FPX凤仔第二弹-武运昌隆.png" width="50" height="50" alt="FPX凤仔第二弹-武运昌隆">
-<img src="https://emoji.shojo.cn/bili/src/FPX凤仔第二弹/FPX凤仔第二弹-嗨起来.png" width="50" height="50" alt="FPX凤仔第二弹-嗨起来">
-<img src="https://emoji.shojo.cn/bili/src/FPX凤仔第二弹/FPX凤仔第二弹-OK.png" width="50" height="50" alt="FPX凤仔第二弹-OK">
-<img src="https://emoji.shojo.cn/bili/src/FPX凤仔第二弹/FPX凤仔第二弹-起飞.png" width="50" height="50" alt="FPX凤仔第二弹-起飞">
-<img src="https://emoji.shojo.cn/bili/src/FPX凤仔第二弹/FPX凤仔第二弹-制冷.png" width="50" height="50" alt="FPX凤仔第二弹-制冷">
-<img src="https://emoji.shojo.cn/bili/src/FPX凤仔第二弹/FPX凤仔第二弹-凤一其随.png" width="50" height="50" alt="FPX凤仔第二弹-凤一其随">
-<img src="https://emoji.shojo.cn/bili/src/FPX凤仔第二弹/FPX凤仔第二弹-干杯.png" width="50" height="50" alt="FPX凤仔第二弹-干杯">
-<img src="https://emoji.shojo.cn/bili/src/FPX凤仔第二弹/FPX凤仔第二弹-big胆.png" width="50" height="50" alt="FPX凤仔第二弹-big胆">
-<img src="https://emoji.shojo.cn/bili/src/FPX凤仔第二弹/FPX凤仔第二弹-打扰了.png" width="50" height="50" alt="FPX凤仔第二弹-打扰了">
-<img src="https://emoji.shojo.cn/bili/src/FPX凤仔第二弹/FPX凤仔第二弹-格局小了.png" width="50" height="50" alt="FPX凤仔第二弹-格局小了">
-<img src="https://emoji.shojo.cn/bili/src/FPX凤仔第二弹/FPX凤仔第二弹-害怕.png" width="50" height="50" alt="FPX凤仔第二弹-害怕">
-<img src="https://emoji.shojo.cn/bili/src/FPX凤仔第二弹/FPX凤仔第二弹-喝水.png" width="50" height="50" alt="FPX凤仔第二弹-喝水">
-<img src="https://emoji.shojo.cn/bili/src/FPX凤仔第二弹/FPX凤仔第二弹-敬礼.png" width="50" height="50" alt="FPX凤仔第二弹-敬礼">
-<img src="https://emoji.shojo.cn/bili/src/FPX凤仔第二弹/FPX凤仔第二弹-鞠躬.png" width="50" height="50" alt="FPX凤仔第二弹-鞠躬">
-<img src="https://emoji.shojo.cn/bili/src/FPX凤仔第二弹/FPX凤仔第二弹-可怜.png" width="50" height="50" alt="FPX凤仔第二弹-可怜">
-<img src="https://emoji.shojo.cn/bili/src/FPX凤仔第二弹/FPX凤仔第二弹-来了.png" width="50" height="50" alt="FPX凤仔第二弹-来了">
-<img src="https://emoji.shojo.cn/bili/src/FPX凤仔第二弹/FPX凤仔第二弹-流汗.png" width="50" height="50" alt="FPX凤仔第二弹-流汗">
-<img src="https://emoji.shojo.cn/bili/src/FPX凤仔第二弹/FPX凤仔第二弹-你礼貌么.png" width="50" height="50" alt="FPX凤仔第二弹-你礼貌么">
-<img src="https://emoji.shojo.cn/bili/src/FPX凤仔第二弹/FPX凤仔第二弹-怒.png" width="50" height="50" alt="FPX凤仔第二弹-怒">
-<img src="https://emoji.shojo.cn/bili/src/FPX凤仔第二弹/FPX凤仔第二弹-破防.png" width="50" height="50" alt="FPX凤仔第二弹-破防">
-<img src="https://emoji.shojo.cn/bili/src/FPX凤仔第二弹/FPX凤仔第二弹-吸氧.png" width="50" height="50" alt="FPX凤仔第二弹-吸氧">
-<img src="https://emoji.shojo.cn/bili/src/FPX凤仔第二弹/FPX凤仔第二弹-思考.png" width="50" height="50" alt="FPX凤仔第二弹-思考">
-<img src="https://emoji.shojo.cn/bili/src/FPX凤仔第二弹/FPX凤仔第二弹-捂脸.png" width="50" height="50" alt="FPX凤仔第二弹-捂脸">
-<img src="https://emoji.shojo.cn/bili/src/FPX凤仔第二弹/FPX凤仔第二弹-震惊.png" width="50" height="50" alt="FPX凤仔第二弹-震惊">
+<img src="https://emoji.shojo.cn/bili/src/FPX凤仔第二弹/FPX凤仔第二弹-武运昌隆.png" width="50" height="50" alt="FPX凤仔第二弹-武运昌隆"><img src="https://emoji.shojo.cn/bili/src/FPX凤仔第二弹/FPX凤仔第二弹-嗨起来.png" width="50" height="50" alt="FPX凤仔第二弹-嗨起来"><img src="https://emoji.shojo.cn/bili/src/FPX凤仔第二弹/FPX凤仔第二弹-OK.png" width="50" height="50" alt="FPX凤仔第二弹-OK"><img src="https://emoji.shojo.cn/bili/src/FPX凤仔第二弹/FPX凤仔第二弹-起飞.png" width="50" height="50" alt="FPX凤仔第二弹-起飞"><img src="https://emoji.shojo.cn/bili/src/FPX凤仔第二弹/FPX凤仔第二弹-制冷.png" width="50" height="50" alt="FPX凤仔第二弹-制冷"><img src="https://emoji.shojo.cn/bili/src/FPX凤仔第二弹/FPX凤仔第二弹-凤一其随.png" width="50" height="50" alt="FPX凤仔第二弹-凤一其随"><img src="https://emoji.shojo.cn/bili/src/FPX凤仔第二弹/FPX凤仔第二弹-干杯.png" width="50" height="50" alt="FPX凤仔第二弹-干杯"><img src="https://emoji.shojo.cn/bili/src/FPX凤仔第二弹/FPX凤仔第二弹-big胆.png" width="50" height="50" alt="FPX凤仔第二弹-big胆"><img src="https://emoji.shojo.cn/bili/src/FPX凤仔第二弹/FPX凤仔第二弹-打扰了.png" width="50" height="50" alt="FPX凤仔第二弹-打扰了"><img src="https://emoji.shojo.cn/bili/src/FPX凤仔第二弹/FPX凤仔第二弹-格局小了.png" width="50" height="50" alt="FPX凤仔第二弹-格局小了"><img src="https://emoji.shojo.cn/bili/src/FPX凤仔第二弹/FPX凤仔第二弹-害怕.png" width="50" height="50" alt="FPX凤仔第二弹-害怕"><img src="https://emoji.shojo.cn/bili/src/FPX凤仔第二弹/FPX凤仔第二弹-喝水.png" width="50" height="50" alt="FPX凤仔第二弹-喝水"><img src="https://emoji.shojo.cn/bili/src/FPX凤仔第二弹/FPX凤仔第二弹-敬礼.png" width="50" height="50" alt="FPX凤仔第二弹-敬礼"><img src="https://emoji.shojo.cn/bili/src/FPX凤仔第二弹/FPX凤仔第二弹-鞠躬.png" width="50" height="50" alt="FPX凤仔第二弹-鞠躬"><img src="https://emoji.shojo.cn/bili/src/FPX凤仔第二弹/FPX凤仔第二弹-可怜.png" width="50" height="50" alt="FPX凤仔第二弹-可怜"><img src="https://emoji.shojo.cn/bili/src/FPX凤仔第二弹/FPX凤仔第二弹-来了.png" width="50" height="50" alt="FPX凤仔第二弹-来了"><img src="https://emoji.shojo.cn/bili/src/FPX凤仔第二弹/FPX凤仔第二弹-流汗.png" width="50" height="50" alt="FPX凤仔第二弹-流汗"><img src="https://emoji.shojo.cn/bili/src/FPX凤仔第二弹/FPX凤仔第二弹-你礼貌么.png" width="50" height="50" alt="FPX凤仔第二弹-你礼貌么"><img src="https://emoji.shojo.cn/bili/src/FPX凤仔第二弹/FPX凤仔第二弹-怒.png" width="50" height="50" alt="FPX凤仔第二弹-怒"><img src="https://emoji.shojo.cn/bili/src/FPX凤仔第二弹/FPX凤仔第二弹-破防.png" width="50" height="50" alt="FPX凤仔第二弹-破防"><img src="https://emoji.shojo.cn/bili/src/FPX凤仔第二弹/FPX凤仔第二弹-吸氧.png" width="50" height="50" alt="FPX凤仔第二弹-吸氧"><img src="https://emoji.shojo.cn/bili/src/FPX凤仔第二弹/FPX凤仔第二弹-思考.png" width="50" height="50" alt="FPX凤仔第二弹-思考"><img src="https://emoji.shojo.cn/bili/src/FPX凤仔第二弹/FPX凤仔第二弹-捂脸.png" width="50" height="50" alt="FPX凤仔第二弹-捂脸"><img src="https://emoji.shojo.cn/bili/src/FPX凤仔第二弹/FPX凤仔第二弹-震惊.png" width="50" height="50" alt="FPX凤仔第二弹-震惊">
 
 ## 下载地址
 

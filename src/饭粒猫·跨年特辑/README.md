@@ -8,31 +8,7 @@ https://emoji.shojo.cn/bili/src/饭粒猫·跨年特辑
 https://emoji.shojo.cn/bili/webp/饭粒猫·跨年特辑
 ```
 ## 展示
-<img src="https://emoji.shojo.cn/bili/src/饭粒猫·跨年特辑/饭粒猫·跨年特辑-思考.png" width="50" height="50" alt="饭粒猫·跨年特辑-思考">
-<img src="https://emoji.shojo.cn/bili/src/饭粒猫·跨年特辑/饭粒猫·跨年特辑-打你.png" width="50" height="50" alt="饭粒猫·跨年特辑-打你">
-<img src="https://emoji.shojo.cn/bili/src/饭粒猫·跨年特辑/饭粒猫·跨年特辑-哈哈哈.png" width="50" height="50" alt="饭粒猫·跨年特辑-哈哈哈">
-<img src="https://emoji.shojo.cn/bili/src/饭粒猫·跨年特辑/饭粒猫·跨年特辑-我太南了.png" width="50" height="50" alt="饭粒猫·跨年特辑-我太南了">
-<img src="https://emoji.shojo.cn/bili/src/饭粒猫·跨年特辑/饭粒猫·跨年特辑-期待.png" width="50" height="50" alt="饭粒猫·跨年特辑-期待">
-<img src="https://emoji.shojo.cn/bili/src/饭粒猫·跨年特辑/饭粒猫·跨年特辑-富有.png" width="50" height="50" alt="饭粒猫·跨年特辑-富有">
-<img src="https://emoji.shojo.cn/bili/src/饭粒猫·跨年特辑/饭粒猫·跨年特辑-贫穷.png" width="50" height="50" alt="饭粒猫·跨年特辑-贫穷">
-<img src="https://emoji.shojo.cn/bili/src/饭粒猫·跨年特辑/饭粒猫·跨年特辑-等红包.png" width="50" height="50" alt="饭粒猫·跨年特辑-等红包">
-<img src="https://emoji.shojo.cn/bili/src/饭粒猫·跨年特辑/饭粒猫·跨年特辑-抱抱.png" width="50" height="50" alt="饭粒猫·跨年特辑-抱抱">
-<img src="https://emoji.shojo.cn/bili/src/饭粒猫·跨年特辑/饭粒猫·跨年特辑-新年快乐.png" width="50" height="50" alt="饭粒猫·跨年特辑-新年快乐">
-<img src="https://emoji.shojo.cn/bili/src/饭粒猫·跨年特辑/饭粒猫·跨年特辑-抢到了.png" width="50" height="50" alt="饭粒猫·跨年特辑-抢到了">
-<img src="https://emoji.shojo.cn/bili/src/饭粒猫·跨年特辑/饭粒猫·跨年特辑-庆祝.png" width="50" height="50" alt="饭粒猫·跨年特辑-庆祝">
-<img src="https://emoji.shojo.cn/bili/src/饭粒猫·跨年特辑/饭粒猫·跨年特辑-疑问.png" width="50" height="50" alt="饭粒猫·跨年特辑-疑问">
-<img src="https://emoji.shojo.cn/bili/src/饭粒猫·跨年特辑/饭粒猫·跨年特辑-闭嘴.png" width="50" height="50" alt="饭粒猫·跨年特辑-闭嘴">
-<img src="https://emoji.shojo.cn/bili/src/饭粒猫·跨年特辑/饭粒猫·跨年特辑-就这？.png" width="50" height="50" alt="饭粒猫·跨年特辑-就这？">
-<img src="https://emoji.shojo.cn/bili/src/饭粒猫·跨年特辑/饭粒猫·跨年特辑-YYDS.png" width="50" height="50" alt="饭粒猫·跨年特辑-YYDS">
-<img src="https://emoji.shojo.cn/bili/src/饭粒猫·跨年特辑/饭粒猫·跨年特辑-年年摸鱼.png" width="50" height="50" alt="饭粒猫·跨年特辑-年年摸鱼">
-<img src="https://emoji.shojo.cn/bili/src/饭粒猫·跨年特辑/饭粒猫·跨年特辑-啥事.png" width="50" height="50" alt="饭粒猫·跨年特辑-啥事">
-<img src="https://emoji.shojo.cn/bili/src/饭粒猫·跨年特辑/饭粒猫·跨年特辑-准备好了.png" width="50" height="50" alt="饭粒猫·跨年特辑-准备好了">
-<img src="https://emoji.shojo.cn/bili/src/饭粒猫·跨年特辑/饭粒猫·跨年特辑-打call.png" width="50" height="50" alt="饭粒猫·跨年特辑-打call">
-<img src="https://emoji.shojo.cn/bili/src/饭粒猫·跨年特辑/饭粒猫·跨年特辑-接好运.png" width="50" height="50" alt="饭粒猫·跨年特辑-接好运">
-<img src="https://emoji.shojo.cn/bili/src/饭粒猫·跨年特辑/饭粒猫·跨年特辑-谢谢老板.png" width="50" height="50" alt="饭粒猫·跨年特辑-谢谢老板">
-<img src="https://emoji.shojo.cn/bili/src/饭粒猫·跨年特辑/饭粒猫·跨年特辑-真香.png" width="50" height="50" alt="饭粒猫·跨年特辑-真香">
-<img src="https://emoji.shojo.cn/bili/src/饭粒猫·跨年特辑/饭粒猫·跨年特辑-再发一个.png" width="50" height="50" alt="饭粒猫·跨年特辑-再发一个">
-<img src="https://emoji.shojo.cn/bili/src/饭粒猫·跨年特辑/饭粒猫·跨年特辑-大佬.png" width="50" height="50" alt="饭粒猫·跨年特辑-大佬">
+<img src="https://emoji.shojo.cn/bili/src/饭粒猫·跨年特辑/饭粒猫·跨年特辑-思考.png" width="50" height="50" alt="饭粒猫·跨年特辑-思考"><img src="https://emoji.shojo.cn/bili/src/饭粒猫·跨年特辑/饭粒猫·跨年特辑-打你.png" width="50" height="50" alt="饭粒猫·跨年特辑-打你"><img src="https://emoji.shojo.cn/bili/src/饭粒猫·跨年特辑/饭粒猫·跨年特辑-哈哈哈.png" width="50" height="50" alt="饭粒猫·跨年特辑-哈哈哈"><img src="https://emoji.shojo.cn/bili/src/饭粒猫·跨年特辑/饭粒猫·跨年特辑-我太南了.png" width="50" height="50" alt="饭粒猫·跨年特辑-我太南了"><img src="https://emoji.shojo.cn/bili/src/饭粒猫·跨年特辑/饭粒猫·跨年特辑-期待.png" width="50" height="50" alt="饭粒猫·跨年特辑-期待"><img src="https://emoji.shojo.cn/bili/src/饭粒猫·跨年特辑/饭粒猫·跨年特辑-富有.png" width="50" height="50" alt="饭粒猫·跨年特辑-富有"><img src="https://emoji.shojo.cn/bili/src/饭粒猫·跨年特辑/饭粒猫·跨年特辑-贫穷.png" width="50" height="50" alt="饭粒猫·跨年特辑-贫穷"><img src="https://emoji.shojo.cn/bili/src/饭粒猫·跨年特辑/饭粒猫·跨年特辑-等红包.png" width="50" height="50" alt="饭粒猫·跨年特辑-等红包"><img src="https://emoji.shojo.cn/bili/src/饭粒猫·跨年特辑/饭粒猫·跨年特辑-抱抱.png" width="50" height="50" alt="饭粒猫·跨年特辑-抱抱"><img src="https://emoji.shojo.cn/bili/src/饭粒猫·跨年特辑/饭粒猫·跨年特辑-新年快乐.png" width="50" height="50" alt="饭粒猫·跨年特辑-新年快乐"><img src="https://emoji.shojo.cn/bili/src/饭粒猫·跨年特辑/饭粒猫·跨年特辑-抢到了.png" width="50" height="50" alt="饭粒猫·跨年特辑-抢到了"><img src="https://emoji.shojo.cn/bili/src/饭粒猫·跨年特辑/饭粒猫·跨年特辑-庆祝.png" width="50" height="50" alt="饭粒猫·跨年特辑-庆祝"><img src="https://emoji.shojo.cn/bili/src/饭粒猫·跨年特辑/饭粒猫·跨年特辑-疑问.png" width="50" height="50" alt="饭粒猫·跨年特辑-疑问"><img src="https://emoji.shojo.cn/bili/src/饭粒猫·跨年特辑/饭粒猫·跨年特辑-闭嘴.png" width="50" height="50" alt="饭粒猫·跨年特辑-闭嘴"><img src="https://emoji.shojo.cn/bili/src/饭粒猫·跨年特辑/饭粒猫·跨年特辑-就这？.png" width="50" height="50" alt="饭粒猫·跨年特辑-就这？"><img src="https://emoji.shojo.cn/bili/src/饭粒猫·跨年特辑/饭粒猫·跨年特辑-YYDS.png" width="50" height="50" alt="饭粒猫·跨年特辑-YYDS"><img src="https://emoji.shojo.cn/bili/src/饭粒猫·跨年特辑/饭粒猫·跨年特辑-年年摸鱼.png" width="50" height="50" alt="饭粒猫·跨年特辑-年年摸鱼"><img src="https://emoji.shojo.cn/bili/src/饭粒猫·跨年特辑/饭粒猫·跨年特辑-啥事.png" width="50" height="50" alt="饭粒猫·跨年特辑-啥事"><img src="https://emoji.shojo.cn/bili/src/饭粒猫·跨年特辑/饭粒猫·跨年特辑-准备好了.png" width="50" height="50" alt="饭粒猫·跨年特辑-准备好了"><img src="https://emoji.shojo.cn/bili/src/饭粒猫·跨年特辑/饭粒猫·跨年特辑-打call.png" width="50" height="50" alt="饭粒猫·跨年特辑-打call"><img src="https://emoji.shojo.cn/bili/src/饭粒猫·跨年特辑/饭粒猫·跨年特辑-接好运.png" width="50" height="50" alt="饭粒猫·跨年特辑-接好运"><img src="https://emoji.shojo.cn/bili/src/饭粒猫·跨年特辑/饭粒猫·跨年特辑-谢谢老板.png" width="50" height="50" alt="饭粒猫·跨年特辑-谢谢老板"><img src="https://emoji.shojo.cn/bili/src/饭粒猫·跨年特辑/饭粒猫·跨年特辑-真香.png" width="50" height="50" alt="饭粒猫·跨年特辑-真香"><img src="https://emoji.shojo.cn/bili/src/饭粒猫·跨年特辑/饭粒猫·跨年特辑-再发一个.png" width="50" height="50" alt="饭粒猫·跨年特辑-再发一个"><img src="https://emoji.shojo.cn/bili/src/饭粒猫·跨年特辑/饭粒猫·跨年特辑-大佬.png" width="50" height="50" alt="饭粒猫·跨年特辑-大佬">
 
 ## 下载地址
 

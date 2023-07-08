@@ -8,31 +8,7 @@ https://emoji.shojo.cn/bili/src/压刹-生日纪念
 https://emoji.shojo.cn/bili/webp/压刹-生日纪念
 ```
 ## 展示
-<img src="https://emoji.shojo.cn/bili/src/压刹-生日纪念/压刹-生日纪念-给心心.png" width="50" height="50" alt="压刹-生日纪念-给心心">
-<img src="https://emoji.shojo.cn/bili/src/压刹-生日纪念/压刹-生日纪念-兴奋.png" width="50" height="50" alt="压刹-生日纪念-兴奋">
-<img src="https://emoji.shojo.cn/bili/src/压刹-生日纪念/压刹-生日纪念-揉揉.png" width="50" height="50" alt="压刹-生日纪念-揉揉">
-<img src="https://emoji.shojo.cn/bili/src/压刹-生日纪念/压刹-生日纪念-呕.png" width="50" height="50" alt="压刹-生日纪念-呕">
-<img src="https://emoji.shojo.cn/bili/src/压刹-生日纪念/压刹-生日纪念-阿巴.png" width="50" height="50" alt="压刹-生日纪念-阿巴">
-<img src="https://emoji.shojo.cn/bili/src/压刹-生日纪念/压刹-生日纪念-绷.png" width="50" height="50" alt="压刹-生日纪念-绷">
-<img src="https://emoji.shojo.cn/bili/src/压刹-生日纪念/压刹-生日纪念-垫的.png" width="50" height="50" alt="压刹-生日纪念-垫的">
-<img src="https://emoji.shojo.cn/bili/src/压刹-生日纪念/压刹-生日纪念-打刹.png" width="50" height="50" alt="压刹-生日纪念-打刹">
-<img src="https://emoji.shojo.cn/bili/src/压刹-生日纪念/压刹-生日纪念-笑死.png" width="50" height="50" alt="压刹-生日纪念-笑死">
-<img src="https://emoji.shojo.cn/bili/src/压刹-生日纪念/压刹-生日纪念-嗯炒.png" width="50" height="50" alt="压刹-生日纪念-嗯炒">
-<img src="https://emoji.shojo.cn/bili/src/压刹-生日纪念/压刹-生日纪念-呃呃.png" width="50" height="50" alt="压刹-生日纪念-呃呃">
-<img src="https://emoji.shojo.cn/bili/src/压刹-生日纪念/压刹-生日纪念-切割.png" width="50" height="50" alt="压刹-生日纪念-切割">
-<img src="https://emoji.shojo.cn/bili/src/压刹-生日纪念/压刹-生日纪念-开趴.png" width="50" height="50" alt="压刹-生日纪念-开趴">
-<img src="https://emoji.shojo.cn/bili/src/压刹-生日纪念/压刹-生日纪念-很行.png" width="50" height="50" alt="压刹-生日纪念-很行">
-<img src="https://emoji.shojo.cn/bili/src/压刹-生日纪念/压刹-生日纪念-老刹.png" width="50" height="50" alt="压刹-生日纪念-老刹">
-<img src="https://emoji.shojo.cn/bili/src/压刹-生日纪念/压刹-生日纪念-又在狗叫.png" width="50" height="50" alt="压刹-生日纪念-又在狗叫">
-<img src="https://emoji.shojo.cn/bili/src/压刹-生日纪念/压刹-生日纪念-喂猪.png" width="50" height="50" alt="压刹-生日纪念-喂猪">
-<img src="https://emoji.shojo.cn/bili/src/压刹-生日纪念/压刹-生日纪念-宇宙.png" width="50" height="50" alt="压刹-生日纪念-宇宙">
-<img src="https://emoji.shojo.cn/bili/src/压刹-生日纪念/压刹-生日纪念-哭哭.png" width="50" height="50" alt="压刹-生日纪念-哭哭">
-<img src="https://emoji.shojo.cn/bili/src/压刹-生日纪念/压刹-生日纪念-就这.png" width="50" height="50" alt="压刹-生日纪念-就这">
-<img src="https://emoji.shojo.cn/bili/src/压刹-生日纪念/压刹-生日纪念-我.png" width="50" height="50" alt="压刹-生日纪念-我">
-<img src="https://emoji.shojo.cn/bili/src/压刹-生日纪念/压刹-生日纪念-超.png" width="50" height="50" alt="压刹-生日纪念-超">
-<img src="https://emoji.shojo.cn/bili/src/压刹-生日纪念/压刹-生日纪念-爱.png" width="50" height="50" alt="压刹-生日纪念-爱">
-<img src="https://emoji.shojo.cn/bili/src/压刹-生日纪念/压刹-生日纪念-你.png" width="50" height="50" alt="压刹-生日纪念-你">
-<img src="https://emoji.shojo.cn/bili/src/压刹-生日纪念/压刹-生日纪念-的.png" width="50" height="50" alt="压刹-生日纪念-的">
+<img src="https://emoji.shojo.cn/bili/src/压刹-生日纪念/压刹-生日纪念-给心心.png" width="50" height="50" alt="压刹-生日纪念-给心心"><img src="https://emoji.shojo.cn/bili/src/压刹-生日纪念/压刹-生日纪念-兴奋.png" width="50" height="50" alt="压刹-生日纪念-兴奋"><img src="https://emoji.shojo.cn/bili/src/压刹-生日纪念/压刹-生日纪念-揉揉.png" width="50" height="50" alt="压刹-生日纪念-揉揉"><img src="https://emoji.shojo.cn/bili/src/压刹-生日纪念/压刹-生日纪念-呕.png" width="50" height="50" alt="压刹-生日纪念-呕"><img src="https://emoji.shojo.cn/bili/src/压刹-生日纪念/压刹-生日纪念-阿巴.png" width="50" height="50" alt="压刹-生日纪念-阿巴"><img src="https://emoji.shojo.cn/bili/src/压刹-生日纪念/压刹-生日纪念-绷.png" width="50" height="50" alt="压刹-生日纪念-绷"><img src="https://emoji.shojo.cn/bili/src/压刹-生日纪念/压刹-生日纪念-垫的.png" width="50" height="50" alt="压刹-生日纪念-垫的"><img src="https://emoji.shojo.cn/bili/src/压刹-生日纪念/压刹-生日纪念-打刹.png" width="50" height="50" alt="压刹-生日纪念-打刹"><img src="https://emoji.shojo.cn/bili/src/压刹-生日纪念/压刹-生日纪念-笑死.png" width="50" height="50" alt="压刹-生日纪念-笑死"><img src="https://emoji.shojo.cn/bili/src/压刹-生日纪念/压刹-生日纪念-嗯炒.png" width="50" height="50" alt="压刹-生日纪念-嗯炒"><img src="https://emoji.shojo.cn/bili/src/压刹-生日纪念/压刹-生日纪念-呃呃.png" width="50" height="50" alt="压刹-生日纪念-呃呃"><img src="https://emoji.shojo.cn/bili/src/压刹-生日纪念/压刹-生日纪念-切割.png" width="50" height="50" alt="压刹-生日纪念-切割"><img src="https://emoji.shojo.cn/bili/src/压刹-生日纪念/压刹-生日纪念-开趴.png" width="50" height="50" alt="压刹-生日纪念-开趴"><img src="https://emoji.shojo.cn/bili/src/压刹-生日纪念/压刹-生日纪念-很行.png" width="50" height="50" alt="压刹-生日纪念-很行"><img src="https://emoji.shojo.cn/bili/src/压刹-生日纪念/压刹-生日纪念-老刹.png" width="50" height="50" alt="压刹-生日纪念-老刹"><img src="https://emoji.shojo.cn/bili/src/压刹-生日纪念/压刹-生日纪念-又在狗叫.png" width="50" height="50" alt="压刹-生日纪念-又在狗叫"><img src="https://emoji.shojo.cn/bili/src/压刹-生日纪念/压刹-生日纪念-喂猪.png" width="50" height="50" alt="压刹-生日纪念-喂猪"><img src="https://emoji.shojo.cn/bili/src/压刹-生日纪念/压刹-生日纪念-宇宙.png" width="50" height="50" alt="压刹-生日纪念-宇宙"><img src="https://emoji.shojo.cn/bili/src/压刹-生日纪念/压刹-生日纪念-哭哭.png" width="50" height="50" alt="压刹-生日纪念-哭哭"><img src="https://emoji.shojo.cn/bili/src/压刹-生日纪念/压刹-生日纪念-就这.png" width="50" height="50" alt="压刹-生日纪念-就这"><img src="https://emoji.shojo.cn/bili/src/压刹-生日纪念/压刹-生日纪念-我.png" width="50" height="50" alt="压刹-生日纪念-我"><img src="https://emoji.shojo.cn/bili/src/压刹-生日纪念/压刹-生日纪念-超.png" width="50" height="50" alt="压刹-生日纪念-超"><img src="https://emoji.shojo.cn/bili/src/压刹-生日纪念/压刹-生日纪念-爱.png" width="50" height="50" alt="压刹-生日纪念-爱"><img src="https://emoji.shojo.cn/bili/src/压刹-生日纪念/压刹-生日纪念-你.png" width="50" height="50" alt="压刹-生日纪念-你"><img src="https://emoji.shojo.cn/bili/src/压刹-生日纪念/压刹-生日纪念-的.png" width="50" height="50" alt="压刹-生日纪念-的">
 
 ## 下载地址
 

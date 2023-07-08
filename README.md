@@ -33,7 +33,7 @@ https://emoji.shojo.cn/bili/src/表情
 ## 注意
 - 建议根据实际使用情况自行修改，勿将本项目直接应用于生产环境
 - 表情数量过多，仓库中只保留README和json文件，表情图片均已打包上传至OneDrive，[此处](https://shamiko-my.sharepoint.com/:f:/g/personal/img_yuru_pro/EudkieNouwJKsQPgWBaqjSgBaRjqi3Dboglhy6GSVnjCeA?e=DorN8G)或表情README处下载
-- 找表情请到[emoji.md]
+- 找表情请到[emoji.md](emoji.md)
 
 ## Todo
 - [ ] 支持[OwO](https://github.com/DIYgod/OwO)

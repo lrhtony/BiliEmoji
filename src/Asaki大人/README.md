@@ -8,31 +8,7 @@ https://emoji.shojo.cn/bili/src/Asaki大人
 https://emoji.shojo.cn/bili/webp/Asaki大人
 ```
 ## 展示
-<img src="https://emoji.shojo.cn/bili/src/Asaki大人/Asaki大人-各位.png" width="50" height="50" alt="Asaki大人-各位">
-<img src="https://emoji.shojo.cn/bili/src/Asaki大人/Asaki大人-汗颜.png" width="50" height="50" alt="Asaki大人-汗颜">
-<img src="https://emoji.shojo.cn/bili/src/Asaki大人/Asaki大人-我人晕了.png" width="50" height="50" alt="Asaki大人-我人晕了">
-<img src="https://emoji.shojo.cn/bili/src/Asaki大人/Asaki大人-寄.png" width="50" height="50" alt="Asaki大人-寄">
-<img src="https://emoji.shojo.cn/bili/src/Asaki大人/Asaki大人-报到.png" width="50" height="50" alt="Asaki大人-报到">
-<img src="https://emoji.shojo.cn/bili/src/Asaki大人/Asaki大人-猪脑过载.png" width="50" height="50" alt="Asaki大人-猪脑过载">
-<img src="https://emoji.shojo.cn/bili/src/Asaki大人/Asaki大人-乖巧.png" width="50" height="50" alt="Asaki大人-乖巧">
-<img src="https://emoji.shojo.cn/bili/src/Asaki大人/Asaki大人-投降.png" width="50" height="50" alt="Asaki大人-投降">
-<img src="https://emoji.shojo.cn/bili/src/Asaki大人/Asaki大人-私密马森.png" width="50" height="50" alt="Asaki大人-私密马森">
-<img src="https://emoji.shojo.cn/bili/src/Asaki大人/Asaki大人-谢谢.png" width="50" height="50" alt="Asaki大人-谢谢">
-<img src="https://emoji.shojo.cn/bili/src/Asaki大人/Asaki大人-别急.png" width="50" height="50" alt="Asaki大人-别急">
-<img src="https://emoji.shojo.cn/bili/src/Asaki大人/Asaki大人-两眼一黑.png" width="50" height="50" alt="Asaki大人-两眼一黑">
-<img src="https://emoji.shojo.cn/bili/src/Asaki大人/Asaki大人-恁牛.png" width="50" height="50" alt="Asaki大人-恁牛">
-<img src="https://emoji.shojo.cn/bili/src/Asaki大人/Asaki大人-快逃.png" width="50" height="50" alt="Asaki大人-快逃">
-<img src="https://emoji.shojo.cn/bili/src/Asaki大人/Asaki大人-哭泣.png" width="50" height="50" alt="Asaki大人-哭泣">
-<img src="https://emoji.shojo.cn/bili/src/Asaki大人/Asaki大人-偷看.png" width="50" height="50" alt="Asaki大人-偷看">
-<img src="https://emoji.shojo.cn/bili/src/Asaki大人/Asaki大人-惊呆.png" width="50" height="50" alt="Asaki大人-惊呆">
-<img src="https://emoji.shojo.cn/bili/src/Asaki大人/Asaki大人-笑嘻了.png" width="50" height="50" alt="Asaki大人-笑嘻了">
-<img src="https://emoji.shojo.cn/bili/src/Asaki大人/Asaki大人-好耶.png" width="50" height="50" alt="Asaki大人-好耶">
-<img src="https://emoji.shojo.cn/bili/src/Asaki大人/Asaki大人-就是就是.png" width="50" height="50" alt="Asaki大人-就是就是">
-<img src="https://emoji.shojo.cn/bili/src/Asaki大人/Asaki大人-你是猪.png" width="50" height="50" alt="Asaki大人-你是猪">
-<img src="https://emoji.shojo.cn/bili/src/Asaki大人/Asaki大人-润了.png" width="50" height="50" alt="Asaki大人-润了">
-<img src="https://emoji.shojo.cn/bili/src/Asaki大人/Asaki大人-小丑.png" width="50" height="50" alt="Asaki大人-小丑">
-<img src="https://emoji.shojo.cn/bili/src/Asaki大人/Asaki大人-拳头嗯了.png" width="50" height="50" alt="Asaki大人-拳头嗯了">
-<img src="https://emoji.shojo.cn/bili/src/Asaki大人/Asaki大人-爱心.png" width="50" height="50" alt="Asaki大人-爱心">
+<img src="https://emoji.shojo.cn/bili/src/Asaki大人/Asaki大人-各位.png" width="50" height="50" alt="Asaki大人-各位"><img src="https://emoji.shojo.cn/bili/src/Asaki大人/Asaki大人-汗颜.png" width="50" height="50" alt="Asaki大人-汗颜"><img src="https://emoji.shojo.cn/bili/src/Asaki大人/Asaki大人-我人晕了.png" width="50" height="50" alt="Asaki大人-我人晕了"><img src="https://emoji.shojo.cn/bili/src/Asaki大人/Asaki大人-寄.png" width="50" height="50" alt="Asaki大人-寄"><img src="https://emoji.shojo.cn/bili/src/Asaki大人/Asaki大人-报到.png" width="50" height="50" alt="Asaki大人-报到"><img src="https://emoji.shojo.cn/bili/src/Asaki大人/Asaki大人-猪脑过载.png" width="50" height="50" alt="Asaki大人-猪脑过载"><img src="https://emoji.shojo.cn/bili/src/Asaki大人/Asaki大人-乖巧.png" width="50" height="50" alt="Asaki大人-乖巧"><img src="https://emoji.shojo.cn/bili/src/Asaki大人/Asaki大人-投降.png" width="50" height="50" alt="Asaki大人-投降"><img src="https://emoji.shojo.cn/bili/src/Asaki大人/Asaki大人-私密马森.png" width="50" height="50" alt="Asaki大人-私密马森"><img src="https://emoji.shojo.cn/bili/src/Asaki大人/Asaki大人-谢谢.png" width="50" height="50" alt="Asaki大人-谢谢"><img src="https://emoji.shojo.cn/bili/src/Asaki大人/Asaki大人-别急.png" width="50" height="50" alt="Asaki大人-别急"><img src="https://emoji.shojo.cn/bili/src/Asaki大人/Asaki大人-两眼一黑.png" width="50" height="50" alt="Asaki大人-两眼一黑"><img src="https://emoji.shojo.cn/bili/src/Asaki大人/Asaki大人-恁牛.png" width="50" height="50" alt="Asaki大人-恁牛"><img src="https://emoji.shojo.cn/bili/src/Asaki大人/Asaki大人-快逃.png" width="50" height="50" alt="Asaki大人-快逃"><img src="https://emoji.shojo.cn/bili/src/Asaki大人/Asaki大人-哭泣.png" width="50" height="50" alt="Asaki大人-哭泣"><img src="https://emoji.shojo.cn/bili/src/Asaki大人/Asaki大人-偷看.png" width="50" height="50" alt="Asaki大人-偷看"><img src="https://emoji.shojo.cn/bili/src/Asaki大人/Asaki大人-惊呆.png" width="50" height="50" alt="Asaki大人-惊呆"><img src="https://emoji.shojo.cn/bili/src/Asaki大人/Asaki大人-笑嘻了.png" width="50" height="50" alt="Asaki大人-笑嘻了"><img src="https://emoji.shojo.cn/bili/src/Asaki大人/Asaki大人-好耶.png" width="50" height="50" alt="Asaki大人-好耶"><img src="https://emoji.shojo.cn/bili/src/Asaki大人/Asaki大人-就是就是.png" width="50" height="50" alt="Asaki大人-就是就是"><img src="https://emoji.shojo.cn/bili/src/Asaki大人/Asaki大人-你是猪.png" width="50" height="50" alt="Asaki大人-你是猪"><img src="https://emoji.shojo.cn/bili/src/Asaki大人/Asaki大人-润了.png" width="50" height="50" alt="Asaki大人-润了"><img src="https://emoji.shojo.cn/bili/src/Asaki大人/Asaki大人-小丑.png" width="50" height="50" alt="Asaki大人-小丑"><img src="https://emoji.shojo.cn/bili/src/Asaki大人/Asaki大人-拳头嗯了.png" width="50" height="50" alt="Asaki大人-拳头嗯了"><img src="https://emoji.shojo.cn/bili/src/Asaki大人/Asaki大人-爱心.png" width="50" height="50" alt="Asaki大人-爱心">
 
 ## 下载地址
 

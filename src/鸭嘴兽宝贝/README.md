@@ -8,31 +8,7 @@ https://emoji.shojo.cn/bili/src/鸭嘴兽宝贝
 https://emoji.shojo.cn/bili/webp/鸭嘴兽宝贝
 ```
 ## 展示
-<img src="https://emoji.shojo.cn/bili/src/鸭嘴兽宝贝/鸭嘴兽宝贝-哦.png" width="50" height="50" alt="鸭嘴兽宝贝-哦">
-<img src="https://emoji.shojo.cn/bili/src/鸭嘴兽宝贝/鸭嘴兽宝贝-你真好.png" width="50" height="50" alt="鸭嘴兽宝贝-你真好">
-<img src="https://emoji.shojo.cn/bili/src/鸭嘴兽宝贝/鸭嘴兽宝贝-ok.png" width="50" height="50" alt="鸭嘴兽宝贝-ok">
-<img src="https://emoji.shojo.cn/bili/src/鸭嘴兽宝贝/鸭嘴兽宝贝-伤心.png" width="50" height="50" alt="鸭嘴兽宝贝-伤心">
-<img src="https://emoji.shojo.cn/bili/src/鸭嘴兽宝贝/鸭嘴兽宝贝-啧啧啧.png" width="50" height="50" alt="鸭嘴兽宝贝-啧啧啧">
-<img src="https://emoji.shojo.cn/bili/src/鸭嘴兽宝贝/鸭嘴兽宝贝-震惊.png" width="50" height="50" alt="鸭嘴兽宝贝-震惊">
-<img src="https://emoji.shojo.cn/bili/src/鸭嘴兽宝贝/鸭嘴兽宝贝-跳舞.png" width="50" height="50" alt="鸭嘴兽宝贝-跳舞">
-<img src="https://emoji.shojo.cn/bili/src/鸭嘴兽宝贝/鸭嘴兽宝贝-疑问.png" width="50" height="50" alt="鸭嘴兽宝贝-疑问">
-<img src="https://emoji.shojo.cn/bili/src/鸭嘴兽宝贝/鸭嘴兽宝贝-666.png" width="50" height="50" alt="鸭嘴兽宝贝-666">
-<img src="https://emoji.shojo.cn/bili/src/鸭嘴兽宝贝/鸭嘴兽宝贝-拜托啦.png" width="50" height="50" alt="鸭嘴兽宝贝-拜托啦">
-<img src="https://emoji.shojo.cn/bili/src/鸭嘴兽宝贝/鸭嘴兽宝贝-不想理你.png" width="50" height="50" alt="鸭嘴兽宝贝-不想理你">
-<img src="https://emoji.shojo.cn/bili/src/鸭嘴兽宝贝/鸭嘴兽宝贝-吃零食.png" width="50" height="50" alt="鸭嘴兽宝贝-吃零食">
-<img src="https://emoji.shojo.cn/bili/src/鸭嘴兽宝贝/鸭嘴兽宝贝-嘚瑟.png" width="50" height="50" alt="鸭嘴兽宝贝-嘚瑟">
-<img src="https://emoji.shojo.cn/bili/src/鸭嘴兽宝贝/鸭嘴兽宝贝-等撩.png" width="50" height="50" alt="鸭嘴兽宝贝-等撩">
-<img src="https://emoji.shojo.cn/bili/src/鸭嘴兽宝贝/鸭嘴兽宝贝-好气.png" width="50" height="50" alt="鸭嘴兽宝贝-好气">
-<img src="https://emoji.shojo.cn/bili/src/鸭嘴兽宝贝/鸭嘴兽宝贝-哼.png" width="50" height="50" alt="鸭嘴兽宝贝-哼">
-<img src="https://emoji.shojo.cn/bili/src/鸭嘴兽宝贝/鸭嘴兽宝贝-欺负我.png" width="50" height="50" alt="鸭嘴兽宝贝-欺负我">
-<img src="https://emoji.shojo.cn/bili/src/鸭嘴兽宝贝/鸭嘴兽宝贝-理我一下.png" width="50" height="50" alt="鸭嘴兽宝贝-理我一下">
-<img src="https://emoji.shojo.cn/bili/src/鸭嘴兽宝贝/鸭嘴兽宝贝-亲这里.png" width="50" height="50" alt="鸭嘴兽宝贝-亲这里">
-<img src="https://emoji.shojo.cn/bili/src/鸭嘴兽宝贝/鸭嘴兽宝贝-谢谢红包.png" width="50" height="50" alt="鸭嘴兽宝贝-谢谢红包">
-<img src="https://emoji.shojo.cn/bili/src/鸭嘴兽宝贝/鸭嘴兽宝贝-咋回事呀.png" width="50" height="50" alt="鸭嘴兽宝贝-咋回事呀">
-<img src="https://emoji.shojo.cn/bili/src/鸭嘴兽宝贝/鸭嘴兽宝贝-赞.png" width="50" height="50" alt="鸭嘴兽宝贝-赞">
-<img src="https://emoji.shojo.cn/bili/src/鸭嘴兽宝贝/鸭嘴兽宝贝-溜了.png" width="50" height="50" alt="鸭嘴兽宝贝-溜了">
-<img src="https://emoji.shojo.cn/bili/src/鸭嘴兽宝贝/鸭嘴兽宝贝-路过.png" width="50" height="50" alt="鸭嘴兽宝贝-路过">
-<img src="https://emoji.shojo.cn/bili/src/鸭嘴兽宝贝/鸭嘴兽宝贝-开饭.png" width="50" height="50" alt="鸭嘴兽宝贝-开饭">
+<img src="https://emoji.shojo.cn/bili/src/鸭嘴兽宝贝/鸭嘴兽宝贝-哦.png" width="50" height="50" alt="鸭嘴兽宝贝-哦"><img src="https://emoji.shojo.cn/bili/src/鸭嘴兽宝贝/鸭嘴兽宝贝-你真好.png" width="50" height="50" alt="鸭嘴兽宝贝-你真好"><img src="https://emoji.shojo.cn/bili/src/鸭嘴兽宝贝/鸭嘴兽宝贝-ok.png" width="50" height="50" alt="鸭嘴兽宝贝-ok"><img src="https://emoji.shojo.cn/bili/src/鸭嘴兽宝贝/鸭嘴兽宝贝-伤心.png" width="50" height="50" alt="鸭嘴兽宝贝-伤心"><img src="https://emoji.shojo.cn/bili/src/鸭嘴兽宝贝/鸭嘴兽宝贝-啧啧啧.png" width="50" height="50" alt="鸭嘴兽宝贝-啧啧啧"><img src="https://emoji.shojo.cn/bili/src/鸭嘴兽宝贝/鸭嘴兽宝贝-震惊.png" width="50" height="50" alt="鸭嘴兽宝贝-震惊"><img src="https://emoji.shojo.cn/bili/src/鸭嘴兽宝贝/鸭嘴兽宝贝-跳舞.png" width="50" height="50" alt="鸭嘴兽宝贝-跳舞"><img src="https://emoji.shojo.cn/bili/src/鸭嘴兽宝贝/鸭嘴兽宝贝-疑问.png" width="50" height="50" alt="鸭嘴兽宝贝-疑问"><img src="https://emoji.shojo.cn/bili/src/鸭嘴兽宝贝/鸭嘴兽宝贝-666.png" width="50" height="50" alt="鸭嘴兽宝贝-666"><img src="https://emoji.shojo.cn/bili/src/鸭嘴兽宝贝/鸭嘴兽宝贝-拜托啦.png" width="50" height="50" alt="鸭嘴兽宝贝-拜托啦"><img src="https://emoji.shojo.cn/bili/src/鸭嘴兽宝贝/鸭嘴兽宝贝-不想理你.png" width="50" height="50" alt="鸭嘴兽宝贝-不想理你"><img src="https://emoji.shojo.cn/bili/src/鸭嘴兽宝贝/鸭嘴兽宝贝-吃零食.png" width="50" height="50" alt="鸭嘴兽宝贝-吃零食"><img src="https://emoji.shojo.cn/bili/src/鸭嘴兽宝贝/鸭嘴兽宝贝-嘚瑟.png" width="50" height="50" alt="鸭嘴兽宝贝-嘚瑟"><img src="https://emoji.shojo.cn/bili/src/鸭嘴兽宝贝/鸭嘴兽宝贝-等撩.png" width="50" height="50" alt="鸭嘴兽宝贝-等撩"><img src="https://emoji.shojo.cn/bili/src/鸭嘴兽宝贝/鸭嘴兽宝贝-好气.png" width="50" height="50" alt="鸭嘴兽宝贝-好气"><img src="https://emoji.shojo.cn/bili/src/鸭嘴兽宝贝/鸭嘴兽宝贝-哼.png" width="50" height="50" alt="鸭嘴兽宝贝-哼"><img src="https://emoji.shojo.cn/bili/src/鸭嘴兽宝贝/鸭嘴兽宝贝-欺负我.png" width="50" height="50" alt="鸭嘴兽宝贝-欺负我"><img src="https://emoji.shojo.cn/bili/src/鸭嘴兽宝贝/鸭嘴兽宝贝-理我一下.png" width="50" height="50" alt="鸭嘴兽宝贝-理我一下"><img src="https://emoji.shojo.cn/bili/src/鸭嘴兽宝贝/鸭嘴兽宝贝-亲这里.png" width="50" height="50" alt="鸭嘴兽宝贝-亲这里"><img src="https://emoji.shojo.cn/bili/src/鸭嘴兽宝贝/鸭嘴兽宝贝-谢谢红包.png" width="50" height="50" alt="鸭嘴兽宝贝-谢谢红包"><img src="https://emoji.shojo.cn/bili/src/鸭嘴兽宝贝/鸭嘴兽宝贝-咋回事呀.png" width="50" height="50" alt="鸭嘴兽宝贝-咋回事呀"><img src="https://emoji.shojo.cn/bili/src/鸭嘴兽宝贝/鸭嘴兽宝贝-赞.png" width="50" height="50" alt="鸭嘴兽宝贝-赞"><img src="https://emoji.shojo.cn/bili/src/鸭嘴兽宝贝/鸭嘴兽宝贝-溜了.png" width="50" height="50" alt="鸭嘴兽宝贝-溜了"><img src="https://emoji.shojo.cn/bili/src/鸭嘴兽宝贝/鸭嘴兽宝贝-路过.png" width="50" height="50" alt="鸭嘴兽宝贝-路过"><img src="https://emoji.shojo.cn/bili/src/鸭嘴兽宝贝/鸭嘴兽宝贝-开饭.png" width="50" height="50" alt="鸭嘴兽宝贝-开饭">
 
 ## 下载地址
 

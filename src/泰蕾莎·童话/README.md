@@ -8,31 +8,7 @@ https://emoji.shojo.cn/bili/src/泰蕾莎·童话
 https://emoji.shojo.cn/bili/webp/泰蕾莎·童话
 ```
 ## 展示
-<img src="https://emoji.shojo.cn/bili/src/泰蕾莎·童话/泰蕾莎·童话-mua.png" width="50" height="50" alt="泰蕾莎·童话-mua">
-<img src="https://emoji.shojo.cn/bili/src/泰蕾莎·童话/泰蕾莎·童话-哭哭.png" width="50" height="50" alt="泰蕾莎·童话-哭哭">
-<img src="https://emoji.shojo.cn/bili/src/泰蕾莎·童话/泰蕾莎·童话-嘲笑.png" width="50" height="50" alt="泰蕾莎·童话-嘲笑">
-<img src="https://emoji.shojo.cn/bili/src/泰蕾莎·童话/泰蕾莎·童话-挠头.png" width="50" height="50" alt="泰蕾莎·童话-挠头">
-<img src="https://emoji.shojo.cn/bili/src/泰蕾莎·童话/泰蕾莎·童话-嫌弃.png" width="50" height="50" alt="泰蕾莎·童话-嫌弃">
-<img src="https://emoji.shojo.cn/bili/src/泰蕾莎·童话/泰蕾莎·童话-懵逼.png" width="50" height="50" alt="泰蕾莎·童话-懵逼">
-<img src="https://emoji.shojo.cn/bili/src/泰蕾莎·童话/泰蕾莎·童话-打滚.png" width="50" height="50" alt="泰蕾莎·童话-打滚">
-<img src="https://emoji.shojo.cn/bili/src/泰蕾莎·童话/泰蕾莎·童话-比心.png" width="50" height="50" alt="泰蕾莎·童话-比心">
-<img src="https://emoji.shojo.cn/bili/src/泰蕾莎·童话/泰蕾莎·童话-捂嘴.png" width="50" height="50" alt="泰蕾莎·童话-捂嘴">
-<img src="https://emoji.shojo.cn/bili/src/泰蕾莎·童话/泰蕾莎·童话-流汗.png" width="50" height="50" alt="泰蕾莎·童话-流汗">
-<img src="https://emoji.shojo.cn/bili/src/泰蕾莎·童话/泰蕾莎·童话-闪亮.png" width="50" height="50" alt="泰蕾莎·童话-闪亮">
-<img src="https://emoji.shojo.cn/bili/src/泰蕾莎·童话/泰蕾莎·童话-放大镜.png" width="50" height="50" alt="泰蕾莎·童话-放大镜">
-<img src="https://emoji.shojo.cn/bili/src/泰蕾莎·童话/泰蕾莎·童话-锤子.png" width="50" height="50" alt="泰蕾莎·童话-锤子">
-<img src="https://emoji.shojo.cn/bili/src/泰蕾莎·童话/泰蕾莎·童话-嘿嘿.png" width="50" height="50" alt="泰蕾莎·童话-嘿嘿">
-<img src="https://emoji.shojo.cn/bili/src/泰蕾莎·童话/泰蕾莎·童话-矮瓜.png" width="50" height="50" alt="泰蕾莎·童话-矮瓜">
-<img src="https://emoji.shojo.cn/bili/src/泰蕾莎·童话/泰蕾莎·童话-打拳.png" width="50" height="50" alt="泰蕾莎·童话-打拳">
-<img src="https://emoji.shojo.cn/bili/src/泰蕾莎·童话/泰蕾莎·童话-疑问.png" width="50" height="50" alt="泰蕾莎·童话-疑问">
-<img src="https://emoji.shojo.cn/bili/src/泰蕾莎·童话/泰蕾莎·童话-指指点点.png" width="50" height="50" alt="泰蕾莎·童话-指指点点">
-<img src="https://emoji.shojo.cn/bili/src/泰蕾莎·童话/泰蕾莎·童话-开润.png" width="50" height="50" alt="泰蕾莎·童话-开润">
-<img src="https://emoji.shojo.cn/bili/src/泰蕾莎·童话/泰蕾莎·童话-开心.png" width="50" height="50" alt="泰蕾莎·童话-开心">
-<img src="https://emoji.shojo.cn/bili/src/泰蕾莎·童话/泰蕾莎·童话-抱抱.png" width="50" height="50" alt="泰蕾莎·童话-抱抱">
-<img src="https://emoji.shojo.cn/bili/src/泰蕾莎·童话/泰蕾莎·童话-摇可乐.png" width="50" height="50" alt="泰蕾莎·童话-摇可乐">
-<img src="https://emoji.shojo.cn/bili/src/泰蕾莎·童话/泰蕾莎·童话-舔.png" width="50" height="50" alt="泰蕾莎·童话-舔">
-<img src="https://emoji.shojo.cn/bili/src/泰蕾莎·童话/泰蕾莎·童话-准星.png" width="50" height="50" alt="泰蕾莎·童话-准星">
-<img src="https://emoji.shojo.cn/bili/src/泰蕾莎·童话/泰蕾莎·童话-撒水.png" width="50" height="50" alt="泰蕾莎·童话-撒水">
+<img src="https://emoji.shojo.cn/bili/src/泰蕾莎·童话/泰蕾莎·童话-mua.png" width="50" height="50" alt="泰蕾莎·童话-mua"><img src="https://emoji.shojo.cn/bili/src/泰蕾莎·童话/泰蕾莎·童话-哭哭.png" width="50" height="50" alt="泰蕾莎·童话-哭哭"><img src="https://emoji.shojo.cn/bili/src/泰蕾莎·童话/泰蕾莎·童话-嘲笑.png" width="50" height="50" alt="泰蕾莎·童话-嘲笑"><img src="https://emoji.shojo.cn/bili/src/泰蕾莎·童话/泰蕾莎·童话-挠头.png" width="50" height="50" alt="泰蕾莎·童话-挠头"><img src="https://emoji.shojo.cn/bili/src/泰蕾莎·童话/泰蕾莎·童话-嫌弃.png" width="50" height="50" alt="泰蕾莎·童话-嫌弃"><img src="https://emoji.shojo.cn/bili/src/泰蕾莎·童话/泰蕾莎·童话-懵逼.png" width="50" height="50" alt="泰蕾莎·童话-懵逼"><img src="https://emoji.shojo.cn/bili/src/泰蕾莎·童话/泰蕾莎·童话-打滚.png" width="50" height="50" alt="泰蕾莎·童话-打滚"><img src="https://emoji.shojo.cn/bili/src/泰蕾莎·童话/泰蕾莎·童话-比心.png" width="50" height="50" alt="泰蕾莎·童话-比心"><img src="https://emoji.shojo.cn/bili/src/泰蕾莎·童话/泰蕾莎·童话-捂嘴.png" width="50" height="50" alt="泰蕾莎·童话-捂嘴"><img src="https://emoji.shojo.cn/bili/src/泰蕾莎·童话/泰蕾莎·童话-流汗.png" width="50" height="50" alt="泰蕾莎·童话-流汗"><img src="https://emoji.shojo.cn/bili/src/泰蕾莎·童话/泰蕾莎·童话-闪亮.png" width="50" height="50" alt="泰蕾莎·童话-闪亮"><img src="https://emoji.shojo.cn/bili/src/泰蕾莎·童话/泰蕾莎·童话-放大镜.png" width="50" height="50" alt="泰蕾莎·童话-放大镜"><img src="https://emoji.shojo.cn/bili/src/泰蕾莎·童话/泰蕾莎·童话-锤子.png" width="50" height="50" alt="泰蕾莎·童话-锤子"><img src="https://emoji.shojo.cn/bili/src/泰蕾莎·童话/泰蕾莎·童话-嘿嘿.png" width="50" height="50" alt="泰蕾莎·童话-嘿嘿"><img src="https://emoji.shojo.cn/bili/src/泰蕾莎·童话/泰蕾莎·童话-矮瓜.png" width="50" height="50" alt="泰蕾莎·童话-矮瓜"><img src="https://emoji.shojo.cn/bili/src/泰蕾莎·童话/泰蕾莎·童话-打拳.png" width="50" height="50" alt="泰蕾莎·童话-打拳"><img src="https://emoji.shojo.cn/bili/src/泰蕾莎·童话/泰蕾莎·童话-疑问.png" width="50" height="50" alt="泰蕾莎·童话-疑问"><img src="https://emoji.shojo.cn/bili/src/泰蕾莎·童话/泰蕾莎·童话-指指点点.png" width="50" height="50" alt="泰蕾莎·童话-指指点点"><img src="https://emoji.shojo.cn/bili/src/泰蕾莎·童话/泰蕾莎·童话-开润.png" width="50" height="50" alt="泰蕾莎·童话-开润"><img src="https://emoji.shojo.cn/bili/src/泰蕾莎·童话/泰蕾莎·童话-开心.png" width="50" height="50" alt="泰蕾莎·童话-开心"><img src="https://emoji.shojo.cn/bili/src/泰蕾莎·童话/泰蕾莎·童话-抱抱.png" width="50" height="50" alt="泰蕾莎·童话-抱抱"><img src="https://emoji.shojo.cn/bili/src/泰蕾莎·童话/泰蕾莎·童话-摇可乐.png" width="50" height="50" alt="泰蕾莎·童话-摇可乐"><img src="https://emoji.shojo.cn/bili/src/泰蕾莎·童话/泰蕾莎·童话-舔.png" width="50" height="50" alt="泰蕾莎·童话-舔"><img src="https://emoji.shojo.cn/bili/src/泰蕾莎·童话/泰蕾莎·童话-准星.png" width="50" height="50" alt="泰蕾莎·童话-准星"><img src="https://emoji.shojo.cn/bili/src/泰蕾莎·童话/泰蕾莎·童话-撒水.png" width="50" height="50" alt="泰蕾莎·童话-撒水">
 
 ## 下载地址
 

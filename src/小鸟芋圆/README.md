@@ -8,31 +8,7 @@ https://emoji.shojo.cn/bili/src/小鸟芋圆
 https://emoji.shojo.cn/bili/webp/小鸟芋圆
 ```
 ## 展示
-<img src="https://emoji.shojo.cn/bili/src/小鸟芋圆/小鸟芋圆-v我.png" width="50" height="50" alt="小鸟芋圆-v我">
-<img src="https://emoji.shojo.cn/bili/src/小鸟芋圆/小鸟芋圆-俺无语.png" width="50" height="50" alt="小鸟芋圆-俺无语">
-<img src="https://emoji.shojo.cn/bili/src/小鸟芋圆/小鸟芋圆-吃瓜.png" width="50" height="50" alt="小鸟芋圆-吃瓜">
-<img src="https://emoji.shojo.cn/bili/src/小鸟芋圆/小鸟芋圆-打嗝.png" width="50" height="50" alt="小鸟芋圆-打嗝">
-<img src="https://emoji.shojo.cn/bili/src/小鸟芋圆/小鸟芋圆-饿饿饭饭.png" width="50" height="50" alt="小鸟芋圆-饿饿饭饭">
-<img src="https://emoji.shojo.cn/bili/src/小鸟芋圆/小鸟芋圆-好活.png" width="50" height="50" alt="小鸟芋圆-好活">
-<img src="https://emoji.shojo.cn/bili/src/小鸟芋圆/小鸟芋圆-激动.png" width="50" height="50" alt="小鸟芋圆-激动">
-<img src="https://emoji.shojo.cn/bili/src/小鸟芋圆/小鸟芋圆-教教我.png" width="50" height="50" alt="小鸟芋圆-教教我">
-<img src="https://emoji.shojo.cn/bili/src/小鸟芋圆/小鸟芋圆-惊呆鸟.png" width="50" height="50" alt="小鸟芋圆-惊呆鸟">
-<img src="https://emoji.shojo.cn/bili/src/小鸟芋圆/小鸟芋圆-母单鹦鹉.png" width="50" height="50" alt="小鸟芋圆-母单鹦鹉">
-<img src="https://emoji.shojo.cn/bili/src/小鸟芋圆/小鸟芋圆-你理猫吗.png" width="50" height="50" alt="小鸟芋圆-你理猫吗">
-<img src="https://emoji.shojo.cn/bili/src/小鸟芋圆/小鸟芋圆-鸟不起.png" width="50" height="50" alt="小鸟芋圆-鸟不起">
-<img src="https://emoji.shojo.cn/bili/src/小鸟芋圆/小鸟芋圆-鸟解.png" width="50" height="50" alt="小鸟芋圆-鸟解">
-<img src="https://emoji.shojo.cn/bili/src/小鸟芋圆/小鸟芋圆-蒜鸟.png" width="50" height="50" alt="小鸟芋圆-蒜鸟">
-<img src="https://emoji.shojo.cn/bili/src/小鸟芋圆/小鸟芋圆-太感谢鸟.png" width="50" height="50" alt="小鸟芋圆-太感谢鸟">
-<img src="https://emoji.shojo.cn/bili/src/小鸟芋圆/小鸟芋圆-太好磕鸟.png" width="50" height="50" alt="小鸟芋圆-太好磕鸟">
-<img src="https://emoji.shojo.cn/bili/src/小鸟芋圆/小鸟芋圆-吐鸟.png" width="50" height="50" alt="小鸟芋圆-吐鸟">
-<img src="https://emoji.shojo.cn/bili/src/小鸟芋圆/小鸟芋圆-完蛋.png" width="50" height="50" alt="小鸟芋圆-完蛋">
-<img src="https://emoji.shojo.cn/bili/src/小鸟芋圆/小鸟芋圆-晚安鸟.png" width="50" height="50" alt="小鸟芋圆-晚安鸟">
-<img src="https://emoji.shojo.cn/bili/src/小鸟芋圆/小鸟芋圆-小鸟依鸟.png" width="50" height="50" alt="小鸟芋圆-小鸟依鸟">
-<img src="https://emoji.shojo.cn/bili/src/小鸟芋圆/小鸟芋圆-笑出鸟叫.png" width="50" height="50" alt="小鸟芋圆-笑出鸟叫">
-<img src="https://emoji.shojo.cn/bili/src/小鸟芋圆/小鸟芋圆-鹦该的.png" width="50" height="50" alt="小鸟芋圆-鹦该的">
-<img src="https://emoji.shojo.cn/bili/src/小鸟芋圆/小鸟芋圆-有禽提示.png" width="50" height="50" alt="小鸟芋圆-有禽提示">
-<img src="https://emoji.shojo.cn/bili/src/小鸟芋圆/小鸟芋圆-再见鸟.png" width="50" height="50" alt="小鸟芋圆-再见鸟">
-<img src="https://emoji.shojo.cn/bili/src/小鸟芋圆/小鸟芋圆-这很滑鸡.png" width="50" height="50" alt="小鸟芋圆-这很滑鸡">
+<img src="https://emoji.shojo.cn/bili/src/小鸟芋圆/小鸟芋圆-v我.png" width="50" height="50" alt="小鸟芋圆-v我"><img src="https://emoji.shojo.cn/bili/src/小鸟芋圆/小鸟芋圆-俺无语.png" width="50" height="50" alt="小鸟芋圆-俺无语"><img src="https://emoji.shojo.cn/bili/src/小鸟芋圆/小鸟芋圆-吃瓜.png" width="50" height="50" alt="小鸟芋圆-吃瓜"><img src="https://emoji.shojo.cn/bili/src/小鸟芋圆/小鸟芋圆-打嗝.png" width="50" height="50" alt="小鸟芋圆-打嗝"><img src="https://emoji.shojo.cn/bili/src/小鸟芋圆/小鸟芋圆-饿饿饭饭.png" width="50" height="50" alt="小鸟芋圆-饿饿饭饭"><img src="https://emoji.shojo.cn/bili/src/小鸟芋圆/小鸟芋圆-好活.png" width="50" height="50" alt="小鸟芋圆-好活"><img src="https://emoji.shojo.cn/bili/src/小鸟芋圆/小鸟芋圆-激动.png" width="50" height="50" alt="小鸟芋圆-激动"><img src="https://emoji.shojo.cn/bili/src/小鸟芋圆/小鸟芋圆-教教我.png" width="50" height="50" alt="小鸟芋圆-教教我"><img src="https://emoji.shojo.cn/bili/src/小鸟芋圆/小鸟芋圆-惊呆鸟.png" width="50" height="50" alt="小鸟芋圆-惊呆鸟"><img src="https://emoji.shojo.cn/bili/src/小鸟芋圆/小鸟芋圆-母单鹦鹉.png" width="50" height="50" alt="小鸟芋圆-母单鹦鹉"><img src="https://emoji.shojo.cn/bili/src/小鸟芋圆/小鸟芋圆-你理猫吗.png" width="50" height="50" alt="小鸟芋圆-你理猫吗"><img src="https://emoji.shojo.cn/bili/src/小鸟芋圆/小鸟芋圆-鸟不起.png" width="50" height="50" alt="小鸟芋圆-鸟不起"><img src="https://emoji.shojo.cn/bili/src/小鸟芋圆/小鸟芋圆-鸟解.png" width="50" height="50" alt="小鸟芋圆-鸟解"><img src="https://emoji.shojo.cn/bili/src/小鸟芋圆/小鸟芋圆-蒜鸟.png" width="50" height="50" alt="小鸟芋圆-蒜鸟"><img src="https://emoji.shojo.cn/bili/src/小鸟芋圆/小鸟芋圆-太感谢鸟.png" width="50" height="50" alt="小鸟芋圆-太感谢鸟"><img src="https://emoji.shojo.cn/bili/src/小鸟芋圆/小鸟芋圆-太好磕鸟.png" width="50" height="50" alt="小鸟芋圆-太好磕鸟"><img src="https://emoji.shojo.cn/bili/src/小鸟芋圆/小鸟芋圆-吐鸟.png" width="50" height="50" alt="小鸟芋圆-吐鸟"><img src="https://emoji.shojo.cn/bili/src/小鸟芋圆/小鸟芋圆-完蛋.png" width="50" height="50" alt="小鸟芋圆-完蛋"><img src="https://emoji.shojo.cn/bili/src/小鸟芋圆/小鸟芋圆-晚安鸟.png" width="50" height="50" alt="小鸟芋圆-晚安鸟"><img src="https://emoji.shojo.cn/bili/src/小鸟芋圆/小鸟芋圆-小鸟依鸟.png" width="50" height="50" alt="小鸟芋圆-小鸟依鸟"><img src="https://emoji.shojo.cn/bili/src/小鸟芋圆/小鸟芋圆-笑出鸟叫.png" width="50" height="50" alt="小鸟芋圆-笑出鸟叫"><img src="https://emoji.shojo.cn/bili/src/小鸟芋圆/小鸟芋圆-鹦该的.png" width="50" height="50" alt="小鸟芋圆-鹦该的"><img src="https://emoji.shojo.cn/bili/src/小鸟芋圆/小鸟芋圆-有禽提示.png" width="50" height="50" alt="小鸟芋圆-有禽提示"><img src="https://emoji.shojo.cn/bili/src/小鸟芋圆/小鸟芋圆-再见鸟.png" width="50" height="50" alt="小鸟芋圆-再见鸟"><img src="https://emoji.shojo.cn/bili/src/小鸟芋圆/小鸟芋圆-这很滑鸡.png" width="50" height="50" alt="小鸟芋圆-这很滑鸡">
 
 ## 下载地址
 

@@ -8,36 +8,7 @@ https://emoji.shojo.cn/bili/src/汤圆酱
 https://emoji.shojo.cn/bili/webp/汤圆酱
 ```
 ## 展示
-<img src="https://emoji.shojo.cn/bili/src/汤圆酱/汤圆酱-这个好.png" width="50" height="50" alt="汤圆酱-这个好">
-<img src="https://emoji.shojo.cn/bili/src/汤圆酱/汤圆酱-不对不对.png" width="50" height="50" alt="汤圆酱-不对不对">
-<img src="https://emoji.shojo.cn/bili/src/汤圆酱/汤圆酱-哼.png" width="50" height="50" alt="汤圆酱-哼">
-<img src="https://emoji.shojo.cn/bili/src/汤圆酱/汤圆酱-不好意思.png" width="50" height="50" alt="汤圆酱-不好意思">
-<img src="https://emoji.shojo.cn/bili/src/汤圆酱/汤圆酱-不屑.png" width="50" height="50" alt="汤圆酱-不屑">
-<img src="https://emoji.shojo.cn/bili/src/汤圆酱/汤圆酱-咦.png" width="50" height="50" alt="汤圆酱-咦">
-<img src="https://emoji.shojo.cn/bili/src/汤圆酱/汤圆酱-搓手.png" width="50" height="50" alt="汤圆酱-搓手">
-<img src="https://emoji.shojo.cn/bili/src/汤圆酱/汤圆酱-打call.png" width="50" height="50" alt="汤圆酱-打call">
-<img src="https://emoji.shojo.cn/bili/src/汤圆酱/汤圆酱-大脑过载.png" width="50" height="50" alt="汤圆酱-大脑过载">
-<img src="https://emoji.shojo.cn/bili/src/汤圆酱/汤圆酱-大笑.png" width="50" height="50" alt="汤圆酱-大笑">
-<img src="https://emoji.shojo.cn/bili/src/汤圆酱/汤圆酱-点赞.png" width="50" height="50" alt="汤圆酱-点赞">
-<img src="https://emoji.shojo.cn/bili/src/汤圆酱/汤圆酱-懂你.png" width="50" height="50" alt="汤圆酱-懂你">
-<img src="https://emoji.shojo.cn/bili/src/汤圆酱/汤圆酱-疯狂点赞.png" width="50" height="50" alt="汤圆酱-疯狂点赞">
-<img src="https://emoji.shojo.cn/bili/src/汤圆酱/汤圆酱-功德+1.png" width="50" height="50" alt="汤圆酱-功德+1">
-<img src="https://emoji.shojo.cn/bili/src/汤圆酱/汤圆酱-害羞.png" width="50" height="50" alt="汤圆酱-害羞">
-<img src="https://emoji.shojo.cn/bili/src/汤圆酱/汤圆酱-红眼.png" width="50" height="50" alt="汤圆酱-红眼">
-<img src="https://emoji.shojo.cn/bili/src/汤圆酱/汤圆酱-惊讶.png" width="50" height="50" alt="汤圆酱-惊讶">
-<img src="https://emoji.shojo.cn/bili/src/汤圆酱/汤圆酱-可爱.png" width="50" height="50" alt="汤圆酱-可爱">
-<img src="https://emoji.shojo.cn/bili/src/汤圆酱/汤圆酱-沙雕.png" width="50" height="50" alt="汤圆酱-沙雕">
-<img src="https://emoji.shojo.cn/bili/src/汤圆酱/汤圆酱-傻笑.png" width="50" height="50" alt="汤圆酱-傻笑">
-<img src="https://emoji.shojo.cn/bili/src/汤圆酱/汤圆酱-耍酷.png" width="50" height="50" alt="汤圆酱-耍酷">
-<img src="https://emoji.shojo.cn/bili/src/汤圆酱/汤圆酱-说的就是你.png" width="50" height="50" alt="汤圆酱-说的就是你">
-<img src="https://emoji.shojo.cn/bili/src/汤圆酱/汤圆酱-酸了.png" width="50" height="50" alt="汤圆酱-酸了">
-<img src="https://emoji.shojo.cn/bili/src/汤圆酱/汤圆酱-偷瞄.png" width="50" height="50" alt="汤圆酱-偷瞄">
-<img src="https://emoji.shojo.cn/bili/src/汤圆酱/汤圆酱-偷笑.png" width="50" height="50" alt="汤圆酱-偷笑">
-<img src="https://emoji.shojo.cn/bili/src/汤圆酱/汤圆酱-投币.png" width="50" height="50" alt="汤圆酱-投币">
-<img src="https://emoji.shojo.cn/bili/src/汤圆酱/汤圆酱-细品.png" width="50" height="50" alt="汤圆酱-细品">
-<img src="https://emoji.shojo.cn/bili/src/汤圆酱/汤圆酱-星星眼.png" width="50" height="50" alt="汤圆酱-星星眼">
-<img src="https://emoji.shojo.cn/bili/src/汤圆酱/汤圆酱-疑问.png" width="50" height="50" alt="汤圆酱-疑问">
-<img src="https://emoji.shojo.cn/bili/src/汤圆酱/汤圆酱-装傻.png" width="50" height="50" alt="汤圆酱-装傻">
+<img src="https://emoji.shojo.cn/bili/src/汤圆酱/汤圆酱-这个好.png" width="50" height="50" alt="汤圆酱-这个好"><img src="https://emoji.shojo.cn/bili/src/汤圆酱/汤圆酱-不对不对.png" width="50" height="50" alt="汤圆酱-不对不对"><img src="https://emoji.shojo.cn/bili/src/汤圆酱/汤圆酱-哼.png" width="50" height="50" alt="汤圆酱-哼"><img src="https://emoji.shojo.cn/bili/src/汤圆酱/汤圆酱-不好意思.png" width="50" height="50" alt="汤圆酱-不好意思"><img src="https://emoji.shojo.cn/bili/src/汤圆酱/汤圆酱-不屑.png" width="50" height="50" alt="汤圆酱-不屑"><img src="https://emoji.shojo.cn/bili/src/汤圆酱/汤圆酱-咦.png" width="50" height="50" alt="汤圆酱-咦"><img src="https://emoji.shojo.cn/bili/src/汤圆酱/汤圆酱-搓手.png" width="50" height="50" alt="汤圆酱-搓手"><img src="https://emoji.shojo.cn/bili/src/汤圆酱/汤圆酱-打call.png" width="50" height="50" alt="汤圆酱-打call"><img src="https://emoji.shojo.cn/bili/src/汤圆酱/汤圆酱-大脑过载.png" width="50" height="50" alt="汤圆酱-大脑过载"><img src="https://emoji.shojo.cn/bili/src/汤圆酱/汤圆酱-大笑.png" width="50" height="50" alt="汤圆酱-大笑"><img src="https://emoji.shojo.cn/bili/src/汤圆酱/汤圆酱-点赞.png" width="50" height="50" alt="汤圆酱-点赞"><img src="https://emoji.shojo.cn/bili/src/汤圆酱/汤圆酱-懂你.png" width="50" height="50" alt="汤圆酱-懂你"><img src="https://emoji.shojo.cn/bili/src/汤圆酱/汤圆酱-疯狂点赞.png" width="50" height="50" alt="汤圆酱-疯狂点赞"><img src="https://emoji.shojo.cn/bili/src/汤圆酱/汤圆酱-功德+1.png" width="50" height="50" alt="汤圆酱-功德+1"><img src="https://emoji.shojo.cn/bili/src/汤圆酱/汤圆酱-害羞.png" width="50" height="50" alt="汤圆酱-害羞"><img src="https://emoji.shojo.cn/bili/src/汤圆酱/汤圆酱-红眼.png" width="50" height="50" alt="汤圆酱-红眼"><img src="https://emoji.shojo.cn/bili/src/汤圆酱/汤圆酱-惊讶.png" width="50" height="50" alt="汤圆酱-惊讶"><img src="https://emoji.shojo.cn/bili/src/汤圆酱/汤圆酱-可爱.png" width="50" height="50" alt="汤圆酱-可爱"><img src="https://emoji.shojo.cn/bili/src/汤圆酱/汤圆酱-沙雕.png" width="50" height="50" alt="汤圆酱-沙雕"><img src="https://emoji.shojo.cn/bili/src/汤圆酱/汤圆酱-傻笑.png" width="50" height="50" alt="汤圆酱-傻笑"><img src="https://emoji.shojo.cn/bili/src/汤圆酱/汤圆酱-耍酷.png" width="50" height="50" alt="汤圆酱-耍酷"><img src="https://emoji.shojo.cn/bili/src/汤圆酱/汤圆酱-说的就是你.png" width="50" height="50" alt="汤圆酱-说的就是你"><img src="https://emoji.shojo.cn/bili/src/汤圆酱/汤圆酱-酸了.png" width="50" height="50" alt="汤圆酱-酸了"><img src="https://emoji.shojo.cn/bili/src/汤圆酱/汤圆酱-偷瞄.png" width="50" height="50" alt="汤圆酱-偷瞄"><img src="https://emoji.shojo.cn/bili/src/汤圆酱/汤圆酱-偷笑.png" width="50" height="50" alt="汤圆酱-偷笑"><img src="https://emoji.shojo.cn/bili/src/汤圆酱/汤圆酱-投币.png" width="50" height="50" alt="汤圆酱-投币"><img src="https://emoji.shojo.cn/bili/src/汤圆酱/汤圆酱-细品.png" width="50" height="50" alt="汤圆酱-细品"><img src="https://emoji.shojo.cn/bili/src/汤圆酱/汤圆酱-星星眼.png" width="50" height="50" alt="汤圆酱-星星眼"><img src="https://emoji.shojo.cn/bili/src/汤圆酱/汤圆酱-疑问.png" width="50" height="50" alt="汤圆酱-疑问"><img src="https://emoji.shojo.cn/bili/src/汤圆酱/汤圆酱-装傻.png" width="50" height="50" alt="汤圆酱-装傻">
 
 ## 下载地址
 

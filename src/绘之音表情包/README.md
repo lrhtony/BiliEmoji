@@ -8,31 +8,7 @@ https://emoji.shojo.cn/bili/src/绘之音表情包
 https://emoji.shojo.cn/bili/webp/绘之音表情包
 ```
 ## 展示
-<img src="https://emoji.shojo.cn/bili/src/绘之音表情包/绘之音表情包-达咩.png" width="50" height="50" alt="绘之音表情包-达咩">
-<img src="https://emoji.shojo.cn/bili/src/绘之音表情包/绘之音表情包-纸巾.png" width="50" height="50" alt="绘之音表情包-纸巾">
-<img src="https://emoji.shojo.cn/bili/src/绘之音表情包/绘之音表情包-瞅瞅.png" width="50" height="50" alt="绘之音表情包-瞅瞅">
-<img src="https://emoji.shojo.cn/bili/src/绘之音表情包/绘之音表情包-讨好.png" width="50" height="50" alt="绘之音表情包-讨好">
-<img src="https://emoji.shojo.cn/bili/src/绘之音表情包/绘之音表情包-委屈.png" width="50" height="50" alt="绘之音表情包-委屈">
-<img src="https://emoji.shojo.cn/bili/src/绘之音表情包/绘之音表情包-期待.png" width="50" height="50" alt="绘之音表情包-期待">
-<img src="https://emoji.shojo.cn/bili/src/绘之音表情包/绘之音表情包-你小子.png" width="50" height="50" alt="绘之音表情包-你小子">
-<img src="https://emoji.shojo.cn/bili/src/绘之音表情包/绘之音表情包-杂鱼杂鱼.png" width="50" height="50" alt="绘之音表情包-杂鱼杂鱼">
-<img src="https://emoji.shojo.cn/bili/src/绘之音表情包/绘之音表情包-优雅自信.png" width="50" height="50" alt="绘之音表情包-优雅自信">
-<img src="https://emoji.shojo.cn/bili/src/绘之音表情包/绘之音表情包-倒霉.png" width="50" height="50" alt="绘之音表情包-倒霉">
-<img src="https://emoji.shojo.cn/bili/src/绘之音表情包/绘之音表情包-颓废.png" width="50" height="50" alt="绘之音表情包-颓废">
-<img src="https://emoji.shojo.cn/bili/src/绘之音表情包/绘之音表情包-抱抱.png" width="50" height="50" alt="绘之音表情包-抱抱">
-<img src="https://emoji.shojo.cn/bili/src/绘之音表情包/绘之音表情包-困.png" width="50" height="50" alt="绘之音表情包-困">
-<img src="https://emoji.shojo.cn/bili/src/绘之音表情包/绘之音表情包-吃瓜.png" width="50" height="50" alt="绘之音表情包-吃瓜">
-<img src="https://emoji.shojo.cn/bili/src/绘之音表情包/绘之音表情包-贴贴.png" width="50" height="50" alt="绘之音表情包-贴贴">
-<img src="https://emoji.shojo.cn/bili/src/绘之音表情包/绘之音表情包-大笑.png" width="50" height="50" alt="绘之音表情包-大笑">
-<img src="https://emoji.shojo.cn/bili/src/绘之音表情包/绘之音表情包-警觉.png" width="50" height="50" alt="绘之音表情包-警觉">
-<img src="https://emoji.shojo.cn/bili/src/绘之音表情包/绘之音表情包-为难.png" width="50" height="50" alt="绘之音表情包-为难">
-<img src="https://emoji.shojo.cn/bili/src/绘之音表情包/绘之音表情包-惊喜.png" width="50" height="50" alt="绘之音表情包-惊喜">
-<img src="https://emoji.shojo.cn/bili/src/绘之音表情包/绘之音表情包-叹气.png" width="50" height="50" alt="绘之音表情包-叹气">
-<img src="https://emoji.shojo.cn/bili/src/绘之音表情包/绘之音表情包-打call.png" width="50" height="50" alt="绘之音表情包-打call">
-<img src="https://emoji.shojo.cn/bili/src/绘之音表情包/绘之音表情包-思考.png" width="50" height="50" alt="绘之音表情包-思考">
-<img src="https://emoji.shojo.cn/bili/src/绘之音表情包/绘之音表情包-棒.png" width="50" height="50" alt="绘之音表情包-棒">
-<img src="https://emoji.shojo.cn/bili/src/绘之音表情包/绘之音表情包-飙车.png" width="50" height="50" alt="绘之音表情包-飙车">
-<img src="https://emoji.shojo.cn/bili/src/绘之音表情包/绘之音表情包-呆.png" width="50" height="50" alt="绘之音表情包-呆">
+<img src="https://emoji.shojo.cn/bili/src/绘之音表情包/绘之音表情包-达咩.png" width="50" height="50" alt="绘之音表情包-达咩"><img src="https://emoji.shojo.cn/bili/src/绘之音表情包/绘之音表情包-纸巾.png" width="50" height="50" alt="绘之音表情包-纸巾"><img src="https://emoji.shojo.cn/bili/src/绘之音表情包/绘之音表情包-瞅瞅.png" width="50" height="50" alt="绘之音表情包-瞅瞅"><img src="https://emoji.shojo.cn/bili/src/绘之音表情包/绘之音表情包-讨好.png" width="50" height="50" alt="绘之音表情包-讨好"><img src="https://emoji.shojo.cn/bili/src/绘之音表情包/绘之音表情包-委屈.png" width="50" height="50" alt="绘之音表情包-委屈"><img src="https://emoji.shojo.cn/bili/src/绘之音表情包/绘之音表情包-期待.png" width="50" height="50" alt="绘之音表情包-期待"><img src="https://emoji.shojo.cn/bili/src/绘之音表情包/绘之音表情包-你小子.png" width="50" height="50" alt="绘之音表情包-你小子"><img src="https://emoji.shojo.cn/bili/src/绘之音表情包/绘之音表情包-杂鱼杂鱼.png" width="50" height="50" alt="绘之音表情包-杂鱼杂鱼"><img src="https://emoji.shojo.cn/bili/src/绘之音表情包/绘之音表情包-优雅自信.png" width="50" height="50" alt="绘之音表情包-优雅自信"><img src="https://emoji.shojo.cn/bili/src/绘之音表情包/绘之音表情包-倒霉.png" width="50" height="50" alt="绘之音表情包-倒霉"><img src="https://emoji.shojo.cn/bili/src/绘之音表情包/绘之音表情包-颓废.png" width="50" height="50" alt="绘之音表情包-颓废"><img src="https://emoji.shojo.cn/bili/src/绘之音表情包/绘之音表情包-抱抱.png" width="50" height="50" alt="绘之音表情包-抱抱"><img src="https://emoji.shojo.cn/bili/src/绘之音表情包/绘之音表情包-困.png" width="50" height="50" alt="绘之音表情包-困"><img src="https://emoji.shojo.cn/bili/src/绘之音表情包/绘之音表情包-吃瓜.png" width="50" height="50" alt="绘之音表情包-吃瓜"><img src="https://emoji.shojo.cn/bili/src/绘之音表情包/绘之音表情包-贴贴.png" width="50" height="50" alt="绘之音表情包-贴贴"><img src="https://emoji.shojo.cn/bili/src/绘之音表情包/绘之音表情包-大笑.png" width="50" height="50" alt="绘之音表情包-大笑"><img src="https://emoji.shojo.cn/bili/src/绘之音表情包/绘之音表情包-警觉.png" width="50" height="50" alt="绘之音表情包-警觉"><img src="https://emoji.shojo.cn/bili/src/绘之音表情包/绘之音表情包-为难.png" width="50" height="50" alt="绘之音表情包-为难"><img src="https://emoji.shojo.cn/bili/src/绘之音表情包/绘之音表情包-惊喜.png" width="50" height="50" alt="绘之音表情包-惊喜"><img src="https://emoji.shojo.cn/bili/src/绘之音表情包/绘之音表情包-叹气.png" width="50" height="50" alt="绘之音表情包-叹气"><img src="https://emoji.shojo.cn/bili/src/绘之音表情包/绘之音表情包-打call.png" width="50" height="50" alt="绘之音表情包-打call"><img src="https://emoji.shojo.cn/bili/src/绘之音表情包/绘之音表情包-思考.png" width="50" height="50" alt="绘之音表情包-思考"><img src="https://emoji.shojo.cn/bili/src/绘之音表情包/绘之音表情包-棒.png" width="50" height="50" alt="绘之音表情包-棒"><img src="https://emoji.shojo.cn/bili/src/绘之音表情包/绘之音表情包-飙车.png" width="50" height="50" alt="绘之音表情包-飙车"><img src="https://emoji.shojo.cn/bili/src/绘之音表情包/绘之音表情包-呆.png" width="50" height="50" alt="绘之音表情包-呆">
 
 ## 下载地址
 

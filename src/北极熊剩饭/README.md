@@ -8,31 +8,7 @@ https://emoji.shojo.cn/bili/src/北极熊剩饭
 https://emoji.shojo.cn/bili/webp/北极熊剩饭
 ```
 ## 展示
-<img src="https://emoji.shojo.cn/bili/src/北极熊剩饭/北极熊剩饭-点赞.png" width="50" height="50" alt="北极熊剩饭-点赞">
-<img src="https://emoji.shojo.cn/bili/src/北极熊剩饭/北极熊剩饭-电波.png" width="50" height="50" alt="北极熊剩饭-电波">
-<img src="https://emoji.shojo.cn/bili/src/北极熊剩饭/北极熊剩饭-遨游.png" width="50" height="50" alt="北极熊剩饭-遨游">
-<img src="https://emoji.shojo.cn/bili/src/北极熊剩饭/北极熊剩饭-鼓励.png" width="50" height="50" alt="北极熊剩饭-鼓励">
-<img src="https://emoji.shojo.cn/bili/src/北极熊剩饭/北极熊剩饭-飞吻.png" width="50" height="50" alt="北极熊剩饭-飞吻">
-<img src="https://emoji.shojo.cn/bili/src/北极熊剩饭/北极熊剩饭-谢谢.png" width="50" height="50" alt="北极熊剩饭-谢谢">
-<img src="https://emoji.shojo.cn/bili/src/北极熊剩饭/北极熊剩饭-健身.png" width="50" height="50" alt="北极熊剩饭-健身">
-<img src="https://emoji.shojo.cn/bili/src/北极熊剩饭/北极熊剩饭-买它.png" width="50" height="50" alt="北极熊剩饭-买它">
-<img src="https://emoji.shojo.cn/bili/src/北极熊剩饭/北极熊剩饭-什么.png" width="50" height="50" alt="北极熊剩饭-什么">
-<img src="https://emoji.shojo.cn/bili/src/北极熊剩饭/北极熊剩饭-惊了.png" width="50" height="50" alt="北极熊剩饭-惊了">
-<img src="https://emoji.shojo.cn/bili/src/北极熊剩饭/北极熊剩饭-韦笑.png" width="50" height="50" alt="北极熊剩饭-韦笑">
-<img src="https://emoji.shojo.cn/bili/src/北极熊剩饭/北极熊剩饭-铁胆.png" width="50" height="50" alt="北极熊剩饭-铁胆">
-<img src="https://emoji.shojo.cn/bili/src/北极熊剩饭/北极熊剩饭-睡了.png" width="50" height="50" alt="北极熊剩饭-睡了">
-<img src="https://emoji.shojo.cn/bili/src/北极熊剩饭/北极熊剩饭-肯定.png" width="50" height="50" alt="北极熊剩饭-肯定">
-<img src="https://emoji.shojo.cn/bili/src/北极熊剩饭/北极熊剩饭-抛瓦.png" width="50" height="50" alt="北极熊剩饭-抛瓦">
-<img src="https://emoji.shojo.cn/bili/src/北极熊剩饭/北极熊剩饭-婉拒.png" width="50" height="50" alt="北极熊剩饭-婉拒">
-<img src="https://emoji.shojo.cn/bili/src/北极熊剩饭/北极熊剩饭-吃药.png" width="50" height="50" alt="北极熊剩饭-吃药">
-<img src="https://emoji.shojo.cn/bili/src/北极熊剩饭/北极熊剩饭-冒汗.png" width="50" height="50" alt="北极熊剩饭-冒汗">
-<img src="https://emoji.shojo.cn/bili/src/北极熊剩饭/北极熊剩饭-奖励.png" width="50" height="50" alt="北极熊剩饭-奖励">
-<img src="https://emoji.shojo.cn/bili/src/北极熊剩饭/北极熊剩饭-生气.png" width="50" height="50" alt="北极熊剩饭-生气">
-<img src="https://emoji.shojo.cn/bili/src/北极熊剩饭/北极熊剩饭-烦躁.png" width="50" height="50" alt="北极熊剩饭-烦躁">
-<img src="https://emoji.shojo.cn/bili/src/北极熊剩饭/北极熊剩饭-炫技.png" width="50" height="50" alt="北极熊剩饭-炫技">
-<img src="https://emoji.shojo.cn/bili/src/北极熊剩饭/北极熊剩饭-猛男.png" width="50" height="50" alt="北极熊剩饭-猛男">
-<img src="https://emoji.shojo.cn/bili/src/北极熊剩饭/北极熊剩饭-无语.png" width="50" height="50" alt="北极熊剩饭-无语">
-<img src="https://emoji.shojo.cn/bili/src/北极熊剩饭/北极熊剩饭-玩耍.png" width="50" height="50" alt="北极熊剩饭-玩耍">
+<img src="https://emoji.shojo.cn/bili/src/北极熊剩饭/北极熊剩饭-点赞.png" width="50" height="50" alt="北极熊剩饭-点赞"><img src="https://emoji.shojo.cn/bili/src/北极熊剩饭/北极熊剩饭-电波.png" width="50" height="50" alt="北极熊剩饭-电波"><img src="https://emoji.shojo.cn/bili/src/北极熊剩饭/北极熊剩饭-遨游.png" width="50" height="50" alt="北极熊剩饭-遨游"><img src="https://emoji.shojo.cn/bili/src/北极熊剩饭/北极熊剩饭-鼓励.png" width="50" height="50" alt="北极熊剩饭-鼓励"><img src="https://emoji.shojo.cn/bili/src/北极熊剩饭/北极熊剩饭-飞吻.png" width="50" height="50" alt="北极熊剩饭-飞吻"><img src="https://emoji.shojo.cn/bili/src/北极熊剩饭/北极熊剩饭-谢谢.png" width="50" height="50" alt="北极熊剩饭-谢谢"><img src="https://emoji.shojo.cn/bili/src/北极熊剩饭/北极熊剩饭-健身.png" width="50" height="50" alt="北极熊剩饭-健身"><img src="https://emoji.shojo.cn/bili/src/北极熊剩饭/北极熊剩饭-买它.png" width="50" height="50" alt="北极熊剩饭-买它"><img src="https://emoji.shojo.cn/bili/src/北极熊剩饭/北极熊剩饭-什么.png" width="50" height="50" alt="北极熊剩饭-什么"><img src="https://emoji.shojo.cn/bili/src/北极熊剩饭/北极熊剩饭-惊了.png" width="50" height="50" alt="北极熊剩饭-惊了"><img src="https://emoji.shojo.cn/bili/src/北极熊剩饭/北极熊剩饭-韦笑.png" width="50" height="50" alt="北极熊剩饭-韦笑"><img src="https://emoji.shojo.cn/bili/src/北极熊剩饭/北极熊剩饭-铁胆.png" width="50" height="50" alt="北极熊剩饭-铁胆"><img src="https://emoji.shojo.cn/bili/src/北极熊剩饭/北极熊剩饭-睡了.png" width="50" height="50" alt="北极熊剩饭-睡了"><img src="https://emoji.shojo.cn/bili/src/北极熊剩饭/北极熊剩饭-肯定.png" width="50" height="50" alt="北极熊剩饭-肯定"><img src="https://emoji.shojo.cn/bili/src/北极熊剩饭/北极熊剩饭-抛瓦.png" width="50" height="50" alt="北极熊剩饭-抛瓦"><img src="https://emoji.shojo.cn/bili/src/北极熊剩饭/北极熊剩饭-婉拒.png" width="50" height="50" alt="北极熊剩饭-婉拒"><img src="https://emoji.shojo.cn/bili/src/北极熊剩饭/北极熊剩饭-吃药.png" width="50" height="50" alt="北极熊剩饭-吃药"><img src="https://emoji.shojo.cn/bili/src/北极熊剩饭/北极熊剩饭-冒汗.png" width="50" height="50" alt="北极熊剩饭-冒汗"><img src="https://emoji.shojo.cn/bili/src/北极熊剩饭/北极熊剩饭-奖励.png" width="50" height="50" alt="北极熊剩饭-奖励"><img src="https://emoji.shojo.cn/bili/src/北极熊剩饭/北极熊剩饭-生气.png" width="50" height="50" alt="北极熊剩饭-生气"><img src="https://emoji.shojo.cn/bili/src/北极熊剩饭/北极熊剩饭-烦躁.png" width="50" height="50" alt="北极熊剩饭-烦躁"><img src="https://emoji.shojo.cn/bili/src/北极熊剩饭/北极熊剩饭-炫技.png" width="50" height="50" alt="北极熊剩饭-炫技"><img src="https://emoji.shojo.cn/bili/src/北极熊剩饭/北极熊剩饭-猛男.png" width="50" height="50" alt="北极熊剩饭-猛男"><img src="https://emoji.shojo.cn/bili/src/北极熊剩饭/北极熊剩饭-无语.png" width="50" height="50" alt="北极熊剩饭-无语"><img src="https://emoji.shojo.cn/bili/src/北极熊剩饭/北极熊剩饭-玩耍.png" width="50" height="50" alt="北极熊剩饭-玩耍">
 
 ## 下载地址
 

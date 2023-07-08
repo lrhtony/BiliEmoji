@@ -8,31 +8,7 @@ https://emoji.shojo.cn/bili/src/四大名著·红楼梦
 https://emoji.shojo.cn/bili/webp/四大名著·红楼梦
 ```
 ## 展示
-<img src="https://emoji.shojo.cn/bili/src/四大名著·红楼梦/四大名著·红楼梦-？.png" width="50" height="50" alt="四大名著·红楼梦-？">
-<img src="https://emoji.shojo.cn/bili/src/四大名著·红楼梦/四大名著·红楼梦-双向.png" width="50" height="50" alt="四大名著·红楼梦-双向">
-<img src="https://emoji.shojo.cn/bili/src/四大名著·红楼梦/四大名著·红楼梦-蛮有趣的.png" width="50" height="50" alt="四大名著·红楼梦-蛮有趣的">
-<img src="https://emoji.shojo.cn/bili/src/四大名著·红楼梦/四大名著·红楼梦-奔赴.png" width="50" height="50" alt="四大名著·红楼梦-奔赴">
-<img src="https://emoji.shojo.cn/bili/src/四大名著·红楼梦/四大名著·红楼梦-6.png" width="50" height="50" alt="四大名著·红楼梦-6">
-<img src="https://emoji.shojo.cn/bili/src/四大名著·红楼梦/四大名著·红楼梦-喜欢.png" width="50" height="50" alt="四大名著·红楼梦-喜欢">
-<img src="https://emoji.shojo.cn/bili/src/四大名著·红楼梦/四大名著·红楼梦-好茶.png" width="50" height="50" alt="四大名著·红楼梦-好茶">
-<img src="https://emoji.shojo.cn/bili/src/四大名著·红楼梦/四大名著·红楼梦-贴贴.png" width="50" height="50" alt="四大名著·红楼梦-贴贴">
-<img src="https://emoji.shojo.cn/bili/src/四大名著·红楼梦/四大名著·红楼梦-宝玉的肯定.png" width="50" height="50" alt="四大名著·红楼梦-宝玉的肯定">
-<img src="https://emoji.shojo.cn/bili/src/四大名著·红楼梦/四大名著·红楼梦-吃瓜.png" width="50" height="50" alt="四大名著·红楼梦-吃瓜">
-<img src="https://emoji.shojo.cn/bili/src/四大名著·红楼梦/四大名著·红楼梦-思考.png" width="50" height="50" alt="四大名著·红楼梦-思考">
-<img src="https://emoji.shojo.cn/bili/src/四大名著·红楼梦/四大名著·红楼梦-厚厚伪装.png" width="50" height="50" alt="四大名著·红楼梦-厚厚伪装">
-<img src="https://emoji.shojo.cn/bili/src/四大名著·红楼梦/四大名著·红楼梦-黛玉葬花.png" width="50" height="50" alt="四大名著·红楼梦-黛玉葬花">
-<img src="https://emoji.shojo.cn/bili/src/四大名著·红楼梦/四大名著·红楼梦-库鲁西.png" width="50" height="50" alt="四大名著·红楼梦-库鲁西">
-<img src="https://emoji.shojo.cn/bili/src/四大名著·红楼梦/四大名著·红楼梦-开心.png" width="50" height="50" alt="四大名著·红楼梦-开心">
-<img src="https://emoji.shojo.cn/bili/src/四大名著·红楼梦/四大名著·红楼梦-裂开.png" width="50" height="50" alt="四大名著·红楼梦-裂开">
-<img src="https://emoji.shojo.cn/bili/src/四大名著·红楼梦/四大名著·红楼梦-生气了.png" width="50" height="50" alt="四大名著·红楼梦-生气了">
-<img src="https://emoji.shojo.cn/bili/src/四大名著·红楼梦/四大名著·红楼梦-你小子.png" width="50" height="50" alt="四大名著·红楼梦-你小子">
-<img src="https://emoji.shojo.cn/bili/src/四大名著·红楼梦/四大名著·红楼梦-心虚.png" width="50" height="50" alt="四大名著·红楼梦-心虚">
-<img src="https://emoji.shojo.cn/bili/src/四大名著·红楼梦/四大名著·红楼梦-期待.png" width="50" height="50" alt="四大名著·红楼梦-期待">
-<img src="https://emoji.shojo.cn/bili/src/四大名著·红楼梦/四大名著·红楼梦-拳头嗯了.png" width="50" height="50" alt="四大名著·红楼梦-拳头嗯了">
-<img src="https://emoji.shojo.cn/bili/src/四大名著·红楼梦/四大名著·红楼梦-我要闹啦.png" width="50" height="50" alt="四大名著·红楼梦-我要闹啦">
-<img src="https://emoji.shojo.cn/bili/src/四大名著·红楼梦/四大名著·红楼梦-抱一丝啊.png" width="50" height="50" alt="四大名著·红楼梦-抱一丝啊">
-<img src="https://emoji.shojo.cn/bili/src/四大名著·红楼梦/四大名著·红楼梦-无语.png" width="50" height="50" alt="四大名著·红楼梦-无语">
-<img src="https://emoji.shojo.cn/bili/src/四大名著·红楼梦/四大名著·红楼梦-我跟你嗦.png" width="50" height="50" alt="四大名著·红楼梦-我跟你嗦">
+<img src="https://emoji.shojo.cn/bili/src/四大名著·红楼梦/四大名著·红楼梦-？.png" width="50" height="50" alt="四大名著·红楼梦-？"><img src="https://emoji.shojo.cn/bili/src/四大名著·红楼梦/四大名著·红楼梦-双向.png" width="50" height="50" alt="四大名著·红楼梦-双向"><img src="https://emoji.shojo.cn/bili/src/四大名著·红楼梦/四大名著·红楼梦-蛮有趣的.png" width="50" height="50" alt="四大名著·红楼梦-蛮有趣的"><img src="https://emoji.shojo.cn/bili/src/四大名著·红楼梦/四大名著·红楼梦-奔赴.png" width="50" height="50" alt="四大名著·红楼梦-奔赴"><img src="https://emoji.shojo.cn/bili/src/四大名著·红楼梦/四大名著·红楼梦-6.png" width="50" height="50" alt="四大名著·红楼梦-6"><img src="https://emoji.shojo.cn/bili/src/四大名著·红楼梦/四大名著·红楼梦-喜欢.png" width="50" height="50" alt="四大名著·红楼梦-喜欢"><img src="https://emoji.shojo.cn/bili/src/四大名著·红楼梦/四大名著·红楼梦-好茶.png" width="50" height="50" alt="四大名著·红楼梦-好茶"><img src="https://emoji.shojo.cn/bili/src/四大名著·红楼梦/四大名著·红楼梦-贴贴.png" width="50" height="50" alt="四大名著·红楼梦-贴贴"><img src="https://emoji.shojo.cn/bili/src/四大名著·红楼梦/四大名著·红楼梦-宝玉的肯定.png" width="50" height="50" alt="四大名著·红楼梦-宝玉的肯定"><img src="https://emoji.shojo.cn/bili/src/四大名著·红楼梦/四大名著·红楼梦-吃瓜.png" width="50" height="50" alt="四大名著·红楼梦-吃瓜"><img src="https://emoji.shojo.cn/bili/src/四大名著·红楼梦/四大名著·红楼梦-思考.png" width="50" height="50" alt="四大名著·红楼梦-思考"><img src="https://emoji.shojo.cn/bili/src/四大名著·红楼梦/四大名著·红楼梦-厚厚伪装.png" width="50" height="50" alt="四大名著·红楼梦-厚厚伪装"><img src="https://emoji.shojo.cn/bili/src/四大名著·红楼梦/四大名著·红楼梦-黛玉葬花.png" width="50" height="50" alt="四大名著·红楼梦-黛玉葬花"><img src="https://emoji.shojo.cn/bili/src/四大名著·红楼梦/四大名著·红楼梦-库鲁西.png" width="50" height="50" alt="四大名著·红楼梦-库鲁西"><img src="https://emoji.shojo.cn/bili/src/四大名著·红楼梦/四大名著·红楼梦-开心.png" width="50" height="50" alt="四大名著·红楼梦-开心"><img src="https://emoji.shojo.cn/bili/src/四大名著·红楼梦/四大名著·红楼梦-裂开.png" width="50" height="50" alt="四大名著·红楼梦-裂开"><img src="https://emoji.shojo.cn/bili/src/四大名著·红楼梦/四大名著·红楼梦-生气了.png" width="50" height="50" alt="四大名著·红楼梦-生气了"><img src="https://emoji.shojo.cn/bili/src/四大名著·红楼梦/四大名著·红楼梦-你小子.png" width="50" height="50" alt="四大名著·红楼梦-你小子"><img src="https://emoji.shojo.cn/bili/src/四大名著·红楼梦/四大名著·红楼梦-心虚.png" width="50" height="50" alt="四大名著·红楼梦-心虚"><img src="https://emoji.shojo.cn/bili/src/四大名著·红楼梦/四大名著·红楼梦-期待.png" width="50" height="50" alt="四大名著·红楼梦-期待"><img src="https://emoji.shojo.cn/bili/src/四大名著·红楼梦/四大名著·红楼梦-拳头嗯了.png" width="50" height="50" alt="四大名著·红楼梦-拳头嗯了"><img src="https://emoji.shojo.cn/bili/src/四大名著·红楼梦/四大名著·红楼梦-我要闹啦.png" width="50" height="50" alt="四大名著·红楼梦-我要闹啦"><img src="https://emoji.shojo.cn/bili/src/四大名著·红楼梦/四大名著·红楼梦-抱一丝啊.png" width="50" height="50" alt="四大名著·红楼梦-抱一丝啊"><img src="https://emoji.shojo.cn/bili/src/四大名著·红楼梦/四大名著·红楼梦-无语.png" width="50" height="50" alt="四大名著·红楼梦-无语"><img src="https://emoji.shojo.cn/bili/src/四大名著·红楼梦/四大名著·红楼梦-我跟你嗦.png" width="50" height="50" alt="四大名著·红楼梦-我跟你嗦">
 
 ## 下载地址
 

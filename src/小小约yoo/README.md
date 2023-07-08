@@ -8,31 +8,7 @@ https://emoji.shojo.cn/bili/src/小小约yoo
 https://emoji.shojo.cn/bili/webp/小小约yoo
 ```
 ## 展示
-<img src="https://emoji.shojo.cn/bili/src/小小约yoo/小小约yoo-BYD.png" width="50" height="50" alt="小小约yoo-BYD">
-<img src="https://emoji.shojo.cn/bili/src/小小约yoo/小小约yoo-别啊.png" width="50" height="50" alt="小小约yoo-别啊">
-<img src="https://emoji.shojo.cn/bili/src/小小约yoo/小小约yoo-别发颤.png" width="50" height="50" alt="小小约yoo-别发颤">
-<img src="https://emoji.shojo.cn/bili/src/小小约yoo/小小约yoo-不过如此.png" width="50" height="50" alt="小小约yoo-不过如此">
-<img src="https://emoji.shojo.cn/bili/src/小小约yoo/小小约yoo-不是吧.png" width="50" height="50" alt="小小约yoo-不是吧">
-<img src="https://emoji.shojo.cn/bili/src/小小约yoo/小小约yoo-低情商.png" width="50" height="50" alt="小小约yoo-低情商">
-<img src="https://emoji.shojo.cn/bili/src/小小约yoo/小小约yoo-高情商.png" width="50" height="50" alt="小小约yoo-高情商">
-<img src="https://emoji.shojo.cn/bili/src/小小约yoo/小小约yoo-火.png" width="50" height="50" alt="小小约yoo-火">
-<img src="https://emoji.shojo.cn/bili/src/小小约yoo/小小约yoo-急了.png" width="50" height="50" alt="小小约yoo-急了">
-<img src="https://emoji.shojo.cn/bili/src/小小约yoo/小小约yoo-就好这口.png" width="50" height="50" alt="小小约yoo-就好这口">
-<img src="https://emoji.shojo.cn/bili/src/小小约yoo/小小约yoo-跨个批脸.png" width="50" height="50" alt="小小约yoo-跨个批脸">
-<img src="https://emoji.shojo.cn/bili/src/小小约yoo/小小约yoo-泪目.png" width="50" height="50" alt="小小约yoo-泪目">
-<img src="https://emoji.shojo.cn/bili/src/小小约yoo/小小约yoo-流汗.png" width="50" height="50" alt="小小约yoo-流汗">
-<img src="https://emoji.shojo.cn/bili/src/小小约yoo/小小约yoo-爆大米.png" width="50" height="50" alt="小小约yoo-爆大米">
-<img src="https://emoji.shojo.cn/bili/src/小小约yoo/小小约yoo-摸头.png" width="50" height="50" alt="小小约yoo-摸头">
-<img src="https://emoji.shojo.cn/bili/src/小小约yoo/小小约yoo-拿捏.png" width="50" height="50" alt="小小约yoo-拿捏">
-<img src="https://emoji.shojo.cn/bili/src/小小约yoo/小小约yoo-祈祷.png" width="50" height="50" alt="小小约yoo-祈祷">
-<img src="https://emoji.shojo.cn/bili/src/小小约yoo/小小约yoo-切割.png" width="50" height="50" alt="小小约yoo-切割">
-<img src="https://emoji.shojo.cn/bili/src/小小约yoo/小小约yoo-让我看看.png" width="50" height="50" alt="小小约yoo-让我看看">
-<img src="https://emoji.shojo.cn/bili/src/小小约yoo/小小约yoo-啥.png" width="50" height="50" alt="小小约yoo-啥">
-<img src="https://emoji.shojo.cn/bili/src/小小约yoo/小小约yoo-舔.png" width="50" height="50" alt="小小约yoo-舔">
-<img src="https://emoji.shojo.cn/bili/src/小小约yoo/小小约yoo-投降.png" width="50" height="50" alt="小小约yoo-投降">
-<img src="https://emoji.shojo.cn/bili/src/小小约yoo/小小约yoo-小丑.png" width="50" height="50" alt="小小约yoo-小丑">
-<img src="https://emoji.shojo.cn/bili/src/小小约yoo/小小约yoo-中肯.png" width="50" height="50" alt="小小约yoo-中肯">
-<img src="https://emoji.shojo.cn/bili/src/小小约yoo/小小约yoo-惊呆了.png" width="50" height="50" alt="小小约yoo-惊呆了">
+<img src="https://emoji.shojo.cn/bili/src/小小约yoo/小小约yoo-BYD.png" width="50" height="50" alt="小小约yoo-BYD"><img src="https://emoji.shojo.cn/bili/src/小小约yoo/小小约yoo-别啊.png" width="50" height="50" alt="小小约yoo-别啊"><img src="https://emoji.shojo.cn/bili/src/小小约yoo/小小约yoo-别发颤.png" width="50" height="50" alt="小小约yoo-别发颤"><img src="https://emoji.shojo.cn/bili/src/小小约yoo/小小约yoo-不过如此.png" width="50" height="50" alt="小小约yoo-不过如此"><img src="https://emoji.shojo.cn/bili/src/小小约yoo/小小约yoo-不是吧.png" width="50" height="50" alt="小小约yoo-不是吧"><img src="https://emoji.shojo.cn/bili/src/小小约yoo/小小约yoo-低情商.png" width="50" height="50" alt="小小约yoo-低情商"><img src="https://emoji.shojo.cn/bili/src/小小约yoo/小小约yoo-高情商.png" width="50" height="50" alt="小小约yoo-高情商"><img src="https://emoji.shojo.cn/bili/src/小小约yoo/小小约yoo-火.png" width="50" height="50" alt="小小约yoo-火"><img src="https://emoji.shojo.cn/bili/src/小小约yoo/小小约yoo-急了.png" width="50" height="50" alt="小小约yoo-急了"><img src="https://emoji.shojo.cn/bili/src/小小约yoo/小小约yoo-就好这口.png" width="50" height="50" alt="小小约yoo-就好这口"><img src="https://emoji.shojo.cn/bili/src/小小约yoo/小小约yoo-跨个批脸.png" width="50" height="50" alt="小小约yoo-跨个批脸"><img src="https://emoji.shojo.cn/bili/src/小小约yoo/小小约yoo-泪目.png" width="50" height="50" alt="小小约yoo-泪目"><img src="https://emoji.shojo.cn/bili/src/小小约yoo/小小约yoo-流汗.png" width="50" height="50" alt="小小约yoo-流汗"><img src="https://emoji.shojo.cn/bili/src/小小约yoo/小小约yoo-爆大米.png" width="50" height="50" alt="小小约yoo-爆大米"><img src="https://emoji.shojo.cn/bili/src/小小约yoo/小小约yoo-摸头.png" width="50" height="50" alt="小小约yoo-摸头"><img src="https://emoji.shojo.cn/bili/src/小小约yoo/小小约yoo-拿捏.png" width="50" height="50" alt="小小约yoo-拿捏"><img src="https://emoji.shojo.cn/bili/src/小小约yoo/小小约yoo-祈祷.png" width="50" height="50" alt="小小约yoo-祈祷"><img src="https://emoji.shojo.cn/bili/src/小小约yoo/小小约yoo-切割.png" width="50" height="50" alt="小小约yoo-切割"><img src="https://emoji.shojo.cn/bili/src/小小约yoo/小小约yoo-让我看看.png" width="50" height="50" alt="小小约yoo-让我看看"><img src="https://emoji.shojo.cn/bili/src/小小约yoo/小小约yoo-啥.png" width="50" height="50" alt="小小约yoo-啥"><img src="https://emoji.shojo.cn/bili/src/小小约yoo/小小约yoo-舔.png" width="50" height="50" alt="小小约yoo-舔"><img src="https://emoji.shojo.cn/bili/src/小小约yoo/小小约yoo-投降.png" width="50" height="50" alt="小小约yoo-投降"><img src="https://emoji.shojo.cn/bili/src/小小约yoo/小小约yoo-小丑.png" width="50" height="50" alt="小小约yoo-小丑"><img src="https://emoji.shojo.cn/bili/src/小小约yoo/小小约yoo-中肯.png" width="50" height="50" alt="小小约yoo-中肯"><img src="https://emoji.shojo.cn/bili/src/小小约yoo/小小约yoo-惊呆了.png" width="50" height="50" alt="小小约yoo-惊呆了">
 
 ## 下载地址
 

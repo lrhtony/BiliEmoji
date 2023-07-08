@@ -8,11 +8,7 @@ https://emoji.shojo.cn/bili/src/拜年纪2022
 https://emoji.shojo.cn/bili/webp/拜年纪2022
 ```
 ## 展示
-<img src="https://emoji.shojo.cn/bili/src/拜年纪2022/拜年纪2022-比心.png" width="50" height="50" alt="拜年纪2022-比心">
-<img src="https://emoji.shojo.cn/bili/src/拜年纪2022/拜年纪2022-服.png" width="50" height="50" alt="拜年纪2022-服">
-<img src="https://emoji.shojo.cn/bili/src/拜年纪2022/拜年纪2022-火了.png" width="50" height="50" alt="拜年纪2022-火了">
-<img src="https://emoji.shojo.cn/bili/src/拜年纪2022/拜年纪2022-麻了.png" width="50" height="50" alt="拜年纪2022-麻了">
-<img src="https://emoji.shojo.cn/bili/src/拜年纪2022/拜年纪2022-摸鱼.png" width="50" height="50" alt="拜年纪2022-摸鱼">
+<img src="https://emoji.shojo.cn/bili/src/拜年纪2022/拜年纪2022-比心.png" width="50" height="50" alt="拜年纪2022-比心"><img src="https://emoji.shojo.cn/bili/src/拜年纪2022/拜年纪2022-服.png" width="50" height="50" alt="拜年纪2022-服"><img src="https://emoji.shojo.cn/bili/src/拜年纪2022/拜年纪2022-火了.png" width="50" height="50" alt="拜年纪2022-火了"><img src="https://emoji.shojo.cn/bili/src/拜年纪2022/拜年纪2022-麻了.png" width="50" height="50" alt="拜年纪2022-麻了"><img src="https://emoji.shojo.cn/bili/src/拜年纪2022/拜年纪2022-摸鱼.png" width="50" height="50" alt="拜年纪2022-摸鱼">
 
 ## 下载地址
 

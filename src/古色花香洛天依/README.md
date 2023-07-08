@@ -8,31 +8,7 @@ https://emoji.shojo.cn/bili/src/古色花香洛天依
 https://emoji.shojo.cn/bili/webp/古色花香洛天依
 ```
 ## 展示
-<img src="https://emoji.shojo.cn/bili/src/古色花香洛天依/古色花香洛天依-饿饿.png" width="50" height="50" alt="古色花香洛天依-饿饿">
-<img src="https://emoji.shojo.cn/bili/src/古色花香洛天依/古色花香洛天依-亲亲mua.png" width="50" height="50" alt="古色花香洛天依-亲亲mua">
-<img src="https://emoji.shojo.cn/bili/src/古色花香洛天依/古色花香洛天依-呜呜呜.png" width="50" height="50" alt="古色花香洛天依-呜呜呜">
-<img src="https://emoji.shojo.cn/bili/src/古色花香洛天依/古色花香洛天依-期待.png" width="50" height="50" alt="古色花香洛天依-期待">
-<img src="https://emoji.shojo.cn/bili/src/古色花香洛天依/古色花香洛天依-喝茶.png" width="50" height="50" alt="古色花香洛天依-喝茶">
-<img src="https://emoji.shojo.cn/bili/src/古色花香洛天依/古色花香洛天依-非酋.png" width="50" height="50" alt="古色花香洛天依-非酋">
-<img src="https://emoji.shojo.cn/bili/src/古色花香洛天依/古色花香洛天依-无辜.png" width="50" height="50" alt="古色花香洛天依-无辜">
-<img src="https://emoji.shojo.cn/bili/src/古色花香洛天依/古色花香洛天依-装傻.png" width="50" height="50" alt="古色花香洛天依-装傻">
-<img src="https://emoji.shojo.cn/bili/src/古色花香洛天依/古色花香洛天依-请你吃包子.png" width="50" height="50" alt="古色花香洛天依-请你吃包子">
-<img src="https://emoji.shojo.cn/bili/src/古色花香洛天依/古色花香洛天依-乖巧.png" width="50" height="50" alt="古色花香洛天依-乖巧">
-<img src="https://emoji.shojo.cn/bili/src/古色花香洛天依/古色花香洛天依-欧皇.png" width="50" height="50" alt="古色花香洛天依-欧皇">
-<img src="https://emoji.shojo.cn/bili/src/古色花香洛天依/古色花香洛天依-暗中观察.png" width="50" height="50" alt="古色花香洛天依-暗中观察">
-<img src="https://emoji.shojo.cn/bili/src/古色花香洛天依/古色花香洛天依-趴会儿.png" width="50" height="50" alt="古色花香洛天依-趴会儿">
-<img src="https://emoji.shojo.cn/bili/src/古色花香洛天依/古色花香洛天依-wink.png" width="50" height="50" alt="古色花香洛天依-wink">
-<img src="https://emoji.shojo.cn/bili/src/古色花香洛天依/古色花香洛天依-？.png" width="50" height="50" alt="古色花香洛天依-？">
-<img src="https://emoji.shojo.cn/bili/src/古色花香洛天依/古色花香洛天依-我不听.png" width="50" height="50" alt="古色花香洛天依-我不听">
-<img src="https://emoji.shojo.cn/bili/src/古色花香洛天依/古色花香洛天依-突然冒出.png" width="50" height="50" alt="古色花香洛天依-突然冒出">
-<img src="https://emoji.shojo.cn/bili/src/古色花香洛天依/古色花香洛天依-撒花.png" width="50" height="50" alt="古色花香洛天依-撒花">
-<img src="https://emoji.shojo.cn/bili/src/古色花香洛天依/古色花香洛天依-实在优雅.png" width="50" height="50" alt="古色花香洛天依-实在优雅">
-<img src="https://emoji.shojo.cn/bili/src/古色花香洛天依/古色花香洛天依-吃瓜.png" width="50" height="50" alt="古色花香洛天依-吃瓜">
-<img src="https://emoji.shojo.cn/bili/src/古色花香洛天依/古色花香洛天依-狂喜.png" width="50" height="50" alt="古色花香洛天依-狂喜">
-<img src="https://emoji.shojo.cn/bili/src/古色花香洛天依/古色花香洛天依-嗯嗯.png" width="50" height="50" alt="古色花香洛天依-嗯嗯">
-<img src="https://emoji.shojo.cn/bili/src/古色花香洛天依/古色花香洛天依-哽咽.png" width="50" height="50" alt="古色花香洛天依-哽咽">
-<img src="https://emoji.shojo.cn/bili/src/古色花香洛天依/古色花香洛天依-呐~.png" width="50" height="50" alt="古色花香洛天依-呐~">
-<img src="https://emoji.shojo.cn/bili/src/古色花香洛天依/古色花香洛天依-贴贴.png" width="50" height="50" alt="古色花香洛天依-贴贴">
+<img src="https://emoji.shojo.cn/bili/src/古色花香洛天依/古色花香洛天依-饿饿.png" width="50" height="50" alt="古色花香洛天依-饿饿"><img src="https://emoji.shojo.cn/bili/src/古色花香洛天依/古色花香洛天依-亲亲mua.png" width="50" height="50" alt="古色花香洛天依-亲亲mua"><img src="https://emoji.shojo.cn/bili/src/古色花香洛天依/古色花香洛天依-呜呜呜.png" width="50" height="50" alt="古色花香洛天依-呜呜呜"><img src="https://emoji.shojo.cn/bili/src/古色花香洛天依/古色花香洛天依-期待.png" width="50" height="50" alt="古色花香洛天依-期待"><img src="https://emoji.shojo.cn/bili/src/古色花香洛天依/古色花香洛天依-喝茶.png" width="50" height="50" alt="古色花香洛天依-喝茶"><img src="https://emoji.shojo.cn/bili/src/古色花香洛天依/古色花香洛天依-非酋.png" width="50" height="50" alt="古色花香洛天依-非酋"><img src="https://emoji.shojo.cn/bili/src/古色花香洛天依/古色花香洛天依-无辜.png" width="50" height="50" alt="古色花香洛天依-无辜"><img src="https://emoji.shojo.cn/bili/src/古色花香洛天依/古色花香洛天依-装傻.png" width="50" height="50" alt="古色花香洛天依-装傻"><img src="https://emoji.shojo.cn/bili/src/古色花香洛天依/古色花香洛天依-请你吃包子.png" width="50" height="50" alt="古色花香洛天依-请你吃包子"><img src="https://emoji.shojo.cn/bili/src/古色花香洛天依/古色花香洛天依-乖巧.png" width="50" height="50" alt="古色花香洛天依-乖巧"><img src="https://emoji.shojo.cn/bili/src/古色花香洛天依/古色花香洛天依-欧皇.png" width="50" height="50" alt="古色花香洛天依-欧皇"><img src="https://emoji.shojo.cn/bili/src/古色花香洛天依/古色花香洛天依-暗中观察.png" width="50" height="50" alt="古色花香洛天依-暗中观察"><img src="https://emoji.shojo.cn/bili/src/古色花香洛天依/古色花香洛天依-趴会儿.png" width="50" height="50" alt="古色花香洛天依-趴会儿"><img src="https://emoji.shojo.cn/bili/src/古色花香洛天依/古色花香洛天依-wink.png" width="50" height="50" alt="古色花香洛天依-wink"><img src="https://emoji.shojo.cn/bili/src/古色花香洛天依/古色花香洛天依-？.png" width="50" height="50" alt="古色花香洛天依-？"><img src="https://emoji.shojo.cn/bili/src/古色花香洛天依/古色花香洛天依-我不听.png" width="50" height="50" alt="古色花香洛天依-我不听"><img src="https://emoji.shojo.cn/bili/src/古色花香洛天依/古色花香洛天依-突然冒出.png" width="50" height="50" alt="古色花香洛天依-突然冒出"><img src="https://emoji.shojo.cn/bili/src/古色花香洛天依/古色花香洛天依-撒花.png" width="50" height="50" alt="古色花香洛天依-撒花"><img src="https://emoji.shojo.cn/bili/src/古色花香洛天依/古色花香洛天依-实在优雅.png" width="50" height="50" alt="古色花香洛天依-实在优雅"><img src="https://emoji.shojo.cn/bili/src/古色花香洛天依/古色花香洛天依-吃瓜.png" width="50" height="50" alt="古色花香洛天依-吃瓜"><img src="https://emoji.shojo.cn/bili/src/古色花香洛天依/古色花香洛天依-狂喜.png" width="50" height="50" alt="古色花香洛天依-狂喜"><img src="https://emoji.shojo.cn/bili/src/古色花香洛天依/古色花香洛天依-嗯嗯.png" width="50" height="50" alt="古色花香洛天依-嗯嗯"><img src="https://emoji.shojo.cn/bili/src/古色花香洛天依/古色花香洛天依-哽咽.png" width="50" height="50" alt="古色花香洛天依-哽咽"><img src="https://emoji.shojo.cn/bili/src/古色花香洛天依/古色花香洛天依-呐~.png" width="50" height="50" alt="古色花香洛天依-呐~"><img src="https://emoji.shojo.cn/bili/src/古色花香洛天依/古色花香洛天依-贴贴.png" width="50" height="50" alt="古色花香洛天依-贴贴">
 
 ## 下载地址
 

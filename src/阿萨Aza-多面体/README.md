@@ -8,31 +8,7 @@ https://emoji.shojo.cn/bili/src/阿萨Aza-多面体
 https://emoji.shojo.cn/bili/webp/阿萨Aza-多面体
 ```
 ## 展示
-<img src="https://emoji.shojo.cn/bili/src/阿萨Aza-多面体/阿萨Aza-多面体-nice pee.png" width="50" height="50" alt="阿萨Aza-多面体-nice pee">
-<img src="https://emoji.shojo.cn/bili/src/阿萨Aza-多面体/阿萨Aza-多面体-www.png" width="50" height="50" alt="阿萨Aza-多面体-www">
-<img src="https://emoji.shojo.cn/bili/src/阿萨Aza-多面体/阿萨Aza-多面体-安慰.png" width="50" height="50" alt="阿萨Aza-多面体-安慰">
-<img src="https://emoji.shojo.cn/bili/src/阿萨Aza-多面体/阿萨Aza-多面体-别在这发癫.png" width="50" height="50" alt="阿萨Aza-多面体-别在这发癫">
-<img src="https://emoji.shojo.cn/bili/src/阿萨Aza-多面体/阿萨Aza-多面体-打游戏咯！.png" width="50" height="50" alt="阿萨Aza-多面体-打游戏咯！">
-<img src="https://emoji.shojo.cn/bili/src/阿萨Aza-多面体/阿萨Aza-多面体-戴墨镜.png" width="50" height="50" alt="阿萨Aza-多面体-戴墨镜">
-<img src="https://emoji.shojo.cn/bili/src/阿萨Aza-多面体/阿萨Aza-多面体-愤怒.png" width="50" height="50" alt="阿萨Aza-多面体-愤怒">
-<img src="https://emoji.shojo.cn/bili/src/阿萨Aza-多面体/阿萨Aza-多面体-福如东海.png" width="50" height="50" alt="阿萨Aza-多面体-福如东海">
-<img src="https://emoji.shojo.cn/bili/src/阿萨Aza-多面体/阿萨Aza-多面体-感觉良好.png" width="50" height="50" alt="阿萨Aza-多面体-感觉良好">
-<img src="https://emoji.shojo.cn/bili/src/阿萨Aza-多面体/阿萨Aza-多面体-给钱.png" width="50" height="50" alt="阿萨Aza-多面体-给钱">
-<img src="https://emoji.shojo.cn/bili/src/阿萨Aza-多面体/阿萨Aza-多面体-挂！！！.png" width="50" height="50" alt="阿萨Aza-多面体-挂！！！">
-<img src="https://emoji.shojo.cn/bili/src/阿萨Aza-多面体/阿萨Aza-多面体-来咯.png" width="50" height="50" alt="阿萨Aza-多面体-来咯">
-<img src="https://emoji.shojo.cn/bili/src/阿萨Aza-多面体/阿萨Aza-多面体-欧皇.png" width="50" height="50" alt="阿萨Aza-多面体-欧皇">
-<img src="https://emoji.shojo.cn/bili/src/阿萨Aza-多面体/阿萨Aza-多面体-私密马赛.png" width="50" height="50" alt="阿萨Aza-多面体-私密马赛">
-<img src="https://emoji.shojo.cn/bili/src/阿萨Aza-多面体/阿萨Aza-多面体-思考.png" width="50" height="50" alt="阿萨Aza-多面体-思考">
-<img src="https://emoji.shojo.cn/bili/src/阿萨Aza-多面体/阿萨Aza-多面体-委屈.png" width="50" height="50" alt="阿萨Aza-多面体-委屈">
-<img src="https://emoji.shojo.cn/bili/src/阿萨Aza-多面体/阿萨Aza-多面体-嘻嘻.png" width="50" height="50" alt="阿萨Aza-多面体-嘻嘻">
-<img src="https://emoji.shojo.cn/bili/src/阿萨Aza-多面体/阿萨Aza-多面体-嫌弃.png" width="50" height="50" alt="阿萨Aza-多面体-嫌弃">
-<img src="https://emoji.shojo.cn/bili/src/阿萨Aza-多面体/阿萨Aza-多面体-小毛线贴贴.png" width="50" height="50" alt="阿萨Aza-多面体-小毛线贴贴">
-<img src="https://emoji.shojo.cn/bili/src/阿萨Aza-多面体/阿萨Aza-多面体-阴险.png" width="50" height="50" alt="阿萨Aza-多面体-阴险">
-<img src="https://emoji.shojo.cn/bili/src/阿萨Aza-多面体/阿萨Aza-多面体-宝贝.png" width="50" height="50" alt="阿萨Aza-多面体-宝贝">
-<img src="https://emoji.shojo.cn/bili/src/阿萨Aza-多面体/阿萨Aza-多面体-害怕.png" width="50" height="50" alt="阿萨Aza-多面体-害怕">
-<img src="https://emoji.shojo.cn/bili/src/阿萨Aza-多面体/阿萨Aza-多面体-妈.png" width="50" height="50" alt="阿萨Aza-多面体-妈">
-<img src="https://emoji.shojo.cn/bili/src/阿萨Aza-多面体/阿萨Aza-多面体-吐舌红脸.png" width="50" height="50" alt="阿萨Aza-多面体-吐舌红脸">
-<img src="https://emoji.shojo.cn/bili/src/阿萨Aza-多面体/阿萨Aza-多面体-问号.png" width="50" height="50" alt="阿萨Aza-多面体-问号">
+<img src="https://emoji.shojo.cn/bili/src/阿萨Aza-多面体/阿萨Aza-多面体-nice pee.png" width="50" height="50" alt="阿萨Aza-多面体-nice pee"><img src="https://emoji.shojo.cn/bili/src/阿萨Aza-多面体/阿萨Aza-多面体-www.png" width="50" height="50" alt="阿萨Aza-多面体-www"><img src="https://emoji.shojo.cn/bili/src/阿萨Aza-多面体/阿萨Aza-多面体-安慰.png" width="50" height="50" alt="阿萨Aza-多面体-安慰"><img src="https://emoji.shojo.cn/bili/src/阿萨Aza-多面体/阿萨Aza-多面体-别在这发癫.png" width="50" height="50" alt="阿萨Aza-多面体-别在这发癫"><img src="https://emoji.shojo.cn/bili/src/阿萨Aza-多面体/阿萨Aza-多面体-打游戏咯！.png" width="50" height="50" alt="阿萨Aza-多面体-打游戏咯！"><img src="https://emoji.shojo.cn/bili/src/阿萨Aza-多面体/阿萨Aza-多面体-戴墨镜.png" width="50" height="50" alt="阿萨Aza-多面体-戴墨镜"><img src="https://emoji.shojo.cn/bili/src/阿萨Aza-多面体/阿萨Aza-多面体-愤怒.png" width="50" height="50" alt="阿萨Aza-多面体-愤怒"><img src="https://emoji.shojo.cn/bili/src/阿萨Aza-多面体/阿萨Aza-多面体-福如东海.png" width="50" height="50" alt="阿萨Aza-多面体-福如东海"><img src="https://emoji.shojo.cn/bili/src/阿萨Aza-多面体/阿萨Aza-多面体-感觉良好.png" width="50" height="50" alt="阿萨Aza-多面体-感觉良好"><img src="https://emoji.shojo.cn/bili/src/阿萨Aza-多面体/阿萨Aza-多面体-给钱.png" width="50" height="50" alt="阿萨Aza-多面体-给钱"><img src="https://emoji.shojo.cn/bili/src/阿萨Aza-多面体/阿萨Aza-多面体-挂！！！.png" width="50" height="50" alt="阿萨Aza-多面体-挂！！！"><img src="https://emoji.shojo.cn/bili/src/阿萨Aza-多面体/阿萨Aza-多面体-来咯.png" width="50" height="50" alt="阿萨Aza-多面体-来咯"><img src="https://emoji.shojo.cn/bili/src/阿萨Aza-多面体/阿萨Aza-多面体-欧皇.png" width="50" height="50" alt="阿萨Aza-多面体-欧皇"><img src="https://emoji.shojo.cn/bili/src/阿萨Aza-多面体/阿萨Aza-多面体-私密马赛.png" width="50" height="50" alt="阿萨Aza-多面体-私密马赛"><img src="https://emoji.shojo.cn/bili/src/阿萨Aza-多面体/阿萨Aza-多面体-思考.png" width="50" height="50" alt="阿萨Aza-多面体-思考"><img src="https://emoji.shojo.cn/bili/src/阿萨Aza-多面体/阿萨Aza-多面体-委屈.png" width="50" height="50" alt="阿萨Aza-多面体-委屈"><img src="https://emoji.shojo.cn/bili/src/阿萨Aza-多面体/阿萨Aza-多面体-嘻嘻.png" width="50" height="50" alt="阿萨Aza-多面体-嘻嘻"><img src="https://emoji.shojo.cn/bili/src/阿萨Aza-多面体/阿萨Aza-多面体-嫌弃.png" width="50" height="50" alt="阿萨Aza-多面体-嫌弃"><img src="https://emoji.shojo.cn/bili/src/阿萨Aza-多面体/阿萨Aza-多面体-小毛线贴贴.png" width="50" height="50" alt="阿萨Aza-多面体-小毛线贴贴"><img src="https://emoji.shojo.cn/bili/src/阿萨Aza-多面体/阿萨Aza-多面体-阴险.png" width="50" height="50" alt="阿萨Aza-多面体-阴险"><img src="https://emoji.shojo.cn/bili/src/阿萨Aza-多面体/阿萨Aza-多面体-宝贝.png" width="50" height="50" alt="阿萨Aza-多面体-宝贝"><img src="https://emoji.shojo.cn/bili/src/阿萨Aza-多面体/阿萨Aza-多面体-害怕.png" width="50" height="50" alt="阿萨Aza-多面体-害怕"><img src="https://emoji.shojo.cn/bili/src/阿萨Aza-多面体/阿萨Aza-多面体-妈.png" width="50" height="50" alt="阿萨Aza-多面体-妈"><img src="https://emoji.shojo.cn/bili/src/阿萨Aza-多面体/阿萨Aza-多面体-吐舌红脸.png" width="50" height="50" alt="阿萨Aza-多面体-吐舌红脸"><img src="https://emoji.shojo.cn/bili/src/阿萨Aza-多面体/阿萨Aza-多面体-问号.png" width="50" height="50" alt="阿萨Aza-多面体-问号">
 
 ## 下载地址
 

@@ -8,36 +8,7 @@ https://emoji.shojo.cn/bili/src/高田熊和高田狗
 https://emoji.shojo.cn/bili/webp/高田熊和高田狗
 ```
 ## 展示
-<img src="https://emoji.shojo.cn/bili/src/高田熊和高田狗/高田熊和高田狗-Good.png" width="50" height="50" alt="高田熊和高田狗-Good">
-<img src="https://emoji.shojo.cn/bili/src/高田熊和高田狗/高田熊和高田狗-Hi.png" width="50" height="50" alt="高田熊和高田狗-Hi">
-<img src="https://emoji.shojo.cn/bili/src/高田熊和高田狗/高田熊和高田狗-oh no.png" width="50" height="50" alt="高田熊和高田狗-oh no">
-<img src="https://emoji.shojo.cn/bili/src/高田熊和高田狗/高田熊和高田狗-爱心.png" width="50" height="50" alt="高田熊和高田狗-爱心">
-<img src="https://emoji.shojo.cn/bili/src/高田熊和高田狗/高田熊和高田狗-饱了.png" width="50" height="50" alt="高田熊和高田狗-饱了">
-<img src="https://emoji.shojo.cn/bili/src/高田熊和高田狗/高田熊和高田狗-冲呀.png" width="50" height="50" alt="高田熊和高田狗-冲呀">
-<img src="https://emoji.shojo.cn/bili/src/高田熊和高田狗/高田熊和高田狗-达成共识.png" width="50" height="50" alt="高田熊和高田狗-达成共识">
-<img src="https://emoji.shojo.cn/bili/src/高田熊和高田狗/高田熊和高田狗-诶诶.png" width="50" height="50" alt="高田熊和高田狗-诶诶">
-<img src="https://emoji.shojo.cn/bili/src/高田熊和高田狗/高田熊和高田狗-诶嘿.png" width="50" height="50" alt="高田熊和高田狗-诶嘿">
-<img src="https://emoji.shojo.cn/bili/src/高田熊和高田狗/高田熊和高田狗-哈欠.png" width="50" height="50" alt="高田熊和高田狗-哈欠">
-<img src="https://emoji.shojo.cn/bili/src/高田熊和高田狗/高田熊和高田狗-嗨嗨.png" width="50" height="50" alt="高田熊和高田狗-嗨嗨">
-<img src="https://emoji.shojo.cn/bili/src/高田熊和高田狗/高田熊和高田狗-害羞.png" width="50" height="50" alt="高田熊和高田狗-害羞">
-<img src="https://emoji.shojo.cn/bili/src/高田熊和高田狗/高田熊和高田狗-汗.png" width="50" height="50" alt="高田熊和高田狗-汗">
-<img src="https://emoji.shojo.cn/bili/src/高田熊和高田狗/高田熊和高田狗-欢呼.png" width="50" height="50" alt="高田熊和高田狗-欢呼">
-<img src="https://emoji.shojo.cn/bili/src/高田熊和高田狗/高田熊和高田狗-静静看.png" width="50" height="50" alt="高田熊和高田狗-静静看">
-<img src="https://emoji.shojo.cn/bili/src/高田熊和高田狗/高田熊和高田狗-开心.png" width="50" height="50" alt="高田熊和高田狗-开心">
-<img src="https://emoji.shojo.cn/bili/src/高田熊和高田狗/高田熊和高田狗-了解.png" width="50" height="50" alt="高田熊和高田狗-了解">
-<img src="https://emoji.shojo.cn/bili/src/高田熊和高田狗/高田熊和高田狗-灵魂出窍.png" width="50" height="50" alt="高田熊和高田狗-灵魂出窍">
-<img src="https://emoji.shojo.cn/bili/src/高田熊和高田狗/高田熊和高田狗-毛巾狗.png" width="50" height="50" alt="高田熊和高田狗-毛巾狗">
-<img src="https://emoji.shojo.cn/bili/src/高田熊和高田狗/高田熊和高田狗-毛巾熊.png" width="50" height="50" alt="高田熊和高田狗-毛巾熊">
-<img src="https://emoji.shojo.cn/bili/src/高田熊和高田狗/高田熊和高田狗-起床.png" width="50" height="50" alt="高田熊和高田狗-起床">
-<img src="https://emoji.shojo.cn/bili/src/高田熊和高田狗/高田熊和高田狗-气.png" width="50" height="50" alt="高田熊和高田狗-气">
-<img src="https://emoji.shojo.cn/bili/src/高田熊和高田狗/高田熊和高田狗-沙发瘫.png" width="50" height="50" alt="高田熊和高田狗-沙发瘫">
-<img src="https://emoji.shojo.cn/bili/src/高田熊和高田狗/高田熊和高田狗-上网.png" width="50" height="50" alt="高田熊和高田狗-上网">
-<img src="https://emoji.shojo.cn/bili/src/高田熊和高田狗/高田熊和高田狗-双手耶.png" width="50" height="50" alt="高田熊和高田狗-双手耶">
-<img src="https://emoji.shojo.cn/bili/src/高田熊和高田狗/高田熊和高田狗-哇啊啊啊.png" width="50" height="50" alt="高田熊和高田狗-哇啊啊啊">
-<img src="https://emoji.shojo.cn/bili/src/高田熊和高田狗/高田熊和高田狗-哇哦.png" width="50" height="50" alt="高田熊和高田狗-哇哦">
-<img src="https://emoji.shojo.cn/bili/src/高田熊和高田狗/高田熊和高田狗-笑趴.png" width="50" height="50" alt="高田熊和高田狗-笑趴">
-<img src="https://emoji.shojo.cn/bili/src/高田熊和高田狗/高田熊和高田狗-压力.png" width="50" height="50" alt="高田熊和高田狗-压力">
-<img src="https://emoji.shojo.cn/bili/src/高田熊和高田狗/高田熊和高田狗-一起玩.png" width="50" height="50" alt="高田熊和高田狗-一起玩">
+<img src="https://emoji.shojo.cn/bili/src/高田熊和高田狗/高田熊和高田狗-Good.png" width="50" height="50" alt="高田熊和高田狗-Good"><img src="https://emoji.shojo.cn/bili/src/高田熊和高田狗/高田熊和高田狗-Hi.png" width="50" height="50" alt="高田熊和高田狗-Hi"><img src="https://emoji.shojo.cn/bili/src/高田熊和高田狗/高田熊和高田狗-oh no.png" width="50" height="50" alt="高田熊和高田狗-oh no"><img src="https://emoji.shojo.cn/bili/src/高田熊和高田狗/高田熊和高田狗-爱心.png" width="50" height="50" alt="高田熊和高田狗-爱心"><img src="https://emoji.shojo.cn/bili/src/高田熊和高田狗/高田熊和高田狗-饱了.png" width="50" height="50" alt="高田熊和高田狗-饱了"><img src="https://emoji.shojo.cn/bili/src/高田熊和高田狗/高田熊和高田狗-冲呀.png" width="50" height="50" alt="高田熊和高田狗-冲呀"><img src="https://emoji.shojo.cn/bili/src/高田熊和高田狗/高田熊和高田狗-达成共识.png" width="50" height="50" alt="高田熊和高田狗-达成共识"><img src="https://emoji.shojo.cn/bili/src/高田熊和高田狗/高田熊和高田狗-诶诶.png" width="50" height="50" alt="高田熊和高田狗-诶诶"><img src="https://emoji.shojo.cn/bili/src/高田熊和高田狗/高田熊和高田狗-诶嘿.png" width="50" height="50" alt="高田熊和高田狗-诶嘿"><img src="https://emoji.shojo.cn/bili/src/高田熊和高田狗/高田熊和高田狗-哈欠.png" width="50" height="50" alt="高田熊和高田狗-哈欠"><img src="https://emoji.shojo.cn/bili/src/高田熊和高田狗/高田熊和高田狗-嗨嗨.png" width="50" height="50" alt="高田熊和高田狗-嗨嗨"><img src="https://emoji.shojo.cn/bili/src/高田熊和高田狗/高田熊和高田狗-害羞.png" width="50" height="50" alt="高田熊和高田狗-害羞"><img src="https://emoji.shojo.cn/bili/src/高田熊和高田狗/高田熊和高田狗-汗.png" width="50" height="50" alt="高田熊和高田狗-汗"><img src="https://emoji.shojo.cn/bili/src/高田熊和高田狗/高田熊和高田狗-欢呼.png" width="50" height="50" alt="高田熊和高田狗-欢呼"><img src="https://emoji.shojo.cn/bili/src/高田熊和高田狗/高田熊和高田狗-静静看.png" width="50" height="50" alt="高田熊和高田狗-静静看"><img src="https://emoji.shojo.cn/bili/src/高田熊和高田狗/高田熊和高田狗-开心.png" width="50" height="50" alt="高田熊和高田狗-开心"><img src="https://emoji.shojo.cn/bili/src/高田熊和高田狗/高田熊和高田狗-了解.png" width="50" height="50" alt="高田熊和高田狗-了解"><img src="https://emoji.shojo.cn/bili/src/高田熊和高田狗/高田熊和高田狗-灵魂出窍.png" width="50" height="50" alt="高田熊和高田狗-灵魂出窍"><img src="https://emoji.shojo.cn/bili/src/高田熊和高田狗/高田熊和高田狗-毛巾狗.png" width="50" height="50" alt="高田熊和高田狗-毛巾狗"><img src="https://emoji.shojo.cn/bili/src/高田熊和高田狗/高田熊和高田狗-毛巾熊.png" width="50" height="50" alt="高田熊和高田狗-毛巾熊"><img src="https://emoji.shojo.cn/bili/src/高田熊和高田狗/高田熊和高田狗-起床.png" width="50" height="50" alt="高田熊和高田狗-起床"><img src="https://emoji.shojo.cn/bili/src/高田熊和高田狗/高田熊和高田狗-气.png" width="50" height="50" alt="高田熊和高田狗-气"><img src="https://emoji.shojo.cn/bili/src/高田熊和高田狗/高田熊和高田狗-沙发瘫.png" width="50" height="50" alt="高田熊和高田狗-沙发瘫"><img src="https://emoji.shojo.cn/bili/src/高田熊和高田狗/高田熊和高田狗-上网.png" width="50" height="50" alt="高田熊和高田狗-上网"><img src="https://emoji.shojo.cn/bili/src/高田熊和高田狗/高田熊和高田狗-双手耶.png" width="50" height="50" alt="高田熊和高田狗-双手耶"><img src="https://emoji.shojo.cn/bili/src/高田熊和高田狗/高田熊和高田狗-哇啊啊啊.png" width="50" height="50" alt="高田熊和高田狗-哇啊啊啊"><img src="https://emoji.shojo.cn/bili/src/高田熊和高田狗/高田熊和高田狗-哇哦.png" width="50" height="50" alt="高田熊和高田狗-哇哦"><img src="https://emoji.shojo.cn/bili/src/高田熊和高田狗/高田熊和高田狗-笑趴.png" width="50" height="50" alt="高田熊和高田狗-笑趴"><img src="https://emoji.shojo.cn/bili/src/高田熊和高田狗/高田熊和高田狗-压力.png" width="50" height="50" alt="高田熊和高田狗-压力"><img src="https://emoji.shojo.cn/bili/src/高田熊和高田狗/高田熊和高田狗-一起玩.png" width="50" height="50" alt="高田熊和高田狗-一起玩">
 
 ## 下载地址
 

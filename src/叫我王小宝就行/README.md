@@ -8,31 +8,7 @@ https://emoji.shojo.cn/bili/src/叫我王小宝就行
 https://emoji.shojo.cn/bili/webp/叫我王小宝就行
 ```
 ## 展示
-<img src="https://emoji.shojo.cn/bili/src/叫我王小宝就行/叫我王小宝就行-替我上班.png" width="50" height="50" alt="叫我王小宝就行-替我上班">
-<img src="https://emoji.shojo.cn/bili/src/叫我王小宝就行/叫我王小宝就行-RICH.png" width="50" height="50" alt="叫我王小宝就行-RICH">
-<img src="https://emoji.shojo.cn/bili/src/叫我王小宝就行/叫我王小宝就行-ppt女工.png" width="50" height="50" alt="叫我王小宝就行-ppt女工">
-<img src="https://emoji.shojo.cn/bili/src/叫我王小宝就行/叫我王小宝就行-给点.png" width="50" height="50" alt="叫我王小宝就行-给点">
-<img src="https://emoji.shojo.cn/bili/src/叫我王小宝就行/叫我王小宝就行-快逃.png" width="50" height="50" alt="叫我王小宝就行-快逃">
-<img src="https://emoji.shojo.cn/bili/src/叫我王小宝就行/叫我王小宝就行-拿来吧你.png" width="50" height="50" alt="叫我王小宝就行-拿来吧你">
-<img src="https://emoji.shojo.cn/bili/src/叫我王小宝就行/叫我王小宝就行-钓你.png" width="50" height="50" alt="叫我王小宝就行-钓你">
-<img src="https://emoji.shojo.cn/bili/src/叫我王小宝就行/叫我王小宝就行-急急急.png" width="50" height="50" alt="叫我王小宝就行-急急急">
-<img src="https://emoji.shojo.cn/bili/src/叫我王小宝就行/叫我王小宝就行-我要旺.png" width="50" height="50" alt="叫我王小宝就行-我要旺">
-<img src="https://emoji.shojo.cn/bili/src/叫我王小宝就行/叫我王小宝就行-后会有期.png" width="50" height="50" alt="叫我王小宝就行-后会有期">
-<img src="https://emoji.shojo.cn/bili/src/叫我王小宝就行/叫我王小宝就行-鉴茶.png" width="50" height="50" alt="叫我王小宝就行-鉴茶">
-<img src="https://emoji.shojo.cn/bili/src/叫我王小宝就行/叫我王小宝就行-咕咕.png" width="50" height="50" alt="叫我王小宝就行-咕咕">
-<img src="https://emoji.shojo.cn/bili/src/叫我王小宝就行/叫我王小宝就行-爆哭.png" width="50" height="50" alt="叫我王小宝就行-爆哭">
-<img src="https://emoji.shojo.cn/bili/src/叫我王小宝就行/叫我王小宝就行-又迟到.png" width="50" height="50" alt="叫我王小宝就行-又迟到">
-<img src="https://emoji.shojo.cn/bili/src/叫我王小宝就行/叫我王小宝就行-摸鱼.png" width="50" height="50" alt="叫我王小宝就行-摸鱼">
-<img src="https://emoji.shojo.cn/bili/src/叫我王小宝就行/叫我王小宝就行-你再骂.png" width="50" height="50" alt="叫我王小宝就行-你再骂">
-<img src="https://emoji.shojo.cn/bili/src/叫我王小宝就行/叫我王小宝就行-好玩么.png" width="50" height="50" alt="叫我王小宝就行-好玩么">
-<img src="https://emoji.shojo.cn/bili/src/叫我王小宝就行/叫我王小宝就行-绝.png" width="50" height="50" alt="叫我王小宝就行-绝">
-<img src="https://emoji.shojo.cn/bili/src/叫我王小宝就行/叫我王小宝就行-KISS.png" width="50" height="50" alt="叫我王小宝就行-KISS">
-<img src="https://emoji.shojo.cn/bili/src/叫我王小宝就行/叫我王小宝就行-？？？.png" width="50" height="50" alt="叫我王小宝就行-？？？">
-<img src="https://emoji.shojo.cn/bili/src/叫我王小宝就行/叫我王小宝就行-最爱修狗.png" width="50" height="50" alt="叫我王小宝就行-最爱修狗">
-<img src="https://emoji.shojo.cn/bili/src/叫我王小宝就行/叫我王小宝就行-打咩.png" width="50" height="50" alt="叫我王小宝就行-打咩">
-<img src="https://emoji.shojo.cn/bili/src/叫我王小宝就行/叫我王小宝就行-晚安.png" width="50" height="50" alt="叫我王小宝就行-晚安">
-<img src="https://emoji.shojo.cn/bili/src/叫我王小宝就行/叫我王小宝就行-干杯.png" width="50" height="50" alt="叫我王小宝就行-干杯">
-<img src="https://emoji.shojo.cn/bili/src/叫我王小宝就行/叫我王小宝就行-流汗.png" width="50" height="50" alt="叫我王小宝就行-流汗">
+<img src="https://emoji.shojo.cn/bili/src/叫我王小宝就行/叫我王小宝就行-替我上班.png" width="50" height="50" alt="叫我王小宝就行-替我上班"><img src="https://emoji.shojo.cn/bili/src/叫我王小宝就行/叫我王小宝就行-RICH.png" width="50" height="50" alt="叫我王小宝就行-RICH"><img src="https://emoji.shojo.cn/bili/src/叫我王小宝就行/叫我王小宝就行-ppt女工.png" width="50" height="50" alt="叫我王小宝就行-ppt女工"><img src="https://emoji.shojo.cn/bili/src/叫我王小宝就行/叫我王小宝就行-给点.png" width="50" height="50" alt="叫我王小宝就行-给点"><img src="https://emoji.shojo.cn/bili/src/叫我王小宝就行/叫我王小宝就行-快逃.png" width="50" height="50" alt="叫我王小宝就行-快逃"><img src="https://emoji.shojo.cn/bili/src/叫我王小宝就行/叫我王小宝就行-拿来吧你.png" width="50" height="50" alt="叫我王小宝就行-拿来吧你"><img src="https://emoji.shojo.cn/bili/src/叫我王小宝就行/叫我王小宝就行-钓你.png" width="50" height="50" alt="叫我王小宝就行-钓你"><img src="https://emoji.shojo.cn/bili/src/叫我王小宝就行/叫我王小宝就行-急急急.png" width="50" height="50" alt="叫我王小宝就行-急急急"><img src="https://emoji.shojo.cn/bili/src/叫我王小宝就行/叫我王小宝就行-我要旺.png" width="50" height="50" alt="叫我王小宝就行-我要旺"><img src="https://emoji.shojo.cn/bili/src/叫我王小宝就行/叫我王小宝就行-后会有期.png" width="50" height="50" alt="叫我王小宝就行-后会有期"><img src="https://emoji.shojo.cn/bili/src/叫我王小宝就行/叫我王小宝就行-鉴茶.png" width="50" height="50" alt="叫我王小宝就行-鉴茶"><img src="https://emoji.shojo.cn/bili/src/叫我王小宝就行/叫我王小宝就行-咕咕.png" width="50" height="50" alt="叫我王小宝就行-咕咕"><img src="https://emoji.shojo.cn/bili/src/叫我王小宝就行/叫我王小宝就行-爆哭.png" width="50" height="50" alt="叫我王小宝就行-爆哭"><img src="https://emoji.shojo.cn/bili/src/叫我王小宝就行/叫我王小宝就行-又迟到.png" width="50" height="50" alt="叫我王小宝就行-又迟到"><img src="https://emoji.shojo.cn/bili/src/叫我王小宝就行/叫我王小宝就行-摸鱼.png" width="50" height="50" alt="叫我王小宝就行-摸鱼"><img src="https://emoji.shojo.cn/bili/src/叫我王小宝就行/叫我王小宝就行-你再骂.png" width="50" height="50" alt="叫我王小宝就行-你再骂"><img src="https://emoji.shojo.cn/bili/src/叫我王小宝就行/叫我王小宝就行-好玩么.png" width="50" height="50" alt="叫我王小宝就行-好玩么"><img src="https://emoji.shojo.cn/bili/src/叫我王小宝就行/叫我王小宝就行-绝.png" width="50" height="50" alt="叫我王小宝就行-绝"><img src="https://emoji.shojo.cn/bili/src/叫我王小宝就行/叫我王小宝就行-KISS.png" width="50" height="50" alt="叫我王小宝就行-KISS"><img src="https://emoji.shojo.cn/bili/src/叫我王小宝就行/叫我王小宝就行-？？？.png" width="50" height="50" alt="叫我王小宝就行-？？？"><img src="https://emoji.shojo.cn/bili/src/叫我王小宝就行/叫我王小宝就行-最爱修狗.png" width="50" height="50" alt="叫我王小宝就行-最爱修狗"><img src="https://emoji.shojo.cn/bili/src/叫我王小宝就行/叫我王小宝就行-打咩.png" width="50" height="50" alt="叫我王小宝就行-打咩"><img src="https://emoji.shojo.cn/bili/src/叫我王小宝就行/叫我王小宝就行-晚安.png" width="50" height="50" alt="叫我王小宝就行-晚安"><img src="https://emoji.shojo.cn/bili/src/叫我王小宝就行/叫我王小宝就行-干杯.png" width="50" height="50" alt="叫我王小宝就行-干杯"><img src="https://emoji.shojo.cn/bili/src/叫我王小宝就行/叫我王小宝就行-流汗.png" width="50" height="50" alt="叫我王小宝就行-流汗">
 
 ## 下载地址
 

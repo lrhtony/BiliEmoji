@@ -8,31 +8,7 @@ https://emoji.shojo.cn/bili/src/多多poi
 https://emoji.shojo.cn/bili/webp/多多poi
 ```
 ## 展示
-<img src="https://emoji.shojo.cn/bili/src/多多poi/多多poi-吃樱桃.png" width="50" height="50" alt="多多poi-吃樱桃">
-<img src="https://emoji.shojo.cn/bili/src/多多poi/多多poi-冲冲冲.png" width="50" height="50" alt="多多poi-冲冲冲">
-<img src="https://emoji.shojo.cn/bili/src/多多poi/多多poi-大哭.png" width="50" height="50" alt="多多poi-大哭">
-<img src="https://emoji.shojo.cn/bili/src/多多poi/多多poi-害羞.png" width="50" height="50" alt="多多poi-害羞">
-<img src="https://emoji.shojo.cn/bili/src/多多poi/多多poi-花痴.png" width="50" height="50" alt="多多poi-花痴">
-<img src="https://emoji.shojo.cn/bili/src/多多poi/多多poi-开心.png" width="50" height="50" alt="多多poi-开心">
-<img src="https://emoji.shojo.cn/bili/src/多多poi/多多poi-教我做事.png" width="50" height="50" alt="多多poi-教我做事">
-<img src="https://emoji.shojo.cn/bili/src/多多poi/多多poi-生气.png" width="50" height="50" alt="多多poi-生气">
-<img src="https://emoji.shojo.cn/bili/src/多多poi/多多poi-危.png" width="50" height="50" alt="多多poi-危">
-<img src="https://emoji.shojo.cn/bili/src/多多poi/多多poi-委屈.png" width="50" height="50" alt="多多poi-委屈">
-<img src="https://emoji.shojo.cn/bili/src/多多poi/多多poi-喜欢.png" width="50" height="50" alt="多多poi-喜欢">
-<img src="https://emoji.shojo.cn/bili/src/多多poi/多多poi-嫌弃.png" width="50" height="50" alt="多多poi-嫌弃">
-<img src="https://emoji.shojo.cn/bili/src/多多poi/多多poi-疑问.png" width="50" height="50" alt="多多poi-疑问">
-<img src="https://emoji.shojo.cn/bili/src/多多poi/多多poi-震惊.png" width="50" height="50" alt="多多poi-震惊">
-<img src="https://emoji.shojo.cn/bili/src/多多poi/多多poi-升天.png" width="50" height="50" alt="多多poi-升天">
-<img src="https://emoji.shojo.cn/bili/src/多多poi/多多poi-win.png" width="50" height="50" alt="多多poi-win">
-<img src="https://emoji.shojo.cn/bili/src/多多poi/多多poi-啊——.png" width="50" height="50" alt="多多poi-啊——">
-<img src="https://emoji.shojo.cn/bili/src/多多poi/多多poi-啊对对对.png" width="50" height="50" alt="多多poi-啊对对对">
-<img src="https://emoji.shojo.cn/bili/src/多多poi/多多poi-地铁多多.png" width="50" height="50" alt="多多poi-地铁多多">
-<img src="https://emoji.shojo.cn/bili/src/多多poi/多多poi-流汗.png" width="50" height="50" alt="多多poi-流汗">
-<img src="https://emoji.shojo.cn/bili/src/多多poi/多多poi-略略略.png" width="50" height="50" alt="多多poi-略略略">
-<img src="https://emoji.shojo.cn/bili/src/多多poi/多多poi-梦里都有.png" width="50" height="50" alt="多多poi-梦里都有">
-<img src="https://emoji.shojo.cn/bili/src/多多poi/多多poi-上号.png" width="50" height="50" alt="多多poi-上号">
-<img src="https://emoji.shojo.cn/bili/src/多多poi/多多poi-思考.png" width="50" height="50" alt="多多poi-思考">
-<img src="https://emoji.shojo.cn/bili/src/多多poi/多多poi-贴贴.png" width="50" height="50" alt="多多poi-贴贴">
+<img src="https://emoji.shojo.cn/bili/src/多多poi/多多poi-吃樱桃.png" width="50" height="50" alt="多多poi-吃樱桃"><img src="https://emoji.shojo.cn/bili/src/多多poi/多多poi-冲冲冲.png" width="50" height="50" alt="多多poi-冲冲冲"><img src="https://emoji.shojo.cn/bili/src/多多poi/多多poi-大哭.png" width="50" height="50" alt="多多poi-大哭"><img src="https://emoji.shojo.cn/bili/src/多多poi/多多poi-害羞.png" width="50" height="50" alt="多多poi-害羞"><img src="https://emoji.shojo.cn/bili/src/多多poi/多多poi-花痴.png" width="50" height="50" alt="多多poi-花痴"><img src="https://emoji.shojo.cn/bili/src/多多poi/多多poi-开心.png" width="50" height="50" alt="多多poi-开心"><img src="https://emoji.shojo.cn/bili/src/多多poi/多多poi-教我做事.png" width="50" height="50" alt="多多poi-教我做事"><img src="https://emoji.shojo.cn/bili/src/多多poi/多多poi-生气.png" width="50" height="50" alt="多多poi-生气"><img src="https://emoji.shojo.cn/bili/src/多多poi/多多poi-危.png" width="50" height="50" alt="多多poi-危"><img src="https://emoji.shojo.cn/bili/src/多多poi/多多poi-委屈.png" width="50" height="50" alt="多多poi-委屈"><img src="https://emoji.shojo.cn/bili/src/多多poi/多多poi-喜欢.png" width="50" height="50" alt="多多poi-喜欢"><img src="https://emoji.shojo.cn/bili/src/多多poi/多多poi-嫌弃.png" width="50" height="50" alt="多多poi-嫌弃"><img src="https://emoji.shojo.cn/bili/src/多多poi/多多poi-疑问.png" width="50" height="50" alt="多多poi-疑问"><img src="https://emoji.shojo.cn/bili/src/多多poi/多多poi-震惊.png" width="50" height="50" alt="多多poi-震惊"><img src="https://emoji.shojo.cn/bili/src/多多poi/多多poi-升天.png" width="50" height="50" alt="多多poi-升天"><img src="https://emoji.shojo.cn/bili/src/多多poi/多多poi-win.png" width="50" height="50" alt="多多poi-win"><img src="https://emoji.shojo.cn/bili/src/多多poi/多多poi-啊——.png" width="50" height="50" alt="多多poi-啊——"><img src="https://emoji.shojo.cn/bili/src/多多poi/多多poi-啊对对对.png" width="50" height="50" alt="多多poi-啊对对对"><img src="https://emoji.shojo.cn/bili/src/多多poi/多多poi-地铁多多.png" width="50" height="50" alt="多多poi-地铁多多"><img src="https://emoji.shojo.cn/bili/src/多多poi/多多poi-流汗.png" width="50" height="50" alt="多多poi-流汗"><img src="https://emoji.shojo.cn/bili/src/多多poi/多多poi-略略略.png" width="50" height="50" alt="多多poi-略略略"><img src="https://emoji.shojo.cn/bili/src/多多poi/多多poi-梦里都有.png" width="50" height="50" alt="多多poi-梦里都有"><img src="https://emoji.shojo.cn/bili/src/多多poi/多多poi-上号.png" width="50" height="50" alt="多多poi-上号"><img src="https://emoji.shojo.cn/bili/src/多多poi/多多poi-思考.png" width="50" height="50" alt="多多poi-思考"><img src="https://emoji.shojo.cn/bili/src/多多poi/多多poi-贴贴.png" width="50" height="50" alt="多多poi-贴贴">
 
 ## 下载地址
 
